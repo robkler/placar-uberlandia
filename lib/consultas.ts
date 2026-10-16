@@ -417,12 +417,12 @@ export function rankingMetrica(
       const num = ls.reduce((a, l) => a + l.num!, 0);
       const den = ls.reduce((a, l) => a + l.den!, 0);
       const valor = um((num / den) * 100);
-      return { partido, parlamentares: n, valor, media: valor, num, den, ...aviso };
+      return { partido, parlamentares: n, valor, num, den, ...aviso };
     }
     const total = ls.reduce((a, l) => a + l.valor, 0);
     return { partido, parlamentares: n, valor: duas(total), media: duas(total / n), ...aviso };
   }).sort((a, b) =>
-    sinal * ((ehTaxa || opcoes.ordenarPor !== "media" ? a.valor - b.valor : a.media - b.media)) || ((b as any).den ?? 0) - ((a as any).den ?? 0) || a.partido.localeCompare(b.partido));
+    sinal * ((ehTaxa || opcoes.ordenarPor !== "media" ? a.valor - b.valor : (a as any).media - (b as any).media)) || ((b as any).den ?? 0) - ((a as any).den ?? 0) || a.partido.localeCompare(b.partido));
   return { ...cabecalho, itens: itens.slice(0, limite), ...extras };
 }
 
@@ -446,6 +446,20 @@ function canonicaProposicao(s: string): string {
 }
 const escaparRegex = (s: string) => s.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
 
+/** Mesmos destinos que o site usa: aba de votações e ficha oficial da matéria. */
+function linkVotacao(casa: "vereador" | "federal", v: any): { link: string; fonte?: string } {
+  if (casa === "vereador") {
+    return {
+      link: "#vot",
+      ...(v.materiaId ? { fonte: `https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=${encodeURIComponent(v.materiaId)}` } : {}),
+    };
+  }
+  return {
+    link: "#fvot",
+    ...(v.pid ? { fonte: `https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=${encodeURIComponent(v.pid)}` } : {}),
+  };
+}
+
 export function buscarVotacoes(d: Dados, casa: "vereador" | "federal", consulta: string, limite = 5): object {
   if ((casa as Casa) === "estadual") throw new Error(AVISO_ESTADUAL);
   const lista: any[] = (casa === "vereador" ? d.udi?.votacoes : d.fed?.votacoes) ?? [];
@@ -465,6 +479,7 @@ export function buscarVotacoes(d: Dados, casa: "vereador" | "federal", consulta:
     id: String(v.id), data: v.data, materia: nomeDe(v), ementa: cortar(v.ementa),
     resultado: casa === "vereador" ? v.resultado : v.res,
     ...(casa === "vereador" && v.turno ? { turno: v.turno } : {}),
+    ...linkVotacao(casa, v),
   }));
 }
 
@@ -500,6 +515,7 @@ export function votacaoPorPartido(d: Dados, casa: "vereador" | "federal", id: st
   return {
     data: v.data, materia: casa === "vereador" ? v.materia : v.prop, ementa: cortar(v.ementa),
     resultado: casa === "vereador" ? v.resultado : v.res,
+    ...linkVotacao(casa, v),
     referencia: casa === "vereador" ? { maioria: v.maioria } : { governo: v.gov || "Sem orientação" },
     ...(casa === "federal"
       ? { notaPartido: "Partido atual de cada deputado (federal.json), não necessariamente o da data da votação." }

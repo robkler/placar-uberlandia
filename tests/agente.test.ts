@@ -96,3 +96,7 @@ test("prompt: avisa quando nada serve e pede contagem em rankings por partido", 
   expect(PROMPT_SISTEMA).toContain("Quando nenhuma ferramenta trouxer o que foi pedido, diga que o placar ainda não calcula isso.");
   expect(PROMPT_SISTEMA).toContain("Em rankings por partido, diga quantos parlamentares cada partido tem e avise quando forem poucos.");
 });
+
+test("prompt: sem link devolvido, sem link escrito", () => {
+  expect(PROMPT_SISTEMA).toContain("Se a ferramenta não devolver link, não escreva link nenhum.");
+});

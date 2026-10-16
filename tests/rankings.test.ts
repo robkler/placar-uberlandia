@@ -78,3 +78,10 @@ test("patrimonio por partido ordenado pela média: PP, PSDB, AVANTE", () => {
   const t: any = rankingMetrica(dados, "vereador", "patrimonio", { agrupar: "partido" });
   expect(t.itens[0].valor).toBeGreaterThanOrEqual(t.itens[1].valor);
 });
+
+test("item de partido: média só em métricas de valor", () => {
+  const taxa: any = rankingMetrica(dados, "vereador", "faltas", { agrupar: "partido" });
+  expect(taxa.itens[0]).not.toHaveProperty("media");
+  const valor: any = rankingMetrica(dados, "vereador", "patrimonio", { agrupar: "partido" });
+  expect(valor.itens[0]).toHaveProperty("media");
+});

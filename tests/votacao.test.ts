@@ -57,3 +57,15 @@ test("PLP 18 acha só PLP 18/2021, não 186", () => {
   const r: any[] = buscarVotacoes(d, "federal", "PLP 18") as any;
   expect(r.every(x => x.materia.startsWith("PLP 18/"))).toBe(true);
 });
+
+test("votações trazem link e fonte oficial", () => {
+  const f: any = (buscarVotacoes(d, "federal", "PLP 186") as any[])[0];
+  expect(f.link).toBe("#fvot");
+  expect(f.fonte).toMatch(/^https:\/\/www\.camara\.leg\.br\/proposicoesWeb\/fichadetramitacao\?idProposicao=\d+$/);
+  const pf: any = votacaoPorPartido(d, "federal", f.id);
+  expect([pf.link, pf.fonte]).toEqual([f.link, f.fonte]);
+  const v: any = (buscarVotacoes(d, "vereador", "PLP 1/2025") as any[])[0];
+  expect(v.link).toBe("#vot");
+  expect(v.fonte).toMatch(/materia_mostrar_proc\?cod_materia=\d+$/);
+  expect((votacaoPorPartido(d, "vereador", v.id) as any).fonte).toBe(v.fonte);
+});

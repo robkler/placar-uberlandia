@@ -33,7 +33,8 @@ Regras:
 - Não use tabelas nem títulos; use listas com '- '.
 - Não anuncie as consultas que vai fazer; responda direto.
 - Quando nenhuma ferramenta trouxer o que foi pedido, diga que o placar ainda não calcula isso.
-- Em rankings por partido, diga quantos parlamentares cada partido tem e avise quando forem poucos.`;
+- Em rankings por partido, diga quantos parlamentares cada partido tem e avise quando forem poucos.
+- Se a ferramenta não devolver link, não escreva link nenhum.`;
 
 const Casa = Type.Union([Type.Literal("vereador"), Type.Literal("estadual"), Type.Literal("federal")], {
   description: "vereador (Uberlândia), estadual (ALMG) ou federal (Câmara dos Deputados)",
@@ -95,7 +96,7 @@ export function criarFerramentas(d: Dados): AgentTool<any>[] {
   const buscarVot: AgentTool<any> = {
     name: "buscar_votacao",
     label: "Buscar votação",
-    description: "Acha votações nominais de vereadores ou deputados federais pelo nome do projeto (ex.: \"PLP 186\", \"PL 4133/2023\", \"Projeto de Lei Complementar nº 1/2025\") ou por palavras da ementa. Devolve até 5, mais recentes primeiro, cada uma com id, data, matéria, ementa e resultado. Use o id em votacao_por_partido. Deputado estadual não tem: a ALMG não publica.",
+    description: "Acha votações nominais de vereadores ou deputados federais pelo nome do projeto (ex.: \"PLP 186\", \"PL 4133/2023\", \"Projeto de Lei Complementar nº 1/2025\") ou por palavras da ementa. Devolve até 5, mais recentes primeiro, cada uma com id, data, matéria, ementa, resultado, link do placar e link oficial. Use o id em votacao_por_partido. Deputado estadual não tem: a ALMG não publica.",
     parameters: Type.Object({
       casa: Type.Union([Type.Literal("vereador"), Type.Literal("federal")]),
       consulta: Type.String(),
@@ -106,7 +107,7 @@ export function criarFerramentas(d: Dados): AgentTool<any>[] {
   const votPartido: AgentTool<any> = {
     name: "votacao_por_partido",
     label: "Votação por partido",
-    description: "Como cada partido votou em uma votação (id vindo de buscar_votacao): data, matéria, ementa, resultado, a referência (orientação do governo para federal; maioria para vereador) e, por partido, quantos votaram sim, não, outros (abstenção, obstrução, presidência) e ausentes, e o total de parlamentares. Federal usa o partido atual do deputado (notaPartido). Sem dados individuais nem links de pessoa. Deputado estadual não tem: a ALMG não publica.",
+    description: "Como cada partido votou em uma votação (id vindo de buscar_votacao): data, matéria, ementa, resultado, a referência (orientação do governo para federal; maioria para vereador) e, por partido, quantos votaram sim, não, outros (abstenção, obstrução, presidência) e ausentes, e o total de parlamentares. Federal usa o partido atual do deputado (notaPartido). Traz link do placar e link oficial da votação; sem dados individuais nem links de pessoa. Deputado estadual não tem: a ALMG não publica.",
     parameters: Type.Object({ casa: Type.Union([Type.Literal("vereador"), Type.Literal("federal")]), id: Type.String() }),
     execute: async (_id, p: any) => resposta(votacaoPorPartido(d, p.casa, p.id)),
   };
