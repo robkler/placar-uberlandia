@@ -365,9 +365,10 @@ export function rankingMetrica(
     return v.den > 0 ? { num: v.num, den: v.den, valor: um((v.num / v.den) * 100) } : null;
   };
   const ehTaxa = def_.tipo === "taxa";
-  // Amostra pequena: menos da metade do maior denominador da casa (considerando a casa toda).
-  const maiorDen = ehTaxa ? Math.max(0, ...base.map(r => (extrair(r) as any)?.den ?? 0)) : 0;
-  const minimo = maiorDen / 2;
+  // Amostra pequena: menos da metade da mediana dos denominadores da casa (antes do filtro de UF).
+  const dens = ehTaxa ? base.map(r => (extrair(r) as any)?.den ?? 0).filter(n => n > 0).sort((x, y) => x - y) : [];
+  const mediana = dens.length ? (dens[(dens.length - 1) >> 1] + dens[dens.length >> 1]) / 2 : 0;
+  const minimo = mediana / 2;
 
   type Linha = { p: Pessoa; num?: number; den?: number; valor: number };
   const consideradas: Linha[] = [];
@@ -385,10 +386,12 @@ export function rankingMetrica(
     consideradas.push({ p, ...(x as any) });
   }
   const sinal = ordem === "maior" ? -1 : 1;
+  poucas.sort((x, y) => y.total - x.total);
   const extras = {
     ...(poucas.length ? {
-      poucasSessoes: poucas,
-      notaPoucasSessoes: `${poucas.length} pessoa(s) com menos da metade do maior número de sessões/votações da casa (ex.: suplentes) ficam fora do ranking${agrupar === "partido" ? " e da soma dos partidos" : ""}, pois a taxa delas não é comparável.`,
+      poucasSessoes: poucas.slice(0, 10),
+      notaPoucasSessoes: `${poucas.length} parlamentares com menos da metade da mediana de sessões/votações da casa (ex.: suplentes) ficaram fora do ranking${agrupar === "partido" ? " e da soma dos partidos" : ""}, pois a taxa deles não é comparável${poucas.length > 10 ? "; mostrando 10" : ""}.`,
+      totalPoucasSessoes: poucas.length,
     } : {}),
     ...(semDado ? { semDado } : {}),
   };

@@ -31,8 +31,9 @@ test("federal/alinhamento_governo por partido bate com conta independente", () =
   const r: any = rankingMetrica(dados, "federal", "alinhamento_governo", { agrupar: "partido", limite: 100 });
   const item = r.itens.find((i: any) => i.partido === "PT") ?? r.itens[0];
   const dep = (dados.fed.deputados as any[]).filter(x => x.partido === item.partido);
-  const maior = Math.max(...(dados.fed.deputados as any[]).map(x => x.govN));
-  const ok = dep.filter(x => x.govN >= maior / 2);
+  const ns = (dados.fed.deputados as any[]).map(x => x.govN).filter(n => n > 0).sort((a, b) => a - b);
+  const mediana = (ns[(ns.length - 1) >> 1] + ns[ns.length >> 1]) / 2;
+  const ok = dep.filter(x => x.govN > 0 && x.govN >= mediana / 2);
   expect(item.num).toBe(ok.reduce((s, x) => s + x.govAl, 0));
   expect(item.den).toBe(ok.reduce((s, x) => s + x.govN, 0));
   expect(item.parlamentares).toBe(ok.length);
@@ -56,4 +57,17 @@ test("semDado conta quem não tem votosLocal", () => {
 test("catálogo expõe métricas", () => {
   expect(Object.keys(METRICAS.vereador)).toContain("projetos_de_lei");
   expect(metricasDisponiveis("estadual")).toHaveProperty("estadual");
+});
+test("presenca_comissoes usa mediana: ranking cheio e poucas exclusões", () => {
+  const r: any = rankingMetrica(dados, "federal", "presenca_comissoes", { limite: 10 });
+  expect(r.itens).toHaveLength(10);
+  expect(r.totalPoucasSessoes ?? 0).toBeLessThan(100);
+});
+test("poucasSessoes limitado a 10, com contagem total na nota", () => {
+  const r: any = rankingMetrica(dados, "federal", "presenca");
+  expect(r.poucasSessoes.length).toBeLessThanOrEqual(10);
+  const n = r.totalPoucasSessoes;
+  expect(r.notaPoucasSessoes).toContain(String(n));
+  const t = r.poucasSessoes.map((x: any) => x.total);
+  expect(t).toEqual([...t].sort((a: number, b: number) => b - a));
 });
