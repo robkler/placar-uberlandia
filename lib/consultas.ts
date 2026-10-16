@@ -254,6 +254,175 @@ export function ranking(
   };
 }
 
+// ---------------------------------------------------------------------------
+// Motor de rankings por métrica (pessoa ou partido)
+// ---------------------------------------------------------------------------
+
+type Unidade = "pct" | "reais" | "votos" | "qtd";
+interface Metrica {
+  tipo: "taxa" | "valor";
+  descricao: string;
+  unidade?: Unidade;
+}
+type Extrator = (r: any) => number | { num: number; den: number } | null | undefined;
+
+const nulo = (x: unknown): x is null | undefined => x == null || (typeof x === "number" && Number.isNaN(x));
+const soma = (...xs: unknown[]) => (xs.some(nulo) ? null : (xs as number[]).reduce((a, b) => a + b, 0));
+const taxa = (num: number | null | undefined, den: number | null | undefined) =>
+  nulo(num) || nulo(den) ? null : { num, den };
+const comp = (r: any) => (r.com?.length ? r.com : null) as number[] | null;
+const plenFed = (r: any) => (r.plen as number[] | undefined) ?? null;
+const propsValor = (r: any, k: string) => r.props?.[k];
+
+const def = (
+  tipo: "taxa" | "valor", unidade: Unidade, descricao: string, ext: Extrator,
+): [Metrica, Extrator] => [{ tipo, unidade, descricao }, ext];
+
+const CATALOGO: Record<Casa, Record<string, [Metrica, Extrator]>> = {
+  vereador: {
+    presenca: def("taxa", "pct", "Presença: reuniões com presença ÷ reuniões com votação.", r => taxa(r.sessoesPres, r.sessoes)),
+    faltas: def("taxa", "pct", "Faltas: (reuniões − presenças) ÷ reuniões com votação.",
+      r => (nulo(r.sessoes) || nulo(r.sessoesPres) ? null : taxa(r.sessoes - r.sessoesPres, r.sessoes))),
+    contra_maioria: def("taxa", "pct", "Votos contra a maioria da casa ÷ votações em que votou.", r => taxa(r.contraMaioria, r.votou)),
+    proposicoes: def("valor", "qtd", "Total de proposições apresentadas.", r => r.propsTotal),
+    projetos_de_lei: def("valor", "qtd",
+      "Projetos de lei ordinária + projetos de lei complementar + propostas de emenda à Lei Orgânica.",
+      r => soma(
+        propsValor(r, "Projeto de Lei Ordinária") ?? 0,
+        propsValor(r, "Projeto de Lei Complementar") ?? 0,
+        propsValor(r, "Proposta de Emenda à Lei Orgânica") ?? 0,
+      )),
+    relatorias: def("valor", "qtd", "Relatorias (pareceres como relator).", r => r.relatorias),
+    votos_eleicao: def("valor", "votos", "Votos recebidos na eleição de 2024.", r => r.tse?.votos2024 ?? r.votosEleicao),
+    patrimonio: def("valor", "reais", "Patrimônio declarado ao TSE (2024).", r => r.tse?.patrimonio),
+    gasto_campanha: def("valor", "reais", "Gasto de campanha declarado ao TSE (2024).", r => r.tse?.campanha),
+  },
+  federal: {
+    presenca: def("taxa", "pct", "Presença no plenário: presenças ÷ (presenças + ausências justificadas + não justificadas).",
+      r => { const p = plenFed(r); return p && taxa(p[0], p[0] + p[1] + p[2]); }),
+    faltas: def("taxa", "pct", "Faltas no plenário (incluem as justificadas) ÷ total de sessões.",
+      r => { const p = plenFed(r); return p && taxa(p[1] + p[2], p[0] + p[1] + p[2]); }),
+    presenca_comissoes: def("taxa", "pct", "Presença nas comissões: presenças ÷ (presenças + ausências justificadas + não justificadas).",
+      r => { const c = comp(r); return c && taxa(c[0], c[0] + c[1] + c[2]); }),
+    alinhamento_governo: def("taxa", "pct", "Votos alinhados à orientação do governo ÷ votações com orientação.", r => taxa(r.govAl, r.govN)),
+    participacao_votacoes: def("taxa", "pct", "Votações nominais em que votou ÷ votações nominais da casa.", r => taxa(r.votou, r.votacoes)),
+    proposicoes: def("valor", "qtd", "Total de proposições apresentadas.", r => r.props?.total),
+    proposicoes_principais: def("valor", "qtd", "Proposições principais (de autoria).", r => r.props?.principal),
+    leis_aprovadas: def("valor", "qtd", "Proposições que viraram lei.", r => r.props?.leis),
+    cota_parlamentar: def("valor", "reais", "Gasto com a cota parlamentar (CEAP) no mandato.", r => r.ceap),
+    votos_eleicao: def("valor", "votos", "Votos recebidos na eleição de 2022.", r => r.tse?.votos2022),
+    votos_uberlandia: def("valor", "votos", "Votos recebidos em Uberlândia na eleição de 2022.", r => r.tse?.votosLocal),
+    patrimonio: def("valor", "reais", "Patrimônio declarado ao TSE (2022).", r => r.tse?.patrimonio),
+  },
+  estadual: {
+    proposicoes: def("valor", "qtd", "Total de proposições apresentadas.", r => r.props?.total),
+    proposicoes_principais: def("valor", "qtd", "Proposições principais (de autoria).", r => r.props?.principal),
+    leis_aprovadas: def("valor", "qtd", "Proposições que viraram lei.", r => r.props?.leis),
+    verba_indenizatoria: def("valor", "reais", "Verba indenizatória total no mandato.", r => r.verba),
+    mandatos: def("valor", "qtd", "Número de mandatos.", r => r.mandatos),
+    votos_eleicao: def("valor", "votos", "Votos recebidos na eleição de 2022.", r => r.tse?.votos),
+    votos_uberlandia: def("valor", "votos", "Votos recebidos em Uberlândia na eleição de 2022.", r => r.tse?.votosLocal),
+    patrimonio: def("valor", "reais", "Patrimônio declarado ao TSE (2022).", r => r.tse?.patrimonio),
+  },
+};
+
+export const METRICAS: Record<Casa, Record<string, Metrica>> = Object.fromEntries(
+  Object.entries(CATALOGO).map(([casa, ms]) => [casa, Object.fromEntries(Object.entries(ms).map(([id, [m]]) => [id, m]))]),
+) as Record<Casa, Record<string, Metrica>>;
+
+export function metricasDisponiveis(casa?: Casa): object {
+  const casas = casa ? [casa] : (Object.keys(METRICAS) as Casa[]);
+  return Object.fromEntries(casas.map(c => [
+    c, Object.entries(METRICAS[c]).map(([id, m]) => ({ id, tipo: m.tipo, unidade: m.unidade, descricao: m.descricao })),
+  ]));
+}
+
+const duas = (n: number) => Math.round(n * 100) / 100;
+
+export function rankingMetrica(
+  d: Dados,
+  casa: Casa,
+  metrica: string,
+  opcoes: { agrupar?: "pessoa" | "partido"; ordem?: "maior" | "menor"; uf?: string; limite?: number } = {},
+): object {
+  const entrada = CATALOGO[casa]?.[metrica];
+  if (!entrada) {
+    throw new Error(
+      `Métrica "${metrica}" inválida para ${NOME_CASA[casa]}. Métricas válidas: ${Object.keys(CATALOGO[casa] ?? {}).join(", ")}.`,
+    );
+  }
+  const [def_, ext] = entrada;
+  const agrupar = opcoes.agrupar ?? "pessoa";
+  const ordem = opcoes.ordem ?? "maior";
+  const limite = Math.max(1, Math.floor(opcoes.limite ?? LIMITE));
+  const uf = casa === "federal" ? opcoes.uf?.toUpperCase() : undefined;
+  const base: any[] = (casa === "vereador" ? d.udi?.vereadores : casa === "estadual" ? d.mg?.deputados : d.fed?.deputados) ?? [];
+
+  const extrair = (r: any) => {
+    const v = ext(r);
+    if (nulo(v)) return null;
+    if (typeof v === "number") return { valor: v };
+    return v.den > 0 ? { num: v.num, den: v.den, valor: um((v.num / v.den) * 100) } : null;
+  };
+  const ehTaxa = def_.tipo === "taxa";
+  // Amostra pequena: menos da metade do maior denominador da casa (considerando a casa toda).
+  const maiorDen = ehTaxa ? Math.max(0, ...base.map(r => (extrair(r) as any)?.den ?? 0)) : 0;
+  const minimo = maiorDen / 2;
+
+  type Linha = { p: Pessoa; num?: number; den?: number; valor: number };
+  const consideradas: Linha[] = [];
+  const poucas: { nome: string; total: number; link: string; fonte: string }[] = [];
+  let semDado = 0;
+  for (const r of base) {
+    if (uf && r.uf !== uf) continue;
+    const x = extrair(r);
+    if (!x) { semDado++; continue; }
+    const { p } = achar(d, casa, r.id);
+    if (ehTaxa && (x as any).den < minimo) {
+      poucas.push({ nome: p.nome, total: (x as any).den, link: p.link, fonte: p.fonte });
+      continue;
+    }
+    consideradas.push({ p, ...(x as any) });
+  }
+  const sinal = ordem === "maior" ? -1 : 1;
+  const extras = {
+    ...(poucas.length ? {
+      poucasSessoes: poucas,
+      notaPoucasSessoes: `${poucas.length} pessoa(s) com menos da metade do maior número de sessões/votações da casa (ex.: suplentes) ficam fora do ranking${agrupar === "partido" ? " e da soma dos partidos" : ""}, pois a taxa delas não é comparável.`,
+    } : {}),
+    ...(semDado ? { semDado } : {}),
+  };
+  const cabecalho = { casa, metrica, descricao: def_.descricao, agrupar, ordem, ...(uf ? { uf } : {}) };
+
+  if (agrupar === "pessoa") {
+    const itens = consideradas
+      .sort((a, b) => sinal * (a.valor - b.valor) || (b.den ?? 0) - (a.den ?? 0) || a.p.nome.localeCompare(b.p.nome))
+      .slice(0, limite)
+      .map(l => ({
+        nome: l.p.nome, partido: l.p.partido, ...(l.p.uf ? { uf: l.p.uf } : {}),
+        valor: l.valor, ...(ehTaxa ? { num: l.num, den: l.den } : {}), link: l.p.link, fonte: l.p.fonte,
+      }));
+    return { ...cabecalho, itens, ...extras };
+  }
+
+  const grupos = new Map<string, Linha[]>();
+  for (const l of consideradas) grupos.set(l.p.partido, [...(grupos.get(l.p.partido) ?? []), l]);
+  const itens = [...grupos.entries()].map(([partido, ls]) => {
+    const n = ls.length;
+    const aviso = n <= 2 ? { aviso: "poucos parlamentares" } : {};
+    if (ehTaxa) {
+      const num = ls.reduce((a, l) => a + l.num!, 0);
+      const den = ls.reduce((a, l) => a + l.den!, 0);
+      const valor = um((num / den) * 100);
+      return { partido, parlamentares: n, valor, media: valor, num, den, ...aviso };
+    }
+    const total = ls.reduce((a, l) => a + l.valor, 0);
+    return { partido, parlamentares: n, valor: duas(total), media: duas(total / n), ...aviso };
+  }).sort((a, b) =>
+    sinal * (a.valor - b.valor) || ((b as any).den ?? 0) - ((a as any).den ?? 0) || a.partido.localeCompare(b.partido));
+  return { ...cabecalho, itens: itens.slice(0, limite), ...extras };
+}
+
 export function contas(d: Dados, ente: "prefeitura" | "estado", ano?: number): object {
   const fin: any[] = (ente === "prefeitura" ? d.udi.prefeitura?.fin : d.mg.governo?.fin) ?? [];
   const anos = fin.map(f => f.ano as number).sort((a, b) => a - b);
