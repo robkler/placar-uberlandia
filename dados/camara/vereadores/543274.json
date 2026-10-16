@@ -896,7 +896,7 @@
   "facets": {
    "ano": [
     {
-     "count": 594,
+     "count": 595,
      "label": "2026",
      "value": "2026"
     },
@@ -953,7 +953,7 @@
      "value": "PINFO"
     },
     {
-     "count": 33,
+     "count": 34,
      "label": "Projeto de Decreto Legislativo",
      "value": "PDL"
     },
@@ -1206,7 +1206,7 @@
     },
     {
      "ano": "2026",
-     "count": 7,
+     "count": 8,
      "tipo": "PDL"
     },
     {
@@ -1239,7 +1239,7 @@
   "facets_todos": {
    "ano": [
     {
-     "count": 594,
+     "count": 595,
      "label": "2026",
      "value": "2026"
     },
@@ -1296,7 +1296,7 @@
      "value": "PINFO"
     },
     {
-     "count": 33,
+     "count": 34,
      "label": "Projeto de Decreto Legislativo",
      "value": "PDL"
     },
@@ -1343,6 +1343,19 @@
    "tipo_desc": ""
   },
   "items": [
+   {
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272179",
+    "ano": "2026",
+    "data_apresentacao": "16/10/2026",
+    "emenda_impositiva": false,
+    "ementa": "CONCEDE TÍTULO DE CIDADÃO HONORÁRIO SENHOR ANDRÉ LUIZ SILVA DO NASCIMENTO",
+    "id": "272179",
+    "item_kind": "materia",
+    "tipo": "Projeto de Decreto Legislativo",
+    "title": "PDL 262/2026",
+    "ultima_votacao_kind": "",
+    "ultima_votacao_resultado": ""
+   },
    {
     "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272126",
     "ano": "2026",
@@ -1459,25 +1472,12 @@
     "title": "IND 39581/2026",
     "ultima_votacao_kind": "votacao",
     "ultima_votacao_resultado": "Aprovado"
-   },
-   {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=271516",
-    "ano": "2026",
-    "data_apresentacao": "08/10/2026",
-    "emenda_impositiva": false,
-    "ementa": "Solicitamos a reserva do Plenário da Câmara Municipal de Uberlândia para a realização de entrega de homenagens, no dia 20/10/2026 das 19h Às 21h.",
-    "id": "271516",
-    "item_kind": "materia",
-    "tipo": "Requerimento",
-    "title": "REQ 21353/2026",
-    "ultima_votacao_kind": "votacao",
-    "ultima_votacao_resultado": "Aprovado"
    }
   ],
   "ordem_dat_apresentacao": "desc",
   "page": 1,
   "page_size": 10,
-  "total": 4039
+  "total": 4040
  },
  "relatorias": {
   "facets": {

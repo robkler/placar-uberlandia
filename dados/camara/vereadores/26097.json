@@ -817,7 +817,7 @@
   "facets": {
    "ano": [
     {
-     "count": 1885,
+     "count": 1888,
      "label": "2026",
      "value": "2026"
     },
@@ -874,7 +874,7 @@
      "value": "EMEI"
     },
     {
-     "count": 2283,
+     "count": 2286,
      "label": "Indicação",
      "value": "IND"
     },
@@ -1217,7 +1217,7 @@
     },
     {
      "ano": "2026",
-     "count": 1792,
+     "count": 1795,
      "tipo": "IND"
     },
     {
@@ -1260,7 +1260,7 @@
   "facets_todos": {
    "ano": [
     {
-     "count": 1885,
+     "count": 1888,
      "label": "2026",
      "value": "2026"
     },
@@ -1317,7 +1317,7 @@
      "value": "EMEI"
     },
     {
-     "count": 2283,
+     "count": 2286,
      "label": "Indicação",
      "value": "IND"
     },
@@ -1379,6 +1379,45 @@
    "tipo_desc": ""
   },
   "items": [
+   {
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272156",
+    "ano": "2026",
+    "data_apresentacao": "16/10/2026",
+    "emenda_impositiva": false,
+    "ementa": "Solicitando à Secretaria Municipal de Trânsito e Transportes a realização de ponto de ônibus - implantação / manutenção / mudança de local na Avenida Comendador Alexandrino Garcia, Nº 635 , MUDANÇA DE LOCAL COM O NOVO MODELO PADRONIZADO PELA PREFEITURA, no bairro Marta Helena, CEP 38402-228.",
+    "id": "272156",
+    "item_kind": "materia",
+    "tipo": "Indicação",
+    "title": "IND 39987/2026",
+    "ultima_votacao_kind": "",
+    "ultima_votacao_resultado": ""
+   },
+   {
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272146",
+    "ano": "2026",
+    "data_apresentacao": "16/10/2026",
+    "emenda_impositiva": false,
+    "ementa": "Solicitando à Secretaria Municipal de Gestão Ambiental e Sustentabilidade a realização de árvores e galhos - poda / corte / destocamento / recolhimento na Avenida Comendador Alexandrino Garcia, Nº 635 / NAS LATERAIS DA ESCOLA ESTADUAL PRES. TANCREDO NEVES / RUA BAHIA E RUA ESPIRITO SANTO, no bairro Marta Helena, CEP 38402-228.",
+    "id": "272146",
+    "item_kind": "materia",
+    "tipo": "Indicação",
+    "title": "IND 39977/2026",
+    "ultima_votacao_kind": "",
+    "ultima_votacao_resultado": ""
+   },
+   {
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272137",
+    "ano": "2026",
+    "data_apresentacao": "16/10/2026",
+    "emenda_impositiva": false,
+    "ementa": "Solicitando à Secretaria Municipal de Infraestrutura a realização de tapa buraco na Rua Roberto Margonari, Nº 1096, no bairro Luizote de Freitas, CEP 38414-465.",
+    "id": "272137",
+    "item_kind": "materia",
+    "tipo": "Indicação",
+    "title": "IND 39968/2026",
+    "ultima_votacao_kind": "",
+    "ultima_votacao_resultado": ""
+   },
    {
     "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272032",
     "ano": "2026",
@@ -1469,51 +1508,12 @@
     "title": "IND 39798/2026",
     "ultima_votacao_kind": "votacao",
     "ultima_votacao_resultado": "Aprovado"
-   },
-   {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=271922",
-    "ano": "2026",
-    "data_apresentacao": "14/10/2026",
-    "emenda_impositiva": false,
-    "ementa": "Solicitando à Secretaria Municipal de Infraestrutura a realização de tapa buraco na Rua Roberto Margonari, POR TODA EXTENSÃO, no bairro Luizote de Freitas, CEP 38414-465.",
-    "id": "271922",
-    "item_kind": "materia",
-    "tipo": "Indicação",
-    "title": "IND 39796/2026",
-    "ultima_votacao_kind": "votacao",
-    "ultima_votacao_resultado": "Aprovado"
-   },
-   {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=271901",
-    "ano": "2026",
-    "data_apresentacao": "14/10/2026",
-    "emenda_impositiva": false,
-    "ementa": "Solicitando à Secretaria Municipal de Infraestrutura a realização de tapa buraco na Rua Francisco de Paula dos Santos, POR TODA EXTENSÃO, no bairro Luizote de Freitas, CEP 38414-388.",
-    "id": "271901",
-    "item_kind": "materia",
-    "tipo": "Indicação",
-    "title": "IND 39775/2026",
-    "ultima_votacao_kind": "votacao",
-    "ultima_votacao_resultado": "Aprovado"
-   },
-   {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=271899",
-    "ano": "2026",
-    "data_apresentacao": "14/10/2026",
-    "emenda_impositiva": false,
-    "ementa": "Solicitando à Secretaria Municipal de Infraestrutura a realização de vias públicas - nivelamento / recapeamento asfáltico na Rua Rio Corumbá, ESQUINA RUA ROBERTO MARGONARI, no bairro Luizote de Freitas, CEP 38414-319.",
-    "id": "271899",
-    "item_kind": "materia",
-    "tipo": "Indicação",
-    "title": "IND 39773/2026",
-    "ultima_votacao_kind": "votacao",
-    "ultima_votacao_resultado": "Aprovado"
    }
   ],
   "ordem_dat_apresentacao": "desc",
   "page": 1,
   "page_size": 10,
-  "total": 10256
+  "total": 10259
  },
  "relatorias": {
   "facets": {

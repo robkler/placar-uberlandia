@@ -1020,7 +1020,7 @@
   "facets": {
    "ano": [
     {
-     "count": 2526,
+     "count": 2536,
      "label": "2026",
      "value": "2026"
     },
@@ -1062,7 +1062,7 @@
      "value": "EMEI"
     },
     {
-     "count": 2617,
+     "count": 2627,
      "label": "Indicação",
      "value": "IND"
     },
@@ -1290,7 +1290,7 @@
     },
     {
      "ano": "2026",
-     "count": 2349,
+     "count": 2359,
      "tipo": "IND"
     },
     {
@@ -1343,7 +1343,7 @@
   "facets_todos": {
    "ano": [
     {
-     "count": 2526,
+     "count": 2536,
      "label": "2026",
      "value": "2026"
     },
@@ -1385,7 +1385,7 @@
      "value": "EMEI"
     },
     {
-     "count": 2617,
+     "count": 2627,
      "label": "Indicação",
      "value": "IND"
     },
@@ -1443,132 +1443,132 @@
   },
   "items": [
    {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272124",
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272177",
     "ano": "2026",
     "data_apresentacao": "16/10/2026",
     "emenda_impositiva": false,
-    "ementa": "Solicitando a autorização para que as pessoas possam acessar à represa do parque para realização de pesca esportiva, especialmente ao público 60+.",
-    "id": "272124",
+    "ementa": "Solicitando à Secretaria Municipal de Infraestrutura a realização de tapa buraco na Avenida Fernando Vilela, esq Rua Arlindo Teixeira, no bairro Martins, CEP 38400-456.",
+    "id": "272177",
     "item_kind": "materia",
-    "tipo": "Requerimento",
-    "title": "REQ 21364/2026",
+    "tipo": "Indicação",
+    "title": "IND 40008/2026",
     "ultima_votacao_kind": "",
     "ultima_votacao_resultado": ""
    },
    {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272053",
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272176",
     "ano": "2026",
     "data_apresentacao": "16/10/2026",
     "emenda_impositiva": false,
-    "ementa": "Solicitando à Secretaria Municipal de Infraestrutura a realização de tapa buraco na Rua do Escritor, 670, no bairro Jardim das Palmeiras, CEP 38412-368.",
-    "id": "272053",
+    "ementa": "Solicitando à Secretaria Municipal de Trânsito e Transportes a realização de sinalização / implantação / manutenção de sinalização estatigráfica na Rua do Encanador, esq Rodovia Uberlândia-Prata, no bairro Planalto, CEP 38413-155.",
+    "id": "272176",
     "item_kind": "materia",
     "tipo": "Indicação",
-    "title": "IND 39893/2026",
+    "title": "IND 40007/2026",
     "ultima_votacao_kind": "",
     "ultima_votacao_resultado": ""
    },
    {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272052",
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272175",
     "ano": "2026",
     "data_apresentacao": "16/10/2026",
     "emenda_impositiva": false,
-    "ementa": "Solicitando ao DMAE a realização de tapa buraco após obra dmae na Praça São Francisco de Paula, em frente ao EMEI São Francisco de Assis, no bairro Tubalina, CEP 38412-048.",
-    "id": "272052",
+    "ementa": "Solicitando à Secretaria Municipal de Serviços Urbanos a realização de capina / limpeza - lotes / canteiro central na Rua do Carpinteiro, em toda a extensão da via, no bairro Planalto, CEP 38413-177.",
+    "id": "272175",
     "item_kind": "materia",
     "tipo": "Indicação",
-    "title": "IND 39892/2026",
+    "title": "IND 40006/2026",
     "ultima_votacao_kind": "",
     "ultima_votacao_resultado": ""
    },
    {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272050",
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272174",
     "ano": "2026",
     "data_apresentacao": "16/10/2026",
     "emenda_impositiva": false,
-    "ementa": "Solicitando ao DMAE a realização de caminhão pipa - aguamento de vias na Rua das Papoulas, 50, no bairro Cidade Jardim, CEP 38412-200.",
-    "id": "272050",
+    "ementa": "Solicitando ao DMAE a realização de água e esgoto - construção / manutenção / reforma de rede na Rua Vitalino Rezende do Carmo, 215, no bairro Saraiva, CEP 38408-028.",
+    "id": "272174",
     "item_kind": "materia",
     "tipo": "Indicação",
-    "title": "IND 39890/2026",
+    "title": "IND 40005/2026",
     "ultima_votacao_kind": "",
     "ultima_votacao_resultado": ""
    },
    {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272049",
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272173",
     "ano": "2026",
     "data_apresentacao": "16/10/2026",
     "emenda_impositiva": false,
-    "ementa": "Solicitando ao DMAE a realização de água e esgoto - construção / manutenção / reforma de rede na Avenida dos Vinhedos, 50, em frente ao Pátio Vinhedos, no bairro Morada da Colina, CEP 38411-159.",
-    "id": "272049",
+    "ementa": "Solicitando à Secretaria Municipal de Trânsito e Transportes a realização de sinalização / implantação / manutenção de sinalização estatigráfica na Rua do Gari, 1259, no bairro Jardim das Palmeiras, CEP 38412-314.",
+    "id": "272173",
     "item_kind": "materia",
     "tipo": "Indicação",
-    "title": "IND 39889/2026",
+    "title": "IND 40004/2026",
     "ultima_votacao_kind": "",
     "ultima_votacao_resultado": ""
    },
    {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272048",
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272136",
     "ano": "2026",
     "data_apresentacao": "16/10/2026",
     "emenda_impositiva": false,
-    "ementa": "Solicitando à Secretaria Municipal de Infraestrutura a realização de tapa buraco na Rua Norival Pereira Alves, 153, no bairro São Jorge, CEP 38410-214.",
-    "id": "272048",
+    "ementa": "Solicitando à Secretaria Municipal de Infraestrutura a realização de tapa buraco na Avenida Fernando Vilela, esq Rua Itabira, no bairro Daniel Fonseca, CEP 38400-327.",
+    "id": "272136",
     "item_kind": "materia",
     "tipo": "Indicação",
-    "title": "IND 39888/2026",
+    "title": "IND 39967/2026",
     "ultima_votacao_kind": "",
     "ultima_votacao_resultado": ""
    },
    {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272047",
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272135",
     "ano": "2026",
     "data_apresentacao": "16/10/2026",
     "emenda_impositiva": false,
-    "ementa": "Solicitando à Secretaria Municipal de Infraestrutura a realização de tapa buraco na Rua Norival Pereira Alves, 224, no bairro São Jorge, CEP 38410-214.",
-    "id": "272047",
+    "ementa": "Solicitando à Secretaria Municipal de Infraestrutura a realização de tapa buraco na Rua Monlevade, esq Av Araguari, no bairro Daniel Fonseca, CEP 38400-320.",
+    "id": "272135",
     "item_kind": "materia",
     "tipo": "Indicação",
-    "title": "IND 39887/2026",
+    "title": "IND 39966/2026",
     "ultima_votacao_kind": "",
     "ultima_votacao_resultado": ""
    },
    {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272046",
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272134",
     "ano": "2026",
     "data_apresentacao": "16/10/2026",
     "emenda_impositiva": false,
-    "ementa": "Solicitando à Secretaria Municipal de Infraestrutura a realização de tapa buraco na Rua Arlindo Ferreira Santos, esq Rua Augusto Ruschi, no bairro São Jorge, CEP 38410-216.",
-    "id": "272046",
+    "ementa": "Solicitando à Secretaria Municipal de Infraestrutura a realização de tapa buraco na Avenida Araguari, 2815, no bairro Daniel Fonseca, CEP 38400-313.",
+    "id": "272134",
     "item_kind": "materia",
     "tipo": "Indicação",
-    "title": "IND 39886/2026",
+    "title": "IND 39965/2026",
     "ultima_votacao_kind": "",
     "ultima_votacao_resultado": ""
    },
    {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272045",
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272133",
     "ano": "2026",
     "data_apresentacao": "16/10/2026",
     "emenda_impositiva": false,
-    "ementa": "Solicitando à Secretaria Municipal de Trânsito e Transportes a realização de sinalização - implantação / reforma de faixa de pedestre na Rua do Engenheiro, 246, UBS PLANALTO, no bairro Planalto, CEP 38413-165.",
-    "id": "272045",
+    "ementa": "Solicitando ao DMAE a realização de água e esgoto - reparo vazamento de esgoto na Avenida Getúlio Vargas, na altura do nº 2767, no bairro Jardim das Palmeiras, CEP 38412-316.",
+    "id": "272133",
     "item_kind": "materia",
     "tipo": "Indicação",
-    "title": "IND 39885/2026",
+    "title": "IND 39964/2026",
     "ultima_votacao_kind": "",
     "ultima_votacao_resultado": ""
    },
    {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272044",
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272132",
     "ano": "2026",
     "data_apresentacao": "16/10/2026",
     "emenda_impositiva": false,
-    "ementa": "Solicitando à Secretaria Municipal de Serviços Urbanos a realização de boca de lobo / bueiro - limpeza na Rua do Engenheiro, 246, UBS PLANALTO, no bairro Planalto, CEP 38413-165.",
-    "id": "272044",
+    "ementa": "Solicitando à Secretaria Municipal de Serviços Urbanos a realização de capina / limpeza - lotes / canteiro central na Rua do Motorista, na altura do nº855, no bairro Jardim das Palmeiras, CEP 38412-286.",
+    "id": "272132",
     "item_kind": "materia",
     "tipo": "Indicação",
-    "title": "IND 39884/2026",
+    "title": "IND 39963/2026",
     "ultima_votacao_kind": "",
     "ultima_votacao_resultado": ""
    }
@@ -1576,7 +1576,7 @@
   "ordem_dat_apresentacao": "desc",
   "page": 1,
   "page_size": 10,
-  "total": 5053
+  "total": 5063
  },
  "relatorias": {
   "facets": {

@@ -593,7 +593,7 @@
   "facets": {
    "ano": [
     {
-     "count": 813,
+     "count": 827,
      "label": "2026",
      "value": "2026"
     },
@@ -615,7 +615,7 @@
      "value": "EMEI"
     },
     {
-     "count": 618,
+     "count": 632,
      "label": "Indicação",
      "value": "IND"
     },
@@ -728,7 +728,7 @@
     },
     {
      "ano": "2026",
-     "count": 591,
+     "count": 605,
      "tipo": "IND"
     },
     {
@@ -786,7 +786,7 @@
   "facets_todos": {
    "ano": [
     {
-     "count": 813,
+     "count": 827,
      "label": "2026",
      "value": "2026"
     },
@@ -808,7 +808,7 @@
      "value": "EMEI"
     },
     {
-     "count": 618,
+     "count": 632,
      "label": "Indicação",
      "value": "IND"
     },
@@ -871,140 +871,140 @@
   },
   "items": [
    {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272002",
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272165",
     "ano": "2026",
-    "data_apresentacao": "15/10/2026",
+    "data_apresentacao": "16/10/2026",
     "emenda_impositiva": false,
-    "ementa": "Liberação para uso do Plenário para entrega de Moções de Aplauso e Título de Cidadão Honorário no dia 29/10/2026.",
-    "id": "272002",
-    "item_kind": "materia",
-    "tipo": "Requerimento",
-    "title": "REQ 21363/2026",
-    "ultima_votacao_kind": "votacao",
-    "ultima_votacao_resultado": "Aprovado"
-   },
-   {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=271976",
-    "ano": "2026",
-    "data_apresentacao": "14/10/2026",
-    "emenda_impositiva": false,
-    "ementa": "Gostaríamos de apresentar Moção de Aplausos à Escola Grau Técnico - Unidade Uberlândia/MG, em face de sua atuação e destaque na área da educação em nosso município de Uberlândia.",
-    "id": "271976",
-    "item_kind": "materia",
-    "tipo": "Moção",
-    "title": "MOC 1020/2026",
-    "ultima_votacao_kind": "votacao",
-    "ultima_votacao_resultado": "Aprovado"
-   },
-   {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=271949",
-    "ano": "2026",
-    "data_apresentacao": "14/10/2026",
-    "emenda_impositiva": false,
-    "ementa": "Solicitando à Secretaria Municipal de Trânsito e Transportes a realização de sinalização - placa de pare / estacionamento / proibido estacionar na Avenida Olímpica, esquina com Rua Manaus, no bairro Santa Rosa, CEP 38401-711.",
-    "id": "271949",
+    "ementa": "Solicitando à Secretaria Municipal de Serviços Urbanos a realização de iluminação pública - troca de lâmpada na Rua João Guimarães Naves, 1339, no bairro Tibery, CEP 38405-046.",
+    "id": "272165",
     "item_kind": "materia",
     "tipo": "Indicação",
-    "title": "IND 39810/2026",
-    "ultima_votacao_kind": "votacao",
-    "ultima_votacao_resultado": "Aprovado"
+    "title": "IND 39996/2026",
+    "ultima_votacao_kind": "",
+    "ultima_votacao_resultado": ""
    },
    {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=271948",
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272164",
     "ano": "2026",
-    "data_apresentacao": "14/10/2026",
+    "data_apresentacao": "16/10/2026",
     "emenda_impositiva": false,
-    "ementa": "Solicitando à Secretaria Municipal de Serviços Urbanos a realização de calçada / passeio - limpeza / capina / roçagem na Avenida Cleanto Vieira Gonçalves, Toda extensão, no bairro Presidente Roosevelt, CEP 38401-195.",
-    "id": "271948",
+    "ementa": "Solicitando à Secretaria Municipal de Trânsito e Transportes a realização de sinalização / implantação / manutenção de sinalização estatigráfica na Rua Albertino Rodrigues, esquina com a Rua Santa Catarina, no bairro Santa Rosa, CEP 38401-244.",
+    "id": "272164",
     "item_kind": "materia",
     "tipo": "Indicação",
-    "title": "IND 39809/2026",
-    "ultima_votacao_kind": "votacao",
-    "ultima_votacao_resultado": "Aprovado"
-   },
-   {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=271947",
-    "ano": "2026",
-    "data_apresentacao": "14/10/2026",
-    "emenda_impositiva": false,
-    "ementa": "CONCEDE DIPLOMA DE HONRA AO MÉRITO À PROZ EDUCAÇÃO - UNIDADE UBERLÂNDIA/MG POR SEU DESTAQUE NA ÁREA DE EDUCAÇÃO NO MUNICÍPIO DE UBERLÂNDIA.",
-    "id": "271947",
-    "item_kind": "materia",
-    "tipo": "Projeto de Decreto Legislativo",
-    "title": "PDL 260/2026",
+    "title": "IND 39995/2026",
     "ultima_votacao_kind": "",
     "ultima_votacao_resultado": ""
    },
    {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=271939",
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272162",
     "ano": "2026",
-    "data_apresentacao": "14/10/2026",
+    "data_apresentacao": "16/10/2026",
     "emenda_impositiva": false,
-    "ementa": "Solicita a liberação para uso do Plenário no dia 15 de outubro de 2026, a partir das 19:00, para entrega de homenagens à pessoas físicas e pessoas jurídicas do Dia do Professor, sendo todas elas pessoas da área da educação, com atuação de destaque em nosso município.",
-    "id": "271939",
+    "ementa": "Solicitando à Secretaria Municipal de Infraestrutura a realização de tapa buraco na Avenida Olímpica, Em frente a E.E Angelino Pavan, no bairro Santa Rosa, CEP 38401-260.",
+    "id": "272162",
     "item_kind": "materia",
-    "tipo": "Requerimento",
-    "title": "REQ 21361/2026",
-    "ultima_votacao_kind": "votacao",
-    "ultima_votacao_resultado": "Aprovado"
-   },
-   {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=271937",
-    "ano": "2026",
-    "data_apresentacao": "14/10/2026",
-    "emenda_impositiva": false,
-    "ementa": "CONCEDE DIPLOMA DE HONRA AO MÉRITO AO PROGRAMA DE PÓS-GRADUAÇÃO EM CIÊNCIAS DA SAÚDE - UFU - UBERLÂNDIA/MG POR SEU DESTAQUE NA ÁREA DE EDUCAÇÃO NO MUNICÍPIO DE UBERLÂNDIA.",
-    "id": "271937",
-    "item_kind": "materia",
-    "tipo": "Projeto de Decreto Legislativo",
-    "title": "PDL 259/2026",
+    "tipo": "Indicação",
+    "title": "IND 39993/2026",
     "ultima_votacao_kind": "",
     "ultima_votacao_resultado": ""
    },
    {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=271936",
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272160",
     "ano": "2026",
-    "data_apresentacao": "14/10/2026",
+    "data_apresentacao": "16/10/2026",
     "emenda_impositiva": false,
-    "ementa": "CONCEDE DIPLOMA DE HONRA AO MÉRITO À CENTRO UNIVERSITÁRIO UNA - UBERLÂNDIA/MG POR SEU DESTAQUE NA ÁREA DE EDUCAÇÃO NO MUNICÍPIO DE UBERLÂNDIA.",
-    "id": "271936",
+    "ementa": "Solicitando à Secretaria Municipal de Infraestrutura a realização de tapa buraco na Rua Santa Catarina, 2885, no bairro Santa Rosa, CEP 38401-262.",
+    "id": "272160",
     "item_kind": "materia",
-    "tipo": "Projeto de Decreto Legislativo",
-    "title": "PDL 258/2026",
+    "tipo": "Indicação",
+    "title": "IND 39991/2026",
     "ultima_votacao_kind": "",
     "ultima_votacao_resultado": ""
    },
    {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=271935",
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272157",
     "ano": "2026",
-    "data_apresentacao": "14/10/2026",
+    "data_apresentacao": "16/10/2026",
     "emenda_impositiva": false,
-    "ementa": "Gostaríamos de apresentar Moção de Aplausos ao Prof. Glênio Alves de Freitas, em face de sua atuação de destaque na área da educação em nosso município de Uberlândia.",
-    "id": "271935",
+    "ementa": "Solicitando à Secretaria Municipal de Infraestrutura a realização de tapa buraco na Avenida Olímpica, 973, no bairro Santa Rosa, CEP 38401-260.",
+    "id": "272157",
     "item_kind": "materia",
-    "tipo": "Moção",
-    "title": "MOC 1019/2026",
-    "ultima_votacao_kind": "votacao",
-    "ultima_votacao_resultado": "Aprovado"
+    "tipo": "Indicação",
+    "title": "IND 39988/2026",
+    "ultima_votacao_kind": "",
+    "ultima_votacao_resultado": ""
    },
    {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=271934",
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272150",
     "ano": "2026",
-    "data_apresentacao": "14/10/2026",
+    "data_apresentacao": "16/10/2026",
     "emenda_impositiva": false,
-    "ementa": "Gostaríamos de apresentar Moção de Aplausos ao Prof. Anderson Figueiredo da Costa, em face de sua atuação de destaque na área da educação em nosso município de Uberlândia.",
-    "id": "271934",
+    "ementa": "Solicitando à Secretaria Municipal de Infraestrutura a realização de vias públicas - nivelamento / recapeamento asfáltico na Rua Albertino Rodrigues, 867, no bairro Santa Rosa, CEP 38401-244.",
+    "id": "272150",
     "item_kind": "materia",
-    "tipo": "Moção",
-    "title": "MOC 1018/2026",
-    "ultima_votacao_kind": "votacao",
-    "ultima_votacao_resultado": "Aprovado"
+    "tipo": "Indicação",
+    "title": "IND 39981/2026",
+    "ultima_votacao_kind": "",
+    "ultima_votacao_resultado": ""
+   },
+   {
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272149",
+    "ano": "2026",
+    "data_apresentacao": "16/10/2026",
+    "emenda_impositiva": false,
+    "ementa": "Solicitando à Secretaria Municipal de Gestão Ambiental e Sustentabilidade a realização de árvores e galhos - poda / corte / destocamento / recolhimento na Avenida Olímpica, Toda extensão da Avenida, no bairro Santa Rosa, CEP 38401-260.",
+    "id": "272149",
+    "item_kind": "materia",
+    "tipo": "Indicação",
+    "title": "IND 39980/2026",
+    "ultima_votacao_kind": "",
+    "ultima_votacao_resultado": ""
+   },
+   {
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272148",
+    "ano": "2026",
+    "data_apresentacao": "16/10/2026",
+    "emenda_impositiva": false,
+    "ementa": "Solicitando à Secretaria Municipal de Gestão Ambiental e Sustentabilidade a realização de árvores e galhos - poda / corte / destocamento / recolhimento na Avenida Olímpica, Toda extensão da Avenida, no bairro Santa Rosa, CEP 38401-260.",
+    "id": "272148",
+    "item_kind": "materia",
+    "tipo": "Indicação",
+    "title": "IND 39979/2026",
+    "ultima_votacao_kind": "",
+    "ultima_votacao_resultado": ""
+   },
+   {
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272145",
+    "ano": "2026",
+    "data_apresentacao": "16/10/2026",
+    "emenda_impositiva": false,
+    "ementa": "Solicitando à Secretaria Municipal de Trânsito e Transportes a realização de sinalização / implantação / manutenção de sinalização estatigráfica na Rua Antenor Rangel, esquina com Av. Olímpica, no bairro Santa Rosa, CEP 38401-726.",
+    "id": "272145",
+    "item_kind": "materia",
+    "tipo": "Indicação",
+    "title": "IND 39976/2026",
+    "ultima_votacao_kind": "",
+    "ultima_votacao_resultado": ""
+   },
+   {
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272143",
+    "ano": "2026",
+    "data_apresentacao": "16/10/2026",
+    "emenda_impositiva": false,
+    "ementa": "Solicitando à Secretaria Municipal de Trânsito e Transportes a realização de sinalização / implantação / manutenção de sinalização estatigráfica na Rua José Pedro Mendonça, esquina com Av. Olímpica, no bairro Santa Rosa, CEP 38401-724.",
+    "id": "272143",
+    "item_kind": "materia",
+    "tipo": "Indicação",
+    "title": "IND 39974/2026",
+    "ultima_votacao_kind": "",
+    "ultima_votacao_resultado": ""
    }
   ],
   "ordem_dat_apresentacao": "desc",
   "page": 1,
   "page_size": 10,
-  "total": 1363
+  "total": 1377
  },
  "relatorias": {
   "facets": {

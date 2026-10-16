@@ -848,7 +848,7 @@
   "facets": {
    "ano": [
     {
-     "count": 1116,
+     "count": 1118,
      "label": "2026",
      "value": "2026"
     },
@@ -890,7 +890,7 @@
      "value": "EMEI"
     },
     {
-     "count": 1212,
+     "count": 1214,
      "label": "Indicação",
      "value": "IND"
     },
@@ -1198,7 +1198,7 @@
     },
     {
      "ano": "2026",
-     "count": 909,
+     "count": 911,
      "tipo": "IND"
     },
     {
@@ -1246,7 +1246,7 @@
   "facets_todos": {
    "ano": [
     {
-     "count": 1116,
+     "count": 1118,
      "label": "2026",
      "value": "2026"
     },
@@ -1288,7 +1288,7 @@
      "value": "EMEI"
     },
     {
-     "count": 1212,
+     "count": 1214,
      "label": "Indicação",
      "value": "IND"
     },
@@ -1345,6 +1345,32 @@
    "tipo_desc": ""
   },
   "items": [
+   {
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272172",
+    "ano": "2026",
+    "data_apresentacao": "16/10/2026",
+    "emenda_impositiva": false,
+    "ementa": "Solicitando à Secretaria Municipal de Serviços Urbanos a realização de capina / limpeza - lotes / canteiro central na Avenida Eliseu Pereira de Oliveira, nº 130, Casa 01, no bairro Shopping Park, CEP 38425-334.",
+    "id": "272172",
+    "item_kind": "materia",
+    "tipo": "Indicação",
+    "title": "IND 40003/2026",
+    "ultima_votacao_kind": "",
+    "ultima_votacao_resultado": ""
+   },
+   {
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272169",
+    "ano": "2026",
+    "data_apresentacao": "16/10/2026",
+    "emenda_impositiva": false,
+    "ementa": "Solicitando à Secretaria Municipal de Saúde a realização de ações de prevenção e controle de zoonoses na Avenida Eliseu Pereira de Oliveira, 130, casa 1, no bairro Shopping Park, CEP 38425-334.",
+    "id": "272169",
+    "item_kind": "materia",
+    "tipo": "Indicação",
+    "title": "IND 40000/2026",
+    "ultima_votacao_kind": "",
+    "ultima_votacao_resultado": ""
+   },
    {
     "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272091",
     "ano": "2026",
@@ -1448,38 +1474,12 @@
     "title": "IND 39795/2026",
     "ultima_votacao_kind": "votacao",
     "ultima_votacao_resultado": "Aprovado"
-   },
-   {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=271902",
-    "ano": "2026",
-    "data_apresentacao": "14/10/2026",
-    "emenda_impositiva": false,
-    "ementa": "Solicitando à Secretaria Municipal de Gestão Ambiental e Sustentabilidade a realização de pista de skate - em praças, construção e reforma na Rua José Roberto Migliorini, Azul Skatepark - Parque Sabiá, no bairro Santa Mônica, CEP 38408-251.",
-    "id": "271902",
-    "item_kind": "materia",
-    "tipo": "Indicação",
-    "title": "IND 39776/2026",
-    "ultima_votacao_kind": "votacao",
-    "ultima_votacao_resultado": "Aprovado"
-   },
-   {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=271884",
-    "ano": "2026",
-    "data_apresentacao": "14/10/2026",
-    "emenda_impositiva": false,
-    "ementa": "Solicitando à Secretaria Municipal de Gestão Ambiental e Sustentabilidade a realização de praça - limpeza / capina / roçagem na Rua Professor Mário Porto, Praça Professor Henckmar Borges, no bairro Lídice, CEP 38400-138.",
-    "id": "271884",
-    "item_kind": "materia",
-    "tipo": "Indicação",
-    "title": "IND 39758/2026",
-    "ultima_votacao_kind": "votacao",
-    "ultima_votacao_resultado": "Aprovado"
    }
   ],
   "ordem_dat_apresentacao": "desc",
   "page": 1,
   "page_size": 10,
-  "total": 5966
+  "total": 5968
  },
  "relatorias": {
   "facets": {

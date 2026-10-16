@@ -50,7 +50,9 @@
   "@type": "presencaSessao",
   "chamadaRegimental": [
    {
-    "ausentes": [
+    "ausentes": [],
+    "ausentes_qtde": "0",
+    "justificados": [
      {
       "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/528006",
       "@type": "Vereador",
@@ -65,9 +67,7 @@
       "title": "Ronaldo Tannús"
      }
     ],
-    "ausentes_qtde": "1",
-    "justificados": [],
-    "justificados_qtde": "0",
+    "justificados_qtde": "1",
     "presentes": [
      {
       "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/546914",
@@ -414,7 +414,9 @@
   "description": "9ª Reunião Ordinária - 14/10/2026",
   "ordemDia": [
    {
-    "ausentes": [
+    "ausentes": [],
+    "ausentes_qtde": "0",
+    "justificados": [
      {
       "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/528006",
       "@type": "Vereador",
@@ -429,9 +431,7 @@
       "title": "Ronaldo Tannús"
      }
     ],
-    "ausentes_qtde": "1",
-    "justificados": [],
-    "justificados_qtde": "0",
+    "justificados_qtde": "1",
     "presentes": [
      {
       "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/546914",
