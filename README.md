@@ -79,8 +79,20 @@ proposições, contas da Prefeitura e do Estado, governo de Minas). Roda numa Ve
 (`api/chat.ts`) com um agente Pi e o modelo DeepSeek, e consulta só `public/data.json`,
 `mg.json` e `federal.json`.
 
-- **O que faz**: busca políticos por nome, monta rankings (por exemplo, quem mais faltou), mostra
-  como cada um votou e resume as contas. Toda resposta sobre uma pessoa traz o link do placar
+- **O que faz**: busca políticos por nome e mostra como cada um votou. Dá para perguntar:
+  - rankings por qualquer métrica do catálogo (presença, faltas, votos contra a maioria,
+    alinhamento ao governo, proposições, cota parlamentar, verba indenizatória, patrimônio, votos na
+    eleição etc.), por pessoa ou por partido, do maior ou do menor, para vereadores, deputados
+    federais (inclusive por UF) e deputados estaduais;
+  - como cada partido votou numa votação (busca pelo nome do projeto, como "PLP 186", ou por
+    palavras da ementa), para vereadores e deputados federais. Nos federais, o partido é o atual do
+    deputado (`notaPartido`), não necessariamente o da data da votação;
+  - deputados estaduais sem votos: a ALMG não publica presença nem voto individual, então os
+    estaduais entram nos rankings de proposições, verba indenizatória etc., mas não nos de votação;
+  - contas da Prefeitura e do Estado e o governo de Minas.
+
+  Em rankings por partido, quem tem poucas sessões (suplentes) fica fora da soma, e partidos com 1
+  ou 2 parlamentares vêm com aviso. Toda resposta sobre uma pessoa traz o link do placar
   (`#v/<id>`, `#e/<id>`, `#d/<id>`) e o link oficial.
 - **O que não faz**: não opina, não adjetiva político, não recomenda voto e não responde sobre
   assuntos fora dos dados. A ALMG não publica presença nem voto individual, então para

@@ -7,9 +7,9 @@ beforeAll(async () => { d = await carregarDados(); });
 
 const ferramenta = (nome: string) => criarFerramentas(d).find(t => t.name === nome)!;
 
-test("criarFerramentas devolve os seis nomes", () => {
+test("criarFerramentas devolve os nove nomes", () => {
   expect(criarFerramentas(d).map(t => t.name).sort()).toEqual(
-    ["buscar_parlamentar", "contas", "governo_mg", "perfil", "ranking", "votacoes"]);
+    ["buscar_parlamentar", "buscar_votacao", "contas", "governo_mg", "metricas", "perfil", "ranking", "votacao_por_partido", "votacoes"]);
 });
 
 test("buscar_parlamentar devolve texto JSON com o link do placar", async () => {
@@ -71,4 +71,28 @@ test("validarPedido limita o total do histórico a 4000 caracteres", () => {
   ok.push(msg("usuario", 1));
   expect(() => validarPedido({ mensagens: ok })).toThrow(/4000 caracteres no total/);
   expect(validarPedido({ mensagens: [msg("assistente", 2000), msg("assistente", 1500), msg("usuario", 500)] }).mensagens).toHaveLength(3);
+});
+
+test("ranking aceita métrica do catálogo, por partido, nas três casas e mantém a chamada antiga", async () => {
+  const txt = async (n: string, p: any) => JSON.parse(((await ferramenta(n).execute("1", p)).content[0] as any).text);
+  const r: any = await txt("ranking", { casa: "vereador", metrica: "faltas", agrupar: "partido" });
+  expect(r.itens[0].partido).toBe("PODEMOS");
+  const e: any = JSON.parse(((await ferramenta("ranking").execute("1", { casa: "estadual", metrica: "verba_indenizatoria" })).content[0] as any).text);
+  expect(e.itens.length).toBeGreaterThan(0);
+  const velho: any = JSON.parse(((await ferramenta("ranking").execute("1", { casa: "federal", metrica: "faltas", uf: "MG" })).content[0] as any).text);
+  expect(velho.itens[0].nome).toMatch(/Hercílio/);
+});
+
+test("metricas, buscar_votacao e votacao_por_partido respondem JSON", async () => {
+  const txt = async (n: string, p: any) => JSON.parse(((await ferramenta(n).execute("1", p)).content[0] as any).text);
+  expect((await txt("metricas", { casa: "estadual" })).estadual.map((m: any) => m.id)).toContain("verba_indenizatoria");
+  const v = await txt("buscar_votacao", { casa: "federal", consulta: "PLP 186" });
+  const pp = await txt("votacao_por_partido", { casa: "federal", id: v[0].id });
+  expect(pp.partidos.length).toBeGreaterThan(5);
+  await expect(ferramenta("votacao_por_partido").execute("1", { casa: "estadual", id: "1" })).rejects.toThrow(/ALMG não publica/);
+});
+
+test("prompt: avisa quando nada serve e pede contagem em rankings por partido", () => {
+  expect(PROMPT_SISTEMA).toContain("Quando nenhuma ferramenta trouxer o que foi pedido, diga que o placar ainda não calcula isso.");
+  expect(PROMPT_SISTEMA).toContain("Em rankings por partido, diga quantos parlamentares cada partido tem e avise quando forem poucos.");
 });

@@ -426,6 +426,94 @@ export function rankingMetrica(
   return { ...cabecalho, itens: itens.slice(0, limite), ...extras };
 }
 
+// ---------------------------------------------------------------------------
+// Votações: busca e como cada partido votou
+// ---------------------------------------------------------------------------
+
+/** Nome de proposição em forma canônica: "Projeto de Lei Complementar nº 1/2025" e "PLP 1/2025" viram "plp 1/2025". */
+function canonicaProposicao(s: string): string {
+  return normalizar(s)
+    .replace(/projeto de lei complementar/g, "plp")
+    .replace(/projeto de lei ordinaria/g, "pl")
+    .replace(/projeto de lei/g, "pl")
+    .replace(/projeto de decreto legislativo/g, "pdl")
+    .replace(/proposta de emenda a lei organica/g, "pelo")
+    .replace(/proposta de emenda a constituicao/g, "pec")
+    .replace(/\b(n|no|numero)[°º.]?\s+(?=\d)/g, "")
+    .replace(/[°º]/g, "")
+    .replace(/\s+/g, " ")
+    .trim();
+}
+const escaparRegex = (s: string) => s.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+
+export function buscarVotacoes(d: Dados, casa: "vereador" | "federal", consulta: string, limite = 5): object {
+  if ((casa as Casa) === "estadual") throw new Error(AVISO_ESTADUAL);
+  const lista: any[] = (casa === "vereador" ? d.udi?.votacoes : d.fed?.votacoes) ?? [];
+  const nomeDe = (v: any): string => (casa === "vereador" ? v.materia : v.prop) ?? "";
+  const q = canonicaProposicao(consulta);
+  const porNome = q ? new RegExp(`(^| )${escaparRegex(q)}($|[ /(])`) : null;
+  const palavras = normalizar(consulta).split(" ").filter(Boolean);
+  let achadas = lista.filter(v => porNome?.test(canonicaProposicao(nomeDe(v))));
+  if (!achadas.length && palavras.length && !/^[a-z]+ \d/.test(q)) { // nome de proposição não achado não vira busca por palavras
+    achadas = lista.filter(v => {
+      const texto = normalizar(`${nomeDe(v)} ${v.ementa ?? ""}`);
+      return palavras.every(w => texto.includes(w));
+    });
+  }
+  const n = Math.max(1, Math.floor(limite));
+  return recentesPrimeiro(achadas).slice(0, n).map(v => ({
+    id: String(v.id), data: v.data, materia: nomeDe(v), ementa: cortar(v.ementa),
+    resultado: casa === "vereador" ? v.resultado : v.res,
+    ...(casa === "vereador" && v.turno ? { turno: v.turno } : {}),
+  }));
+}
+
+export function votacaoPorPartido(d: Dados, casa: "vereador" | "federal", id: string): object {
+  if ((casa as Casa) === "estadual") throw new Error(AVISO_ESTADUAL);
+  const alvo = String(id);
+  const v = ((casa === "vereador" ? d.udi?.votacoes : d.fed?.votacoes) ?? []).find((x: any) => String(x.id) === alvo);
+  if (!v) throw new Error(`Votação com id ${alvo} não encontrada.`);
+  type Conta = { partido: string; sim: number; nao: number; outros: number; ausentes: number; total: number };
+  const por = new Map<string, Conta>();
+  const contar = (partido: string, tipo: "sim" | "nao" | "outros" | "ausentes") => {
+    const c = por.get(partido) ?? { partido, sim: 0, nao: 0, outros: 0, ausentes: 0, total: 0 };
+    c[tipo]++; c.total++;
+    por.set(partido, c);
+  };
+  if (casa === "vereador") {
+    const partidoDe = new Map<string, string>();
+    for (const [k, n] of Object.entries<any>(d.udi.nomes ?? {})) partidoDe.set(k, n.partido);
+    for (const r of d.udi.vereadores ?? []) partidoDe.set(String(r.id), r.partido);
+    for (const [vid, voto] of Object.entries<string>(v.votos ?? {})) {
+      contar(partidoDe.get(vid) ?? "Sem partido",
+        voto === "Sim" ? "sim" : voto === "Não" ? "nao" : voto === "Ausente" ? "ausentes" : "outros");
+    }
+  } else {
+    const partidoDe = new Map<string, string>((d.fed.deputados as any[]).map(r => [String(r.id), r.partido]));
+    (d.fed.ordem as string[]).forEach((did, i) => {
+      const c = v.v?.[i];
+      contar(partidoDe.get(String(did)) ?? "Sem partido",
+        c === "S" ? "sim" : c === "N" ? "nao" : c === "-" ? "ausentes" : "outros");
+    });
+  }
+  const partidos = [...por.values()].sort((a, b) => b.total - a.total || a.partido.localeCompare(b.partido));
+  return {
+    data: v.data, materia: casa === "vereador" ? v.materia : v.prop, ementa: cortar(v.ementa),
+    resultado: casa === "vereador" ? v.resultado : v.res,
+    referencia: casa === "vereador" ? { maioria: v.maioria } : { governo: v.gov || "Sem orientação" },
+    ...(casa === "federal"
+      ? { notaPartido: "Partido atual de cada deputado (federal.json), não necessariamente o da data da votação." }
+      : {}),
+    ...(casa === "federal"
+      ? {
+          totaisOficiais: { sim: v.sim, nao: v.nao, outros: v.outros },
+          notaTotais: "Os partidos somam os votos individuais registrados (S, N, abstenção/obstrução/Art. 17 em outros, '-' em ausentes); o total oficial da votação pode diferir um pouco (inclusive em votações simbólicas, sem voto individual).",
+        }
+      : {}),
+    partidos,
+  };
+}
+
 export function contas(d: Dados, ente: "prefeitura" | "estado", ano?: number): object {
   const fin: any[] = (ente === "prefeitura" ? d.udi.prefeitura?.fin : d.mg.governo?.fin) ?? [];
   const anos = fin.map(f => f.ano as number).sort((a, b) => a - b);
