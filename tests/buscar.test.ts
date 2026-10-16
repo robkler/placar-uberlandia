@@ -24,3 +24,9 @@ test("sobrenome comum devolve várias pessoas e casas", async () => {
 test("nada encontrado devolve lista vazia", async () => {
   expect(buscarParlamentar(await carregarDados(), "xyzxyz")).toEqual([]);
 });
+test("nome com acento é achado com e sem acento, inteiro ou parcial", async () => {
+  const d = await carregarDados();
+  for (const q of ["Sérvio Túlio", "servio tulio", "sérvio", "SERVIO", "tulio"]) {
+    expect(buscarParlamentar(d, q, "vereador").map(p => p.nome), q).toContain("Sérvio Túlio");
+  }
+});
