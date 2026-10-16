@@ -1,0 +1,121 @@
+{
+ "id": 28861,
+ "nome": "Bim da Ambulância",
+ "partido": "AVANTE",
+ "tagLocalizacao": 5954,
+ "cargoRepresentacaoPartidaria": "Vice-Líder do Bloco Avança Minas",
+ "liderancas": [
+  {
+   "categoria": "BLOCO",
+   "cargo": "Vice-Líder",
+   "idRepresentacao": 59,
+   "nomeRepresentacao": "Bloco Avança Minas"
+  }
+ ],
+ "dataCargoRepresentacaoPartidaria": {
+  "@class": "sql-timestamp",
+  "$": "2026-04-29"
+ },
+ "sexo": "M",
+ "situacao": "Em exercício",
+ "inicioSituacao": {
+  "@class": "sql-timestamp",
+  "$": "2023-02-01"
+ },
+ "tipoMandato": "Efetivo",
+ "nomeServidor": "RUBENS GONÇALVES DE BRITO",
+ "naturalidadeMunicipio": "Belo Horizonte",
+ "naturalidadeUf": "MG",
+ "dataNascimento": "11/11/1982",
+ "apresentarEmail": "G",
+ "codigoSituacao": 1,
+ "partidoEleicao": "AVANTE",
+ "emails": [
+  {
+   "tipo": "1",
+   "endereco": "dep.bim.da.ambulancia"
+  }
+ ],
+ "vidaProfissionalPolitica": "Casado com dona Elaine e pai de duas filhas, Manu e Mimi. Por três vezes consecutivas, foi vereador de Belo Horizonte. É morador da Região de Venda Nova. Administrador de empresas, piloto de helicóptero e avião, formado em primeiros socorros, é idealizador do Projeto Bim Resgate, que presta serviços em urgência e emergência pré-hospitalar e também resgate rodoviário voluntário. Atuante como coach motivacional, dando palestras e produzindo conteúdos para as redes sociais, estimulando características como autoestima e determinação. Defender mais investimentos na área da saúde, representar socorristas e bombeiros militares e atuar em demandas periféricas; de juventude de quebrada; de esportes radicais, como grau e mói; veículos modificados; carros rebaixados; e caminhões são bandeiras do parlamentar.",
+ "atuacaoParlamentar": "Assume, em 2023, seu primeiro mandato na Assembleia Legislativa de Minas Gerais.",
+ "candidaturas": [
+  {
+   "legislatura": 20,
+   "numeroCandidato": 70193
+  }
+ ],
+ "filiacoes": [
+  {
+   "dataInicio": {
+    "@class": "sql-timestamp",
+    "$": "2022-10-02"
+   },
+   "dataTermino": {
+    "@class": "sql-timestamp",
+    "$": "2999-12-31"
+   },
+   "partido": {
+    "id": 71,
+    "sigla": "AVANTE"
+   }
+  }
+ ],
+ "enderecos": [
+  {
+   "logradouro": "Rua Rodrigues Caldas",
+   "numero": "30",
+   "complemento": "Palácio da Inconfidência - 2º andar - conjunto 226",
+   "bairro": "Santo Agostinho",
+   "cep": "30190921",
+   "municipio": {
+    "nome": "Belo Horizonte",
+    "uf": "MG",
+    "codigoIbge9": 310620005
+   },
+   "descTipo": "Gabinete",
+   "telefones": [
+    {
+     "ddd": "31",
+     "numero": "21085366",
+     "fax": "S"
+    },
+    {
+     "ddd": "31",
+     "numero": "21085370",
+     "fax": "N"
+    }
+   ]
+  }
+ ],
+ "legislaturas": [
+  {
+   "numeroLegislatura": 20,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2023-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2027-01-31"
+   },
+   "tipoMandato": "Efetivo",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2023-02-01"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2027-01-31"
+     }
+    }
+   ]
+  }
+ ],
+ "situacaoLegislaturas": "20&ordf; - 2023-2027- Efetivo<br/>de 01/02/2023 até 31/01/2027 (Em exercício em 01/02/2023) <br/><br />",
+ "partidosLegislatura": "AVANTE    <br/>",
+ "anoEleicaoLegislatura": "2022",
+ "situacaoTerminoLegislatura": "Em exercício"
+}

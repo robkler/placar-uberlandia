@@ -1,0 +1,345 @@
+{
+ "id": 7769,
+ "nome": "Leonídio Bouças",
+ "partido": "PSDB",
+ "tagLocalizacao": 1457,
+ "sexo": "M",
+ "situacao": "Em exercício",
+ "inicioSituacao": {
+  "@class": "sql-timestamp",
+  "$": "2023-02-02"
+ },
+ "tipoMandato": "Efetivo",
+ "nomeServidor": "LEONÍDIO HENRIQUE CORRÊA BOUÇAS",
+ "naturalidadeMunicipio": "Pompéu",
+ "naturalidadeUf": "MG",
+ "dataNascimento": "09/11/1961",
+ "apresentarEmail": "G",
+ "atividadeProfissional": "Médico, professor e empresário",
+ "codigoSituacao": 1,
+ "partidoEleicao": "PSDB",
+ "emails": [
+  {
+   "tipo": "1",
+   "endereco": "dep.leonidio.boucas"
+  }
+ ],
+ "vidaProfissionalPolitica": "Empresário, produtor rural, professor e médico, eleito vereador em 1988, vice-presidente da Câmara Municipal de Uberlândia em 1989 e 1990, assumindo em 1991 a presidência da Casa. Em 1992, ingressou no Executivo como vice-prefeito de Uberlândia. Exerceu também o cargo de Secretário Municipal de Habitação e Meio Ambiente em 1994, ano este que elegeu-se deputado estadual por Minas Gerais, pela primeira vez, sendo o mais votado no Triângulo Mineiro. Entre 2001 e 2002, ocupou a Secretaria Municipal de Serviços Urbanos, eleito novamente deputado estadual para o mandato de 2003/2006. No ano de 2007, foi diretor do Instituto de Desenvolvimento Integrado do Estado (Indi). Em 2009, ocupou a Secretaria Municipal de Agropecuária e Abastecimento. Voltando, em 2012, a assumir o cargo de deputado estadual, reeleito para um novo mandato em 2015, ano este que foi também o presidente da Comissão de Constituição e Justiça da ALMG. Atualmente, cumpre seu sexto mandato (2023-2026), nesta mesma Casa. No setor privado, atua como empresário na área da educação e do agronegócio, por meio da produção de grãos e carne.",
+ "atuacaoParlamentar": "Reeleito, assume, em 2023, o seu sexto mandato na Assembleia Legislativa de Minas Gerais (ALMG), onde atualmente preside as comissões de Administração Pública e de Ética e Decoro Parlamentar. Em seu primeiro mandato, foi o parlamentar mais votado no Triângulo Mineiro.",
+ "candidaturas": [
+  {
+   "legislatura": 15,
+   "numeroCandidato": 18345
+  },
+  {
+   "legislatura": 17,
+   "numeroCandidato": 15130
+  },
+  {
+   "legislatura": 18,
+   "numeroCandidato": 15130
+  },
+  {
+   "legislatura": 19,
+   "numeroCandidato": 15130
+  },
+  {
+   "legislatura": 20,
+   "numeroCandidato": 45999
+  }
+ ],
+ "filiacoes": [
+  {
+   "dataInicio": {
+    "@class": "sql-timestamp",
+    "$": "1994-10-03"
+   },
+   "dataTermino": {
+    "@class": "sql-timestamp",
+    "$": "2003-01-31"
+   },
+   "partido": {
+    "id": 25,
+    "sigla": "PFL"
+   }
+  },
+  {
+   "dataInicio": {
+    "@class": "sql-timestamp",
+    "$": "2003-02-01"
+   },
+   "dataTermino": {
+    "@class": "sql-timestamp",
+    "$": "2003-02-18"
+   },
+   "partido": {
+    "id": 18,
+    "sigla": "PST"
+   }
+  },
+  {
+   "dataInicio": {
+    "@class": "sql-timestamp",
+    "$": "2003-02-19"
+   },
+   "dataTermino": {
+    "@class": "sql-timestamp",
+    "$": "2005-09-29"
+   },
+   "partido": {
+    "id": 14,
+    "sigla": "PTB"
+   }
+  },
+  {
+   "dataInicio": {
+    "@class": "sql-timestamp",
+    "$": "2005-09-30"
+   },
+   "dataTermino": {
+    "@class": "sql-timestamp",
+    "$": "2007-01-31"
+   },
+   "partido": {
+    "id": 20,
+    "sigla": "PSC"
+   }
+  },
+  {
+   "dataInicio": {
+    "@class": "sql-timestamp",
+    "$": "2013-02-01"
+   },
+   "dataTermino": {
+    "@class": "sql-timestamp",
+    "$": "2018-05-14"
+   },
+   "partido": {
+    "id": 15,
+    "sigla": "PMDB"
+   }
+  },
+  {
+   "dataInicio": {
+    "@class": "sql-timestamp",
+    "$": "2018-05-15"
+   },
+   "dataTermino": {
+    "@class": "sql-timestamp",
+    "$": "2022-03-30"
+   },
+   "partido": {
+    "id": 72,
+    "sigla": "MDB"
+   }
+  },
+  {
+   "dataInicio": {
+    "@class": "sql-timestamp",
+    "$": "2022-04-01"
+   },
+   "dataTermino": {
+    "@class": "sql-timestamp",
+    "$": "2999-12-31"
+   },
+   "partido": {
+    "id": 45,
+    "sigla": "PSDB"
+   }
+  }
+ ],
+ "enderecos": [
+  {
+   "logradouro": "Rua Rodrigues Caldas",
+   "numero": "30",
+   "complemento": "Palácio da Inconfidência - 2º andar - conjunto 201",
+   "bairro": "Santo Agostinho",
+   "cep": "30190921",
+   "municipio": {
+    "nome": "Belo Horizonte",
+    "uf": "MG",
+    "codigoIbge9": 310620005
+   },
+   "descTipo": "Gabinete",
+   "telefones": [
+    {
+     "ddd": "31",
+     "numero": "21085915",
+     "fax": "N"
+    },
+    {
+     "ddd": "31",
+     "numero": "21085916",
+     "fax": "S"
+    }
+   ]
+  }
+ ],
+ "legislaturas": [
+  {
+   "numeroLegislatura": 13,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "1995-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "1999-01-31"
+   },
+   "tipoMandato": "Efetivo",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "1995-02-01"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "1999-01-31"
+     }
+    }
+   ]
+  },
+  {
+   "numeroLegislatura": 15,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2003-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2007-01-31"
+   },
+   "tipoMandato": "Efetivo",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2003-02-01"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2007-01-31"
+     }
+    }
+   ]
+  },
+  {
+   "numeroLegislatura": 17,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2011-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2015-01-31"
+   },
+   "tipoMandato": "Efetivo",
+   "inicioExercicio": {
+    "@class": "sql-timestamp",
+    "$": "2013-02-01"
+   },
+   "terminoExercicio": {
+    "@class": "sql-timestamp",
+    "$": "2015-01-31"
+   },
+   "deputadoAfastado": "Bruno Siqueira",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2013-02-01"
+     },
+     "status": "Em exercício",
+     "motivo": "Renúncia de efetivo",
+     "complemento": "Renúncia do Deputado Bruno Siqueira para ocupar o cargo de Prefeito Municipal de Juiz de Fora.",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2015-01-31"
+     }
+    }
+   ]
+  },
+  {
+   "numeroLegislatura": 18,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2015-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2019-01-31"
+   },
+   "tipoMandato": "Efetivo",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2015-02-01"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2019-01-31"
+     }
+    }
+   ]
+  },
+  {
+   "numeroLegislatura": 19,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2019-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2023-01-31"
+   },
+   "tipoMandato": "Efetivo",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2019-02-01"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2023-01-31"
+     }
+    }
+   ]
+  },
+  {
+   "numeroLegislatura": 20,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2023-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2027-01-31"
+   },
+   "tipoMandato": "Efetivo",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2023-02-01"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2027-01-31"
+     }
+    }
+   ]
+  }
+ ],
+ "situacaoLegislaturas": "13&ordf; - 1995-1999- Efetivo<br/>de 01/02/1995 até 31/01/1999 (Em exercício em 01/02/1995) <br/><br />15&ordf; - 2003-2007- Efetivo<br/>de 01/02/2003 até 31/01/2007 (Em exercício em 01/02/2003) <br/><br />17&ordf; - 2011-2015- Efetivo<br/>de 01/02/2013 até 31/01/2015 (Em exercício em 01/02/2013 - Renúncia de efetivo - Renúncia do Deputado Bruno Siqueira para ocupar o cargo de Prefeito Municipal de Juiz de Fora. ) <br/><br />18&ordf; - 2015-2019- Efetivo<br/>de 01/02/2015 até 31/01/2019 (Em exercício em 01/02/2015) <br/><br />19&ordf; - 2019-2023- Efetivo<br/>de 01/02/2019 até 31/01/2023 (Em exercício em 01/02/2019) <br/><br />20&ordf; - 2023-2027- Efetivo<br/>de 01/02/2023 até 31/01/2027 (Em exercício em 01/02/2023) <br/><br />",
+ "partidosLegislatura": "PSDB    <br/>",
+ "anoEleicaoLegislatura": "2022",
+ "situacaoTerminoLegislatura": "Em exercício"
+}

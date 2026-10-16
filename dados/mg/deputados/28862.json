@@ -1,0 +1,121 @@
+{
+ "id": 28862,
+ "nome": "Caporezzo",
+ "partido": "PL",
+ "tagLocalizacao": 5955,
+ "cargoRepresentacaoPartidaria": "Vice-Líder da Bancada PL",
+ "liderancas": [
+  {
+   "categoria": "BANCADA",
+   "cargo": "Vice-Líder",
+   "idRepresentacao": 89,
+   "nomeRepresentacao": "PL"
+  }
+ ],
+ "dataCargoRepresentacaoPartidaria": {
+  "@class": "sql-timestamp",
+  "$": "2026-02-02"
+ },
+ "sexo": "M",
+ "situacao": "Em exercício",
+ "inicioSituacao": {
+  "@class": "sql-timestamp",
+  "$": "2023-02-01"
+ },
+ "tipoMandato": "Efetivo",
+ "nomeServidor": "CRISTIANO CAPOREZZO ARAÚJO PIRES FERREIRA",
+ "naturalidadeMunicipio": "Currais Novos",
+ "naturalidadeUf": "RN",
+ "dataNascimento": "24/06/1988",
+ "apresentarEmail": "G",
+ "codigoSituacao": 1,
+ "partidoEleicao": "PL",
+ "emails": [
+  {
+   "tipo": "1",
+   "endereco": "dep.caporezzo"
+  }
+ ],
+ "vidaProfissionalPolitica": "Bacharel em Direito, policial militar, cristão e conservador. Assume em 2023 seu primeiro mandato na ALMG, após exercer mandato de vereador pela cidade de Uberlândia (Triângulo), tendo sido o candidato conservador mais votado no município em 2020. É defensor da liberdade, da família, da segurança pública, anticomunista, armamentista, contrário à legalização das drogas, pró-vida (contra o aborto), defensor do agronegócio e do livre mercado.  Por 12 anos serviu na Polícia Militar de Minas Gerais (PMMG), na qual tem a graduação de cabo. Atualmente, além de vereador, é coordenador do movimento Direita Minas. Na Câmara de Uberlândia, atuou diretamente na defesa do conservadorismo e dos valores tradicionais do povo mineiro, sendo também parceiro de entidades como a Associação de Assistência à Criança Deficiente (AACD) e Associações de Pais e Amigos dos Excepcionais (Apaes), o que deve se repetir no Parlamento Mineiro.",
+ "atuacaoParlamentar": "Assume, em 2023, seu primeiro mandato na Assembleia Legislativa de Minas Gerais.",
+ "candidaturas": [
+  {
+   "legislatura": 20,
+   "numeroCandidato": 22038
+  }
+ ],
+ "filiacoes": [
+  {
+   "dataInicio": {
+    "@class": "sql-timestamp",
+    "$": "2022-10-02"
+   },
+   "dataTermino": {
+    "@class": "sql-timestamp",
+    "$": "2999-12-31"
+   },
+   "partido": {
+    "id": 89,
+    "sigla": "PL"
+   }
+  }
+ ],
+ "enderecos": [
+  {
+   "logradouro": "Rua Rodrigues Caldas",
+   "numero": "30",
+   "complemento": "Palácio da Inconfidência - 2º andar - conjunto 202",
+   "bairro": "Santo Agostinho",
+   "cep": "30190921",
+   "municipio": {
+    "nome": "Belo Horizonte",
+    "uf": "MG",
+    "codigoIbge9": 310620005
+   },
+   "descTipo": "Gabinete",
+   "telefones": [
+    {
+     "ddd": "31",
+     "numero": "21085115",
+     "fax": "S"
+    },
+    {
+     "ddd": "31",
+     "numero": "21085120",
+     "fax": "N"
+    }
+   ]
+  }
+ ],
+ "legislaturas": [
+  {
+   "numeroLegislatura": 20,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2023-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2027-01-31"
+   },
+   "tipoMandato": "Efetivo",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2023-02-01"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2027-01-31"
+     }
+    }
+   ]
+  }
+ ],
+ "situacaoLegislaturas": "20&ordf; - 2023-2027- Efetivo<br/>de 01/02/2023 até 31/01/2027 (Em exercício em 01/02/2023) <br/><br />",
+ "partidosLegislatura": "PL    <br/>",
+ "anoEleicaoLegislatura": "2022",
+ "situacaoTerminoLegislatura": "Em exercício"
+}

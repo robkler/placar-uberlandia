@@ -1,0 +1,163 @@
+{
+ "id": 19150,
+ "nome": "Ana Paula Siqueira",
+ "partido": "PT",
+ "tagLocalizacao": 3895,
+ "cargoRepresentacaoPartidaria": "Vice-Líder da Bancada Feminina",
+ "liderancas": [
+  {
+   "categoria": "GRUPO_PARLAMENTAR",
+   "cargo": "Vice-Líder",
+   "idRepresentacao": 1,
+   "nomeRepresentacao": "Bancada Feminina"
+  }
+ ],
+ "dataCargoRepresentacaoPartidaria": {
+  "@class": "sql-timestamp",
+  "$": "2025-03-25"
+ },
+ "sexo": "F",
+ "situacao": "Em exercício",
+ "inicioSituacao": {
+  "@class": "sql-timestamp",
+  "$": "2023-02-01"
+ },
+ "tipoMandato": "Efetivo",
+ "nomeServidor": "ANA PAULA SIQUEIRA",
+ "naturalidadeMunicipio": "Belo Horizonte",
+ "naturalidadeUf": "MG",
+ "dataNascimento": "02/02/1980",
+ "codigoSituacao": 1,
+ "partidoEleicao": "REDE",
+ "emails": [
+  {
+   "tipo": "1",
+   "endereco": "dep.ana.paula.siqueira"
+  }
+ ],
+ "vidaProfissionalPolitica": "Ana Paula Siqueira é graduada em Serviço Social pela Pontifícia Universidade Católica de Minas Gerais (PUC-MG). É professora normalista pelo Instituto de Educação de Minas Gerais (IEMG). Deputada em segundo mandato, é negra e fez parte da primeira legislatura da Assembleia de Minas Gerais a eleger mulheres negras. É natural de Belo Horizonte, do Alto Vera Cruz, região periférica da Capital. Mãe de três filhos, pautou em seu primeiro ano de legislatura a implantação da licença-maternidade na Assembleia, como fortalecimento do processo de inclusão das mulheres na política. É nomeada pela Arquidiocese de Belo Horizonte como membro da Comissão Arquidiocesana de Justiça e Paz (CAJP). Foi secretária de Participação Popular da Prefeitura de Belo Horizonte, responsável pelo Orçamento Participativo. Foi coordenadora-geral da Associação Pré-UFMG, instituição responsável pela inserção de milhares de jovens de baixa renda em universidades públicas.",
+ "atuacaoParlamentar": "Assume, em 2023, seu segundo mandato na Assembleia Legislativa de Minas Gerais. Na 19ª Legislatura, foi presidenta da Comissão de Defesa dos Diretos da Mulher, além de ter sido integrante da Comissão de Combate e Prevenção ao Uso do Crack e Outras Drogas. Integrou também as comissões de Constituição e Justiça; do Trabalho, Previdência e Assistência Social e de Defesa dos Direitos da Pessoa com Deficiência.\r\n\r\nÉ coordenadora das Frentes Parlamentares em Defesa dos Direitos da Criança e do Adolescente; em Defesa dos Povos Indígenas, Quilombolas e Demais Comunidades Tradicionais; em Defesa da Engenharia, da Infraestrutura, do Desenvolvimento e dos Profissionais do Setor; em Defesa do Meio Ambiente e em Defesa do Saneamento Básico e da Saúde Pública. Também integra as Frentes Parlamentares em Defesa da Agroecologia, Agricultura Familiar e Segurança Alimentar e em Defesa da Ciência, Pesquisa e Tecnologia, entre outras.\r\n\r\nEntre os projetos que já apresentou e foram aprovados, transformando-se em leis, destaca-se a Lei 23.680, de 2020, que cria um banco de empregos para mulheres vítimas de violência doméstica. Também é de autoria do seu mandato anterior a Lei 23.791, de 2021, que valoriza e incentiva a profissão das cuidadoras e cuidadores de idosos.",
+ "candidaturas": [
+  {
+   "legislatura": 19,
+   "numeroCandidato": 18444
+  },
+  {
+   "legislatura": 20,
+   "numeroCandidato": 18444
+  }
+ ],
+ "filiacoes": [
+  {
+   "dataInicio": {
+    "@class": "sql-timestamp",
+    "$": "2018-10-07"
+   },
+   "dataTermino": {
+    "@class": "sql-timestamp",
+    "$": "2026-03-18"
+   },
+   "partido": {
+    "id": 96,
+    "sigla": "REDE"
+   }
+  },
+  {
+   "dataInicio": {
+    "@class": "sql-timestamp",
+    "$": "2026-03-19"
+   },
+   "dataTermino": {
+    "@class": "sql-timestamp",
+    "$": "2999-12-31"
+   },
+   "partido": {
+    "id": 13,
+    "sigla": "PT"
+   }
+  }
+ ],
+ "enderecos": [
+  {
+   "logradouro": "Rua Rodrigues Caldas",
+   "numero": "79",
+   "complemento": "Edifício Tiradentes - 21º andar - sala 2",
+   "bairro": "Santo Agostinho",
+   "cep": "30190120",
+   "municipio": {
+    "nome": "Belo Horizonte",
+    "uf": "MG",
+    "codigoIbge9": 310620005
+   },
+   "descTipo": "Gabinete",
+   "telefones": [
+    {
+     "ddd": "31",
+     "numero": "21085835",
+     "fax": "N"
+    },
+    {
+     "ddd": "31",
+     "numero": "21085836",
+     "fax": "S"
+    }
+   ]
+  }
+ ],
+ "legislaturas": [
+  {
+   "numeroLegislatura": 19,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2019-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2023-01-31"
+   },
+   "tipoMandato": "Efetiva",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2019-02-01"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2023-01-31"
+     }
+    }
+   ]
+  },
+  {
+   "numeroLegislatura": 20,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2023-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2027-01-31"
+   },
+   "tipoMandato": "Efetiva",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2023-02-01"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2027-01-31"
+     }
+    }
+   ]
+  }
+ ],
+ "situacaoLegislaturas": "19&ordf; - 2019-2023- Efetiva<br/>de 01/02/2019 até 31/01/2023 (Em exercício em 01/02/2019) <br/><br />20&ordf; - 2023-2027- Efetiva<br/>de 01/02/2023 até 31/01/2027 (Em exercício em 01/02/2023) <br/><br />",
+ "partidosLegislatura": "REDE   até 18/03/2026<br/>PT desde 19/03/2026  <br/>",
+ "anoEleicaoLegislatura": "2022",
+ "situacaoTerminoLegislatura": "Em exercício"
+}

@@ -1,0 +1,228 @@
+{
+ "id": 18867,
+ "nome": "Ulysses Gomes",
+ "partido": "PT",
+ "tagLocalizacao": 1011,
+ "cargoRepresentacaoPartidaria": "Líder do Bloco Democracia e Luta",
+ "liderancas": [
+  {
+   "categoria": "BLOCO",
+   "cargo": "Líder",
+   "idRepresentacao": 58,
+   "nomeRepresentacao": "Bloco Democracia e Luta"
+  }
+ ],
+ "dataCargoRepresentacaoPartidaria": {
+  "@class": "sql-timestamp",
+  "$": "2026-02-02"
+ },
+ "sexo": "M",
+ "situacao": "Em exercício",
+ "inicioSituacao": {
+  "@class": "sql-timestamp",
+  "$": "2023-02-01"
+ },
+ "tipoMandato": "Efetivo",
+ "nomeServidor": "ULYSSES GOMES DE OLIVEIRA NETO",
+ "naturalidadeMunicipio": "Itajubá",
+ "naturalidadeUf": "MG",
+ "dataNascimento": "27/06/1977",
+ "apresentarEmail": "G",
+ "atividadeProfissional": "Gestor e administrador público",
+ "codigoSituacao": 1,
+ "partidoEleicao": "PT",
+ "emails": [
+  {
+   "tipo": "1",
+   "endereco": "dep.ulysses.gomes"
+  }
+ ],
+ "vidaProfissionalPolitica": "É graduado em Administração Pública e também formou-se em Metalurgia pelo Senai. Foi vereador em Itajubá de 2002 a 2004 e chefe do gabinete do deputado federal Odair Cunha, em Brasília, a partir de 2005. \r\n\r\nFoi coordenador diocesano da Pastoral da Juventude da Arquidiocese de Pouso Alegre (1999), fundador do Diretório Central dos Estudantes da Fundação de Ensino e Pesquisa de Itajubá e membro da Coordenação da Frente Estadual dos Direitos da Criança e do Adolescente (2000).\r\n\r\nPrincipal região de atuação política é o Sul de Minas, atuando também no Sudoeste e Centro-Oeste mineiros.",
+ "atuacaoParlamentar": "Assume, em 2023, seu quarto mandato na Assembleia Legislativa de Minas Gerais. É líder do bloco de oposição formado pelas federações PT-PV-PCdoB e Rede-PSOL. Na 19ª Legislatura, foi vice-presidente da CPI dos Fura-Filas da Vacinação e membro da Comissão de Fiscalização Financeira e Orçamentária. Na 18ª Legislatura, integrou as comissões de Fiscalização Financeira e Orçamentária e de Esporte, Lazer e Juventude. Foi também 1º-secretário da Mesa da Assembleia, entre 2015 e 2017.",
+ "candidaturas": [
+  {
+   "legislatura": 17,
+   "numeroCandidato": 13077
+  },
+  {
+   "legislatura": 18,
+   "numeroCandidato": 13077
+  },
+  {
+   "legislatura": 19,
+   "numeroCandidato": 13077
+  },
+  {
+   "legislatura": 20,
+   "numeroCandidato": 13077
+  }
+ ],
+ "filiacoes": [
+  {
+   "dataInicio": {
+    "@class": "sql-timestamp",
+    "$": "2010-10-03"
+   },
+   "dataTermino": {
+    "@class": "sql-timestamp",
+    "$": "2999-12-31"
+   },
+   "partido": {
+    "id": 13,
+    "sigla": "PT"
+   }
+  }
+ ],
+ "enderecos": [
+  {
+   "logradouro": "Avenida Dr. Henriqueto Cardinalli",
+   "numero": "949",
+   "bairro": "Bairro Varginha",
+   "cep": "37501168",
+   "municipio": {
+    "nome": "Itajubá",
+    "uf": "MG",
+    "codigoIbge9": 313240005
+   },
+   "descTipo": "Escritório Político",
+   "telefones": [
+    {
+     "ddd": "35",
+     "numero": "97457377",
+     "fax": "N"
+    }
+   ]
+  },
+  {
+   "logradouro": "Rua Rodrigues Caldas",
+   "numero": "30",
+   "complemento": "Palácio da Inconfidência - 2º andar - conjunto 220",
+   "bairro": "Santo Agostinho",
+   "cep": "30190921",
+   "municipio": {
+    "nome": "Belo Horizonte",
+    "uf": "MG",
+    "codigoIbge9": 310620005
+   },
+   "descTipo": "Gabinete",
+   "telefones": [
+    {
+     "ddd": "31",
+     "numero": "21085855",
+     "fax": "N"
+    },
+    {
+     "ddd": "31",
+     "numero": "21085859",
+     "fax": "S"
+    }
+   ]
+  }
+ ],
+ "legislaturas": [
+  {
+   "numeroLegislatura": 17,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2011-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2015-01-31"
+   },
+   "tipoMandato": "Efetivo",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2011-02-01"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2015-01-31"
+     }
+    }
+   ]
+  },
+  {
+   "numeroLegislatura": 18,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2015-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2019-01-31"
+   },
+   "tipoMandato": "Efetivo",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2015-02-01"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2019-01-31"
+     }
+    }
+   ]
+  },
+  {
+   "numeroLegislatura": 19,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2019-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2023-01-31"
+   },
+   "tipoMandato": "Efetivo",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2019-02-01"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2023-01-31"
+     }
+    }
+   ]
+  },
+  {
+   "numeroLegislatura": 20,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2023-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2027-01-31"
+   },
+   "tipoMandato": "Efetivo",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2023-02-01"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2027-01-31"
+     }
+    }
+   ]
+  }
+ ],
+ "situacaoLegislaturas": "17&ordf; - 2011-2015- Efetivo<br/>de 01/02/2011 até 31/01/2015 (Em exercício em 01/02/2011) <br/><br />18&ordf; - 2015-2019- Efetivo<br/>de 01/02/2015 até 31/01/2019 (Em exercício em 01/02/2015) <br/><br />19&ordf; - 2019-2023- Efetivo<br/>de 01/02/2019 até 31/01/2023 (Em exercício em 01/02/2019) <br/><br />20&ordf; - 2023-2027- Efetivo<br/>de 01/02/2023 até 31/01/2027 (Em exercício em 01/02/2023) <br/><br />",
+ "partidosLegislatura": "PT    <br/>",
+ "anoEleicaoLegislatura": "2022",
+ "situacaoTerminoLegislatura": "Em exercício"
+}

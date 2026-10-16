@@ -1,0 +1,223 @@
+{
+ "id": 22515,
+ "nome": "Thiago Cota",
+ "partido": "PDT",
+ "tagLocalizacao": 1691,
+ "sexo": "M",
+ "situacao": "Em exercício",
+ "inicioSituacao": {
+  "@class": "sql-timestamp",
+  "$": "2023-02-01"
+ },
+ "tipoMandato": "Efetivo",
+ "nomeServidor": "THIAGO FELLIPE MOTTA COTA",
+ "naturalidadeMunicipio": "Mariana",
+ "naturalidadeUf": "MG",
+ "dataNascimento": "9/3/1985",
+ "atividadeProfissional": "Advogado",
+ "codigoSituacao": 1,
+ "partidoEleicao": "PDT",
+ "emails": [
+  {
+   "tipo": "1",
+   "endereco": "dep.thiago.cota"
+  }
+ ],
+ "vidaProfissionalPolitica": "Graduado em Direito, tem MBA em Gestão de Negócios, MBA Executivo em Gestão Pública, pós graduado em Ciências Políticas. Em 2005, ingressou na assessoria da Associação Mineira de Municípios (AMM). Nascido em Mariana (Região Central), Thiago Cota, foi diretor técnico da Fundação Rural Mineira (Ruralminas), entre 2010 e 2014.",
+ "atuacaoParlamentar": "Assume, em 2023, seu terceiro mandato na Assembleia Legislativa de Minas Gerais (ALMG). Na 19ª Legislatura, presidiu a Comissão de Desenvolvimento Econômico. Na 18ª Legislatura, foi vice-presidente da Comissão de Meio Ambiente e Desenvolvimento Sustentável e membro da Comissão de Educação Ciência e Tecnologia. Integrou também a Comissão Extraordinária das Barragens, que atuou entre novembro de 2015 e julho de 2016, em consequência do rompimento da barragem de Fundão, em Mariana (Região Central). No primeiro biênio dessa mesma legislatura, foi vice-líder do Bloco Compromisso com Minas.",
+ "condecoracao": "Medalha da Inconfidência (2015), Medalha de Mérito de Defesa Civil (2015), Medalha do Dia do Estado de Minas Gerais (2015), Medalha do Mérito Judiciário Militar (2015), Medalha Alferes Tiradentes (2016), Medalha da Ordem do Mérito Imperador (2016), Medalha do Mérito Legislativo Especial (2018), Medalha de Honra Presidente Juscelino Kubitschek (2019).",
+ "candidaturas": [
+  {
+   "legislatura": 18,
+   "numeroCandidato": 23456
+  },
+  {
+   "legislatura": 19,
+   "numeroCandidato": 15456
+  },
+  {
+   "legislatura": 20,
+   "numeroCandidato": 12000
+  }
+ ],
+ "filiacoes": [
+  {
+   "dataInicio": {
+    "@class": "sql-timestamp",
+    "$": "2015-02-01"
+   },
+   "dataTermino": {
+    "@class": "sql-timestamp",
+    "$": "2015-12-04"
+   },
+   "partido": {
+    "id": 23,
+    "sigla": "PPS"
+   }
+  },
+  {
+   "dataInicio": {
+    "@class": "sql-timestamp",
+    "$": "2015-12-05"
+   },
+   "dataTermino": {
+    "@class": "sql-timestamp",
+    "$": "2016-02-29"
+   },
+   "partido": {
+    "id": 95,
+    "sigla": "PMB"
+   }
+  },
+  {
+   "dataInicio": {
+    "@class": "sql-timestamp",
+    "$": "2016-03-01"
+   },
+   "dataTermino": {
+    "@class": "sql-timestamp",
+    "$": "2018-05-14"
+   },
+   "partido": {
+    "id": 15,
+    "sigla": "PMDB"
+   }
+  },
+  {
+   "dataInicio": {
+    "@class": "sql-timestamp",
+    "$": "2018-05-15"
+   },
+   "dataTermino": {
+    "@class": "sql-timestamp",
+    "$": "2022-03-31"
+   },
+   "partido": {
+    "id": 72,
+    "sigla": "MDB"
+   }
+  },
+  {
+   "dataInicio": {
+    "@class": "sql-timestamp",
+    "$": "2022-04-01"
+   },
+   "dataTermino": {
+    "@class": "sql-timestamp",
+    "$": "2999-12-31"
+   },
+   "partido": {
+    "id": 12,
+    "sigla": "PDT"
+   }
+  }
+ ],
+ "enderecos": [
+  {
+   "logradouro": "Rua Rodrigues Caldas",
+   "numero": "30",
+   "complemento": "Palácio da Inconfidência - 2º andar - conjunto 245",
+   "bairro": "Santo Agostinho",
+   "cep": "30190120",
+   "municipio": {
+    "nome": "Belo Horizonte",
+    "uf": "MG",
+    "codigoIbge9": 310620005
+   },
+   "descTipo": "Gabinete",
+   "telefones": [
+    {
+     "ddd": "31",
+     "numero": "21085385",
+     "fax": "N"
+    },
+    {
+     "ddd": "31",
+     "numero": "21085386",
+     "fax": "S"
+    }
+   ]
+  }
+ ],
+ "legislaturas": [
+  {
+   "numeroLegislatura": 18,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2015-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2019-01-31"
+   },
+   "tipoMandato": "Efetivo",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2015-02-01"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2019-01-31"
+     }
+    }
+   ]
+  },
+  {
+   "numeroLegislatura": 19,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2019-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2023-01-31"
+   },
+   "tipoMandato": "Efetivo",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2019-02-01"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2023-01-31"
+     }
+    }
+   ]
+  },
+  {
+   "numeroLegislatura": 20,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2023-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2027-01-31"
+   },
+   "tipoMandato": "Efetivo",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2023-02-01"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2027-01-31"
+     }
+    }
+   ]
+  }
+ ],
+ "situacaoLegislaturas": "18&ordf; - 2015-2019- Efetivo<br/>de 01/02/2015 até 31/01/2019 (Em exercício em 01/02/2015) <br/><br />19&ordf; - 2019-2023- Efetivo<br/>de 01/02/2019 até 31/01/2023 (Em exercício em 01/02/2019) <br/><br />20&ordf; - 2023-2027- Efetivo<br/>de 01/02/2023 até 31/01/2027 (Em exercício em 01/02/2023) <br/><br />",
+ "partidosLegislatura": "PDT    <br/>",
+ "anoEleicaoLegislatura": "2022",
+ "situacaoTerminoLegislatura": "Em exercício"
+}

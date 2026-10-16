@@ -1,0 +1,177 @@
+{
+ "id": 26148,
+ "nome": "Bruno Engler",
+ "partido": "PL",
+ "tagLocalizacao": 3901,
+ "cargoRepresentacaoPartidaria": "Líder da Bancada PL",
+ "liderancas": [
+  {
+   "categoria": "BANCADA",
+   "cargo": "Líder",
+   "idRepresentacao": 89,
+   "nomeRepresentacao": "PL"
+  }
+ ],
+ "dataCargoRepresentacaoPartidaria": {
+  "@class": "sql-timestamp",
+  "$": "2026-02-02"
+ },
+ "sexo": "M",
+ "situacao": "Em exercício",
+ "inicioSituacao": {
+  "@class": "sql-timestamp",
+  "$": "2023-02-01"
+ },
+ "tipoMandato": "Efetivo",
+ "nomeServidor": "BRUNO DE CASTRO ENGLER FLORENCIO DE ALMEIDA",
+ "naturalidadeMunicipio": "Curitiba",
+ "naturalidadeUf": "PR",
+ "dataNascimento": "17/06/1997",
+ "codigoSituacao": 1,
+ "partidoEleicao": "PL",
+ "emails": [
+  {
+   "tipo": "1",
+   "endereco": "dep.bruno.engler"
+  }
+ ],
+ "vidaProfissionalPolitica": "Bruno Engler é coordenador do Movimento Direita Minas, dedicado à retomada cultural e à promoção dos valores conservadores em Minas Gerais. A Direita Minas possui núcleos na região metropolitana de Belo Horizonte e em mais de 60 cidades do Estado. O deputado obteve 120.252 votos distribuídos em todo o Estado, sendo o terceiro mais votado para a 19ª legislatura. Em seu mandato na Assembleia, pretende priorizar a retomada cultural, por meio da defesa dos agentes de segurança, a militarização de escolas públicas com problemas de disciplina e baixo desempenho, lutar contra a ideologia de gênero, inversão de valores, doutrinação nas escolas e privilégios dos políticos.",
+ "atuacaoParlamentar": "Assume, em 2023, seu segundo mandato na Assembleia Legislativa de Minas Gerais. Na 19ª Legislatura, foi vice-presidente da Comissão Extraordinária das Privatizações, além de ter atuado como membro das comissões de Constituição e Justiça e de Segurança Pública.",
+ "candidaturas": [
+  {
+   "legislatura": 19,
+   "numeroCandidato": 17200
+  },
+  {
+   "legislatura": 20,
+   "numeroCandidato": 22222
+  }
+ ],
+ "filiacoes": [
+  {
+   "dataInicio": {
+    "@class": "sql-timestamp",
+    "$": "2018-10-07"
+   },
+   "dataTermino": {
+    "@class": "sql-timestamp",
+    "$": "2020-04-01"
+   },
+   "partido": {
+    "id": 17,
+    "sigla": "PSL"
+   }
+  },
+  {
+   "dataInicio": {
+    "@class": "sql-timestamp",
+    "$": "2020-04-02"
+   },
+   "dataTermino": {
+    "@class": "sql-timestamp",
+    "$": "2022-03-20"
+   },
+   "partido": {
+    "id": 28,
+    "sigla": "PRTB"
+   }
+  },
+  {
+   "dataInicio": {
+    "@class": "sql-timestamp",
+    "$": "2022-03-21"
+   },
+   "dataTermino": {
+    "@class": "sql-timestamp",
+    "$": "2999-12-31"
+   },
+   "partido": {
+    "id": 89,
+    "sigla": "PL"
+   }
+  }
+ ],
+ "enderecos": [
+  {
+   "logradouro": "Rua Rodrigues Caldas",
+   "numero": "30",
+   "complemento": "Palácio da Inconfidência - andar SE - conjunto 2",
+   "bairro": "Santo Agostinho",
+   "cep": "30190921",
+   "municipio": {
+    "nome": "Belo Horizonte",
+    "uf": "MG",
+    "codigoIbge9": 310620005
+   },
+   "descTipo": "Gabinete",
+   "telefones": [
+    {
+     "ddd": "31",
+     "numero": "21085375",
+     "fax": "N"
+    },
+    {
+     "ddd": "31",
+     "numero": "21085376",
+     "fax": "S"
+    }
+   ]
+  }
+ ],
+ "legislaturas": [
+  {
+   "numeroLegislatura": 19,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2019-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2023-01-31"
+   },
+   "tipoMandato": "Efetivo",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2019-02-01"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2023-01-31"
+     }
+    }
+   ]
+  },
+  {
+   "numeroLegislatura": 20,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2023-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2027-01-31"
+   },
+   "tipoMandato": "Efetivo",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2023-02-01"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2027-01-31"
+     }
+    }
+   ]
+  }
+ ],
+ "situacaoLegislaturas": "19&ordf; - 2019-2023- Efetivo<br/>de 01/02/2019 até 31/01/2023 (Em exercício em 01/02/2019) <br/><br />20&ordf; - 2023-2027- Efetivo<br/>de 01/02/2023 até 31/01/2027 (Em exercício em 01/02/2023) <br/><br />",
+ "partidosLegislatura": "PL    <br/>",
+ "anoEleicaoLegislatura": "2022",
+ "situacaoTerminoLegislatura": "Em exercício"
+}

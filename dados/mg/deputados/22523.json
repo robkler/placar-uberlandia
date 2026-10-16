@@ -1,0 +1,178 @@
+{
+ "id": 22523,
+ "nome": "Cristiano Silveira",
+ "partido": "PT",
+ "tagLocalizacao": 1672,
+ "cargoRepresentacaoPartidaria": "Líder da da Minoria",
+ "liderancas": [
+  {
+   "categoria": "MINORIA",
+   "cargo": "Líder",
+   "nomeRepresentacao": "Liderança da Minoria"
+  }
+ ],
+ "dataCargoRepresentacaoPartidaria": {
+  "@class": "sql-timestamp",
+  "$": "2026-02-02"
+ },
+ "sexo": "M",
+ "situacao": "Em exercício",
+ "inicioSituacao": {
+  "@class": "sql-timestamp",
+  "$": "2023-02-01"
+ },
+ "tipoMandato": "Efetivo",
+ "nomeServidor": "CRISTIANO TADEU DA SILVEIRA",
+ "naturalidadeMunicipio": "São João del Rei",
+ "naturalidadeUf": "MG",
+ "dataNascimento": "26/5/1978",
+ "atividadeProfissional": "Graduado em Filosofia",
+ "codigoSituacao": 1,
+ "partidoEleicao": "PT",
+ "emails": [
+  {
+   "tipo": "1",
+   "endereco": "dep.cristiano.silveira"
+  }
+ ],
+ "vidaProfissionalPolitica": "Natural de São João del-Rei (Central), é graduado em Filosofia e pós graduado em Planejamento e Gestão Estratégica. Iniciou sua carreira política como líder estudantil da União Municipal dos Estudantes (Umes), do Diretório Central dos Estudantes (DCE) e da União Estadual dos estudantes (UEE). Em 2000, foi eleito, aos 22 anos, vereador de São João del-Rei, sendo o mais jovem político eleito na história da cidade. \r\nEm 2004, elegeu-se vice-prefeito do município. Atuou como coordenador da Comissão Regional de Segurança Alimentar do Campo das Vertentes, durante dois mandatos. Entre 2009 e 2011, foi consultor da Unesco no monitoramento das ações de prevenção e enfrentamento à criminalidade em Minas Gerais por meio do Programa Nacional de Segurança Pública com Cidadania (Pronasci) do Ministério da Justiça.",
+ "atuacaoParlamentar": "Reeleito para seu terceiro mandato na Assembleia Legislativa de Minas Gerais (ALMG). Na 19ª Legislatura, foi o 2º-vice-presidente da Assembleia no biênio 2019-2021. A partir do segundo biênio, atuou como membro da Comissão de Constituição e Justiça e da Comissão de Cultura. Na 18ª Legislatura, foi presidente da Comissão de Direitos Humanos e membro da Comissão de Administração Pública.",
+ "candidaturas": [
+  {
+   "legislatura": 18,
+   "numeroCandidato": 13120
+  },
+  {
+   "legislatura": 19,
+   "numeroCandidato": 13120
+  },
+  {
+   "legislatura": 20,
+   "numeroCandidato": 13120
+  }
+ ],
+ "filiacoes": [
+  {
+   "dataInicio": {
+    "@class": "sql-timestamp",
+    "$": "2015-02-01"
+   },
+   "dataTermino": {
+    "@class": "sql-timestamp",
+    "$": "2999-12-31"
+   },
+   "partido": {
+    "id": 13,
+    "sigla": "PT"
+   }
+  }
+ ],
+ "enderecos": [
+  {
+   "logradouro": "Rua Rodrigues Caldas",
+   "numero": "79",
+   "complemento": "Edifício Tiradentes - 17º andar - sala 1",
+   "bairro": "Santo Agostinho",
+   "cep": "30190120",
+   "municipio": {
+    "nome": "Belo Horizonte",
+    "uf": "MG",
+    "codigoIbge9": 310620005
+   },
+   "descTipo": "Gabinete",
+   "telefones": [
+    {
+     "ddd": "31",
+     "numero": "21085085",
+     "fax": "N"
+    },
+    {
+     "ddd": "31",
+     "numero": "21085086",
+     "fax": "S"
+    }
+   ]
+  }
+ ],
+ "legislaturas": [
+  {
+   "numeroLegislatura": 18,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2015-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2019-01-31"
+   },
+   "tipoMandato": "Efetivo",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2015-02-01"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2019-01-31"
+     }
+    }
+   ]
+  },
+  {
+   "numeroLegislatura": 19,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2019-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2023-01-31"
+   },
+   "tipoMandato": "Efetivo",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2019-02-01"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2023-01-31"
+     }
+    }
+   ]
+  },
+  {
+   "numeroLegislatura": 20,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2023-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2027-01-31"
+   },
+   "tipoMandato": "Efetivo",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2023-02-01"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2027-01-31"
+     }
+    }
+   ]
+  }
+ ],
+ "situacaoLegislaturas": "18&ordf; - 2015-2019- Efetivo<br/>de 01/02/2015 até 31/01/2019 (Em exercício em 01/02/2015) <br/><br />19&ordf; - 2019-2023- Efetivo<br/>de 01/02/2019 até 31/01/2023 (Em exercício em 01/02/2019) <br/><br />20&ordf; - 2023-2027- Efetivo<br/>de 01/02/2023 até 31/01/2027 (Em exercício em 01/02/2023) <br/><br />",
+ "partidosLegislatura": "PT    <br/>",
+ "anoEleicaoLegislatura": "2022",
+ "situacaoTerminoLegislatura": "Em exercício"
+}

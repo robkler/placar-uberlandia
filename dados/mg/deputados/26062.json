@@ -1,0 +1,156 @@
+{
+ "id": 26062,
+ "nome": "Charles Santos",
+ "partido": "REPUBLICANOS",
+ "tagLocalizacao": 3902,
+ "cargoMesa": "3º-Secretário",
+ "dataCargoMesa": {
+  "@class": "sql-timestamp",
+  "$": "2026-10-14"
+ },
+ "sexo": "M",
+ "situacao": "Em exercício",
+ "inicioSituacao": {
+  "@class": "sql-timestamp",
+  "$": "2023-02-01"
+ },
+ "tipoMandato": "Efetivo",
+ "nomeServidor": "CHARLES DOS SANTOS",
+ "naturalidadeMunicipio": "Cabo Frio",
+ "naturalidadeUf": "RJ",
+ "dataNascimento": "7/9/1974",
+ "codigoSituacao": 1,
+ "partidoEleicao": "REPUBLICANOS",
+ "emails": [
+  {
+   "tipo": "1",
+   "endereco": "dep.charlessantos"
+  }
+ ],
+ "vidaProfissionalPolitica": "Bacharel em Teologia e pós-graduado em Ciências Políticas e Gestão Pública e Compliance. Integrou a Diretoria do Jornal Hoje em Dia, assumindo como Diretor de Mercado Leitor, impulsionando a circulação do tablóide para diversos municípios mineiros, bem como para os Estados do Rio de Janeiro, de São Paulo e do Distrito Federal.",
+ "atuacaoParlamentar": "Assume, em 2023, seu segundo mandato na Assembleia Legislativa de Minas Gerais. Na 19ª Legislatura, foi vice-presidente da Comissão de Constituição e Justiça e membro efetivo da Comissão de Transporte, Comunicação e Obras Públicas. É autor de inúmeros projetos que se tornaram leis de grande relevância para o Estado, sendo igualmente de sua iniciativa a criação da Frente Parlamentar de Enfrentamento à Automutilação, à Depressão e ao Suicídio.",
+ "condecoracao": "Cidadão Honorário de Uberaba; Cidadão Honorário de Sete Lagoas; Cidadão Honorário de Mariana; Cidadão Honorário de Juiz de Fora; Cidadão Honorário de Coronel Fabriciano; Cidadão Honorário de Minas Gerais; Cidadão Honorário de Passos; Cidadão Honorário de Ouro Preto; Cidadão Honorário de Lavras; Cidadão Honorário de Santos Dumont; Comenda Augusto César (Uberlândia); Comenda Martins da Costa (Muriaé); Diploma de Honra ao Mérito (Malacacheta); Grande Colar do Mérito Legislativo; Grande Medalha do Mérito de Sete Lagoas; Medalha de Honra ao Mérito SINPEF (Sindicato dos Policiais Federais de Minas Gerais); Medalha Presidente Juscelino Kubitschek (Diamantina); Medalha Francisco Homem Del Rey (Itabirito); Medalha Senador José Vieira Marques (Santos Dumont); Medalha da Inconfidência; Medalha Lund (Lagoa Santa); Medalha Ordem do Mérito Legislativo  de Minas Gerais.",
+ "candidaturas": [
+  {
+   "legislatura": 19,
+   "numeroCandidato": 10100
+  },
+  {
+   "legislatura": 20,
+   "numeroCandidato": 10100
+  }
+ ],
+ "filiacoes": [
+  {
+   "dataInicio": {
+    "@class": "sql-timestamp",
+    "$": "2018-10-07"
+   },
+   "dataTermino": {
+    "@class": "sql-timestamp",
+    "$": "2019-08-14"
+   },
+   "partido": {
+    "id": 10,
+    "sigla": "PRB"
+   }
+  },
+  {
+   "dataInicio": {
+    "@class": "sql-timestamp",
+    "$": "2019-08-15"
+   },
+   "dataTermino": {
+    "@class": "sql-timestamp",
+    "$": "2999-12-31"
+   },
+   "partido": {
+    "id": 9,
+    "sigla": "REPUBLICANOS"
+   }
+  }
+ ],
+ "enderecos": [
+  {
+   "logradouro": "Rua Rodrigues Caldas",
+   "numero": "30",
+   "complemento": "Palácio da Inconfidência - 2º andar - conjunto 207",
+   "bairro": "Santo Agostinho",
+   "cep": "30190921",
+   "municipio": {
+    "nome": "Belo Horizonte",
+    "uf": "MG",
+    "codigoIbge9": 310620005
+   },
+   "descTipo": "Gabinete",
+   "telefones": [
+    {
+     "ddd": "31",
+     "numero": "21085270",
+     "fax": "N"
+    },
+    {
+     "ddd": "31",
+     "numero": "21085272",
+     "fax": "S"
+    }
+   ]
+  }
+ ],
+ "legislaturas": [
+  {
+   "numeroLegislatura": 19,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2019-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2023-01-31"
+   },
+   "tipoMandato": "Efetivo",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2019-02-01"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2023-01-31"
+     }
+    }
+   ]
+  },
+  {
+   "numeroLegislatura": 20,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2023-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2027-01-31"
+   },
+   "tipoMandato": "Efetivo",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2023-02-01"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2027-01-31"
+     }
+    }
+   ]
+  }
+ ],
+ "situacaoLegislaturas": "19&ordf; - 2019-2023- Efetivo<br/>de 01/02/2019 até 31/01/2023 (Em exercício em 01/02/2019) <br/><br />20&ordf; - 2023-2027- Efetivo<br/>de 01/02/2023 até 31/01/2027 (Em exercício em 01/02/2023) <br/><br />",
+ "partidosLegislatura": "REPUBLICANOS    <br/>",
+ "anoEleicaoLegislatura": "2022",
+ "situacaoTerminoLegislatura": "Em exercício"
+}

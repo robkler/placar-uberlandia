@@ -1,0 +1,169 @@
+{
+ "id": 13425,
+ "nome": "Betinho Pinto Coelho",
+ "partido": "UNIÃO",
+ "tagLocalizacao": 3900,
+ "cargoMesa": "3º-Vice-Presidente",
+ "dataCargoMesa": {
+  "@class": "sql-timestamp",
+  "$": "2025-02-03"
+ },
+ "sexo": "M",
+ "situacao": "Em exercício",
+ "inicioSituacao": {
+  "@class": "sql-timestamp",
+  "$": "2023-02-01"
+ },
+ "tipoMandato": "Efetivo",
+ "nomeServidor": "ALBERTO PINTO COELHO NETO",
+ "naturalidadeMunicipio": "Belo Horizonte",
+ "naturalidadeUf": "MG",
+ "dataNascimento": "28/4/1975",
+ "codigoSituacao": 1,
+ "partidoEleicao": "PV",
+ "emails": [
+  {
+   "tipo": "1",
+   "endereco": "dep.betinho.pinto.coelho"
+  }
+ ],
+ "vidaProfissionalPolitica": "Alberto Pinto Coelho Neto, natural de Belo Horizonte, formado em Administração, está em seu segundo mandato no Parlamento Mineiro, reeleito com 45.113 votos. O deputado também foi reeleito para o cargo de 3º Vice-Presidente da Mesa Diretora da Assembleia. \r\n\r\nO deputado Betinho Pinto Coelho é filho do ex-governador Alberto Pinto Coelho, que foi deputado estadual por 16 anos, duas vezes presidente da Assembleia Legislativa de Minas Gerais (ALMG) e governador de Minas Gerais, e da professora, escritora e ex-vice-reitora da Universidade Estadual de Minas Gerais (UEMG), Santuza Abras. \r\n\r\nBetinho é municipalista. Seu mandato se destaca pela defesa dos setores de energias renováveis, agronegócio, meio ambiente, educação, indústria, comércio e empreendedorismo. O deputado tem uma participação ativa nas atividades parlamentares com relevantes aprovações de projetos de lei para o Estado e municípios.",
+ "atuacaoParlamentar": "Assume, em 2023, seu segundo mandato na Assembleia Legislativa de Minas Gerais. É o  3º-vice-presidente da ALMG eleito para o biênio 2023-2025. Na 19ª Legislatura, foi membro das comissões de Agropecuária e Agroindústria e Extraordinária das Energias Renováveis e dos Recursos Hídricos.",
+ "candidaturas": [
+  {
+   "legislatura": 19,
+   "numeroCandidato": 77888
+  },
+  {
+   "legislatura": 20,
+   "numeroCandidato": 43111
+  }
+ ],
+ "filiacoes": [
+  {
+   "dataInicio": {
+    "@class": "sql-timestamp",
+    "$": "2018-10-07"
+   },
+   "dataTermino": {
+    "@class": "sql-timestamp",
+    "$": "2022-04-03"
+   },
+   "partido": {
+    "id": 94,
+    "sigla": "SOLIDARIEDADE"
+   }
+  },
+  {
+   "dataInicio": {
+    "@class": "sql-timestamp",
+    "$": "2022-04-04"
+   },
+   "dataTermino": {
+    "@class": "sql-timestamp",
+    "$": "2026-03-22"
+   },
+   "partido": {
+    "id": 43,
+    "sigla": "PV"
+   }
+  },
+  {
+   "dataInicio": {
+    "@class": "sql-timestamp",
+    "$": "2026-03-23"
+   },
+   "dataTermino": {
+    "@class": "sql-timestamp",
+    "$": "2999-12-31"
+   },
+   "partido": {
+    "id": 84,
+    "sigla": "UNIÃO"
+   }
+  }
+ ],
+ "enderecos": [
+  {
+   "logradouro": "Rua Rodrigues Caldas",
+   "numero": "30",
+   "complemento": "Palácio da Inconfidência - 2º andar - conjunto 228",
+   "bairro": "Santo Agostinho",
+   "cep": "30190921",
+   "municipio": {
+    "nome": "Belo Horizonte",
+    "uf": "MG",
+    "codigoIbge9": 310620005
+   },
+   "descTipo": "Gabinete",
+   "telefones": [
+    {
+     "ddd": "31",
+     "numero": "21085494",
+     "fax": "S"
+    },
+    {
+     "ddd": "31",
+     "numero": "21085495",
+     "fax": "N"
+    }
+   ]
+  }
+ ],
+ "legislaturas": [
+  {
+   "numeroLegislatura": 19,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2019-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2023-01-31"
+   },
+   "tipoMandato": "Efetivo",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2019-02-01"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2023-01-31"
+     }
+    }
+   ]
+  },
+  {
+   "numeroLegislatura": 20,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2023-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2027-01-31"
+   },
+   "tipoMandato": "Efetivo",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2023-02-01"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2027-01-31"
+     }
+    }
+   ]
+  }
+ ],
+ "situacaoLegislaturas": "19&ordf; - 2019-2023- Efetivo<br/>de 01/02/2019 até 31/01/2023 (Em exercício em 01/02/2019) <br/><br />20&ordf; - 2023-2027- Efetivo<br/>de 01/02/2023 até 31/01/2027 (Em exercício em 01/02/2023) <br/><br />",
+ "partidosLegislatura": "PV   até 22/03/2026<br/>UNIÃO desde 23/03/2026  <br/>",
+ "anoEleicaoLegislatura": "2022",
+ "situacaoTerminoLegislatura": "Em exercício"
+}

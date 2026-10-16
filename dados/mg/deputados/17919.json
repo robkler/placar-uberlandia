@@ -1,0 +1,256 @@
+{
+ "id": 17919,
+ "nome": "Duarte Bechir",
+ "partido": "PSD",
+ "tagLocalizacao": 673,
+ "cargoMesa": "2º-Vice-Presidente",
+ "dataCargoMesa": {
+  "@class": "sql-timestamp",
+  "$": "2025-02-03"
+ },
+ "sexo": "M",
+ "situacao": "Em exercício",
+ "inicioSituacao": {
+  "@class": "sql-timestamp",
+  "$": "2023-02-01"
+ },
+ "tipoMandato": "Efetivo",
+ "nomeServidor": "NACIB DUARTE BECHIR",
+ "naturalidadeMunicipio": "Cristais",
+ "naturalidadeUf": "MG",
+ "dataNascimento": "11/08/1957",
+ "apresentarEmail": "G",
+ "atividadeProfissional": "Servidor público federal do IBGE",
+ "codigoSituacao": 1,
+ "partidoEleicao": "PSD",
+ "emails": [
+  {
+   "tipo": "1",
+   "endereco": "dep.duarte.bechir"
+  }
+ ],
+ "vidaProfissionalPolitica": "Bacharel em Direito desde 1990, Duarte Bechir assumiu seu primeiro cargo eletivo em 1993, como vereador em Campo Belo (Centro-Oeste). Foi também prefeito desta cidade entre 2001 e 2004. Como administrador municipal, ocupou ainda as presidências do Consórcio Intermunicipal de Saúde do Alto Rio Grande (Cismarg) e da Associação dos Municípios do Lago de Furnas (Alago), entre 2001 e 2002. Em 2004, foi presidente da Associação de Municípios do Alto Rio Grande (Amalg). Já no período de fevereiro a junho de 2008, foi diretor financeiro e administrativo da Companhia de Armazéns e Silos de Minas Gerais (Casemg). As principais regiões de atuação do parlamentar são Centro-Oeste, Sul de Minas e Central.",
+ "atuacaoParlamentar": "Em 2009, Duarte assumiu o cargo de deputado estadual, após ocupar a primeira suplência do PMN, nas eleições de 2006. Desde então, foi reeleito para mais quatro mandatos, exercendo ação destacada na vice-liderança do Governo de Minas e enquanto presidente das Comissões de Educação, Ciência e Tecnologia e Defesa dos Direitos da Pessoa com Deficiência. Ao longo dos quatro mandatos parlamentares, Duarte Bechir tem se destacado pelo trabalho de diagnóstico das necessidades das APAEs em toda Minas Gerais, fortalecendo a parceria dessas entidades com o poder público estadual e destacada atuação em favor da pessoa com deficiência, especialmente empenhado na garantia de funcionamento das escolas estaduais de ensino especial. Na 19ª Legislatura, foi presidente da Comissão de Redação e vice-presidente da Comissão de Defesa dos Direitos da Pessoa com Deficiência e, atualmente, é vice-presidente da Comissão de Administração Pública.",
+ "condecoracao": "Comendas: Medalhas da Inconfidência, Alferes Tiradentes, do Mérito Santos Dumont, Juscelino Kubitschek, do Mérito Legislativo, do Mérito Judiciário Militar, do Mérito da Defensoria Pública de Minas Gerais. Colar do Mérito José Maria Alkmim.\r\nCidadão Honorário nos seguintes municípios: Três Corações, Itanhandu, Bom Sucesso, Santo Antônio do Amparo, Pedralva, Medina, Ouro Branco, Monte Sião, Olímpio Noronha, Aiuruoca, Carmo Do Rio Claro, Cruzília, Itamonte, Santana do Jacaré, Campos Gerais, São José do Alegre, Nepomuceno, São Tiago, Caxambu, Coqueiral, Conceição da Barra de Minas, Ijaci, Campo Belo, Maria da Fé, Barroso e Olaria.",
+ "candidaturas": [
+  {
+   "legislatura": 16,
+   "numeroCandidato": 33580
+  },
+  {
+   "legislatura": 17,
+   "numeroCandidato": 33580
+  },
+  {
+   "legislatura": 18,
+   "numeroCandidato": 55789
+  },
+  {
+   "legislatura": 19,
+   "numeroCandidato": 55789
+  },
+  {
+   "legislatura": 20,
+   "numeroCandidato": 55789
+  }
+ ],
+ "filiacoes": [
+  {
+   "dataInicio": {
+    "@class": "sql-timestamp",
+    "$": "2009-06-16"
+   },
+   "dataTermino": {
+    "@class": "sql-timestamp",
+    "$": "2011-11-23"
+   },
+   "partido": {
+    "id": 33,
+    "sigla": "PMN"
+   }
+  },
+  {
+   "dataInicio": {
+    "@class": "sql-timestamp",
+    "$": "2011-11-24"
+   },
+   "dataTermino": {
+    "@class": "sql-timestamp",
+    "$": "2999-12-31"
+   },
+   "partido": {
+    "id": 41,
+    "sigla": "PSD"
+   }
+  }
+ ],
+ "enderecos": [
+  {
+   "logradouro": "Rua Rodrigues Caldas",
+   "numero": "30",
+   "complemento": "Palácio da Inconfidência - 2º andar - conjunto 215",
+   "bairro": "Santo Agostinho",
+   "cep": "30190921",
+   "municipio": {
+    "nome": "Belo Horizonte",
+    "uf": "MG",
+    "codigoIbge9": 310620005
+   },
+   "descTipo": "Gabinete",
+   "telefones": [
+    {
+     "ddd": "31",
+     "numero": "21085122",
+     "fax": "S"
+    },
+    {
+     "ddd": "31",
+     "numero": "21085125",
+     "fax": "N"
+    }
+   ]
+  }
+ ],
+ "legislaturas": [
+  {
+   "numeroLegislatura": 16,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2007-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2011-01-31"
+   },
+   "tipoMandato": "Efetivo",
+   "inicioExercicio": {
+    "@class": "sql-timestamp",
+    "$": "2009-06-16"
+   },
+   "terminoExercicio": {
+    "@class": "sql-timestamp",
+    "$": "2011-01-31"
+   },
+   "deputadoAfastado": "Maria Lúcia Mendonça",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2009-06-16"
+     },
+     "status": "Em exercício",
+     "motivo": "Cassação de efetivo",
+     "complemento": "Dep. Maria Lúcia Mendonça",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2011-01-31"
+     }
+    }
+   ]
+  },
+  {
+   "numeroLegislatura": 17,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2011-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2015-01-31"
+   },
+   "tipoMandato": "Efetivo",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2011-02-01"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2015-01-31"
+     }
+    }
+   ]
+  },
+  {
+   "numeroLegislatura": 18,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2015-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2019-01-31"
+   },
+   "tipoMandato": "Efetivo",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2015-02-01"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2019-01-31"
+     }
+    }
+   ]
+  },
+  {
+   "numeroLegislatura": 19,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2019-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2023-01-31"
+   },
+   "tipoMandato": "Efetivo",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2019-02-01"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2023-01-31"
+     }
+    }
+   ]
+  },
+  {
+   "numeroLegislatura": 20,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2023-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2027-01-31"
+   },
+   "tipoMandato": "Efetivo",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2023-02-01"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2027-01-31"
+     }
+    }
+   ]
+  }
+ ],
+ "situacaoLegislaturas": "16&ordf; - 2007-2011- Efetivo<br/>de 16/06/2009 até 31/01/2011 (Em exercício em 16/06/2009 - Cassação de efetivo - Dep. Maria Lúcia Mendonça) <br/><br />17&ordf; - 2011-2015- Efetivo<br/>de 01/02/2011 até 31/01/2015 (Em exercício em 01/02/2011) <br/><br />18&ordf; - 2015-2019- Efetivo<br/>de 01/02/2015 até 31/01/2019 (Em exercício em 01/02/2015) <br/><br />19&ordf; - 2019-2023- Efetivo<br/>de 01/02/2019 até 31/01/2023 (Em exercício em 01/02/2019) <br/><br />20&ordf; - 2023-2027- Efetivo<br/>de 01/02/2023 até 31/01/2027 (Em exercício em 01/02/2023) <br/><br />",
+ "partidosLegislatura": "PSD    <br/>",
+ "anoEleicaoLegislatura": "2022",
+ "situacaoTerminoLegislatura": "Em exercício"
+}

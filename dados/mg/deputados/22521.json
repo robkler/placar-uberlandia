@@ -1,0 +1,217 @@
+{
+ "id": 22521,
+ "nome": "Noraldino Júnior",
+ "partido": "PSB",
+ "tagLocalizacao": 1687,
+ "cargoRepresentacaoPartidaria": "Líder do Bloco Avança Minas",
+ "liderancas": [
+  {
+   "categoria": "BLOCO",
+   "cargo": "Líder",
+   "idRepresentacao": 59,
+   "nomeRepresentacao": "Bloco Avança Minas"
+  }
+ ],
+ "dataCargoRepresentacaoPartidaria": {
+  "@class": "sql-timestamp",
+  "$": "2026-02-02"
+ },
+ "sexo": "M",
+ "situacao": "Em exercício",
+ "inicioSituacao": {
+  "@class": "sql-timestamp",
+  "$": "2024-10-02"
+ },
+ "tipoMandato": "Efetivo",
+ "nomeServidor": "NORALDINO LUCIO DIAS JÚNIOR",
+ "naturalidadeMunicipio": "Juiz de Fora",
+ "naturalidadeUf": "MG",
+ "dataNascimento": "20/11/1975",
+ "atividadeProfissional": "Administrador público",
+ "codigoSituacao": 1,
+ "partidoEleicao": "PSC",
+ "emails": [
+  {
+   "tipo": "1",
+   "endereco": "dep.noraldino.junior"
+  }
+ ],
+ "vidaProfissionalPolitica": "Natural de Juiz de Fora (Zona da Mata), em 2012 foi eleito pela segunda vez vereador daquele município. Graduado em Turismo e pós-graduado em Gestão Ambiental em Problemas Urbanos, foi superintendente da Agência de Gestão Ambiental de Juiz de Fora (Agenda-JF) entre 2006 e 2008; presidente do Comitê da Bacia Hidrográfica dos Afluentes Mineiros dos Rios Preto e Paraibuna e do Consórcio Intermunicipal da Bacia dos Rios Preto e Paraibuna (Conpar). Atuou ainda como secretário executivo do Conselho Municipal de Meio Ambiente (Comdema) e chefe do Departamento de Gestão da Informação da Prefeitura, responsável pelo gerenciamento do Bolsa Família, da Secretaria de Política Social (SPS).",
+ "atuacaoParlamentar": "Assume, em 2023, seu terceiro mandato na Assembleia Legislativa de Minas Gerais. Na 19ª Legislatura, foi presidente da Comissão de Meio Ambiente e Desenvolvimento Sustentável. Na 18ª Legislatura, sua atuação foi marcada pela defesa dos direitos dos animais, contribuindo, com sua militância, para a criação da Comissão Extraordinária de Proteção dos Animais, que presidiu. Foi membro efetivo da Comissão de Direitos Humanos desde maio de 2017.",
+ "candidaturas": [
+  {
+   "legislatura": 18,
+   "numeroCandidato": 20123
+  },
+  {
+   "legislatura": 19,
+   "numeroCandidato": 20123
+  },
+  {
+   "legislatura": 20,
+   "numeroCandidato": 20123
+  }
+ ],
+ "filiacoes": [
+  {
+   "dataInicio": {
+    "@class": "sql-timestamp",
+    "$": "2015-02-01"
+   },
+   "dataTermino": {
+    "@class": "sql-timestamp",
+    "$": "2023-09-05"
+   },
+   "partido": {
+    "id": 20,
+    "sigla": "PSC"
+   }
+  },
+  {
+   "dataInicio": {
+    "@class": "sql-timestamp",
+    "$": "2023-09-06"
+   },
+   "dataTermino": {
+    "@class": "sql-timestamp",
+    "$": "2999-12-31"
+   },
+   "partido": {
+    "id": 40,
+    "sigla": "PSB"
+   }
+  }
+ ],
+ "enderecos": [
+  {
+   "logradouro": "Rua Rodrigues Caldas",
+   "numero": "79",
+   "complemento": "Edifício Tiradentes - 16º andar - sala 2",
+   "bairro": "Santo Agostinho",
+   "cep": "30190120",
+   "municipio": {
+    "nome": "Belo Horizonte",
+    "uf": "MG",
+    "codigoIbge9": 310620005
+   },
+   "descTipo": "Gabinete",
+   "telefones": [
+    {
+     "ddd": "31",
+     "numero": "21085965",
+     "fax": "N"
+    },
+    {
+     "ddd": "31",
+     "numero": "21085966",
+     "fax": "S"
+    }
+   ]
+  }
+ ],
+ "legislaturas": [
+  {
+   "numeroLegislatura": 18,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2015-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2019-01-31"
+   },
+   "tipoMandato": "Efetivo",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2015-02-01"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2019-01-31"
+     }
+    }
+   ]
+  },
+  {
+   "numeroLegislatura": 19,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2019-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2023-01-31"
+   },
+   "tipoMandato": "Efetivo",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2019-02-01"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2023-01-31"
+     }
+    }
+   ]
+  },
+  {
+   "numeroLegislatura": 20,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2023-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2027-01-31"
+   },
+   "tipoMandato": "Efetivo",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2023-02-01"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2024-05-24"
+     }
+    },
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2024-05-25"
+     },
+     "status": "Afastamento",
+     "motivo": "Tratamento de saúde",
+     "complemento": "Por período superior a 120 dias.",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2024-10-01"
+     }
+    },
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2024-10-02"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2027-01-31"
+     }
+    }
+   ]
+  }
+ ],
+ "situacaoLegislaturas": "18&ordf; - 2015-2019- Efetivo<br/>de 01/02/2015 até 31/01/2019 (Em exercício em 01/02/2015) <br/><br />19&ordf; - 2019-2023- Efetivo<br/>de 01/02/2019 até 31/01/2023 (Em exercício em 01/02/2019) <br/><br />20&ordf; - 2023-2027- Efetivo<br/>de 01/02/2023 até 24/05/2024 (Em exercício em 01/02/2023) <br/>de 25/05/2024 até 01/10/2024 (Afastamento em 25/05/2024 - Tratamento de saúde -  Por período superior a 120 dias.) <br/>de 02/10/2024 até 31/01/2027 (Em exercício em 02/10/2024) <br/><br />",
+ "partidosLegislatura": "PSC   até 05/09/2023<br/>PSB desde 06/09/2023  <br/>",
+ "anoEleicaoLegislatura": "2022",
+ "situacaoTerminoLegislatura": "Em exercício"
+}

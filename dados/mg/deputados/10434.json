@@ -1,0 +1,193 @@
+{
+ "id": 10434,
+ "nome": "Leandro Genaro",
+ "partido": "PSD",
+ "tagLocalizacao": 1683,
+ "cargoRepresentacaoPartidaria": "Vice-Líder do Bloco Minas em Frente",
+ "liderancas": [
+  {
+   "categoria": "BLOCO",
+   "cargo": "Vice-Líder",
+   "idRepresentacao": 60,
+   "nomeRepresentacao": "Bloco Minas em Frente"
+  }
+ ],
+ "dataCargoRepresentacaoPartidaria": {
+  "@class": "sql-timestamp",
+  "$": "2026-05-13"
+ },
+ "sexo": "M",
+ "situacao": "Em exercício",
+ "inicioSituacao": {
+  "@class": "sql-timestamp",
+  "$": "2023-02-01"
+ },
+ "tipoMandato": "Efetivo",
+ "nomeServidor": "LEANDRO ANDRADE GENARO OLIVEIRA",
+ "naturalidadeMunicipio": "Contagem",
+ "naturalidadeUf": "MG",
+ "dataNascimento": "3/7/1981",
+ "atividadeProfissional": "Pastor",
+ "codigoSituacao": 1,
+ "partidoEleicao": "PSD",
+ "emails": [
+  {
+   "tipo": "1",
+   "endereco": "dep.leandro.genaro"
+  }
+ ],
+ "vidaProfissionalPolitica": "Leandro Genaro assume, em 2019, seu segundo mandato na Assembleia Legislativa de Minas. É pastor da Igreja do Evangelho Quadrangular desde 2000 e superintendente da mesma igreja na grande BH. Apresenta o programa \"À Luz da Palavra\", pela rádio 107 FM de Belo Horizonte. Leandro Genaro é filho do ex-deputado estadual e também pastor Antônio Genaro. Foi reeleito com 98.717 votos.",
+ "atuacaoParlamentar": "Assume, em 2023, seu terceiro mandato consecutivo na Assembleia Legislativa de Minas Gerais. Na 19ª Legislatura, foi vice-presidente da Comissão de Meio Ambiente e Desenvolvimento Sustentável. Na 18ª Legislatura, foi vice-presidente da Comissão Extraordinária de Proteção dos Animais e membro efetivo da Comissão de Defesa dos Direitos da Pessoa com Deficiência.",
+ "candidaturas": [
+  {
+   "legislatura": 18,
+   "numeroCandidato": 40444
+  },
+  {
+   "legislatura": 19,
+   "numeroCandidato": 55444
+  },
+  {
+   "legislatura": 20,
+   "numeroCandidato": 55444
+  }
+ ],
+ "filiacoes": [
+  {
+   "dataInicio": {
+    "@class": "sql-timestamp",
+    "$": "2015-02-01"
+   },
+   "dataTermino": {
+    "@class": "sql-timestamp",
+    "$": "2016-03-07"
+   },
+   "partido": {
+    "id": 40,
+    "sigla": "PSB"
+   }
+  },
+  {
+   "dataInicio": {
+    "@class": "sql-timestamp",
+    "$": "2016-03-08"
+   },
+   "dataTermino": {
+    "@class": "sql-timestamp",
+    "$": "2999-12-31"
+   },
+   "partido": {
+    "id": 41,
+    "sigla": "PSD"
+   }
+  }
+ ],
+ "enderecos": [
+  {
+   "logradouro": "Rua Rodrigues Caldas",
+   "numero": "30",
+   "complemento": "Palácio da Inconfidência - 2º andar - conjunto 227",
+   "bairro": "Santo Agostinho",
+   "cep": "30190921",
+   "municipio": {
+    "nome": "Belo Horizonte",
+    "uf": "MG",
+    "codigoIbge9": 310620005
+   },
+   "descTipo": "Gabinete",
+   "telefones": [
+    {
+     "ddd": "31",
+     "numero": "21087386",
+     "fax": "N"
+    },
+    {
+     "ddd": "31",
+     "numero": "21087514",
+     "fax": "S"
+    }
+   ]
+  }
+ ],
+ "legislaturas": [
+  {
+   "numeroLegislatura": 18,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2015-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2019-01-31"
+   },
+   "tipoMandato": "Efetivo",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2015-02-01"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2019-01-31"
+     }
+    }
+   ]
+  },
+  {
+   "numeroLegislatura": 19,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2019-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2023-01-31"
+   },
+   "tipoMandato": "Efetivo",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2019-02-01"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2023-01-31"
+     }
+    }
+   ]
+  },
+  {
+   "numeroLegislatura": 20,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2023-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2027-01-31"
+   },
+   "tipoMandato": "Efetivo",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2023-02-01"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2027-01-31"
+     }
+    }
+   ]
+  }
+ ],
+ "situacaoLegislaturas": "18&ordf; - 2015-2019- Efetivo<br/>de 01/02/2015 até 31/01/2019 (Em exercício em 01/02/2015) <br/><br />19&ordf; - 2019-2023- Efetivo<br/>de 01/02/2019 até 31/01/2023 (Em exercício em 01/02/2019) <br/><br />20&ordf; - 2023-2027- Efetivo<br/>de 01/02/2023 até 31/01/2027 (Em exercício em 01/02/2023) <br/><br />",
+ "partidosLegislatura": "PSD    <br/>",
+ "anoEleicaoLegislatura": "2022",
+ "situacaoTerminoLegislatura": "Em exercício"
+}

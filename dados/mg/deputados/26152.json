@@ -1,0 +1,166 @@
+{
+ "id": 26152,
+ "nome": "Doutor Paulo",
+ "partido": "UNIÃO",
+ "tagLocalizacao": 3909,
+ "sexo": "M",
+ "situacao": "Em exercício",
+ "inicioSituacao": {
+  "@class": "sql-timestamp",
+  "$": "2023-02-01"
+ },
+ "tipoMandato": "Efetivo",
+ "nomeServidor": "PAULO VALDIR FERREIRA",
+ "naturalidadeMunicipio": "Pouso Alegre",
+ "naturalidadeUf": "MG",
+ "dataNascimento": "19/04/1971",
+ "atividadeProfissional": "Médico",
+ "codigoSituacao": 1,
+ "partidoEleicao": "PATRIOTA",
+ "emails": [
+  {
+   "tipo": "1",
+   "endereco": "dep.doutor.paulo"
+  }
+ ],
+ "vidaProfissionalPolitica": "Paulo Valdir Ferreira, conhecido como Doutor Paulo, foi eleito em 2022 para o 2º mandato na ALMG. Nasceu na cidade de Pouso Alegre, Sul de Minas, em 19 de abril de 1971. É casado com Renata Joia e pai de 3 filhas: Mariana, Luiza e Manuela.\r\n\r\nÉ médico especialista em Ginecologia, possui pós-graduação em Medicina do Trabalho e em Medicina do Trânsito, mestrado em Ciências da Saúde e atualmente cursa Doutorado em Educação.\r\n\r\nDoutor Paulo foi presidente do Conselho Municipal de Saúde e da Associação Médica de Pouso Alegre. Sua carreira política teve início em 2012 quando foi eleito vereador em Pouso Alegre, tendo sido o mais votado na história da cidade. Em seguida, em 2016, foi eleito vice-prefeito. Dr. Paulo foi eleito para o 1º mandato de deputado estadual, em 2018, pelo Partido Patriota, com quase 50 mil votos. Foi reeleito em 2022 com mais de 70 mil votos.",
+ "atuacaoParlamentar": "Trabalho, dedicação e compromisso com o Sul de Minas são marcas de seu mandato desde que assumiu o cargo como representante dos mineiros na ALMG. Em sua atuação no Poder Legislativo Estadual, Doutor Paulo tem se destacado na defesa da Saúde e dos Direitos da Pessoa com Deficiência, suas principais bandeiras. É membro titular da Comissão de Saúde e da Comissão de Defesa dos Direitos da Pessoa com Deficiência, tendo sido relator em vários projetos analisados por estas comissões e aprovados pela Casa.\r\n\r\nDoutor Paulo tem beneficiado cidades de todo o Sul de Minas com recursos através da indicação de emendas parlamentares. Destinou aos municípios mais de R$ 50 milhões durante o 1º mandato para investimentos em saúde, educação, infraestrutura, segurança e social. E em 2023 ano indicou mais de R$ 20 milhões em recursos para a região.",
+ "condecoracao": "Em reconhecimento por seu trabalho em prol dos mineiros, Doutor Paulo foi agraciado em 2019 com a Medalha Presidente Juscelino Kubitschek. Em 2021, recebeu da ALMG a Medalha da Ordem do Mérito Legislativo, no Grau Especial. Em 2022, foi agraciado com a Medalha de Honra da Inconfidência Mineira, honraria concedida pelo Governo de Minas. Em 2023, recebeu do Governo de Minas a Medalha Santos Dumont, Grau Prata, em reconhecimento à sua contribuição para o desenvolvimento de Minas Gerais.",
+ "candidaturas": [
+  {
+   "legislatura": 19,
+   "numeroCandidato": 51051
+  },
+  {
+   "legislatura": 20,
+   "numeroCandidato": 51051
+  }
+ ],
+ "filiacoes": [
+  {
+   "dataInicio": {
+    "@class": "sql-timestamp",
+    "$": "2018-10-07"
+   },
+   "dataTermino": {
+    "@class": "sql-timestamp",
+    "$": "2024-04-17"
+   },
+   "partido": {
+    "id": 52,
+    "sigla": "PATRIOTA"
+   }
+  },
+  {
+   "dataInicio": {
+    "@class": "sql-timestamp",
+    "$": "2024-04-18"
+   },
+   "dataTermino": {
+    "@class": "sql-timestamp",
+    "$": "2026-03-25"
+   },
+   "partido": {
+    "id": 83,
+    "sigla": "PRD"
+   }
+  },
+  {
+   "dataInicio": {
+    "@class": "sql-timestamp",
+    "$": "2026-03-26"
+   },
+   "dataTermino": {
+    "@class": "sql-timestamp",
+    "$": "2999-12-31"
+   },
+   "partido": {
+    "id": 84,
+    "sigla": "UNIÃO"
+   }
+  }
+ ],
+ "enderecos": [
+  {
+   "logradouro": "Rua Rodrigues Caldas",
+   "numero": "30",
+   "complemento": "Palácio da Inconfidência - 2º andar - conjunto 241",
+   "bairro": "Santo Agostinho",
+   "cep": "30190921",
+   "municipio": {
+    "nome": "Belo Horizonte",
+    "uf": "MG",
+    "codigoIbge9": 310620005
+   },
+   "descTipo": "Gabinete",
+   "telefones": [
+    {
+     "ddd": "31",
+     "numero": "21085925",
+     "fax": "N"
+    },
+    {
+     "ddd": "31",
+     "numero": "21085926",
+     "fax": "S"
+    }
+   ]
+  }
+ ],
+ "legislaturas": [
+  {
+   "numeroLegislatura": 19,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2019-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2023-01-31"
+   },
+   "tipoMandato": "Efetivo",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2019-02-01"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2023-01-31"
+     }
+    }
+   ]
+  },
+  {
+   "numeroLegislatura": 20,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2023-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2027-01-31"
+   },
+   "tipoMandato": "Efetivo",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2023-02-01"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2027-01-31"
+     }
+    }
+   ]
+  }
+ ],
+ "situacaoLegislaturas": "19&ordf; - 2019-2023- Efetivo<br/>de 01/02/2019 até 31/01/2023 (Em exercício em 01/02/2019) <br/><br />20&ordf; - 2023-2027- Efetivo<br/>de 01/02/2023 até 31/01/2027 (Em exercício em 01/02/2023) <br/><br />",
+ "partidosLegislatura": "PATRIOTA   até 17/04/2024<br/>PRD de 18/04/2024 até 25/03/2026<br/>UNIÃO desde 26/03/2026  <br/>",
+ "anoEleicaoLegislatura": "2022",
+ "situacaoTerminoLegislatura": "Em exercício"
+}

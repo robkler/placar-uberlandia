@@ -1,0 +1,162 @@
+{
+ "id": 26143,
+ "nome": "Andréia de Jesus",
+ "partido": "PT",
+ "tagLocalizacao": 3896,
+ "sexo": "F",
+ "situacao": "Em exercício",
+ "inicioSituacao": {
+  "@class": "sql-timestamp",
+  "$": "2023-02-01"
+ },
+ "tipoMandato": "Efetivo",
+ "nomeServidor": "ANDRÉIA DE JESUS SILVA",
+ "naturalidadeMunicipio": "Belo Horizonte",
+ "naturalidadeUf": "MG",
+ "dataNascimento": "28/06/1978",
+ "codigoSituacao": 1,
+ "partidoEleicao": "PT",
+ "emails": [
+  {
+   "tipo": "1",
+   "endereco": "dep.andreia.de.jesus"
+  }
+ ],
+ "vidaProfissionalPolitica": "Andreia de Jesus é advogada popular, educadora infantil, funcionária pública e mãe-solo. Nascida no distrito de Venda Nova, em Belo Horizonte, é moradora de Ribeirão das Neves, na Região Metropolitana de Belo Horizonte (RMBH). Trabalhou como doméstica na juventude e é a primeira pessoa de sua família com curso superior, tendo seu ingresso na Universidade garantido pelas políticas de ações afirmativas. Integrou as Comunidades Eclesiais de Base (CEBs) e as pastorais de rua e carcerária. Militante das Brigadas Populares e da #partidA, segue ao lado das pessoas privadas de liberdade e das ocupações urbanas, pela vida da juventude negra, por segurança pública cidadã e por melhores condições de vida nas periferias.",
+ "atuacaoParlamentar": "Assume, em 2023, seu segundo mandato na Assembleia Legislativa de Minas Gerais. Para seu mandato anterior, foi eleita por meio da campanha coletiva da movimentação MUITAS, tendo participado da experiência da Gabinetona: um mandato coletivo, aberto e popular junto de outras três parlamentares: Cida Falabella e Bella Gonçalves, na Câmara Municipal de Belo Horizonte (CMBH), e Áurea Carolina, na Câmara dos Deputados. A parlamentar presidiu a Comissão de Direitos Humanos e foi vice-presidente da Comissão de Defesa dos Direitos da Mulher.",
+ "candidaturas": [
+  {
+   "legislatura": 19,
+   "numeroCandidato": 50130
+  },
+  {
+   "legislatura": 20,
+   "numeroCandidato": 13050
+  }
+ ],
+ "filiacoes": [
+  {
+   "dataInicio": {
+    "@class": "sql-timestamp",
+    "$": "2018-10-07"
+   },
+   "dataTermino": {
+    "@class": "sql-timestamp",
+    "$": "2022-03-31"
+   },
+   "partido": {
+    "id": 50,
+    "sigla": "PSOL"
+   }
+  },
+  {
+   "dataInicio": {
+    "@class": "sql-timestamp",
+    "$": "2022-04-01"
+   },
+   "dataTermino": {
+    "@class": "sql-timestamp",
+    "$": "2999-12-31"
+   },
+   "partido": {
+    "id": 13,
+    "sigla": "PT"
+   }
+  }
+ ],
+ "enderecos": [
+  {
+   "logradouro": "Rua Rodrigues Caldas",
+   "numero": "79",
+   "complemento": "Edifício Tiradentes - 16º andar - Sala 1",
+   "bairro": "Santo Agostinho",
+   "cep": "30190120",
+   "municipio": {
+    "nome": "Belo Horizonte",
+    "uf": "MG",
+    "codigoIbge9": 310620005
+   },
+   "descTipo": "Gabinete",
+   "telefones": [
+    {
+     "ddd": "31",
+     "numero": "21085483",
+     "fax": "S"
+    },
+    {
+     "ddd": "31",
+     "numero": "21085484",
+     "fax": "N"
+    }
+   ]
+  },
+  {
+   "logradouro": "Rua José Pedro Pereira",
+   "numero": "255",
+   "bairro": "São Pedro",
+   "cep": "33805480",
+   "municipio": {
+    "nome": "Ribeirão das Neves",
+    "uf": "MG",
+    "codigoIbge9": 315460005
+   },
+   "descTipo": "Escritório Político"
+  }
+ ],
+ "legislaturas": [
+  {
+   "numeroLegislatura": 19,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2019-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2023-01-31"
+   },
+   "tipoMandato": "Efetiva",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2019-02-01"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2023-01-31"
+     }
+    }
+   ]
+  },
+  {
+   "numeroLegislatura": 20,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2023-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2027-01-31"
+   },
+   "tipoMandato": "Efetiva",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2023-02-01"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2027-01-31"
+     }
+    }
+   ]
+  }
+ ],
+ "situacaoLegislaturas": "19&ordf; - 2019-2023- Efetiva<br/>de 01/02/2019 até 31/01/2023 (Em exercício em 01/02/2019) <br/><br />20&ordf; - 2023-2027- Efetiva<br/>de 01/02/2023 até 31/01/2027 (Em exercício em 01/02/2023) <br/><br />",
+ "partidosLegislatura": "PT    <br/>",
+ "anoEleicaoLegislatura": "2022",
+ "situacaoTerminoLegislatura": "Em exercício"
+}

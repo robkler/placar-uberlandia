@@ -1,0 +1,370 @@
+{
+ "id": 9655,
+ "nome": "Dalmo Ribeiro",
+ "partido": "PSDB",
+ "tagLocalizacao": 661,
+ "sexo": "M",
+ "situacao": "Em exercício",
+ "inicioSituacao": {
+  "@class": "sql-timestamp",
+  "$": "2026-09-24"
+ },
+ "tipoMandato": "Efetivo",
+ "nomeServidor": "DALMO ROBERTO RIBEIRO SILVA",
+ "naturalidadeMunicipio": "Ouro Fino",
+ "naturalidadeUf": "MG",
+ "dataNascimento": "31/01/1949",
+ "atividadeProfissional": "Advogado e professor",
+ "codigoSituacao": 1,
+ "partidoEleicao": "PSDB",
+ "emails": [
+  {
+   "tipo": "1",
+   "endereco": "dep.dalmo.ribeiro.silva"
+  }
+ ],
+ "vidaProfissionalPolitica": "O deputado Dalmo Ribeiro retorna à Assembleia Legislativa de Minas Gerais (ALMG) para exercer o seu 7º mandato, após seis mandatos consecutivos entre 1999 e 2023. Formado em Pedagogia e Direito, foi vice-prefeito de Ouro Fino (1976-1982), presidente da 39ª Subseção da OAB/MG de Ouro Fino (1989-1994) e professor da Faculdade de Direito da Universidade de São Francisco, em Bragança Paulista (SP). Sua principal região de atuação política é o Sul de Minas. Dalmo Ribeiro assumiu a secretaria executiva do Banco de Desenvolvimento de Minas Gerais (BDMG) de 2022 a 2025. Ao longo de sua trajetória, aprovou, na ALMG, cerca de 300 projetos de lei e três Propostas de Emenda à Constituição. Na 19ª Legislatura (2019-2023), foi presidente da Comissão de Constituição e Justiça e vice-presidente da Comissão de Desenvolvimento Econômico. Ao longo dos mandatos anteriores, exerceu a 2°-vice-presidência da Mesa da Assembleia e presidiu as Comissões de Constituição e Justiça e do Trabalho, da Previdência e da Ação Social. Foi, ainda, o primeiro presidente da Comissão de Ética e Decoro Parlamentar.",
+ "atuacaoParlamentar": "Assume seu sétimo mandato na Assembleia Legislativa de Minas Gerais (ALMG), onde ingressou em 1999. Na 18ª Legislatura, exerceu a 2°-vice-presidência da Mesa da Assembleia (2017/2019). Já presidiu a Comissão de Constituição e Justiça, a Comissão Especial sobre a Arbitragem e a Comissão do Trabalho, da Previdência e da Ação Social. Foi vice-presidente da Comissão de Desenvolvimento Econômico e da Comissão Especial sobre o Pré-Sal. Foi membro da Comissão de Educação, Ciência e Tecnologia, além de relator da Comissão Especial das Serras da Calçada e da Moeda, elaborando uma nova política de preservação da área, e da Comissão Especial da Minascaixa. Também foi relator da Comissão Especial da Cafeicultura, da Comissão Especial das Estâncias Hidrominerais e do Projeto de Lei Complementar da Organização Judiciária. Presidiu a Frente Parlamentar de Apoio à Indústria Mineira e participou da Frente Parlamentar pela Desburocratização do Estado de Minas Gerais. Exerceu a função de vice-líder do governo de Romeu Zema na Assembleia Legislativa. Foi relator de mais de 2 mil proposições e autor de mais de 3 mil requerimentos, além de mais de 400 Projetos de Lei, dentre os quais 340 transformadas em norma jurídica. Foi relator da Proposta de Emenda à Constituição 55/2020, que constituiu o novo Regime Previdenciário do Servidor Público do Estado de Minas Gerais.",
+ "condecoracao": "Durante sua trajetória como parlamentar, tornou-se cidadão honorário de mais de 80 municípios mineiros. Foi agraciado pelas condecorações dos órgãos: Tribunal de Justiça de Minas Gerais, Ministério Público de Minas Gerais, Tribunal de Justiça Militar, Defensoria Pública de Minas Gerais, Associação Mineira dos Municípios,  Polícia Militar do Estado de Minas Gerais, Corpo de Bombeiros de Minas Gerais,  Polícia Civil de Minas Gerais, Federação de Indústria de Minas Gerais, Faemg. Também recebeu a Medalha de Comendador da Advocacia-Geral do Estado de Minas Gerais, em 2021.",
+ "candidaturas": [
+  {
+   "legislatura": 14,
+   "numeroCandidato": 41198
+  },
+  {
+   "legislatura": 15,
+   "numeroCandidato": 11222
+  },
+  {
+   "legislatura": 16,
+   "numeroCandidato": 45222
+  },
+  {
+   "legislatura": 17,
+   "numeroCandidato": 45222
+  },
+  {
+   "legislatura": 18,
+   "numeroCandidato": 45222
+  },
+  {
+   "legislatura": 19,
+   "numeroCandidato": 45222
+  }
+ ],
+ "filiacoes": [
+  {
+   "dataInicio": {
+    "@class": "sql-timestamp",
+    "$": "1998-10-03"
+   },
+   "dataTermino": {
+    "@class": "sql-timestamp",
+    "$": "2001-10-01"
+   },
+   "partido": {
+    "id": 41,
+    "sigla": "PSD"
+   }
+  },
+  {
+   "dataInicio": {
+    "@class": "sql-timestamp",
+    "$": "2001-10-02"
+   },
+   "dataTermino": {
+    "@class": "sql-timestamp",
+    "$": "2001-10-08"
+   },
+   "partido": {
+    "id": 1,
+    "sigla": "SEMPARTIDO"
+   }
+  },
+  {
+   "dataInicio": {
+    "@class": "sql-timestamp",
+    "$": "2001-10-09"
+   },
+   "dataTermino": {
+    "@class": "sql-timestamp",
+    "$": "2003-04-09"
+   },
+   "partido": {
+    "id": 11,
+    "sigla": "PP"
+   }
+  },
+  {
+   "dataInicio": {
+    "@class": "sql-timestamp",
+    "$": "2003-04-15"
+   },
+   "dataTermino": {
+    "@class": "sql-timestamp",
+    "$": "2999-12-31"
+   },
+   "partido": {
+    "id": 45,
+    "sigla": "PSDB"
+   }
+  }
+ ],
+ "enderecos": [
+  {
+   "logradouro": "Rua Rodrigues Caldas",
+   "numero": "30",
+   "complemento": "Palácio da Inconfidência - 2º andar - conjunto 208",
+   "bairro": "Santo Agostinho",
+   "cep": "30190921",
+   "municipio": {
+    "nome": "Belo Horizonte",
+    "uf": "MG",
+    "codigoIbge9": 310620005
+   },
+   "descTipo": "Gabinete",
+   "telefones": [
+    {
+     "ddd": "31",
+     "numero": "21085300",
+     "fax": "N"
+    }
+   ]
+  }
+ ],
+ "legislaturas": [
+  {
+   "numeroLegislatura": 14,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "1999-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2003-01-31"
+   },
+   "tipoMandato": "Efetivo",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "1999-02-01"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2003-01-31"
+     }
+    }
+   ]
+  },
+  {
+   "numeroLegislatura": 15,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2003-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2007-01-31"
+   },
+   "tipoMandato": "Efetivo",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2003-02-01"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2007-01-31"
+     }
+    }
+   ]
+  },
+  {
+   "numeroLegislatura": 16,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2007-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2011-01-31"
+   },
+   "tipoMandato": "Efetivo",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2007-02-01"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2011-01-31"
+     }
+    }
+   ]
+  },
+  {
+   "numeroLegislatura": 17,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2011-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2015-01-31"
+   },
+   "tipoMandato": "Efetivo",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2011-02-01"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2015-01-31"
+     }
+    }
+   ]
+  },
+  {
+   "numeroLegislatura": 18,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2015-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2019-01-31"
+   },
+   "tipoMandato": "Efetivo",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2015-02-01"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2019-01-31"
+     }
+    }
+   ]
+  },
+  {
+   "numeroLegislatura": 19,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2019-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2023-01-31"
+   },
+   "tipoMandato": "Efetivo",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2019-02-01"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2023-01-31"
+     }
+    }
+   ]
+  },
+  {
+   "numeroLegislatura": 20,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2023-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2027-01-31"
+   },
+   "tipoMandato": "Suplente",
+   "inicioExercicio": {
+    "@class": "sql-timestamp",
+    "$": "2026-03-26"
+   },
+   "terminoExercicio": {
+    "@class": "sql-timestamp",
+    "$": "2026-07-25"
+   },
+   "deputadoAfastado": "João Vítor Xavier",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2026-03-26"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2026-07-25"
+     }
+    },
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2026-07-25"
+     },
+     "status": "Término de exercício de suplência",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2027-01-31"
+     }
+    }
+   ]
+  },
+  {
+   "numeroLegislatura": 20,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2023-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2027-01-31"
+   },
+   "tipoMandato": "Efetivo",
+   "inicioExercicio": {
+    "@class": "sql-timestamp",
+    "$": "2026-09-24"
+   },
+   "terminoExercicio": {
+    "@class": "sql-timestamp",
+    "$": "2027-01-31"
+   },
+   "deputadoAfastado": "João Vítor Xavier",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2026-09-24"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2027-01-31"
+     }
+    }
+   ]
+  }
+ ],
+ "situacaoLegislaturas": "14&ordf; - 1999-2003- Efetivo<br/>de 01/02/1999 até 31/01/2003 (Em exercício em 01/02/1999) <br/><br />15&ordf; - 2003-2007- Efetivo<br/>de 01/02/2003 até 31/01/2007 (Em exercício em 01/02/2003) <br/><br />16&ordf; - 2007-2011- Efetivo<br/>de 01/02/2007 até 31/01/2011 (Em exercício em 01/02/2007) <br/><br />17&ordf; - 2011-2015- Efetivo<br/>de 01/02/2011 até 31/01/2015 (Em exercício em 01/02/2011) <br/><br />18&ordf; - 2015-2019- Efetivo<br/>de 01/02/2015 até 31/01/2019 (Em exercício em 01/02/2015) <br/><br />19&ordf; - 2019-2023- Efetivo<br/>de 01/02/2019 até 31/01/2023 (Em exercício em 01/02/2019) <br/><br />20&ordf; - 2023-2027- Suplente de João Vítor Xavier <br/>de 26/03/2026 até 25/07/2026 (Em exercício em 26/03/2026) <br/><br />20&ordf; - 2023-2027- Efetivo<br/>de 24/09/2026 até 31/01/2027 (Em exercício em 24/09/2026) <br/><br />",
+ "partidosLegislatura": "PSDB    <br/>",
+ "anoEleicaoLegislatura": "2022",
+ "situacaoTerminoLegislatura": "Em exercício"
+}

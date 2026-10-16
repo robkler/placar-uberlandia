@@ -1,0 +1,195 @@
+{
+ "id": 24621,
+ "nome": "Gustavo Santana",
+ "partido": "PL",
+ "tagLocalizacao": 1875,
+ "cargoMesa": "1º-Secretário",
+ "dataCargoMesa": {
+  "@class": "sql-timestamp",
+  "$": "2025-02-03"
+ },
+ "sexo": "M",
+ "situacao": "Em exercício",
+ "inicioSituacao": {
+  "@class": "sql-timestamp",
+  "$": "2023-02-01"
+ },
+ "tipoMandato": "Efetivo",
+ "nomeServidor": "GUSTAVO DE VASCONCELLOS MOREIRA",
+ "naturalidadeMunicipio": "Belo Horizonte",
+ "naturalidadeUf": "MG",
+ "dataNascimento": "04/01/1979",
+ "atividadeProfissional": "Empresário e produtor rural.",
+ "codigoSituacao": 1,
+ "partidoEleicao": "PL",
+ "emails": [
+  {
+   "tipo": "1",
+   "endereco": "dep.gustavo.santana"
+  }
+ ],
+ "vidaProfissionalPolitica": "Gustavo Santana é empresário e produtor rural. Nascido em Belo Horizonte, pai de Gustavo Santana Silva de Vasconcellos e casado com Vivian Ribeiro, o parlamentar é filho de Lourdes Rocha e do ex-deputado federal e estadual por dez mandatos, José Santana de Vasconcellos Moreira.",
+ "atuacaoParlamentar": "Atuou como membro efetivo nas comissões de Meio Ambiente e Desenvolvimento Sustentável e Agropecuária e Agroindústria durante a 19ª Legislatura, sendo, também, suplente nas comissões de Segurança Pública e de Transporte, Comunicação e Obras Públicas. Reeleito em 2022, assumiu em 2023 seu terceiro mandato consecutivo na ALMG, exercendo por dois anos a função de Líder do Bloco Avança Minas e membro efetivo das comissões de Meio Ambiente e de Transportes, Comunicação e Obras Públicas. Atualmente, o parlamentar exerce a função de 1º Secretário da Assembleia Legislativa de Minas Gerais.",
+ "condecoracao": "Foi agraciado com as seguintes condecorações: prêmio 100 melhores de 2016 de João Monlevade; Grande Medalha da Inconfidência; Grande Medalha Presidente Juscelino Kubitschek; Medalha Santos Dumont; Medalha do Mérito do Ministério Público; Colar do Mérito da Corte de Contas ministro José Maria de Alkmin, do Tribunal de Contas; Diploma de Honra ao Mérito Legislativo da cidade de Bom Jesus do Amparo; Certificado de Honra (pelos serviços prestados) da cidade de Malacacheta; Comenda Martins da Costa, no evento em homenagem ao muriaeense; Moeda Comemorativa dos 10 anos da Academia de Bombeiros Militar em agradecimento ao apoio à corporação; Título de Cidadão Benfeitor da cidade de Espinosa; homenageado pelo 3º Batalhão de Bombeiros Militar como \"Guardião da Pampulha\"; Medalha Comemorativa dos 120 anos de Itaúna; e Medalha do Mérito Legislativo no Grau Mérito Especial; Medalha Ordem do Mérito Imperador Dom Pedro II, do Corpo de Bombeiros de Minas Gerais. É também cidadão honorário dos municípios de Ubaporanga, Teófilo Otoni, Cabeceira Grande, Itaúna, Nanuque e Ipanema.",
+ "candidaturas": [
+  {
+   "legislatura": 18,
+   "numeroCandidato": 22800
+  },
+  {
+   "legislatura": 19,
+   "numeroCandidato": 22800
+  },
+  {
+   "legislatura": 20,
+   "numeroCandidato": 22800
+  }
+ ],
+ "filiacoes": [
+  {
+   "dataInicio": {
+    "@class": "sql-timestamp",
+    "$": "2016-12-14"
+   },
+   "dataTermino": {
+    "@class": "sql-timestamp",
+    "$": "2019-05-06"
+   },
+   "partido": {
+    "id": 92,
+    "sigla": "PR"
+   }
+  },
+  {
+   "dataInicio": {
+    "@class": "sql-timestamp",
+    "$": "2019-05-07"
+   },
+   "dataTermino": {
+    "@class": "sql-timestamp",
+    "$": "2999-12-31"
+   },
+   "partido": {
+    "id": 89,
+    "sigla": "PL"
+   }
+  }
+ ],
+ "enderecos": [
+  {
+   "logradouro": "Rua Rodrigues Caldas",
+   "numero": "30",
+   "complemento": "Palácio da Inconfidência - térreo - conjunto 02",
+   "bairro": "Santo Agostinho",
+   "cep": "30190921",
+   "municipio": {
+    "nome": "Belo Horizonte",
+    "uf": "MG",
+    "codigoIbge9": 310620005
+   },
+   "descTipo": "Gabinete",
+   "telefones": [
+    {
+     "ddd": "31",
+     "numero": "21085775",
+     "fax": "N"
+    },
+    {
+     "ddd": "31",
+     "numero": "21085777",
+     "fax": "S"
+    }
+   ]
+  }
+ ],
+ "legislaturas": [
+  {
+   "numeroLegislatura": 18,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2015-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2019-01-31"
+   },
+   "tipoMandato": "Efetivo",
+   "inicioExercicio": {
+    "@class": "sql-timestamp",
+    "$": "2016-12-14"
+   },
+   "terminoExercicio": {
+    "@class": "sql-timestamp",
+    "$": "2019-01-31"
+   },
+   "deputadoAfastado": "Deiró Marra",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2016-12-14"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2019-01-31"
+     }
+    }
+   ]
+  },
+  {
+   "numeroLegislatura": 19,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2019-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2023-01-31"
+   },
+   "tipoMandato": "Efetivo",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2019-02-01"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2023-01-31"
+     }
+    }
+   ]
+  },
+  {
+   "numeroLegislatura": 20,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2023-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2027-01-31"
+   },
+   "tipoMandato": "Efetivo",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2023-02-01"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2027-01-31"
+     }
+    }
+   ]
+  }
+ ],
+ "situacaoLegislaturas": "18&ordf; - 2015-2019- Efetivo<br/>de 14/12/2016 até 31/01/2019 (Em exercício em 14/12/2016) <br/><br />19&ordf; - 2019-2023- Efetivo<br/>de 01/02/2019 até 31/01/2023 (Em exercício em 01/02/2019) <br/><br />20&ordf; - 2023-2027- Efetivo<br/>de 01/02/2023 até 31/01/2027 (Em exercício em 01/02/2023) <br/><br />",
+ "partidosLegislatura": "PL    <br/>",
+ "anoEleicaoLegislatura": "2022",
+ "situacaoTerminoLegislatura": "Em exercício"
+}

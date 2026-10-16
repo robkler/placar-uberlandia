@@ -6,16 +6,19 @@ Site estático com dois lados, escolhidos no seletor do topo:
 
 - **Uberlândia**: os 27 vereadores (presença, como votaram em cada projeto, proposições,
   patrimônio e campanha) e as contas da Prefeitura. Dados em `public/data.json`.
+- **Minas Gerais**: os 77 deputados estaduais da ALMG (projetos, leis, verba indenizatória,
+  votos em Uberlândia em 2022) e o Governo do Estado (governador, eleição de 2022, projetos do
+  governo na Assembleia, receitas e despesas). Dados em `public/mg.json`.
 - **Câmara dos Deputados**: os 513 deputados federais, abrindo filtrado em Minas Gerais e
   ordenado por votos recebidos em Uberlândia em 2022 (presença oficial, principais votações,
   projetos, cota parlamentar). Dados em `public/federal.json`, carregado só quando a pessoa abre
   esse lado.
 
-Os dois arquivos são gerados pelos scripts em `scripts/` a partir de fontes públicas e são
+Os arquivos são gerados pelos scripts em `scripts/` a partir de fontes públicas e são
 atualizados todo dia automaticamente (veja [Atualização automática](#atualização-automática)).
 
 > **Aviso:** projeto independente, sem vínculo com a Câmara Municipal, a Prefeitura de
-> Uberlândia, a Câmara dos Deputados ou qualquer partido. Os dados são copiados de fontes
+> Uberlândia, a ALMG, o Governo de Minas, a Câmara dos Deputados ou qualquer partido. Os dados são copiados de fontes
 > oficiais e podem conter erros ou atrasos; na dúvida, confira na fonte. Achou algo errado?
 > [Abra uma issue](https://github.com/robkler/placar-uberlandia/issues/new?template=dado-incorreto.yml).
 
@@ -25,7 +28,7 @@ Precisa só do `python3` (já vem no macOS). Se você usa o [mise](https://mise.
 `mise install` instala as versões do projeto (definidas em `mise.toml`). Na pasta do projeto:
 
 ```bash
-./atualizar.sh              # baixa os dados novos e gera data.json e federal.json (~5 a 10 min)
+./atualizar.sh              # baixa os dados novos e gera data.json, mg.json e federal.json (~5 a 10 min)
 ./atualizar.sh --publicar   # faz o mesmo e publica na Vercel
 ./ver.sh                    # abre o site no seu computador em http://localhost:8000
 ```
@@ -34,6 +37,7 @@ Outras opções:
 
 ```bash
 ./atualizar.sh --so-uberlandia   # só Uberlândia (~1 min)
+./atualizar.sh --so-mg           # só Minas Gerais
 ./atualizar.sh --so-federal      # só a Câmara dos Deputados
 ./atualizar.sh --tse        # recoleta dados do TSE (só depois de eleições ou troca de parlamentar)
 ./atualizar.sh --forcar     # grava o data.json mesmo se a checagem de segurança reclamar
@@ -74,8 +78,10 @@ public/                 o que vai para o ar
   index.html            a página
   data.json             Uberlândia, gerado por scripts/gerar_dados.py
   federal.json          Câmara dos Deputados, gerado por scripts/gerar_federal.py
+  mg.json               Minas Gerais, gerado por scripts/gerar_mg.py
   fotos/                fotos oficiais do TSE (vereadores, prefeito, vice)
   fotos/dep/            fotos oficiais da Câmara dos Deputados
+  fotos/mg/             fotos do TSE (deputados estaduais e governo de MG)
 scripts/
   comum.py              configuração (município, legislatura) e funções comuns
   coletar_camara.py     vereadores e reuniões da Câmara (todo dia)
@@ -85,6 +91,9 @@ scripts/
   coletar_federal.py    deputados, presença oficial, votações, projetos e cota (Câmara dos Deputados)
   coletar_tse_federal.py  votos em 2022 (total e em Uberlândia) e patrimônio dos deputados
   gerar_federal.py      gera public/federal.json, com checagem de segurança
+  coletar_mg.py         ALMG (deputados, projetos, reuniões, verba) e contas do Estado
+  coletar_tse_mg.py     fotos, votos (MG e Uberlândia) e patrimônio de deputados estaduais e governador
+  gerar_mg.py           gera public/mg.json (inclui quem governa hoje, em GOVERNO_ATUAL)
 dados/                  dados brutos e cache (não vão para o site)
 atualizar.sh            comando principal
 ver.sh                  servidor local para testar
@@ -102,6 +111,8 @@ vercel.json             configuração da Vercel (pasta public, cache)
 | Deputados federais, votações, projetos, cota | Dados Abertos da Câmara dos Deputados (`dadosabertos.camara.leg.br`) |
 | Presença oficial dos deputados | Página de cada deputado em `camara.leg.br` |
 | Votos dos deputados em Uberlândia, patrimônio | TSE, eleição de 2022 (ligado ao deputado pelo CPF, que é consultado na hora e não fica salvo no repositório) |
+| Deputados estaduais, projetos, reuniões, verba indenizatória | Dados Abertos da ALMG (`dadosabertos.almg.gov.br`) |
+| Contas do Estado | Tesouro Nacional, SICONFI (DCA de Minas Gerais) |
 
 - **Presença**: a lista de frequência oficial da Câmara não está sendo atualizada (vereadores que
   votaram aparecem com "falta"), por isso a presença é medida pelas votações nominais: o vereador
@@ -113,6 +124,11 @@ vercel.json             configuração da Vercel (pasta public, cache)
   justificadas e não justificadas). A % conta ausência justificada como ausência.
 - **Principais votações federais**: votações do texto de PL, PLP, PEC, MP e PDL no plenário com
   mais de 300 votos, sem requerimentos e destaques.
+- **Deputados estaduais**: a ALMG não publica presença nem voto individual em dados abertos, por
+  isso essas métricas não existem para MG. Mostramos quantas reuniões de Plenário marcadas
+  aconteceram, segundo a própria ALMG.
+- **Governador atual**: não vem de API; está em `GOVERNO_ATUAL` no `scripts/gerar_mg.py`.
+  Atualize quando mudar (por exemplo, em 1º de janeiro de 2027).
 - **Campanha**: mostramos a origem do dinheiro (fundo eleitoral, pessoas físicas etc.), sem
   nomes de doadores.
 
@@ -146,8 +162,8 @@ vercel.json             configuração da Vercel (pasta public, cache)
 ## Licença
 
 - **Código** (scripts, página, configuração): [MIT](LICENSE).
-- **Dados** (`dados/`, `public/data.json`, `public/federal.json`): dados públicos da Câmara
-  Municipal de Uberlândia, da Câmara dos Deputados, do TSE, do Tesouro Nacional (SICONFI) e do
-  IBGE. Pertencem a essas fontes e não estão sob a licença MIT; ao reutilizar, cite a fonte original.
+- **Dados** (`dados/`, `public/data.json`, `public/mg.json`, `public/federal.json`): dados
+  públicos da Câmara Municipal de Uberlândia, da ALMG, da Câmara dos Deputados, do TSE, do
+  Tesouro Nacional (SICONFI) e do IBGE. Pertencem a essas fontes e não estão sob a licença MIT; ao reutilizar, cite a fonte original.
 - **Fotos** (`public/fotos/`): fotos oficiais do TSE e da Câmara dos Deputados; também não
   estão sob a licença MIT.

@@ -1,0 +1,255 @@
+{
+ "id": 18849,
+ "nome": "Celinho Sintrocel",
+ "partido": "PCdoB",
+ "tagLocalizacao": 981,
+ "cargoRepresentacaoPartidaria": "Vice-Líder do Bloco Democracia e Luta",
+ "liderancas": [
+  {
+   "categoria": "BLOCO",
+   "cargo": "Vice-Líder",
+   "idRepresentacao": 58,
+   "nomeRepresentacao": "Bloco Democracia e Luta"
+  }
+ ],
+ "dataCargoRepresentacaoPartidaria": {
+  "@class": "sql-timestamp",
+  "$": "2026-02-02"
+ },
+ "sexo": "M",
+ "situacao": "Em exercício",
+ "inicioSituacao": {
+  "@class": "sql-timestamp",
+  "$": "2023-02-01"
+ },
+ "tipoMandato": "Efetivo",
+ "nomeServidor": "JOSÉ CÉLIO DE ALVARENGA",
+ "naturalidadeMunicipio": "Timóteo",
+ "naturalidadeUf": "MG",
+ "dataNascimento": "19/07/1960",
+ "apresentarEmail": "G",
+ "atividadeProfissional": "Escriturário",
+ "codigoSituacao": 1,
+ "partidoEleicao": "PCdoB",
+ "emails": [
+  {
+   "tipo": "1",
+   "endereco": "dep.celinho.sintrocel"
+  }
+ ],
+ "vidaProfissionalPolitica": "José Célio de Alvarenga, o Celinho Sintrocel, tem atuação na Assembleia marcada pela defesa dos direitos dos trabalhadores e causas populares. O deputado traz em sua história uma forte atuação sindical: é diretor licenciado do Sindicato dos Trabalhadores em Transportes Rodoviários do Vale do Aço (Sinttrocel), da Federação dos Trabalhadores em Transportes Rodoviários de Minas Gerais (Fettrominas), da Confederação Nacional dos Trabalhadores em Transportes Terrestres (CNTTT) e da Nova Central Sindical dos Trabalhadores em Minas Gerais.",
+ "atuacaoParlamentar": "Assume, em 2023, seu quarto mandato consecutivo na Assembleia Legislativa de Minas Gerais. Em legislaturas anteriores, ocupou o cargo de presidente da Comissão do Trabalho, da Previdência e da Assistência Social e também atuou na Comissão Extraordinária das Barragens, na Comissão Extraordinária Pró-Ferrovias Mineiras e na Comissão de Transporte, Comunicação e Obras Públicas, entre outras. Na 18ª Legislatura, foi vice-líder do Bloco Minas Melhor, da base do governo. Já na 16ª Legislatura, foi eleito suplente e exerceu o mandato durante o mês de janeiro de 2011. Foi reeleito em 2014 para seu segundo mandato com mais de 36 mil votos, representando a região dos Vales do Aço, Mucuri e Jequitinhonha, Leste e Norte de Minas.",
+ "condecoracao": "Medalha do Mérito Legislativo; Cidadão Honorário de Coronel Fabriciano/MG; Moção de aplausos da Câmara Municipal de Timóteo/MG.",
+ "candidaturas": [
+  {
+   "legislatura": 17,
+   "numeroCandidato": 65112
+  },
+  {
+   "legislatura": 18,
+   "numeroCandidato": 65112
+  },
+  {
+   "legislatura": 19,
+   "numeroCandidato": 65112
+  },
+  {
+   "legislatura": 20,
+   "numeroCandidato": 65112
+  }
+ ],
+ "filiacoes": [
+  {
+   "dataInicio": {
+    "@class": "sql-timestamp",
+    "$": "2010-10-03"
+   },
+   "dataTermino": {
+    "@class": "sql-timestamp",
+    "$": "2999-12-31"
+   },
+   "partido": {
+    "id": 65,
+    "sigla": "PCdoB"
+   }
+  }
+ ],
+ "enderecos": [
+  {
+   "logradouro": "Rua Rodrigues Caldas",
+   "numero": "79",
+   "complemento": "Edifício Tiradentes - 15º andar - sala 2",
+   "bairro": "Santo Agostinho",
+   "cep": "30190120",
+   "municipio": {
+    "nome": "Belo Horizonte",
+    "uf": "MG",
+    "codigoIbge9": 310620005
+   },
+   "descTipo": "Gabinete",
+   "telefones": [
+    {
+     "ddd": "31",
+     "numero": "21085905",
+     "fax": "N"
+    },
+    {
+     "ddd": "31",
+     "numero": "21085907",
+     "fax": "S"
+    }
+   ]
+  }
+ ],
+ "legislaturas": [
+  {
+   "numeroLegislatura": 16,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2007-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2011-01-31"
+   },
+   "tipoMandato": "Suplente",
+   "inicioExercicio": {
+    "@class": "sql-timestamp",
+    "$": "2011-01-04"
+   },
+   "terminoExercicio": {
+    "@class": "sql-timestamp",
+    "$": "2011-01-28"
+   },
+   "deputadoAfastado": "Carlos Pimenta",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2011-01-04"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2011-01-29"
+     }
+    },
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2011-01-29"
+     },
+     "status": "Término de exercício de suplência",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2011-01-31"
+     }
+    }
+   ]
+  },
+  {
+   "numeroLegislatura": 17,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2011-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2015-01-31"
+   },
+   "tipoMandato": "Efetivo",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2011-02-01"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2015-01-31"
+     }
+    }
+   ]
+  },
+  {
+   "numeroLegislatura": 18,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2015-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2019-01-31"
+   },
+   "tipoMandato": "Efetivo",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2015-02-01"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2019-01-31"
+     }
+    }
+   ]
+  },
+  {
+   "numeroLegislatura": 19,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2019-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2023-01-31"
+   },
+   "tipoMandato": "Efetivo",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2019-02-01"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2023-01-31"
+     }
+    }
+   ]
+  },
+  {
+   "numeroLegislatura": 20,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2023-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2027-01-31"
+   },
+   "tipoMandato": "Efetivo",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2023-02-01"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2027-01-31"
+     }
+    }
+   ]
+  }
+ ],
+ "situacaoLegislaturas": "16&ordf; - 2007-2011- Suplente de Carlos Pimenta <br/>de 04/01/2011 até 29/01/2011 (Em exercício em 04/01/2011) <br/><br />17&ordf; - 2011-2015- Efetivo<br/>de 01/02/2011 até 31/01/2015 (Em exercício em 01/02/2011) <br/><br />18&ordf; - 2015-2019- Efetivo<br/>de 01/02/2015 até 31/01/2019 (Em exercício em 01/02/2015) <br/><br />19&ordf; - 2019-2023- Efetivo<br/>de 01/02/2019 até 31/01/2023 (Em exercício em 01/02/2019) <br/><br />20&ordf; - 2023-2027- Efetivo<br/>de 01/02/2023 até 31/01/2027 (Em exercício em 01/02/2023) <br/><br />",
+ "partidosLegislatura": "PCdoB    <br/>",
+ "anoEleicaoLegislatura": "2022",
+ "situacaoTerminoLegislatura": "Em exercício"
+}

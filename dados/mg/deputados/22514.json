@@ -1,0 +1,201 @@
+{
+ "id": 22514,
+ "nome": "Arnaldo Silva",
+ "partido": "UNIÃO",
+ "tagLocalizacao": 1670,
+ "sexo": "M",
+ "situacao": "Em exercício",
+ "inicioSituacao": {
+  "@class": "sql-timestamp",
+  "$": "2023-02-01"
+ },
+ "tipoMandato": "Efetivo",
+ "nomeServidor": "ARNALDO SILVA JÚNIOR",
+ "naturalidadeMunicipio": "Frutal",
+ "naturalidadeUf": "MG",
+ "dataNascimento": "8/3/1973",
+ "atividadeProfissional": "Advogado",
+ "codigoSituacao": 1,
+ "partidoEleicao": "UNIÃO",
+ "emails": [
+  {
+   "tipo": "1",
+   "endereco": "dep.arnaldo.silva"
+  }
+ ],
+ "vidaProfissionalPolitica": "Formou-se em Direito pela Universidade Federal de Uberlândia. É mestre e doutor em Direito Público pela PUC Minas. Também é pós-graduado em Direitos Fundamentais pela Universidade de Castilla-La Mancha (UCLM), em Toledo, na Espanha. Especialista, ainda, em Contratação Pública pelo Centro de Estudos de Direito Público e Regulação (Cedipre) da Faculdade de Direito Universidade de Coimbra, em Portugal.\r\n\n\nEm 2020, atuou como secretário Municipal de Gestão Estratégica em Uberlândia.",
+ "atuacaoParlamentar": "Assume, em 2023, seu terceiro mandato na Assembleia Legislativa de Minas Gerais. Na 19ª Legislatura, ingressou no Legislativo mineiro em 2021, em função da abertura de vaga na Coligação Juntos para Reconstruir Minas, da qual foi primeiro suplente nas eleições de 2018, quando recebeu 47.711 votos. Atuou nas comissões de Minas e Energia, Extraordinária das Energias Renováveis e dos Recursos Hídricos e Extraordinária de Turismo e Gastronomia. Foi também deputado da 18ª Legislatura, entre 2015 e 2019.",
+ "candidaturas": [
+  {
+   "legislatura": 18,
+   "numeroCandidato": 25999
+  },
+  {
+   "legislatura": 20,
+   "numeroCandidato": 44444
+  }
+ ],
+ "filiacoes": [
+  {
+   "dataInicio": {
+    "@class": "sql-timestamp",
+    "$": "2015-02-01"
+   },
+   "dataTermino": {
+    "@class": "sql-timestamp",
+    "$": "2018-04-05"
+   },
+   "partido": {
+    "id": 92,
+    "sigla": "PR"
+   }
+  },
+  {
+   "dataInicio": {
+    "@class": "sql-timestamp",
+    "$": "2018-04-06"
+   },
+   "dataTermino": {
+    "@class": "sql-timestamp",
+    "$": "2022-04-05"
+   },
+   "partido": {
+    "id": 91,
+    "sigla": "DEM"
+   }
+  },
+  {
+   "dataInicio": {
+    "@class": "sql-timestamp",
+    "$": "2022-04-06"
+   },
+   "dataTermino": {
+    "@class": "sql-timestamp",
+    "$": "2999-12-31"
+   },
+   "partido": {
+    "id": 84,
+    "sigla": "UNIÃO"
+   }
+  }
+ ],
+ "enderecos": [
+  {
+   "logradouro": "Rua Rodrigues Caldas",
+   "numero": "30",
+   "complemento": "Palácio da Inconfidência - 2º andar - conjunto 218",
+   "bairro": "Santo Agostinho",
+   "cep": "30190921",
+   "municipio": {
+    "nome": "Belo Horizonte",
+    "uf": "MG",
+    "codigoIbge9": 310620005
+   },
+   "descTipo": "Gabinete",
+   "telefones": [
+    {
+     "ddd": "31",
+     "numero": "21085380",
+     "fax": "S"
+    },
+    {
+     "ddd": "31",
+     "numero": "21085383",
+     "fax": "N"
+    }
+   ]
+  }
+ ],
+ "legislaturas": [
+  {
+   "numeroLegislatura": 18,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2015-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2019-01-31"
+   },
+   "tipoMandato": "Efetivo",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2015-02-01"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2019-01-31"
+     }
+    }
+   ]
+  },
+  {
+   "numeroLegislatura": 19,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2019-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2023-01-31"
+   },
+   "tipoMandato": "Efetivo",
+   "inicioExercicio": {
+    "@class": "sql-timestamp",
+    "$": "2021-04-28"
+   },
+   "terminoExercicio": {
+    "@class": "sql-timestamp",
+    "$": "2023-01-31"
+   },
+   "deputadoAfastado": "Luiz Humberto Carneiro",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2021-04-28"
+     },
+     "status": "Em exercício",
+     "motivo": "Falecimento do efetivo",
+     "complemento": "Vaga decorrente do falecimento do deputado Luiz Humberto Carneiro.",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2023-01-31"
+     }
+    }
+   ]
+  },
+  {
+   "numeroLegislatura": 20,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2023-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2027-01-31"
+   },
+   "tipoMandato": "Efetivo",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2023-02-01"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2027-01-31"
+     }
+    }
+   ]
+  }
+ ],
+ "situacaoLegislaturas": "18&ordf; - 2015-2019- Efetivo<br/>de 01/02/2015 até 31/01/2019 (Em exercício em 01/02/2015) <br/><br />19&ordf; - 2019-2023- Efetivo<br/>de 28/04/2021 até 31/01/2023 (Em exercício em 28/04/2021 - Falecimento do efetivo Luiz Humberto Carneiro - Vaga decorrente do falecimento do deputado Luiz Humberto Carneiro.) <br/><br />20&ordf; - 2023-2027- Efetivo<br/>de 01/02/2023 até 31/01/2027 (Em exercício em 01/02/2023) <br/><br />",
+ "partidosLegislatura": "UNIÃO    <br/>",
+ "anoEleicaoLegislatura": "2022",
+ "situacaoTerminoLegislatura": "Em exercício"
+}

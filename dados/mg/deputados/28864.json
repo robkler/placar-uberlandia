@@ -1,0 +1,109 @@
+{
+ "id": 28864,
+ "nome": "Delegado Christiano Xavier",
+ "partido": "PSD",
+ "tagLocalizacao": 5956,
+ "sexo": "M",
+ "situacao": "Em exercício",
+ "inicioSituacao": {
+  "@class": "sql-timestamp",
+  "$": "2023-02-01"
+ },
+ "tipoMandato": "Efetivo",
+ "nomeServidor": "CHRISTIANO AUGUSTO XAVIER FERREIRA",
+ "naturalidadeMunicipio": "Belo Horizonte",
+ "naturalidadeUf": "MG",
+ "dataNascimento": "08/04/1977",
+ "apresentarEmail": "A",
+ "atividadeProfissional": "Delegado da Polícia Civil",
+ "codigoSituacao": 1,
+ "partidoEleicao": "PSD",
+ "emails": [
+  {
+   "tipo": "1",
+   "endereco": "dep.delegado.christiano.xavier"
+  }
+ ],
+ "vidaProfissionalPolitica": "Prefeito de Santa Luzia (RMBH) entre julho de 2018 e março de 2022, elegeu-se pela primeira vez para deputado estadual na ALMG. Pretende aproveitar a experiência de três anos e oito meses na política, sobretudo na gestão de Santa Luzia, para trabalhar em prol do desenvolvimento do Estado em diversas áreas, como o municipalismo, infraestrutura, saúde, educação, mobilidade e segurança pública. Este último tema deve ser uma de suas prioridades, na qual defende penas maiores e regime de cumprimento mais rigoroso para os condenados, e melhores condições de trabalho para as forças policiais. Como delegado, atuou em diversas cidades da RMBH e do interior do Estado. Em Santa Luzia, conseguiu realizar obras como a reabertura do Hospital São João de Deus, após cinco anos fechado. Para tornar possíveis obras como essa, também defende o fortalecimento dos municípios, com mais igualdade na distribuição dos recursos arrecadados. Em Santa Luzia, realizou mais de 400 obras e ações que transformaram a cidade e melhoraram a vida da população.",
+ "atuacaoParlamentar": "Assume, em 2023, seu primeiro mandato na Assembleia Legislativa de Minas Gerais.",
+ "candidaturas": [
+  {
+   "legislatura": 20,
+   "numeroCandidato": 55333
+  }
+ ],
+ "filiacoes": [
+  {
+   "dataInicio": {
+    "@class": "sql-timestamp",
+    "$": "2022-10-02"
+   },
+   "dataTermino": {
+    "@class": "sql-timestamp",
+    "$": "2999-12-31"
+   },
+   "partido": {
+    "id": 41,
+    "sigla": "PSD"
+   }
+  }
+ ],
+ "enderecos": [
+  {
+   "logradouro": "Rua Rodrigues Caldas",
+   "numero": "30",
+   "complemento": "Palácio da Inconfidência - 2º andar - conjunto 206",
+   "bairro": "Santo Agostinho",
+   "cep": "30190921",
+   "municipio": {
+    "nome": "Belo Horizonte",
+    "uf": "MG",
+    "codigoIbge9": 310620005
+   },
+   "descTipo": "Gabinete",
+   "telefones": [
+    {
+     "ddd": "31",
+     "numero": "21085445",
+     "fax": "N"
+    },
+    {
+     "ddd": "31",
+     "numero": "21085446",
+     "fax": "S"
+    }
+   ]
+  }
+ ],
+ "legislaturas": [
+  {
+   "numeroLegislatura": 20,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2023-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2027-01-31"
+   },
+   "tipoMandato": "Efetivo",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2023-02-01"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2027-01-31"
+     }
+    }
+   ]
+  }
+ ],
+ "situacaoLegislaturas": "20&ordf; - 2023-2027- Efetivo<br/>de 01/02/2023 até 31/01/2027 (Em exercício em 01/02/2023) <br/><br />",
+ "partidosLegislatura": "PSD    <br/>",
+ "anoEleicaoLegislatura": "2022",
+ "situacaoTerminoLegislatura": "Em exercício"
+}

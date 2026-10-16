@@ -1,0 +1,276 @@
+{
+ "id": 18850,
+ "nome": "Doutor Wilson Batista",
+ "partido": "PSD",
+ "tagLocalizacao": 982,
+ "sexo": "M",
+ "situacao": "Em exercício",
+ "inicioSituacao": {
+  "@class": "sql-timestamp",
+  "$": "2023-02-01"
+ },
+ "tipoMandato": "Efetivo",
+ "nomeServidor": "WILSON ROBERTO BATISTA",
+ "naturalidadeMunicipio": "São João del Rei",
+ "naturalidadeUf": "MG",
+ "dataNascimento": "21/05/1969",
+ "apresentarEmail": "G",
+ "atividadeProfissional": "Médico-cirurgião",
+ "codigoSituacao": 1,
+ "partidoEleicao": "PSD",
+ "emails": [
+  {
+   "tipo": "1",
+   "endereco": "dep.doutor.wilson.batista"
+  }
+ ],
+ "vidaProfissionalPolitica": "Médico do câncer e cirurgião oncológico em Muriaé há mais de 20 anos. Atua Na Casa de Caridade Hospital São Paulo e já realizou mais de 15 mil cirurgias pelo SUS.\r\nÉ doutor em medicina Interna e Terapêutica pela Universidade Federal de São Paulo, Fellow no Instituto Europeu de Oncologia, em Milão, Itália. Pós-graduado em Saúde pública e Gestão Hospitalar pela Universidade Federal de Juiz de Fora.\r\nAutor da Lei que implantou o programa de prevenção e enfrentamento ao câncer em Minas Gerais, através das carretas adaptadas que percorrem o estado para realização de exames aliados ao diagnóstico inicial do câncer, aumentando as chances de cura da doença.\r\nSua principal área de atuação politica é a Zona da Mata e Campo das Vertentes, no pleito de 2022 foi o deputado mais votado da Zona da Mata e sua pauta é a saúde e educação.",
+ "atuacaoParlamentar": "Assume, em 2023, seu quarto mandato consecutivo na Assembleia Legislativa de Minas Gerais (ALMG), onde ingressou em 2011. Nas 19º e 18º Legislaturas, foi vice-presidente da Comissão de Saúde.",
+ "condecoracao": "Cidadão Honorário de Muriaé; Cidadão Honorário de Além Paraíba; Cidadão Honorário de Cataguases; Cidadão Honorário de Palmas; Medalha Santos Dumont; Medalha de Mérito de Defesa Civil; Medalha da Inconfidência; Medalha de Mérito Muriaeense; Medalha de Mérito da Polícia Civil de Minas Gerais; Medalha de Mérito Legislativo da Câmara de Vereadores de Juiz de Fora; Medalha Especial na Ordem de Mérito Legislativo do Estado de Minas Gerais; Prêmio Imprensa do Jornal Tribuna do Povo; Diploma de Honra ao Mérito da Cidade de Muriaé; Diploma de Honra ao Mérito do Município de Santa Cruz de Minas.",
+ "candidaturas": [
+  {
+   "legislatura": 17,
+   "numeroCandidato": 17017
+  },
+  {
+   "legislatura": 18,
+   "numeroCandidato": 55123
+  },
+  {
+   "legislatura": 19,
+   "numeroCandidato": 55123
+  },
+  {
+   "legislatura": 20,
+   "numeroCandidato": 55123
+  }
+ ],
+ "filiacoes": [
+  {
+   "dataInicio": {
+    "@class": "sql-timestamp",
+    "$": "2010-10-03"
+   },
+   "dataTermino": {
+    "@class": "sql-timestamp",
+    "$": "2011-11-23"
+   },
+   "partido": {
+    "id": 17,
+    "sigla": "PSL"
+   }
+  },
+  {
+   "dataInicio": {
+    "@class": "sql-timestamp",
+    "$": "2011-11-24"
+   },
+   "dataTermino": {
+    "@class": "sql-timestamp",
+    "$": "2999-12-31"
+   },
+   "partido": {
+    "id": 41,
+    "sigla": "PSD"
+   }
+  }
+ ],
+ "enderecos": [
+  {
+   "logradouro": "Rua Rodrigues Caldas",
+   "numero": "30",
+   "complemento": "Palácio da Inconfidência - 2º andar - conjunto 210",
+   "bairro": "Santo Agostinho",
+   "cep": "30190921",
+   "municipio": {
+    "nome": "Belo Horizonte",
+    "uf": "MG",
+    "codigoIbge9": 310620005
+   },
+   "descTipo": "Gabinete",
+   "telefones": [
+    {
+     "ddd": "31",
+     "numero": "21085320",
+     "fax": "N"
+    },
+    {
+     "ddd": "31",
+     "numero": "21085323",
+     "fax": "S"
+    }
+   ]
+  },
+  {
+   "logradouro": "Rua Souza Castro",
+   "numero": "73",
+   "bairro": "Barra",
+   "cep": "36880000",
+   "municipio": {
+    "nome": "Muriaé",
+    "uf": "MG",
+    "codigoIbge9": 314390005
+   },
+   "descTipo": "Escritório Político",
+   "telefones": [
+    {
+     "ddd": "32",
+     "numero": "37223748",
+     "fax": "N"
+    }
+   ]
+  },
+  {
+   "logradouro": "Av. Cristiano Ferreira Varella",
+   "numero": "555",
+   "bairro": "Universitário",
+   "cep": "36880000",
+   "municipio": {
+    "nome": "Muriaé",
+    "uf": "MG",
+    "codigoIbge9": 314390005
+   },
+   "descTipo": "Escritório Político"
+  }
+ ],
+ "legislaturas": [
+  {
+   "numeroLegislatura": 16,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2007-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2011-01-31"
+   },
+   "tipoMandato": "Suplente",
+   "inicioExercicio": {
+    "@class": "sql-timestamp",
+    "$": "2011-01-04"
+   },
+   "terminoExercicio": {
+    "@class": "sql-timestamp",
+    "$": "2011-01-31"
+   },
+   "deputadoAfastado": "Elmiro Nascimento",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2011-01-04"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2011-01-31"
+     }
+    }
+   ]
+  },
+  {
+   "numeroLegislatura": 17,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2011-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2015-01-31"
+   },
+   "tipoMandato": "Efetivo",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2011-02-01"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2015-01-31"
+     }
+    }
+   ]
+  },
+  {
+   "numeroLegislatura": 18,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2015-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2019-01-31"
+   },
+   "tipoMandato": "Efetivo",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2015-02-01"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2019-01-31"
+     }
+    }
+   ]
+  },
+  {
+   "numeroLegislatura": 19,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2019-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2023-01-31"
+   },
+   "tipoMandato": "Efetivo",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2019-02-01"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2023-01-31"
+     }
+    }
+   ]
+  },
+  {
+   "numeroLegislatura": 20,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2023-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2027-01-31"
+   },
+   "tipoMandato": "Efetivo",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2023-02-01"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2027-01-31"
+     }
+    }
+   ]
+  }
+ ],
+ "situacaoLegislaturas": "16&ordf; - 2007-2011- Suplente de Elmiro Nascimento <br/>de 04/01/2011 até 31/01/2011 (Em exercício em 04/01/2011) <br/><br />17&ordf; - 2011-2015- Efetivo<br/>de 01/02/2011 até 31/01/2015 (Em exercício em 01/02/2011) <br/><br />18&ordf; - 2015-2019- Efetivo<br/>de 01/02/2015 até 31/01/2019 (Em exercício em 01/02/2015) <br/><br />19&ordf; - 2019-2023- Efetivo<br/>de 01/02/2019 até 31/01/2023 (Em exercício em 01/02/2019) <br/><br />20&ordf; - 2023-2027- Efetivo<br/>de 01/02/2023 até 31/01/2027 (Em exercício em 01/02/2023) <br/><br />",
+ "partidosLegislatura": "PSD    <br/>",
+ "anoEleicaoLegislatura": "2022",
+ "situacaoTerminoLegislatura": "Em exercício"
+}

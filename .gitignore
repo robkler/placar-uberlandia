@@ -13,3 +13,6 @@ mise.local.toml
 
 # Arquivos descartáveis
 _para_apagar/
+
+# Specs e planos locais
+docs/superpowers/

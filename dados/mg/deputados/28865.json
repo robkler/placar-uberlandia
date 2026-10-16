@@ -1,0 +1,121 @@
+{
+ "id": 28865,
+ "nome": "Dr. Maurício",
+ "partido": "NOVO",
+ "tagLocalizacao": 5957,
+ "cargoRepresentacaoPartidaria": "Vice-Líder do Bloco Minas em Frente",
+ "liderancas": [
+  {
+   "categoria": "BLOCO",
+   "cargo": "Vice-Líder",
+   "idRepresentacao": 60,
+   "nomeRepresentacao": "Bloco Minas em Frente"
+  }
+ ],
+ "dataCargoRepresentacaoPartidaria": {
+  "@class": "sql-timestamp",
+  "$": "2026-05-13"
+ },
+ "sexo": "M",
+ "situacao": "Em exercício",
+ "inicioSituacao": {
+  "@class": "sql-timestamp",
+  "$": "2023-02-01"
+ },
+ "tipoMandato": "Efetivo",
+ "nomeServidor": "MAURICIO LEMES DE CARVALHO",
+ "naturalidadeMunicipio": "Santa Rita de Caldas",
+ "naturalidadeUf": "MG",
+ "dataNascimento": "27/01/1950",
+ "apresentarEmail": "A",
+ "codigoSituacao": 1,
+ "partidoEleicao": "NOVO",
+ "emails": [
+  {
+   "tipo": "1",
+   "endereco": "dep.dr.mauricio"
+  }
+ ],
+ "vidaProfissionalPolitica": "Médico ortopedista, foi diretor clínico da Santa Casa de Ouro Fino (Sul de Minas) na década de 1990. Produtor rural e empresário, foi eleito para o seu primeiro mandato na ALMG. Anteriormente, foi prefeito de Ouro Fino por dois mandatos (2013/2020), reeleito com quase 90% dos votos e encerrando o mandato com aprovação de 92% da população. Foi premiado pela Associação dos Municípios Mineiros (AMM) com o prêmio de Melhor Gestão de Recursos Públicos. Consolidou sua liderança política no Sul de Minas como presidente da Associação dos Municípios do Alto do Rio Pardo (Amarp) por dois mandatos e como presidente do Conselho Fiscal no consórcio Samu regional de Varginha, também por duas ocasiões. Em seu mandato parlamentar se propõe a ampliar a representação do Sul de Minas, tendo como pautas o desenvolvimento econômico da região, o fortalecimento dos hospitais regionais e locais e a recuperação da infraestrutura rodoviária.",
+ "atuacaoParlamentar": "Assume, em 2023, seu primeiro mandato na Assembleia Legislativa de Minas Gerais.",
+ "candidaturas": [
+  {
+   "legislatura": 20,
+   "numeroCandidato": 30230
+  }
+ ],
+ "filiacoes": [
+  {
+   "dataInicio": {
+    "@class": "sql-timestamp",
+    "$": "2022-10-02"
+   },
+   "dataTermino": {
+    "@class": "sql-timestamp",
+    "$": "2999-12-31"
+   },
+   "partido": {
+    "id": 46,
+    "sigla": "NOVO"
+   }
+  }
+ ],
+ "enderecos": [
+  {
+   "logradouro": "Rua Rodrigues Caldas",
+   "numero": "30",
+   "complemento": "Palácio da Inconfidência - 2º andar - Conjunto 233",
+   "bairro": "Santo Agostinho",
+   "cep": "30190921",
+   "municipio": {
+    "nome": "Belo Horizonte",
+    "uf": "MG",
+    "codigoIbge9": 310620005
+   },
+   "descTipo": "Gabinete",
+   "telefones": [
+    {
+     "ddd": "31",
+     "numero": "21085169",
+     "fax": "S"
+    },
+    {
+     "ddd": "31",
+     "numero": "21085170",
+     "fax": "N"
+    }
+   ]
+  }
+ ],
+ "legislaturas": [
+  {
+   "numeroLegislatura": 20,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2023-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2027-01-31"
+   },
+   "tipoMandato": "Efetivo",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2023-02-01"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2027-01-31"
+     }
+    }
+   ]
+  }
+ ],
+ "situacaoLegislaturas": "20&ordf; - 2023-2027- Efetivo<br/>de 01/02/2023 até 31/01/2027 (Em exercício em 01/02/2023) <br/><br />",
+ "partidosLegislatura": "NOVO    <br/>",
+ "anoEleicaoLegislatura": "2022",
+ "situacaoTerminoLegislatura": "Em exercício"
+}

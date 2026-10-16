@@ -1,0 +1,119 @@
+{
+ "id": 28879,
+ "nome": "Zé Laviola",
+ "partido": "NOVO",
+ "tagLocalizacao": 5974,
+ "cargoRepresentacaoPartidaria": "Vice-Líder do Governo",
+ "liderancas": [
+  {
+   "categoria": "GOVERNO",
+   "cargo": "Vice-Líder",
+   "nomeRepresentacao": "Liderança do Governo"
+  }
+ ],
+ "dataCargoRepresentacaoPartidaria": {
+  "@class": "sql-timestamp",
+  "$": "2023-03-07"
+ },
+ "sexo": "M",
+ "situacao": "Em exercício",
+ "inicioSituacao": {
+  "@class": "sql-timestamp",
+  "$": "2023-02-01"
+ },
+ "tipoMandato": "Efetivo",
+ "nomeServidor": "JOSÉ LAVIOLA NETO DE LIRA",
+ "naturalidadeMunicipio": "Belo Horizonte",
+ "naturalidadeUf": "MG",
+ "dataNascimento": "10/12/1993",
+ "codigoSituacao": 1,
+ "partidoEleicao": "NOVO",
+ "emails": [
+  {
+   "tipo": "1",
+   "endereco": "dep.ze.laviola"
+  }
+ ],
+ "vidaProfissionalPolitica": "Filho da deputada estadual Celise Laviola, elegeu-se pela primeira vez para a ALMG. Graduado em Direito pelo Centro Universitário de Belo Horizonte (UNI-BH) e produtor agropecuário, sua proposta é continuar o legado político da família e assim trabalhar para levar mais qualidade de vida à população do interior de Minas Gerais, sobretudo o Leste de Minas, onde passou quase toda infância e adolescência. Sua mãe, Celise Laviola, é filha do falecido deputado estadual José Laviola, que ocupou uma cadeira na ALMG por seis legislaturas consecutivas, sendo recordista de votos durante quatro mandatos. A irmã de Celise casou-se com José Henrique Lisboa Rosa, falecido em 2013, que também foi deputado estadual por cinco legislaturas e chegou a ser vice-presidente da ALMG em duas delas. Tem como meta estimular o empreendedorismo e diminuir a burocracia que compromete as atividades que geram renda e contribuem para a liberdade de crescimento econômico.",
+ "atuacaoParlamentar": "Assume, em 2023, seu primeiro mandato na Assembleia Legislativa de Minas Gerais.",
+ "candidaturas": [
+  {
+   "legislatura": 20,
+   "numeroCandidato": 30011
+  }
+ ],
+ "filiacoes": [
+  {
+   "dataInicio": {
+    "@class": "sql-timestamp",
+    "$": "2022-10-02"
+   },
+   "dataTermino": {
+    "@class": "sql-timestamp",
+    "$": "2999-12-31"
+   },
+   "partido": {
+    "id": 46,
+    "sigla": "NOVO"
+   }
+  }
+ ],
+ "enderecos": [
+  {
+   "logradouro": "Rua Rodrigues Caldas",
+   "numero": "30",
+   "complemento": "Palácio da Inconfidência - 1º andar - conjunto 109",
+   "bairro": "Santo Agostinho",
+   "cep": "30190921",
+   "municipio": {
+    "nome": "Belo Horizonte",
+    "uf": "MG",
+    "codigoIbge9": 310620005
+   },
+   "descTipo": "Gabinete",
+   "telefones": [
+    {
+     "ddd": "31",
+     "numero": "21087136",
+     "fax": "N"
+    },
+    {
+     "ddd": "31",
+     "numero": "21087548",
+     "fax": "S"
+    }
+   ]
+  }
+ ],
+ "legislaturas": [
+  {
+   "numeroLegislatura": 20,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2023-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2027-01-31"
+   },
+   "tipoMandato": "Efetivo",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2023-02-01"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2027-01-31"
+     }
+    }
+   ]
+  }
+ ],
+ "situacaoLegislaturas": "20&ordf; - 2023-2027- Efetivo<br/>de 01/02/2023 até 31/01/2027 (Em exercício em 01/02/2023) <br/><br />",
+ "partidosLegislatura": "NOVO    <br/>",
+ "anoEleicaoLegislatura": "2022",
+ "situacaoTerminoLegislatura": "Em exercício"
+}

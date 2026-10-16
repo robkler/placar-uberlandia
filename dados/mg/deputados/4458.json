@@ -1,0 +1,149 @@
+{
+ "id": 4458,
+ "nome": "Marquinho Lemos",
+ "partido": "PT",
+ "tagLocalizacao": 3915,
+ "cargoRepresentacaoPartidaria": "Vice-Líder do Bloco Democracia e Luta",
+ "liderancas": [
+  {
+   "categoria": "BLOCO",
+   "cargo": "Vice-Líder",
+   "idRepresentacao": 58,
+   "nomeRepresentacao": "Bloco Democracia e Luta"
+  }
+ ],
+ "dataCargoRepresentacaoPartidaria": {
+  "@class": "sql-timestamp",
+  "$": "2026-02-02"
+ },
+ "sexo": "M",
+ "situacao": "Em exercício",
+ "inicioSituacao": {
+  "@class": "sql-timestamp",
+  "$": "2023-02-01"
+ },
+ "tipoMandato": "Efetivo",
+ "nomeServidor": "MARCOS JOSERALDO LEMOS",
+ "naturalidadeMunicipio": "Carbonita",
+ "naturalidadeUf": "MG",
+ "dataNascimento": "3/7/1959",
+ "codigoSituacao": 1,
+ "partidoEleicao": "PT",
+ "emails": [
+  {
+   "tipo": "1",
+   "endereco": "dep.marquinho.lemos"
+  }
+ ],
+ "vidaProfissionalPolitica": "Três vezes prefeito de Carbonita (Vale do Jequitinhonha), Marquinho Lemos tem como marca da sua trajetória o trabalho em favor dos municípios. Em sua juventude, morou em Belo Horizonte, onde participou ativamente de movimentos sociais e populares, que culminaram em sua filiação ao PT, em 1983. Em 1984, retornou à Carbonita e ajudou na criação do Sindicato dos Trabalhadores Rurais. Lutou junto às mães para a criação da primeira creche do município. Na área cultural, criou o grupo Semente do Vale e a rádio Comunitária. A experiência no trabalho junto aos movimentos sociais deu-lhe suporte para o exercício de seus mandatos como prefeito (1997-2000; 2001-2004; 2013-2016). Entre suas várias iniciativas, destaca-se a criação do Carboarte, festa que valoriza a cultura popular e que tornou-se referência na região. Liderou prefeitos no movimento pela inclusão do Vale do Jequitinhonha na Sudene; presidiu por cinco vezes a Associação Mineira dos Municípios do Alto Jequitinhonha (Amaje); participou da criação e foi presidente, por quatro vezes, do Consórcio de Saúde do Alto Jequitinhonha (Cisaje); coordenou o Programa Luz para Todos no Alto Jequitinhonha, Suaçuí e Região Central; coordenou a implantação do Território de Desenvolvimento do Vale do Jequitinhonha, por meio do qual foi incentivada a criação de cooperativas e associações de Apicultores em vários municípios e foi criado o polo de Fruticultura (Frutivale). Também participou da criação dos Comitês de Bacias Hidrográficas Jequitinhonha e Araçuaí. No PT, compôs, desde sua filiação, o Diretório Estadual e, hoje, é membro da Executiva Estadual.",
+ "atuacaoParlamentar": "Assume, em 2023, seu segundo mandato na Assembleia Legislativa de Minas Gerais. Na 19ª Legislatura, presidiu a Comissão de Participação Popular e foi membro efetivo da Comissão de Direitos Humanos.",
+ "candidaturas": [
+  {
+   "legislatura": 19,
+   "numeroCandidato": 13139
+  },
+  {
+   "legislatura": 20,
+   "numeroCandidato": 13139
+  }
+ ],
+ "filiacoes": [
+  {
+   "dataInicio": {
+    "@class": "sql-timestamp",
+    "$": "2018-10-07"
+   },
+   "dataTermino": {
+    "@class": "sql-timestamp",
+    "$": "2999-12-31"
+   },
+   "partido": {
+    "id": 13,
+    "sigla": "PT"
+   }
+  }
+ ],
+ "enderecos": [
+  {
+   "logradouro": "Rua Rodrigues Caldas",
+   "numero": "79",
+   "complemento": "Edifício Tiradentes - 22º andar  - sala 1",
+   "bairro": "Santo Agostinho",
+   "cep": "30190120",
+   "municipio": {
+    "nome": "Belo Horizonte",
+    "uf": "MG",
+    "codigoIbge9": 310620005
+   },
+   "descTipo": "Gabinete",
+   "telefones": [
+    {
+     "ddd": "31",
+     "numero": "21085935",
+     "fax": "N"
+    },
+    {
+     "ddd": "31",
+     "numero": "21085936",
+     "fax": "S"
+    }
+   ]
+  }
+ ],
+ "legislaturas": [
+  {
+   "numeroLegislatura": 19,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2019-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2023-01-31"
+   },
+   "tipoMandato": "Efetivo",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2019-02-01"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2023-01-31"
+     }
+    }
+   ]
+  },
+  {
+   "numeroLegislatura": 20,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2023-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2027-01-31"
+   },
+   "tipoMandato": "Efetivo",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2023-02-01"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2027-01-31"
+     }
+    }
+   ]
+  }
+ ],
+ "situacaoLegislaturas": "19&ordf; - 2019-2023- Efetivo<br/>de 01/02/2019 até 31/01/2023 (Em exercício em 01/02/2019) <br/><br />20&ordf; - 2023-2027- Efetivo<br/>de 01/02/2023 até 31/01/2027 (Em exercício em 01/02/2023) <br/><br />",
+ "partidosLegislatura": "PT    <br/>",
+ "anoEleicaoLegislatura": "2022",
+ "situacaoTerminoLegislatura": "Em exercício"
+}

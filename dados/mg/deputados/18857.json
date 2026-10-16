@@ -1,0 +1,250 @@
+{
+ "id": 18857,
+ "nome": "Bosco",
+ "partido": "PSD",
+ "tagLocalizacao": 989,
+ "cargoRepresentacaoPartidaria": "Vice-Líder do Governo",
+ "liderancas": [
+  {
+   "categoria": "GOVERNO",
+   "cargo": "Vice-Líder",
+   "nomeRepresentacao": "Liderança do Governo"
+  }
+ ],
+ "dataCargoRepresentacaoPartidaria": {
+  "@class": "sql-timestamp",
+  "$": "2023-03-07"
+ },
+ "sexo": "M",
+ "situacao": "Em exercício",
+ "inicioSituacao": {
+  "@class": "sql-timestamp",
+  "$": "2023-02-01"
+ },
+ "tipoMandato": "Efetivo",
+ "nomeServidor": "JOÃO BOSCO",
+ "naturalidadeMunicipio": "Araxá",
+ "naturalidadeUf": "MG",
+ "dataNascimento": "31/05/1966",
+ "apresentarEmail": "G",
+ "atividadeProfissional": "Produtor agropecuário e bacharel em Direito",
+ "codigoSituacao": 1,
+ "partidoEleicao": "CIDADANIA",
+ "emails": [
+  {
+   "tipo": "1",
+   "endereco": "dep.bosco"
+  }
+ ],
+ "vidaProfissionalPolitica": "Exerceu quatro mandatos consecutivos como vereador na Câmara Municipal de Araxá (1992-2008). Em 1998, foi presidente da Câmara de Araxá. Foi candidato a prefeito municipal de Araxá nas eleições de 2008. Principal região de atuação política é o Alto Paranaíba. Os municípios de maior votação são: Araxá, Campos Altos, Ibiá, Perdizes e Pratinha.",
+ "atuacaoParlamentar": "Reeleito para o quarto mandato na Assembleia Legislativa de Minas Gerais (ALMG), onde ingressou em 2011. No Legislativo, já atuou como presidente da Comissão de Cultura e vice-presidente da Comissão de Minas e Energia. Também atuou como vice-líder do Governo. Foi 2º suplente na 16ª Legislatura da ALMG.",
+ "candidaturas": [
+  {
+   "legislatura": 17,
+   "numeroCandidato": 70100
+  },
+  {
+   "legislatura": 18,
+   "numeroCandidato": 70100
+  },
+  {
+   "legislatura": 19,
+   "numeroCandidato": 70100
+  },
+  {
+   "legislatura": 20,
+   "numeroCandidato": 23100
+  }
+ ],
+ "filiacoes": [
+  {
+   "dataInicio": {
+    "@class": "sql-timestamp",
+    "$": "2010-10-03"
+   },
+   "dataTermino": {
+    "@class": "sql-timestamp",
+    "$": "2017-04-28"
+   },
+   "partido": {
+    "id": 70,
+    "sigla": "PTdoB"
+   }
+  },
+  {
+   "dataInicio": {
+    "@class": "sql-timestamp",
+    "$": "2017-04-29"
+   },
+   "dataTermino": {
+    "@class": "sql-timestamp",
+    "$": "2022-03-31"
+   },
+   "partido": {
+    "id": 71,
+    "sigla": "AVANTE"
+   }
+  },
+  {
+   "dataInicio": {
+    "@class": "sql-timestamp",
+    "$": "2022-04-01"
+   },
+   "dataTermino": {
+    "@class": "sql-timestamp",
+    "$": "2026-03-22"
+   },
+   "partido": {
+    "id": 88,
+    "sigla": "CIDADANIA"
+   }
+  },
+  {
+   "dataInicio": {
+    "@class": "sql-timestamp",
+    "$": "2026-03-23"
+   },
+   "dataTermino": {
+    "@class": "sql-timestamp",
+    "$": "2999-12-31"
+   },
+   "partido": {
+    "id": 41,
+    "sigla": "PSD"
+   }
+  }
+ ],
+ "enderecos": [
+  {
+   "logradouro": "Rua Rodrigues Caldas",
+   "numero": "30",
+   "complemento": "Palácio da Inconfidência - 2º andar - conjunto 221",
+   "bairro": "Santo Agostinho",
+   "cep": "30190921",
+   "municipio": {
+    "nome": "Belo Horizonte",
+    "uf": "MG",
+    "codigoIbge9": 310620005
+   },
+   "descTipo": "Gabinete",
+   "telefones": [
+    {
+     "ddd": "31",
+     "numero": "21085310",
+     "fax": "N"
+    },
+    {
+     "ddd": "31",
+     "numero": "21085311",
+     "fax": "S"
+    }
+   ]
+  }
+ ],
+ "legislaturas": [
+  {
+   "numeroLegislatura": 17,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2011-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2015-01-31"
+   },
+   "tipoMandato": "Efetivo",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2011-02-01"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2015-01-31"
+     }
+    }
+   ]
+  },
+  {
+   "numeroLegislatura": 18,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2015-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2019-01-31"
+   },
+   "tipoMandato": "Efetivo",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2015-02-01"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2019-01-31"
+     }
+    }
+   ]
+  },
+  {
+   "numeroLegislatura": 19,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2019-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2023-01-31"
+   },
+   "tipoMandato": "Efetivo",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2019-02-01"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2023-01-31"
+     }
+    }
+   ]
+  },
+  {
+   "numeroLegislatura": 20,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2023-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2027-01-31"
+   },
+   "tipoMandato": "Efetivo",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2023-02-01"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2027-01-31"
+     }
+    }
+   ]
+  }
+ ],
+ "situacaoLegislaturas": "17&ordf; - 2011-2015- Efetivo<br/>de 01/02/2011 até 31/01/2015 (Em exercício em 01/02/2011) <br/><br />18&ordf; - 2015-2019- Efetivo<br/>de 01/02/2015 até 31/01/2019 (Em exercício em 01/02/2015) <br/><br />19&ordf; - 2019-2023- Efetivo<br/>de 01/02/2019 até 31/01/2023 (Em exercício em 01/02/2019) <br/><br />20&ordf; - 2023-2027- Efetivo<br/>de 01/02/2023 até 31/01/2027 (Em exercício em 01/02/2023) <br/><br />",
+ "partidosLegislatura": "CIDADANIA   até 22/03/2026<br/>PSD desde 23/03/2026  <br/>",
+ "anoEleicaoLegislatura": "2022",
+ "situacaoTerminoLegislatura": "Em exercício"
+}

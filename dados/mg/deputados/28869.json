@@ -1,0 +1,123 @@
+{
+ "id": 28869,
+ "nome": "Lohanna",
+ "partido": "PV",
+ "tagLocalizacao": 5962,
+ "cargoRepresentacaoPartidaria": "Líder da Bancada Feminina",
+ "liderancas": [
+  {
+   "categoria": "GRUPO_PARLAMENTAR",
+   "cargo": "Líder",
+   "idRepresentacao": 1,
+   "nomeRepresentacao": "Bancada Feminina"
+  }
+ ],
+ "dataCargoRepresentacaoPartidaria": {
+  "@class": "sql-timestamp",
+  "$": "2025-02-05"
+ },
+ "sexo": "F",
+ "situacao": "Em exercício",
+ "inicioSituacao": {
+  "@class": "sql-timestamp",
+  "$": "2023-02-01"
+ },
+ "tipoMandato": "Efetivo",
+ "nomeServidor": "LOHANNA SOUZA FRANÇA MOREIRA DE OLIVEIRA",
+ "naturalidadeMunicipio": "Vila Velha",
+ "naturalidadeUf": "ES",
+ "dataNascimento": "31/01/1995",
+ "apresentarEmail": "A",
+ "atividadeProfissional": "Professora",
+ "codigoSituacao": 1,
+ "partidoEleicao": "PV",
+ "emails": [
+  {
+   "tipo": "1",
+   "endereco": "dep.lohanna"
+  }
+ ],
+ "vidaProfissionalPolitica": "Nascida em janeiro de 1995 em Vila Velha, Espírito Santo, Lohanna fez de Minas Gerais sua casa desde os primeiros anos, crescendo entre Itaúna e Divinópolis. Fixou residência definitiva em Divinópolis quando jovem, onde se envolveu ativamente em movimentos sociais, incluindo o Rotaract e o Movimento Acredito. Por considerar que a forma mais eficiente de fazer mudanças de longo prazo na sociedade é pela política institucional, decidiu se candidatar a vereadora, a mais jovem e mais votada na história de Divinópolis. Foi eleita deputada estadual com expressivos 67 mil votos pelo Partido Verde. Sua atuação política pauta-se em temas relacionados à educação, cultura, meio ambiente e representatividade feminina. Lohanna é formada em Bioquímica e atuou como professora, tendo se graduado pela UFSJ.",
+ "atuacaoParlamentar": "Assumiu em 2023 seu primeiro mandato na Assembleia Legislativa de Minas Gerais, onde desempenha papéis importantes, sendo líder da bancada feminina; vice-presidente das Comissões de Defesa dos Direitos da Mulher e de Ética e Decoro Parlamentar; e membro da Comissão de Cultura. Sua atuação legislativa se destaca pela defesa da justiça social, dos direitos individuais e da proteção das mulheres, da educação e do meio ambiente. Reconhecida por sua força e coragem, Lohanna enfrenta diariamente os desafios em busca da transformação da realidade em Minas Gerais.",
+ "condecoracao": "Cidadã Honorária de Divinópolis",
+ "candidaturas": [
+  {
+   "legislatura": 20,
+   "numeroCandidato": 43500
+  }
+ ],
+ "filiacoes": [
+  {
+   "dataInicio": {
+    "@class": "sql-timestamp",
+    "$": "2022-10-02"
+   },
+   "dataTermino": {
+    "@class": "sql-timestamp",
+    "$": "2999-12-31"
+   },
+   "partido": {
+    "id": 43,
+    "sigla": "PV"
+   }
+  }
+ ],
+ "enderecos": [
+  {
+   "logradouro": "Rua Rodrigues Caldas",
+   "numero": "30",
+   "complemento": "Palácio da Inconfidência - 2º andar - conjunto 231",
+   "bairro": "Santo Agostinho",
+   "cep": "30190921",
+   "municipio": {
+    "nome": "Belo Horizonte",
+    "uf": "MG",
+    "codigoIbge9": 310620005
+   },
+   "descTipo": "Gabinete",
+   "telefones": [
+    {
+     "ddd": "31",
+     "numero": "21085135",
+     "fax": "S"
+    },
+    {
+     "ddd": "31",
+     "numero": "21085140",
+     "fax": "N"
+    }
+   ]
+  }
+ ],
+ "legislaturas": [
+  {
+   "numeroLegislatura": 20,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2023-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2027-01-31"
+   },
+   "tipoMandato": "Efetiva",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2023-02-01"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2027-01-31"
+     }
+    }
+   ]
+  }
+ ],
+ "situacaoLegislaturas": "20&ordf; - 2023-2027- Efetiva<br/>de 01/02/2023 até 31/01/2027 (Em exercício em 01/02/2023) <br/><br />",
+ "partidosLegislatura": "PV    <br/>",
+ "anoEleicaoLegislatura": "2022",
+ "situacaoTerminoLegislatura": "Em exercício"
+}

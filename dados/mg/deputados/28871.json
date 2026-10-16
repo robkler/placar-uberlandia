@@ -1,0 +1,135 @@
+{
+ "id": 28871,
+ "nome": "Lud Falcão",
+ "partido": "REPUBLICANOS",
+ "tagLocalizacao": 5964,
+ "cargoRepresentacaoPartidaria": "Vice-Líder da Bancada Feminina",
+ "liderancas": [
+  {
+   "categoria": "GRUPO_PARLAMENTAR",
+   "cargo": "Vice-Líder",
+   "idRepresentacao": 1,
+   "nomeRepresentacao": "Bancada Feminina"
+  }
+ ],
+ "dataCargoRepresentacaoPartidaria": {
+  "@class": "sql-timestamp",
+  "$": "2025-03-25"
+ },
+ "sexo": "F",
+ "situacao": "Em exercício",
+ "inicioSituacao": {
+  "@class": "sql-timestamp",
+  "$": "2023-02-01"
+ },
+ "tipoMandato": "Efetivo",
+ "nomeServidor": "LUDIMILA FONSECA AZEVEDO FALCÃO",
+ "naturalidadeMunicipio": "Patos de Minas",
+ "naturalidadeUf": "MG",
+ "dataNascimento": "27/04/1989",
+ "apresentarEmail": "A",
+ "codigoSituacao": 1,
+ "partidoEleicao": "PODE",
+ "emails": [
+  {
+   "tipo": "1",
+   "endereco": "dep.lud.falcao"
+  }
+ ],
+ "vidaProfissionalPolitica": "Lud Falcão é advogada e empreendedora. É esposa do prefeito de Patos de Minas (Alto Paranaíba) e luta por saúde e educação de qualidade para a população, além de apoiar projetos com foco nas crianças, mulheres e idosos. Na Assembleia de Minas, quer garantir o debate de pautas sobre investimentos e apoio ao setor produtivo, simplificação tributária, fiscalização da máquina pública, formação de mais profissionais para apoiar crianças com deficiência, qualificação para o primeiro emprego, dentre outros temas. Quer, também, buscar a ampliação do atendimento a mulheres vítimas de diversas formas de violência.",
+ "atuacaoParlamentar": "Assume, em 2023, seu primeiro mandato na Assembleia Legislativa de Minas Gerais.",
+ "candidaturas": [
+  {
+   "legislatura": 20,
+   "numeroCandidato": 19123
+  }
+ ],
+ "filiacoes": [
+  {
+   "dataInicio": {
+    "@class": "sql-timestamp",
+    "$": "2022-10-02"
+   },
+   "dataTermino": {
+    "@class": "sql-timestamp",
+    "$": "2026-04-02"
+   },
+   "partido": {
+    "id": 99,
+    "sigla": "PODE"
+   }
+  },
+  {
+   "dataInicio": {
+    "@class": "sql-timestamp",
+    "$": "2026-04-03"
+   },
+   "dataTermino": {
+    "@class": "sql-timestamp",
+    "$": "2999-12-31"
+   },
+   "partido": {
+    "id": 9,
+    "sigla": "REPUBLICANOS"
+   }
+  }
+ ],
+ "enderecos": [
+  {
+   "logradouro": "Rua Rodrigues Caldas",
+   "numero": "30",
+   "complemento": "Palácio da Inconfidência - 2º andar - conjunto 212",
+   "bairro": "Santo Agostinho",
+   "cep": "30190921",
+   "municipio": {
+    "nome": "Belo Horizonte",
+    "uf": "MG",
+    "codigoIbge9": 310620005
+   },
+   "descTipo": "Gabinete",
+   "telefones": [
+    {
+     "ddd": "31",
+     "numero": "21085275",
+     "fax": "N"
+    },
+    {
+     "ddd": "31",
+     "numero": "21085277",
+     "fax": "S"
+    }
+   ]
+  }
+ ],
+ "legislaturas": [
+  {
+   "numeroLegislatura": 20,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2023-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2027-01-31"
+   },
+   "tipoMandato": "Efetiva",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2023-02-01"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2027-01-31"
+     }
+    }
+   ]
+  }
+ ],
+ "situacaoLegislaturas": "20&ordf; - 2023-2027- Efetiva<br/>de 01/02/2023 até 31/01/2027 (Em exercício em 01/02/2023) <br/><br />",
+ "partidosLegislatura": "PODE   até 02/04/2026<br/>REPUBLICANOS desde 03/04/2026  <br/>",
+ "anoEleicaoLegislatura": "2022",
+ "situacaoTerminoLegislatura": "Em exercício"
+}

@@ -1,0 +1,150 @@
+{
+ "id": 26164,
+ "nome": "Delegada Sheila",
+ "partido": "PL",
+ "tagLocalizacao": 3906,
+ "sexo": "F",
+ "situacao": "Em exercício",
+ "inicioSituacao": {
+  "@class": "sql-timestamp",
+  "$": "2023-02-01"
+ },
+ "tipoMandato": "Efetivo",
+ "nomeServidor": "SHEILA APARECIDA PEDROSA DE MELLO",
+ "naturalidadeMunicipio": "Presidente Prudente",
+ "naturalidadeUf": "SP",
+ "dataNascimento": "12/10/1978",
+ "codigoSituacao": 1,
+ "partidoEleicao": "PL",
+ "emails": [
+  {
+   "tipo": "1",
+   "endereco": "dep.delegada.sheila"
+  }
+ ],
+ "vidaProfissionalPolitica": "Mãe do José e dos trigêmeos Marcos, Moisés e André, delegada de Polícia Civil. Juiz-forana de coração, suas principais bandeiras são: a valorização das forças de segurança, a defesa das mulheres, o combate à pedofilia, a luta contra o trabalho escravo e o crescimento econômico da Zona da Mata.\r\n\r\nEm 2016, foi a vereadora mais votada da história de Juiz de Fora com quase 10 mil votos. É bacharel em Direito, formada pela Fundação Toledo Prudente, de Presidente Prudente (SP), e pós-graduada em Ciências Penais pela Universidade Federal de Juiz de Fora (UFJF). Foi inspetora da Polícia Civil do Estado do Rio de Janeiro durante seis anos. Depois disso, tornou-se delegada da Polícia Civil, exercendo a função em Ubá (Zona da Mata) e Juiz de Fora, onde foi titular do Núcleo de Ações Operacionais (NAOP), delegada de Trânsito, titular da Delegacia de Mulheres e a primeira mulher a se tornar titular da 1ª Delegacia Regional de Polícia Civil de Juiz de Fora.",
+ "atuacaoParlamentar": "Assume, em 2023, seu segundo mandato consecutivo na Assembleia Legislativa de Minas Gerais. Na 19ª Legislatura, foi vice-presidente da Comissão de Segurança Pública e integrou a Comissão de Prevenção e Combate ao uso de Crack e outras Drogas. Foi também procuradora-adjunta da Procuradoria da Mulher.",
+ "candidaturas": [
+  {
+   "legislatura": 19,
+   "numeroCandidato": 17456
+  },
+  {
+   "legislatura": 20,
+   "numeroCandidato": 22032
+  }
+ ],
+ "filiacoes": [
+  {
+   "dataInicio": {
+    "@class": "sql-timestamp",
+    "$": "2018-10-07"
+   },
+   "dataTermino": {
+    "@class": "sql-timestamp",
+    "$": "2022-02-25"
+   },
+   "partido": {
+    "id": 17,
+    "sigla": "PSL"
+   }
+  },
+  {
+   "dataInicio": {
+    "@class": "sql-timestamp",
+    "$": "2022-03-30"
+   },
+   "dataTermino": {
+    "@class": "sql-timestamp",
+    "$": "2999-12-31"
+   },
+   "partido": {
+    "id": 89,
+    "sigla": "PL"
+   }
+  }
+ ],
+ "enderecos": [
+  {
+   "logradouro": "Rua Rodrigues Caldas",
+   "numero": "30",
+   "complemento": "Palácio da Inconfidência - 2º andar - conjunto 213",
+   "bairro": "Santo Agostinho",
+   "cep": "30190921",
+   "municipio": {
+    "nome": "Belo Horizonte",
+    "uf": "MG",
+    "codigoIbge9": 310620005
+   },
+   "descTipo": "Gabinete",
+   "telefones": [
+    {
+     "ddd": "31",
+     "numero": "21085345",
+     "fax": "N"
+    },
+    {
+     "ddd": "31",
+     "numero": "21085346",
+     "fax": "S"
+    }
+   ]
+  }
+ ],
+ "legislaturas": [
+  {
+   "numeroLegislatura": 19,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2019-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2023-01-31"
+   },
+   "tipoMandato": "Efetiva",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2019-02-01"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2023-01-31"
+     }
+    }
+   ]
+  },
+  {
+   "numeroLegislatura": 20,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2023-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2027-01-31"
+   },
+   "tipoMandato": "Efetiva",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2023-02-01"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2027-01-31"
+     }
+    }
+   ]
+  }
+ ],
+ "situacaoLegislaturas": "19&ordf; - 2019-2023- Efetiva<br/>de 01/02/2019 até 31/01/2023 (Em exercício em 01/02/2019) <br/><br />20&ordf; - 2023-2027- Efetiva<br/>de 01/02/2023 até 31/01/2027 (Em exercício em 01/02/2023) <br/><br />",
+ "partidosLegislatura": "PL    <br/>",
+ "anoEleicaoLegislatura": "2022",
+ "situacaoTerminoLegislatura": "Em exercício"
+}

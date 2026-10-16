@@ -1,0 +1,204 @@
+{
+ "id": 16234,
+ "nome": "Alê Portela",
+ "partido": "PL",
+ "tagLocalizacao": 5952,
+ "sexo": "F",
+ "situacao": "Em exercício",
+ "inicioSituacao": {
+  "@class": "sql-timestamp",
+  "$": "2026-03-24"
+ },
+ "motivoSituacao": "Retorno de efetivo",
+ "tipoMandato": "Efetivo",
+ "nomeServidor": "ALESSANDRA DINIZ PORTELA SILVEIRA",
+ "naturalidadeMunicipio": "Belo Horizonte",
+ "naturalidadeUf": "MG",
+ "dataNascimento": "05/02/1988",
+ "apresentarEmail": "G",
+ "atividadeProfissional": "Advogada e professora universitária",
+ "codigoSituacao": 1,
+ "partidoEleicao": "PL",
+ "emails": [
+  {
+   "tipo": "1",
+   "endereco": "dep.ale.portela"
+  }
+ ],
+ "vidaProfissionalPolitica": "É deputada estadual em Minas Gerais, advogada e mestre em Direito Ambiental e Sustentabilidade, com MBA em Governança, Riscos e Compliance. Possui mais de 12 anos de experiência em políticas públicas, com atuação nas áreas de direitos humanos, desenvolvimento social e gestão pública. Eleita em 2022, tem sua atuação pautada na defesa da vida, no fortalecimento das famílias e na proteção da infância e da adolescência, além de trabalhar por avanços na educação, segurança e desenvolvimento social. No âmbito do Governo de Minas Gerais, exerceu o cargo de secretária de Estado de Desenvolvimento Social, onde coordenou importantes ações de fortalecimento da rede de proteção social. Destacam-se iniciativas voltadas à infância, ao fortalecimento dos Conselhos Tutelares e ao apoio às APAEs mineiras. Também esteve à frente da implementação de programas relevantes, como o Leite para a Primeira Infância, que garantiu segurança alimentar a milhares de crianças, e o Moradas Gerais, responsável por promover melhorias habitacionais para centenas de famílias em situação de vulnerabilidade social. Filha do deputado federal Lincoln Portela e da vereadora de Belo Horizonte Marilda Portela, Alê Portela dá continuidade a uma trajetória pública marcada pelo compromisso com valores, responsabilidade social e atuação voltada ao bem-estar da população mineira.",
+ "atuacaoParlamentar": "Assume, em 2023, seu primeiro mandato na Assembleia Legislativa de Minas Gerais. Destaca-se pela autoria de leis e projetos estruturantes que impactam diretamente a vida dos mineiros. Entre as principais iniciativas, estão: Lei nº 25.204, de 2025 (Entrega Legal), que regulamenta a entrega voluntária para adoção, prevenindo o abandono de recém-nascidos e garantindo segurança jurídica ao processo; Lei nº 25.484, de 2025 (Creche Saudável), que assegura acompanhamento médico, nutricional e psicológico às crianças em creches públicas; Lei nº 25.296, de 2025, que institui o Plano Estadual de Educação Empreendedora, incentivando a formação de jovens mais preparados para o mercado de trabalho; Lei nº 24.839, de 2024, que cria a Política Estadual de Apoio e Incentivo às Cidades Inteligentes, promovendo inovação e melhoria na qualidade de vida da população. Além das leis já aprovadas, é autora de relevantes projetos em tramitação, como o PL 1084/2023, que regulamenta o Estatuto da Pessoa com Câncer no Estado; o PL 3142/2024, voltado à proteção de crianças e adolescentes no ambiente digital; o PL 1160/2023, que institui o Programa Estadual de Enfrentamento à Violência contra Crianças e Adolescentes; o PL 177/2023, de proteção à inocência infantil; o PL 2327/2024, de apoio a mães de vítimas de abuso; o PL 948/2023, que garante acompanhamento especializado a gestantes com TEA; e o PL 181/2023, que fortalece a liberdade religiosa.",
+ "candidaturas": [
+  {
+   "legislatura": 20,
+   "numeroCandidato": 22333
+  }
+ ],
+ "filiacoes": [
+  {
+   "dataInicio": {
+    "@class": "sql-timestamp",
+    "$": "2022-10-02"
+   },
+   "dataTermino": {
+    "@class": "sql-timestamp",
+    "$": "2999-12-31"
+   },
+   "partido": {
+    "id": 89,
+    "sigla": "PL"
+   }
+  }
+ ],
+ "enderecos": [
+  {
+   "logradouro": "Rua Rodrigues Caldas",
+   "numero": "30",
+   "complemento": "Palácio da Inconfidência - 2º andar - conjunto 235",
+   "bairro": "Santo Agostinho",
+   "cep": "30190921",
+   "municipio": {
+    "nome": "Belo Horizonte",
+    "uf": "MG",
+    "codigoIbge9": 310620005
+   },
+   "descTipo": "Gabinete",
+   "telefones": [
+    {
+     "ddd": "31",
+     "numero": "21085290",
+     "fax": "N"
+    }
+   ]
+  }
+ ],
+ "legislaturas": [
+  {
+   "numeroLegislatura": 20,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2023-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2027-01-31"
+   },
+   "tipoMandato": "Efetiva",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2023-02-01"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2023-09-18"
+     }
+    },
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2023-09-19"
+     },
+     "status": "Licença",
+     "complemento": "Licença-maternidade pelo período de 120 dias.",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2024-01-16"
+     }
+    },
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2024-01-17"
+     },
+     "status": "Em exercício",
+     "complemento": "Término da licença-maternidade.",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2024-06-09"
+     }
+    },
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2024-06-10"
+     },
+     "status": "Afastamento",
+     "motivo": "Ocupar cargo",
+     "complemento": "Secretária de Estado de Desenvolvimento Social.",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2024-11-04"
+     }
+    },
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2024-11-05"
+     },
+     "status": "Em exercício",
+     "motivo": "Retorno de efetivo",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2024-12-04"
+     }
+    },
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2024-12-05"
+     },
+     "status": "Afastamento",
+     "motivo": "Ocupar cargo",
+     "complemento": "Secretária de Estado de Desenvolvimento Social.",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2025-11-19"
+     }
+    },
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2025-11-20"
+     },
+     "status": "Em exercício",
+     "motivo": "Retorno de efetivo",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2025-11-24"
+     }
+    },
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2025-11-25"
+     },
+     "status": "Afastamento",
+     "motivo": "Ocupar cargo",
+     "complemento": "Secretária de Estado de Desenvolvimento Social.",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2026-03-23"
+     }
+    },
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2026-03-24"
+     },
+     "status": "Em exercício",
+     "motivo": "Retorno de efetivo",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2027-01-31"
+     }
+    }
+   ]
+  }
+ ],
+ "situacaoLegislaturas": "20&ordf; - 2023-2027- Efetiva<br/>de 01/02/2023 até 18/09/2023 (Em exercício em 01/02/2023) <br/>de 19/09/2023 até 16/01/2024 (Licença em 19/09/2023 - Licença-maternidade pelo período de 120 dias.) <br/>de 17/01/2024 até 09/06/2024 (Em exercício em 17/01/2024 - Término da licença-maternidade.) <br/>de 10/06/2024 até 04/11/2024 (Afastamento em 10/06/2024 - Ocupar cargo - Secretária de Estado de Desenvolvimento Social.) <br/>de 05/11/2024 até 04/12/2024 (Em exercício em 05/11/2024 - Retorno de efetivo) <br/>de 05/12/2024 até 19/11/2025 (Afastamento em 05/12/2024 - Ocupar cargo - Secretária de Estado de Desenvolvimento Social.) <br/>de 20/11/2025 até 24/11/2025 (Em exercício em 20/11/2025 - Retorno de efetivo) <br/>de 25/11/2025 até 23/03/2026 (Afastamento em 25/11/2025 - Ocupar cargo - Secretária de Estado de Desenvolvimento Social.) <br/>de 24/03/2026 até 31/01/2027 (Em exercício em 24/03/2026 - Retorno de efetivo) <br/><br />",
+ "partidosLegislatura": "PL    <br/>",
+ "anoEleicaoLegislatura": "2022",
+ "situacaoTerminoLegislatura": "Em exercício"
+}

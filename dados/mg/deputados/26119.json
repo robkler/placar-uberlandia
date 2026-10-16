@@ -1,0 +1,164 @@
+{
+ "id": 26119,
+ "nome": "Professor Cleiton",
+ "partido": "PV",
+ "tagLocalizacao": 3918,
+ "sexo": "M",
+ "situacao": "Em exercício",
+ "inicioSituacao": {
+  "@class": "sql-timestamp",
+  "$": "2023-02-01"
+ },
+ "tipoMandato": "Efetivo",
+ "nomeServidor": "CLEITON DE OLIVEIRA",
+ "naturalidadeMunicipio": "Boa Esperança",
+ "naturalidadeUf": "MG",
+ "dataNascimento": "28/5/1977",
+ "codigoSituacao": 1,
+ "partidoEleicao": "PV",
+ "emails": [
+  {
+   "tipo": "1",
+   "endereco": "dep.professor.cleiton"
+  }
+ ],
+ "vidaProfissionalPolitica": "Em 2018 disputou pela primeira vez as eleições, tendo sido eleito para seu primeiro mandato. Nascido em Boa Esperança, mora em Varginha, ambas no Sul de Minas, onde tem uma trajetória na área de assistência social, sendo ainda professor em várias instituições de ensino em todo Sul de Minas. É formado em História pela Universidade Federal de Minas Gerais (UFMG), especialista em História da África, da Cultura Negra e do negro no Brasil (UFT), mestre em História do Brasil pela PUC-SP e mestre em História Ibérica pela Universidade Federal de Alfenas. É membro da Sociedade São Vicente de Paulo, da RCC, do movimento de Fé e Política da Igreja Católica e da Academia Latino Americana de Líderes Católicos.",
+ "atuacaoParlamentar": "Assume, em 2023, seu segundo mandato consecutivo na Assembleia Legislativa de Minas Gerais (ALMG). Na 19ª Legislatura, atuou como vice-presidente da CPI da Cemig e da Comissão de Participação Popular, além de ter sido membro efetivo da Comissão de Educação, Ciência e Tecnologia. Atualmente é membro efetivo da Comissão de Administração Pública e presidente da Comissão de Cultura. Professor Cleiton é o líder do PV na Assembleia.",
+ "candidaturas": [
+  {
+   "legislatura": 19,
+   "numeroCandidato": 27700
+  },
+  {
+   "legislatura": 20,
+   "numeroCandidato": 43700
+  }
+ ],
+ "filiacoes": [
+  {
+   "dataInicio": {
+    "@class": "sql-timestamp",
+    "$": "2018-10-07"
+   },
+   "dataTermino": {
+    "@class": "sql-timestamp",
+    "$": "2019-06-27"
+   },
+   "partido": {
+    "id": 53,
+    "sigla": "DC"
+   }
+  },
+  {
+   "dataInicio": {
+    "@class": "sql-timestamp",
+    "$": "2019-06-28"
+   },
+   "dataTermino": {
+    "@class": "sql-timestamp",
+    "$": "2022-03-27"
+   },
+   "partido": {
+    "id": 40,
+    "sigla": "PSB"
+   }
+  },
+  {
+   "dataInicio": {
+    "@class": "sql-timestamp",
+    "$": "2022-03-28"
+   },
+   "dataTermino": {
+    "@class": "sql-timestamp",
+    "$": "2999-12-31"
+   },
+   "partido": {
+    "id": 43,
+    "sigla": "PV"
+   }
+  }
+ ],
+ "enderecos": [
+  {
+   "logradouro": "Rua Rodrigues Caldas",
+   "numero": "30",
+   "complemento": "Palácio da Inconfidência - 2º andar - Conjunto 217",
+   "bairro": "Santo Agostinho",
+   "cep": "30190921",
+   "municipio": {
+    "nome": "Belo Horizonte",
+    "uf": "MG",
+    "codigoIbge9": 310620005
+   },
+   "descTipo": "Gabinete",
+   "telefones": [
+    {
+     "ddd": "31",
+     "numero": "21085842",
+     "fax": "N"
+    },
+    {
+     "ddd": "31",
+     "numero": "21085849",
+     "fax": "S"
+    }
+   ]
+  }
+ ],
+ "legislaturas": [
+  {
+   "numeroLegislatura": 19,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2019-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2023-01-31"
+   },
+   "tipoMandato": "Efetivo",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2019-02-01"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2023-01-31"
+     }
+    }
+   ]
+  },
+  {
+   "numeroLegislatura": 20,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2023-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2027-01-31"
+   },
+   "tipoMandato": "Efetivo",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2023-02-01"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2027-01-31"
+     }
+    }
+   ]
+  }
+ ],
+ "situacaoLegislaturas": "19&ordf; - 2019-2023- Efetivo<br/>de 01/02/2019 até 31/01/2023 (Em exercício em 01/02/2019) <br/><br />20&ordf; - 2023-2027- Efetivo<br/>de 01/02/2023 até 31/01/2027 (Em exercício em 01/02/2023) <br/><br />",
+ "partidosLegislatura": "PV    <br/>",
+ "anoEleicaoLegislatura": "2022",
+ "situacaoTerminoLegislatura": "Em exercício"
+}

@@ -1,0 +1,120 @@
+{
+ "id": 28874,
+ "nome": "Maria Clara Marra",
+ "partido": "PSDB",
+ "tagLocalizacao": 5967,
+ "sexo": "F",
+ "situacao": "Em exercício",
+ "inicioSituacao": {
+  "@class": "sql-timestamp",
+  "$": "2023-02-01"
+ },
+ "tipoMandato": "Efetivo",
+ "nomeServidor": "MARIA CLARA MATOS MARRA",
+ "naturalidadeMunicipio": "Patrocínio",
+ "naturalidadeUf": "MG",
+ "dataNascimento": "14/01/1999",
+ "codigoSituacao": 1,
+ "partidoEleicao": "DC",
+ "emails": [
+  {
+   "tipo": "1",
+   "endereco": "dep.maria.clara.marra"
+  }
+ ],
+ "vidaProfissionalPolitica": "Advogada, contadora, produtora rural e empresária, a deputada estadual Maria Clara Marra é comprometida com a inclusão, o desenvolvimento e o bem-estar da sociedade.\r\n\r\nAtualmente, é presidente da Comissão de Defesa dos Direitos das Pessoas com Deficiência e da Frente Parlamentar em Defesa da Pessoa com Transtorno do Espectro Autista (TEA), liderando pautas essenciais para a garantia de direitos, acessibilidade e inclusão. Também é vice-presidente da Frente Parlamentar em Defesa dos Municípios, reforçando sua atuação municipalista. Além disso, luta ativamente contra a violência contra a mulher, pautando iniciativas de proteção e fortalecimento da rede de apoio.\r\n\r\nNo primeiro biênio de seu mandato, também integrou a Comissão de Transporte, Comunicação e Obras Públicas, onde defendeu investimentos em infraestrutura, especialmente nas rodovias que atendem os municípios do Alto Paranaíba, Triângulo Mineiro e Noroeste de Minas. Seu compromisso com a saúde e a educação se reflete na destinação de recursos para fortalecer esses setores e melhorar a qualidade de vida da população.",
+ "candidaturas": [
+  {
+   "legislatura": 20,
+   "numeroCandidato": 27100
+  }
+ ],
+ "filiacoes": [
+  {
+   "dataInicio": {
+    "@class": "sql-timestamp",
+    "$": "2022-10-02"
+   },
+   "dataTermino": {
+    "@class": "sql-timestamp",
+    "$": "2023-01-30"
+   },
+   "partido": {
+    "id": 53,
+    "sigla": "DC"
+   }
+  },
+  {
+   "dataInicio": {
+    "@class": "sql-timestamp",
+    "$": "2023-01-31"
+   },
+   "dataTermino": {
+    "@class": "sql-timestamp",
+    "$": "2999-12-31"
+   },
+   "partido": {
+    "id": 45,
+    "sigla": "PSDB"
+   }
+  }
+ ],
+ "enderecos": [
+  {
+   "logradouro": "Rua Rodrigues Caldas",
+   "numero": "30",
+   "complemento": "Palácio da Inconfidência - 2º andar - conjunto 246",
+   "bairro": "Santo Agostinho",
+   "cep": "30190921",
+   "municipio": {
+    "nome": "Belo Horizonte",
+    "uf": "MG",
+    "codigoIbge9": 310620005
+   },
+   "descTipo": "Gabinete",
+   "telefones": [
+    {
+     "ddd": "31",
+     "numero": "21085747",
+     "fax": "N"
+    },
+    {
+     "ddd": "31",
+     "numero": "21085748",
+     "fax": "S"
+    }
+   ]
+  }
+ ],
+ "legislaturas": [
+  {
+   "numeroLegislatura": 20,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2023-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2027-01-31"
+   },
+   "tipoMandato": "Efetiva",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2023-02-01"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2027-01-31"
+     }
+    }
+   ]
+  }
+ ],
+ "situacaoLegislaturas": "20&ordf; - 2023-2027- Efetiva<br/>de 01/02/2023 até 31/01/2027 (Em exercício em 01/02/2023) <br/><br />",
+ "partidosLegislatura": "PSDB    <br/>",
+ "anoEleicaoLegislatura": "2022",
+ "situacaoTerminoLegislatura": "Em exercício"
+}

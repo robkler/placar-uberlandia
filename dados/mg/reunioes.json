@@ -1,0 +1,42 @@
+{
+ "2023": {
+  "ORDINÁRIA": {
+   "marcadas": 123,
+   "realizadas": 78
+  },
+  "EXTRAORDINÁRIA": {
+   "marcadas": 63,
+   "realizadas": 45
+  }
+ },
+ "2024": {
+  "ORDINÁRIA": {
+   "marcadas": 127,
+   "realizadas": 58
+  },
+  "EXTRAORDINÁRIA": {
+   "marcadas": 34,
+   "realizadas": 25
+  }
+ },
+ "2025": {
+  "ORDINÁRIA": {
+   "marcadas": 126,
+   "realizadas": 86
+  },
+  "EXTRAORDINÁRIA": {
+   "marcadas": 52,
+   "realizadas": 42
+  }
+ },
+ "2026": {
+  "ORDINÁRIA": {
+   "marcadas": 100,
+   "realizadas": 34
+  },
+  "EXTRAORDINÁRIA": {
+   "marcadas": 4,
+   "realizadas": 4
+  }
+ }
+}

@@ -1,0 +1,122 @@
+{
+ "id": 28875,
+ "nome": "Marli Ribeiro",
+ "partido": "PL",
+ "tagLocalizacao": 5968,
+ "sexo": "F",
+ "situacao": "Em exercício",
+ "inicioSituacao": {
+  "@class": "sql-timestamp",
+  "$": "2023-02-01"
+ },
+ "tipoMandato": "Efetivo",
+ "nomeServidor": "MARLI FERREIRA DA SILVA",
+ "naturalidadeMunicipio": "Patos de Minas",
+ "naturalidadeUf": "MG",
+ "dataNascimento": "08/09/1964",
+ "apresentarEmail": "A",
+ "codigoSituacao": 1,
+ "partidoEleicao": "PSC",
+ "emails": [
+  {
+   "tipo": "1",
+   "endereco": "dep.marli.ribeiro"
+  }
+ ],
+ "vidaProfissionalPolitica": "Vereadora mais votada em Paracatu (Noroeste de Minas), exercia seu terceiro mandato na Câmara Municipal e foi eleita pela primeira vez deputada estadual. Além de política, apresenta-se como pedagoga, psicanalista, missionária e coach. Trabalha há 30 anos com projetos sociais de prevenção, recuperação e reinserção social. Sob o lema \"Deus, Pátria, Família e Vida\", apresenta várias propostas para seu mandato na ALMG. Entre elas, defesa da saúde e do meio ambiente, causa animal, ampliação de projetos sociais e esportivos, luta por mais infraestrutura para o agronegócio e para a agricultura familiar.",
+ "atuacaoParlamentar": "Assume, em 2023, seu primeiro mandato na Assembleia Legislativa de Minas Gerais.",
+ "candidaturas": [
+  {
+   "legislatura": 20,
+   "numeroCandidato": 20120
+  }
+ ],
+ "filiacoes": [
+  {
+   "dataInicio": {
+    "@class": "sql-timestamp",
+    "$": "2022-10-02"
+   },
+   "dataTermino": {
+    "@class": "sql-timestamp",
+    "$": "2024-02-15"
+   },
+   "partido": {
+    "id": 20,
+    "sigla": "PSC"
+   }
+  },
+  {
+   "dataInicio": {
+    "@class": "sql-timestamp",
+    "$": "2024-02-26"
+   },
+   "dataTermino": {
+    "@class": "sql-timestamp",
+    "$": "2999-12-31"
+   },
+   "partido": {
+    "id": 89,
+    "sigla": "PL"
+   }
+  }
+ ],
+ "enderecos": [
+  {
+   "logradouro": "Rua Rodrigues Caldas",
+   "numero": "30",
+   "complemento": "Palácio da Inconfidência - 2º andar - conjunto 244",
+   "bairro": "Santo Agostinho",
+   "cep": "30190921",
+   "municipio": {
+    "nome": "Belo Horizonte",
+    "uf": "MG",
+    "codigoIbge9": 310620005
+   },
+   "descTipo": "Gabinete",
+   "telefones": [
+    {
+     "ddd": "31",
+     "numero": "21087475",
+     "fax": "N"
+    },
+    {
+     "ddd": "31",
+     "numero": "21087543",
+     "fax": "S"
+    }
+   ]
+  }
+ ],
+ "legislaturas": [
+  {
+   "numeroLegislatura": 20,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2023-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2027-01-31"
+   },
+   "tipoMandato": "Efetiva",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2023-02-01"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2027-01-31"
+     }
+    }
+   ]
+  }
+ ],
+ "situacaoLegislaturas": "20&ordf; - 2023-2027- Efetiva<br/>de 01/02/2023 até 31/01/2027 (Em exercício em 01/02/2023) <br/><br />",
+ "partidosLegislatura": "PSC   até 15/02/2024<br/>PL desde 26/02/2024  <br/>",
+ "anoEleicaoLegislatura": "2022",
+ "situacaoTerminoLegislatura": "Em exercício"
+}

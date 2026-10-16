@@ -1,0 +1,136 @@
+{
+ "id": 26098,
+ "nome": "Beatriz Cerqueira",
+ "partido": "PT",
+ "tagLocalizacao": 3898,
+ "sexo": "F",
+ "situacao": "Em exercício",
+ "inicioSituacao": {
+  "@class": "sql-timestamp",
+  "$": "2023-02-01"
+ },
+ "tipoMandato": "Efetivo",
+ "nomeServidor": "BEATRIZ DA SILVA CERQUEIRA",
+ "naturalidadeMunicipio": "Belo Horizonte",
+ "naturalidadeUf": "MG",
+ "dataNascimento": "3/3/1978",
+ "codigoSituacao": 1,
+ "partidoEleicao": "PT",
+ "emails": [
+  {
+   "tipo": "1",
+   "endereco": "dep.beatriz.cerqueira"
+  }
+ ],
+ "vidaProfissionalPolitica": "Foi presidenta da Central Única dos Trabalhadores (CUT/MG) e coordenadora-geral do Sindicato Único dos Trabalhadores em Educação de Minas Gerais (Sind-UTE/MG). Filha de garçom e manicure, é professora da educação básica da rede pública, tendo exercido o magistério por 22 anos. Formou-se no Instituto de Educação de Minas Gerais. Também é formada em Direito pela Pontifícia Universidade de Minas Gerais (PUC Minas). Sua militância política teve início na Pastoral da Juventude. Assumiu a coordenação-geral do Sind-UTE em 2010. Foi a primeira mulher a ser eleita para a presidência da CUT em Minas Gerais, em 2012. Já atuou em diversas causas como, por exemplo, a defesa da educação pública, a redução da tarifa de energia, a luta contra as reformas trabalhista e da Previdência, e a denúncia do rompimento da barragem do Fundão, em Mariana (Região Central), que para a deputada configura um crime das empresas Samarco, Vale e BHP.",
+ "atuacaoParlamentar": "Assume, em 2023, seu segundo mandato na Assembleia Legislativa de Minas Gerais. Na 19ª Legislatura, foi presidenta da Comissão de Educação, Ciência e Tecnologia. Atuou também nas CPIs de Brumadinho e da Cemig.",
+ "candidaturas": [
+  {
+   "legislatura": 19,
+   "numeroCandidato": 13123
+  },
+  {
+   "legislatura": 20,
+   "numeroCandidato": 13123
+  }
+ ],
+ "filiacoes": [
+  {
+   "dataInicio": {
+    "@class": "sql-timestamp",
+    "$": "2018-10-07"
+   },
+   "dataTermino": {
+    "@class": "sql-timestamp",
+    "$": "2999-12-31"
+   },
+   "partido": {
+    "id": 13,
+    "sigla": "PT"
+   }
+  }
+ ],
+ "enderecos": [
+  {
+   "logradouro": "Rua Rodrigues Caldas",
+   "numero": "30",
+   "complemento": "Palácio da Inconfidência - 1º andar - conjunto 108",
+   "bairro": "Santo Agostinho",
+   "cep": "30190921",
+   "municipio": {
+    "nome": "Belo Horizonte",
+    "uf": "MG",
+    "codigoIbge9": 310620005
+   },
+   "descTipo": "Gabinete",
+   "telefones": [
+    {
+     "ddd": "31",
+     "numero": "21085414",
+     "fax": "S"
+    },
+    {
+     "ddd": "31",
+     "numero": "21085415",
+     "fax": "N"
+    }
+   ]
+  }
+ ],
+ "legislaturas": [
+  {
+   "numeroLegislatura": 19,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2019-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2023-01-31"
+   },
+   "tipoMandato": "Efetiva",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2019-02-01"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2023-01-31"
+     }
+    }
+   ]
+  },
+  {
+   "numeroLegislatura": 20,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2023-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2027-01-31"
+   },
+   "tipoMandato": "Efetiva",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2023-02-01"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2027-01-31"
+     }
+    }
+   ]
+  }
+ ],
+ "situacaoLegislaturas": "19&ordf; - 2019-2023- Efetiva<br/>de 01/02/2019 até 31/01/2023 (Em exercício em 01/02/2019) <br/><br />20&ordf; - 2023-2027- Efetiva<br/>de 01/02/2023 até 31/01/2027 (Em exercício em 01/02/2023) <br/><br />",
+ "partidosLegislatura": "PT    <br/>",
+ "anoEleicaoLegislatura": "2022",
+ "situacaoTerminoLegislatura": "Em exercício"
+}

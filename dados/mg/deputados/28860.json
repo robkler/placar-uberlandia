@@ -1,0 +1,122 @@
+{
+ "id": 28860,
+ "nome": "Bella Gonçalves",
+ "partido": "PT",
+ "tagLocalizacao": 5953,
+ "sexo": "F",
+ "situacao": "Em exercício",
+ "inicioSituacao": {
+  "@class": "sql-timestamp",
+  "$": "2023-02-01"
+ },
+ "tipoMandato": "Efetivo",
+ "nomeServidor": "ISABELLA GONÇALVES MIRANDA",
+ "naturalidadeMunicipio": "Belo Horizonte",
+ "naturalidadeUf": "MG",
+ "dataNascimento": "20/11/1988",
+ "atividadeProfissional": "Cientista política",
+ "codigoSituacao": 1,
+ "partidoEleicao": "PSOL",
+ "emails": [
+  {
+   "tipo": "1",
+   "endereco": "dep.bella.goncalves"
+  }
+ ],
+ "vidaProfissionalPolitica": "Foi vereadora de Belo Horizonte. Cientista política e doutora pela UFMG, atua nas lutas pelo direito à cidade e por uma reforma urbana popular e feminista. Sua experiência é marcada pelo trabalho junto a movimentos sociais, ocupações urbanas, vilas e favelas, diversos segmentos de trabalhadores informais e ainda junto a movimentos pela agroecologia e contra a mineração predatória. Antes de se tornar vereadora, atuou como assessora na Gabinetona, mandato coletivo e com ações compartilhadas, em covereança com Áurea Carolina e Cida Falabella. Mulher lésbica e jovem, foi a terceira mais votada da Federação Psol/PCB em 2016, ficando como primeira suplente em sua estreia eleitoral, como vereadora. Assumiu em novembro de 2018, com a eleição da vereadora Áurea Carolina para a Câmara dos Deputados. Já na eleição de 2020, Bella Gonçalves se elegeu vereadora com votação ampliada, tendo como propósitos fortalecer a luta pela democracia e por maior participação e poder às mulheres, negras, indígenas e LGBTQIA+.",
+ "atuacaoParlamentar": "Assume, em 2023, seu primeiro mandato na Assembleia Legislativa de Minas Gerais.",
+ "candidaturas": [
+  {
+   "legislatura": 20,
+   "numeroCandidato": 50500
+  }
+ ],
+ "filiacoes": [
+  {
+   "dataInicio": {
+    "@class": "sql-timestamp",
+    "$": "2022-10-02"
+   },
+   "dataTermino": {
+    "@class": "sql-timestamp",
+    "$": "2026-04-06"
+   },
+   "partido": {
+    "id": 50,
+    "sigla": "PSOL"
+   }
+  },
+  {
+   "dataInicio": {
+    "@class": "sql-timestamp",
+    "$": "2026-04-07"
+   },
+   "dataTermino": {
+    "@class": "sql-timestamp",
+    "$": "2999-12-31"
+   },
+   "partido": {
+    "id": 13,
+    "sigla": "PT"
+   }
+  }
+ ],
+ "enderecos": [
+  {
+   "logradouro": "Rua Rodrigues Caldas",
+   "numero": "30",
+   "complemento": "Palácio da Inconfidência - 2º andar - conjunto 223",
+   "bairro": "Santo Agostinho",
+   "cep": "30190921",
+   "municipio": {
+    "nome": "Belo Horizonte",
+    "uf": "MG",
+    "codigoIbge9": 310620005
+   },
+   "descTipo": "Gabinete",
+   "telefones": [
+    {
+     "ddd": "31",
+     "numero": "21085285",
+     "fax": "N"
+    },
+    {
+     "ddd": "31",
+     "numero": "21085286",
+     "fax": "S"
+    }
+   ]
+  }
+ ],
+ "legislaturas": [
+  {
+   "numeroLegislatura": 20,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2023-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2027-01-31"
+   },
+   "tipoMandato": "Efetiva",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2023-02-01"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2027-01-31"
+     }
+    }
+   ]
+  }
+ ],
+ "situacaoLegislaturas": "20&ordf; - 2023-2027- Efetiva<br/>de 01/02/2023 até 31/01/2027 (Em exercício em 01/02/2023) <br/><br />",
+ "partidosLegislatura": "PSOL   até 06/04/2026<br/>PT desde 07/04/2026  <br/>",
+ "anoEleicaoLegislatura": "2022",
+ "situacaoTerminoLegislatura": "Em exercício"
+}

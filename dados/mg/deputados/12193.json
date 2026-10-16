@@ -1,0 +1,272 @@
+{
+ "id": 12193,
+ "nome": "Adalclever Lopes",
+ "partido": "PV",
+ "tagLocalizacao": 640,
+ "sexo": "M",
+ "situacao": "Em exercício",
+ "inicioSituacao": {
+  "@class": "sql-timestamp",
+  "$": "2025-02-03"
+ },
+ "tipoMandato": "Efetivo",
+ "nomeServidor": "ADALCLEVER RIBEIRO LOPES",
+ "naturalidadeMunicipio": "Belo Horizonte",
+ "naturalidadeUf": "MG",
+ "dataNascimento": "24/11/1966",
+ "apresentarEmail": "G",
+ "atividadeProfissional": "Empresário",
+ "codigoSituacao": 1,
+ "emails": [
+  {
+   "tipo": "1",
+   "endereco": "dep.adalclever.lopes"
+  }
+ ],
+ "vidaProfissionalPolitica": "Foi deputado estadual por quatro mandatos consecutivos (2003-2018). Foi presidente da ALMG na 18ª Legislatura (2015-2019).. Antes de ingressar na ALMG, foi chefe de gabinete da Secretaria de Estado\r\nde Segurança Pública e membro titular do Conselho Estadual de Ciência e Tecnologia. Em 2018, disputou a\r\neleição para o Governo do Estado. Também atuou como secretário de Governo do ex-prefeito de Belo Horizonte Alexandre Kalil.",
+ "atuacaoParlamentar": "Na ALMG, também foi presidente das Comissões de Transporte, Comunicação e Obras Públicas, de Defesa do Consumidor e do Contribuinte e de Educação, Cultura, Ciência e Tecnologia; vice-presidente da Comissão de Transporte, Comunicação e Obras Públicas e da Comissão Especial das Pessoas Desaparecidas; líder e vice-líder do PMDB e coordenador da Frente Parlamentar Municipalista.",
+ "condecoracao": "Foi agraciado com as seguintes condecorações: Grande Medalha da Inconfidência; Ordem do Mérito Legislativo do Estado de Minas Gerais; Grande Medalha Presidente Juscelino Kubitschek; Medalha do Dia de Minas Gerais; Medalha Santos Dumont; Comenda Teófilo Ottoni; Medalha do Mérito do Ministério Público, Colar do Mérito da Corte de Contas Ministro José Maria de Alkmin, do Tribunal de Contas; Grande Colar do Mérito Legislativo Municipal Affonso Augusto Moreira Penna, da Câmara Municipal de Belo Horizonte; Medalha do Mérito da Defensoria Pública do Estado; Medalha do Mérito da Advocacia-Geral do Estado; Medalha do Mérito Municipalista, da Associação Mineira de Municípios; Medalha Alferes Tiradentes, da Polícia Militar de Minas Gerais; Grau Ouro da Comenda Coronel Fulgêncio de Souza dos Santos, da União dos Militares do Estado de Minas Gerais; Medalha Luiz Soares da Rocha da Polícia Civil do Estado; Medalha da Ordem do Mérito Dom Pedro II, do Corpo de Bombeiros Militar; Colar do Mérito Judiciário Militar; Comenda Desembargador Guido de Andrade, da Amagis; Medalha Davidson Pimenta da Rocha do Sindicato dos Delegados de Polícia Civil de Minas Gerais; Medalha Patrono Dr. Helvécio Arantes; Medalha do Mérito Municipal de São Sebastião do Anta; e Comenda Ambiental da Estância Hidromineral de São Lourenço; e Troféu Tancredo Neves, do jornal Edição do Brasil.\n\n\r\n\r\nÉ também cidadão honorário dos municípios de Entre Folhas, Santa Rita de Minas, Piedade de Caratinga, Córrego Novo, São Sebastião do Anta, Caratinga, Pouso Alegre, Lavras, Pedro Leopoldo e Cachoeira de Pajeú. \r\n\r\nEm 2015, recebeu a distinção de soldado ilustre do 12º Batalhão de Infantaria, que tem como objetivo reconhecer o desempenho de ex-soldados integrantes do batalhão que tenham se destacado no cenário regional ou no nacional.",
+ "candidaturas": [
+  {
+   "legislatura": 15,
+   "numeroCandidato": 15123
+  },
+  {
+   "legislatura": 16,
+   "numeroCandidato": 15123
+  },
+  {
+   "legislatura": 17,
+   "numeroCandidato": 15123
+  },
+  {
+   "legislatura": 18,
+   "numeroCandidato": 15123
+  }
+ ],
+ "filiacoes": [
+  {
+   "dataInicio": {
+    "@class": "sql-timestamp",
+    "$": "2002-10-06"
+   },
+   "dataTermino": {
+    "@class": "sql-timestamp",
+    "$": "2018-05-14"
+   },
+   "partido": {
+    "id": 15,
+    "sigla": "PMDB"
+   }
+  },
+  {
+   "dataInicio": {
+    "@class": "sql-timestamp",
+    "$": "2018-05-15"
+   },
+   "dataTermino": {
+    "@class": "sql-timestamp",
+    "$": "2019-02-01"
+   },
+   "partido": {
+    "id": 72,
+    "sigla": "MDB"
+   }
+  },
+  {
+   "dataInicio": {
+    "@class": "sql-timestamp",
+    "$": "2025-01-17"
+   },
+   "dataTermino": {
+    "@class": "sql-timestamp",
+    "$": "2026-03-18"
+   },
+   "partido": {
+    "id": 41,
+    "sigla": "PSD"
+   }
+  },
+  {
+   "dataInicio": {
+    "@class": "sql-timestamp",
+    "$": "2026-03-19"
+   },
+   "dataTermino": {
+    "@class": "sql-timestamp",
+    "$": "2999-12-31"
+   },
+   "partido": {
+    "id": 43,
+    "sigla": "PV"
+   }
+  }
+ ],
+ "enderecos": [
+  {
+   "logradouro": "Rua Rodrigues Caldas",
+   "numero": "30",
+   "complemento": "Palácio da Inconfidência - 2º andar - conjunto 230",
+   "bairro": "Santo Agostinho",
+   "cep": "30190921",
+   "municipio": {
+    "nome": "Belo Horizonte",
+    "uf": "MG",
+    "codigoIbge9": 310620005
+   },
+   "descTipo": "Gabinete",
+   "telefones": [
+    {
+     "ddd": "31",
+     "numero": "21085875",
+     "fax": "S"
+    },
+    {
+     "ddd": "31",
+     "numero": "21085877",
+     "fax": "N"
+    }
+   ]
+  }
+ ],
+ "legislaturas": [
+  {
+   "numeroLegislatura": 15,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2003-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2007-01-31"
+   },
+   "tipoMandato": "Efetivo",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2003-02-01"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2007-01-31"
+     }
+    }
+   ]
+  },
+  {
+   "numeroLegislatura": 16,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2007-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2011-01-31"
+   },
+   "tipoMandato": "Efetivo",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2007-02-01"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2011-01-31"
+     }
+    }
+   ]
+  },
+  {
+   "numeroLegislatura": 17,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2011-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2015-01-31"
+   },
+   "tipoMandato": "Efetivo",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2011-02-01"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2015-01-31"
+     }
+    }
+   ]
+  },
+  {
+   "numeroLegislatura": 18,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2015-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2019-01-31"
+   },
+   "tipoMandato": "Efetivo",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2015-02-01"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2019-01-31"
+     }
+    }
+   ]
+  },
+  {
+   "numeroLegislatura": 20,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2023-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2027-01-31"
+   },
+   "tipoMandato": "Efetivo",
+   "inicioExercicio": {
+    "@class": "sql-timestamp",
+    "$": "2025-02-03"
+   },
+   "terminoExercicio": {
+    "@class": "sql-timestamp",
+    "$": "2027-01-31"
+   },
+   "deputadoAfastado": "Douglas Melo",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2025-02-03"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2027-01-31"
+     }
+    }
+   ]
+  }
+ ],
+ "situacaoLegislaturas": "15&ordf; - 2003-2007- Efetivo<br/>de 01/02/2003 até 31/01/2007 (Em exercício em 01/02/2003) <br/><br />16&ordf; - 2007-2011- Efetivo<br/>de 01/02/2007 até 31/01/2011 (Em exercício em 01/02/2007) <br/><br />17&ordf; - 2011-2015- Efetivo<br/>de 01/02/2011 até 31/01/2015 (Em exercício em 01/02/2011) <br/><br />18&ordf; - 2015-2019- Efetivo<br/>de 01/02/2015 até 31/01/2019 (Em exercício em 01/02/2015) <br/><br />20&ordf; - 2023-2027- Efetivo<br/>de 03/02/2025 até 31/01/2027 (Em exercício em 03/02/2025) <br/><br />",
+ "partidosLegislatura": "PSD de 17/01/2025 até 18/03/2026<br/>PV desde 19/03/2026  <br/>",
+ "anoEleicaoLegislatura": "2022",
+ "situacaoTerminoLegislatura": "Em exercício"
+}

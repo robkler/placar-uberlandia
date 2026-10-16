@@ -1,0 +1,143 @@
+{
+ "id": 18022,
+ "nome": "Nayara Rocha",
+ "partido": "PP",
+ "tagLocalizacao": 5969,
+ "cargoRepresentacaoPartidaria": "Vice-Líder do Governo",
+ "liderancas": [
+  {
+   "categoria": "GOVERNO",
+   "cargo": "Vice-Líder",
+   "nomeRepresentacao": "Liderança do Governo"
+  }
+ ],
+ "dataCargoRepresentacaoPartidaria": {
+  "@class": "sql-timestamp",
+  "$": "2025-02-13"
+ },
+ "sexo": "F",
+ "situacao": "Em exercício",
+ "inicioSituacao": {
+  "@class": "sql-timestamp",
+  "$": "2025-09-05"
+ },
+ "tipoMandato": "Efetivo",
+ "nomeServidor": "NAYARA ROCHA PERDIGÃO LARA",
+ "naturalidadeMunicipio": "Vespasiano",
+ "naturalidadeUf": "MG",
+ "dataNascimento": "24/07/1990",
+ "apresentarEmail": "A",
+ "codigoSituacao": 1,
+ "partidoEleicao": "PP",
+ "emails": [
+  {
+   "tipo": "1",
+   "endereco": "dep.nayara.rocha"
+  }
+ ],
+ "vidaProfissionalPolitica": "Deputada estadual eleita em Minas Gerais com 44.619 votos. Filha de Ilce Rocha Perdigão e Sérgio Perdigão. Casada, mamãe de Áurea e Daniel.\r\n\r\nFormada em Direito pelo Centro Universitário Newton Paiva, é doutoranda em Direito pela Universidade de Salamanca e mestre em Administração Pública pela Fundação Pedro Leopoldo. Possui pós-graduação em Direito Público e cursa pós-graduação em Direito Administrativo na Pontifícia Universidade Católica de Minas Gerais (PUC-Minas).\r\n\r\nAtualmente, é vice-líder do Governo na ALMG e membro efetivo da Comissão de Administração Pública. Preside a Comissão de Defesa dos Direitos das Pessoas com Deficiência da União Nacional dos Legisladores e Legislativos Estaduais (Unale).\r\n\r\nÉ uma grande defensora dos direitos das pessoas com deficiência, idosos, crianças e mulheres, com destaque para a causa autista. Foi eleita uma das deputadas mais atuantes da ALMG, tendo apresentado, em pouco mais de um ano de mandato, mais de 160 projetos de lei, além de diversos requerimentos.\r\n\r\nAnteriormente, exerceu os cargos de secretária de Governo e de Desenvolvimento Social em Vespasiano, Região Metropolitana de Belo Horizonte. Na pasta de Desenvolvimento Social, conseguiu implantar abrigo para acolher moradores em situação de rua; a Casa Rosa; a Escolinha do Galo; o Projeto Sada Voley; o Conselho Municipal da Pessoa com Deficiência; a carteirinha do Autismo; o Kart Educacional Automobilístico e o Projeto Iluminar, que promove inclusão social. Também ampliou as vagas do projeto Avança Judô e das oficinas voltadas para a terceira idade.\r\n\r\nEm suas redes sociais, destaca que o gosto pela política veio pelo exemplo materno. Sua mãe, Ilce Rocha, é diretora-geral da Agência Metropolitana de Belo Horizonte, foi prefeita de Vespasiano por dois mandatos, presidente reeleita da Granbel, além de ter exercido três mandatos como vereadora, sido presidente da Câmara Municipal e vice-prefeita da cidade.",
+ "atuacaoParlamentar": "Assume, em 2023, seu primeiro mandato na Assembleia Legislativa de Minas Gerais.",
+ "candidaturas": [
+  {
+   "legislatura": 20,
+   "numeroCandidato": 11789
+  }
+ ],
+ "filiacoes": [
+  {
+   "dataInicio": {
+    "@class": "sql-timestamp",
+    "$": "2022-10-02"
+   },
+   "dataTermino": {
+    "@class": "sql-timestamp",
+    "$": "2999-12-31"
+   },
+   "partido": {
+    "id": 73,
+    "sigla": "PP"
+   }
+  }
+ ],
+ "enderecos": [
+  {
+   "logradouro": "Rua Rodrigues Caldas",
+   "numero": "30",
+   "complemento": "Palácio da Inconfidência - 2º andar - conjunto 224",
+   "bairro": "Santo Agostinho",
+   "cep": "30190921",
+   "municipio": {
+    "nome": "Belo Horizonte",
+    "uf": "MG",
+    "codigoIbge9": 310620005
+   },
+   "descTipo": "Gabinete",
+   "telefones": [
+    {
+     "ddd": "31",
+     "numero": "21085051",
+     "fax": "N"
+    },
+    {
+     "ddd": "31",
+     "numero": "21085055",
+     "fax": "S"
+    }
+   ]
+  }
+ ],
+ "legislaturas": [
+  {
+   "numeroLegislatura": 20,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2023-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2027-01-31"
+   },
+   "tipoMandato": "Efetiva",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2023-02-01"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2025-05-07"
+     }
+    },
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2025-05-08"
+     },
+     "status": "Licença",
+     "complemento": "Licença-maternidade pelo período de 120 dias.",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2025-09-04"
+     }
+    },
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2025-09-05"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2027-01-31"
+     }
+    }
+   ]
+  }
+ ],
+ "situacaoLegislaturas": "20&ordf; - 2023-2027- Efetiva<br/>de 01/02/2023 até 07/05/2025 (Em exercício em 01/02/2023) <br/>de 08/05/2025 até 04/09/2025 (Licença em 08/05/2025 - Licença-maternidade pelo período de 120 dias.) <br/>de 05/09/2025 até 31/01/2027 (Em exercício em 05/09/2025) <br/><br />",
+ "partidosLegislatura": "PP    <br/>",
+ "anoEleicaoLegislatura": "2022",
+ "situacaoTerminoLegislatura": "Em exercício"
+}

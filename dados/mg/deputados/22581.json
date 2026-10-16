@@ -1,0 +1,179 @@
+{
+ "id": 22581,
+ "nome": "Doutor Jean Freire",
+ "partido": "PT",
+ "tagLocalizacao": 1675,
+ "cargoRepresentacaoPartidaria": "Vice-Líder do Bloco Democracia e Luta",
+ "liderancas": [
+  {
+   "categoria": "BLOCO",
+   "cargo": "Vice-Líder",
+   "idRepresentacao": 58,
+   "nomeRepresentacao": "Bloco Democracia e Luta"
+  }
+ ],
+ "dataCargoRepresentacaoPartidaria": {
+  "@class": "sql-timestamp",
+  "$": "2026-02-02"
+ },
+ "sexo": "M",
+ "situacao": "Em exercício",
+ "inicioSituacao": {
+  "@class": "sql-timestamp",
+  "$": "2023-02-01"
+ },
+ "tipoMandato": "Efetivo",
+ "nomeServidor": "JEAN MARK FREIRE SILVA",
+ "naturalidadeMunicipio": "Pavão",
+ "naturalidadeUf": "MG",
+ "dataNascimento": "11/07/1971",
+ "atividadeProfissional": "Médico",
+ "codigoSituacao": 1,
+ "partidoEleicao": "PT",
+ "emails": [
+  {
+   "tipo": "1",
+   "endereco": "dep.doutor.jean.freire"
+  }
+ ],
+ "vidaProfissionalPolitica": "Jean Mark Freire Silva foi vereador em Itaobim (Vale do Jequitinhonha) por três mandatos consecutivos. Como vereador, trabalhou pela expansão da Universidade Federal dos Vales do Mucuri e Jequitinhonha. Desenvolveu por dez anos o projeto Casa do Estudante, renunciando à sua remuneração de vereador em prol da manutenção de moradias estudantis em cidades universitárias. Filho de trabalhadores rurais, iniciou a carreira na área médica como porteiro de hospital, atendente de enfermagem no Hospital Vale do Jequitinhonha e depois formou-se em Medicina, dedicando-se ao atendimento da população de Itaobim.",
+ "atuacaoParlamentar": "Assume, em 2023, seu terceiro mandato na Assembleia Legislativa de Minas Gerais (ALMG). Na legislatura anterior, foi eleito 2º-vice-presidente para o biênio 2021-2023. Na 18ª Legislatura, presidiu a Comissão de Participação Popular e integrou a Comissão Extraordinária das Águas.",
+ "candidaturas": [
+  {
+   "legislatura": 18,
+   "numeroCandidato": 13100
+  },
+  {
+   "legislatura": 19,
+   "numeroCandidato": 13100
+  },
+  {
+   "legislatura": 20,
+   "numeroCandidato": 13100
+  }
+ ],
+ "filiacoes": [
+  {
+   "dataInicio": {
+    "@class": "sql-timestamp",
+    "$": "2015-02-01"
+   },
+   "dataTermino": {
+    "@class": "sql-timestamp",
+    "$": "2999-12-31"
+   },
+   "partido": {
+    "id": 13,
+    "sigla": "PT"
+   }
+  }
+ ],
+ "enderecos": [
+  {
+   "logradouro": "Rua Rodrigues Caldas",
+   "numero": "79",
+   "complemento": "Edifício Tiradentes - 15º andar - sala 1",
+   "bairro": "Santo Agostinho",
+   "cep": "30190120",
+   "municipio": {
+    "nome": "Belo Horizonte",
+    "uf": "MG",
+    "codigoIbge9": 310620005
+   },
+   "descTipo": "Gabinete",
+   "telefones": [
+    {
+     "ddd": "31",
+     "numero": "21085150",
+     "fax": "N"
+    },
+    {
+     "ddd": "31",
+     "numero": "21085151",
+     "fax": "S"
+    }
+   ]
+  }
+ ],
+ "legislaturas": [
+  {
+   "numeroLegislatura": 18,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2015-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2019-01-31"
+   },
+   "tipoMandato": "Efetivo",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2015-02-01"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2019-01-31"
+     }
+    }
+   ]
+  },
+  {
+   "numeroLegislatura": 19,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2019-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2023-01-31"
+   },
+   "tipoMandato": "Efetivo",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2019-02-01"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2023-01-31"
+     }
+    }
+   ]
+  },
+  {
+   "numeroLegislatura": 20,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2023-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2027-01-31"
+   },
+   "tipoMandato": "Efetivo",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2023-02-01"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2027-01-31"
+     }
+    }
+   ]
+  }
+ ],
+ "situacaoLegislaturas": "18&ordf; - 2015-2019- Efetivo<br/>de 01/02/2015 até 31/01/2019 (Em exercício em 01/02/2015) <br/><br />19&ordf; - 2019-2023- Efetivo<br/>de 01/02/2019 até 31/01/2023 (Em exercício em 01/02/2019) <br/><br />20&ordf; - 2023-2027- Efetivo<br/>de 01/02/2023 até 31/01/2027 (Em exercício em 01/02/2023) <br/><br />",
+ "partidosLegislatura": "PT    <br/>",
+ "anoEleicaoLegislatura": "2022",
+ "situacaoTerminoLegislatura": "Em exercício"
+}

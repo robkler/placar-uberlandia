@@ -1,0 +1,164 @@
+{
+ "id": 26153,
+ "nome": "Leninha",
+ "partido": "PT",
+ "tagLocalizacao": 3914,
+ "cargoMesa": "1ª-Vice-Presidente",
+ "dataCargoMesa": {
+  "@class": "sql-timestamp",
+  "$": "2025-02-03"
+ },
+ "sexo": "F",
+ "situacao": "Em exercício",
+ "inicioSituacao": {
+  "@class": "sql-timestamp",
+  "$": "2025-11-21"
+ },
+ "tipoMandato": "Efetivo",
+ "nomeServidor": "MARILENE ALVES DE SOUZA",
+ "naturalidadeMunicipio": "Montes Claros",
+ "naturalidadeUf": "MG",
+ "dataNascimento": "17/08/1964",
+ "codigoSituacao": 1,
+ "partidoEleicao": "PT",
+ "emails": [
+  {
+   "tipo": "1",
+   "endereco": "dep.leninha"
+  }
+ ],
+ "vidaProfissionalPolitica": "É graduada em Ciências Biológicas e mestre em Desenvolvimento Social pela Universidade Estadual de Montes Claros (Unimontes). Foi professora nas redes estadual e municipal de ensino, sendo eleita diretora estadual do Sindicato Único dos Trabalhadores em Educação de Minas Gerais (Sind-UTE/MG) e presidente regional da Central Única dos Trabalhadores (CUT). Participou do Conselho Estadual de Desenvolvimento Agrário (Cedraf/MG) e do Conselho Municipal de Segurança Alimentar. Atualmente, trabalha nos movimentos sociais e pastorais, sendo coordenadora do Centro de Agricultura Alternativa do Norte de Minas, coordenadora das articulações do Semiárido Brasileiro e Mineiro, diretora-secretária da Cáritas Brasileira e membro do Conselho Arquidiocesano de Pastoral da Arquidiocese e da Santa Casa de Misericórdia de Montes Claros. Em 2016, Leninha foi candidata a prefeita de Montes Claros pelo PT, obtendo mais de 36 mil votos.",
+ "atuacaoParlamentar": "Assume, em 2023, seu segundo mandato consecutivo na Assembleia Legislativa de Minas Gerais. Nesta legislatura, foi eleita como 1ª-vice-presidente da ALMG para o biênio 2023-2025. Na 19ª Legislatura, foi líder da Bancada Feminina, vice-presidente da Comissão de Direitos Humanos e integrou a Comissão de Defesa dos Direitos da Mulher.",
+ "candidaturas": [
+  {
+   "legislatura": 19,
+   "numeroCandidato": 13456
+  },
+  {
+   "legislatura": 20,
+   "numeroCandidato": 13456
+  }
+ ],
+ "filiacoes": [
+  {
+   "dataInicio": {
+    "@class": "sql-timestamp",
+    "$": "2018-10-07"
+   },
+   "dataTermino": {
+    "@class": "sql-timestamp",
+    "$": "2999-12-31"
+   },
+   "partido": {
+    "id": 13,
+    "sigla": "PT"
+   }
+  }
+ ],
+ "enderecos": [
+  {
+   "logradouro": "Rua Rodrigues Caldas",
+   "numero": "79",
+   "complemento": "Edifício Tiradentes - 17º andar - Sala  2",
+   "bairro": "Santo Agostinho",
+   "cep": "30190120",
+   "municipio": {
+    "nome": "Belo Horizonte",
+    "uf": "MG",
+    "codigoIbge9": 310620005
+   },
+   "descTipo": "Gabinete",
+   "telefones": [
+    {
+     "ddd": "31",
+     "numero": "21085188",
+     "fax": "N"
+    },
+    {
+     "ddd": "31",
+     "numero": "21085474",
+     "fax": "S"
+    }
+   ]
+  }
+ ],
+ "legislaturas": [
+  {
+   "numeroLegislatura": 19,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2019-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2023-01-31"
+   },
+   "tipoMandato": "Efetiva",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2019-02-01"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2023-01-31"
+     }
+    }
+   ]
+  },
+  {
+   "numeroLegislatura": 20,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2023-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2027-01-31"
+   },
+   "tipoMandato": "Efetiva",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2023-02-01"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2025-11-18"
+     }
+    },
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2025-11-19"
+     },
+     "status": "Licença",
+     "motivo": "Interesse particular",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2025-11-20"
+     }
+    },
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2025-11-21"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2027-01-31"
+     }
+    }
+   ]
+  }
+ ],
+ "situacaoLegislaturas": "19&ordf; - 2019-2023- Efetiva<br/>de 01/02/2019 até 31/01/2023 (Em exercício em 01/02/2019) <br/><br />20&ordf; - 2023-2027- Efetiva<br/>de 01/02/2023 até 18/11/2025 (Em exercício em 01/02/2023) <br/>de 19/11/2025 até 20/11/2025 (Licença em 19/11/2025 - Interesse particular) <br/>de 21/11/2025 até 31/01/2027 (Em exercício em 21/11/2025) <br/><br />",
+ "partidosLegislatura": "PT    <br/>",
+ "anoEleicaoLegislatura": "2022",
+ "situacaoTerminoLegislatura": "Em exercício"
+}

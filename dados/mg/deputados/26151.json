@@ -1,0 +1,164 @@
+{
+ "id": 26151,
+ "nome": "Doorgal Andrada",
+ "partido": "PP",
+ "tagLocalizacao": 3908,
+ "sexo": "M",
+ "situacao": "Em exercício",
+ "inicioSituacao": {
+  "@class": "sql-timestamp",
+  "$": "2023-02-01"
+ },
+ "tipoMandato": "Efetivo",
+ "nomeServidor": "DOORGAL GUSTAVO SAD LAFAYETTE DE ANDRADA",
+ "naturalidadeMunicipio": "Barbacena",
+ "naturalidadeUf": "MG",
+ "dataNascimento": "21/10/1992",
+ "codigoSituacao": 1,
+ "partidoEleicao": "PATRIOTA",
+ "emails": [
+  {
+   "tipo": "1",
+   "endereco": "dep.doorgal.andrada"
+  }
+ ],
+ "vidaProfissionalPolitica": "Foi vereador em Belo Horizonte, presidiu a Comissão de Legislação e Justiça (CLJ), tendo sido o parlamentar mais jovem da mais recente legislatura da Câmara Municipal da Capital. Seu mandato destacou-se pela defesa da independência do Poder Legislativo, pela fiscalização firme do Executivo e pela transparência. Entre suas bandeiras, estão o apoio à pessoa com autismo e seus familiares, a promoção do esporte e a defesa de maior eficiência do poder público e do municipalismo. Doorgal é também bacharel em Direito, atleta de triatlo e oficial da reserva do Exército Brasileiro.",
+ "atuacaoParlamentar": "Assume, em 2023, seu segundo mandato na Assembleia Legislativa de Minas Gerais. Na 19ª Legislatura, foi vice-presidente da Comissão de Defesa do Consumidor e do Contribuinte e membro da Comissão de Fiscalização Financeira e Orçamentária.",
+ "candidaturas": [
+  {
+   "legislatura": 19,
+   "numeroCandidato": 51300
+  },
+  {
+   "legislatura": 20,
+   "numeroCandidato": 51300
+  }
+ ],
+ "filiacoes": [
+  {
+   "dataInicio": {
+    "@class": "sql-timestamp",
+    "$": "2018-10-07"
+   },
+   "dataTermino": {
+    "@class": "sql-timestamp",
+    "$": "2024-04-17"
+   },
+   "partido": {
+    "id": 52,
+    "sigla": "PATRIOTA"
+   }
+  },
+  {
+   "dataInicio": {
+    "@class": "sql-timestamp",
+    "$": "2024-04-18"
+   },
+   "dataTermino": {
+    "@class": "sql-timestamp",
+    "$": "2026-03-20"
+   },
+   "partido": {
+    "id": 83,
+    "sigla": "PRD"
+   }
+  },
+  {
+   "dataInicio": {
+    "@class": "sql-timestamp",
+    "$": "2026-03-21"
+   },
+   "dataTermino": {
+    "@class": "sql-timestamp",
+    "$": "2999-12-31"
+   },
+   "partido": {
+    "id": 73,
+    "sigla": "PP"
+   }
+  }
+ ],
+ "enderecos": [
+  {
+   "logradouro": "Rua Rodrigues Caldas",
+   "numero": "30",
+   "complemento": "Palácio da Inconfidência - 1º andar - conjunto 105",
+   "bairro": "Santo Agostinho",
+   "cep": "30190921",
+   "municipio": {
+    "nome": "Belo Horizonte",
+    "uf": "MG",
+    "codigoIbge9": 310620005
+   },
+   "descTipo": "Gabinete",
+   "telefones": [
+    {
+     "ddd": "31",
+     "numero": "21085797",
+     "fax": "S"
+    },
+    {
+     "ddd": "31",
+     "numero": "21085799",
+     "fax": "N"
+    }
+   ]
+  }
+ ],
+ "legislaturas": [
+  {
+   "numeroLegislatura": 19,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2019-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2023-01-31"
+   },
+   "tipoMandato": "Efetivo",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2019-02-01"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2023-01-31"
+     }
+    }
+   ]
+  },
+  {
+   "numeroLegislatura": 20,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2023-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2027-01-31"
+   },
+   "tipoMandato": "Efetivo",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2023-02-01"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2027-01-31"
+     }
+    }
+   ]
+  }
+ ],
+ "situacaoLegislaturas": "19&ordf; - 2019-2023- Efetivo<br/>de 01/02/2019 até 31/01/2023 (Em exercício em 01/02/2019) <br/><br />20&ordf; - 2023-2027- Efetivo<br/>de 01/02/2023 até 31/01/2027 (Em exercício em 01/02/2023) <br/><br />",
+ "partidosLegislatura": "PATRIOTA   até 17/04/2024<br/>PRD de 18/04/2024 até 20/03/2026<br/>PP desde 21/03/2026  <br/>",
+ "anoEleicaoLegislatura": "2022",
+ "situacaoTerminoLegislatura": "Em exercício"
+}

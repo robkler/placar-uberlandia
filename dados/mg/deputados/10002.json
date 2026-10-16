@@ -1,0 +1,235 @@
+{
+ "id": 10002,
+ "nome": "Carlos Henrique",
+ "partido": "REPUBLICANOS",
+ "tagLocalizacao": 991,
+ "sexo": "M",
+ "situacao": "Em exercício",
+ "inicioSituacao": {
+  "@class": "sql-timestamp",
+  "$": "2023-02-01"
+ },
+ "tipoMandato": "Efetivo",
+ "nomeServidor": "CARLOS HENRIQUE ALVES DA SILVA",
+ "naturalidadeMunicipio": "Rio de Janeiro",
+ "naturalidadeUf": "RJ",
+ "dataNascimento": "20/07/1970",
+ "apresentarEmail": "G",
+ "codigoSituacao": 1,
+ "partidoEleicao": "REPUBLICANOS",
+ "emails": [
+  {
+   "tipo": "1",
+   "endereco": "dep.carlos.henrique"
+  }
+ ],
+ "vidaProfissionalPolitica": "Exerceu três mandatos consecutivos de vereador em Belo Horizonte, tendo sido eleito em 2000, 2004 e 2008. Ocupou a 1ª-Secretaria e a Corregedoria da Câmara e a Vice-Presidência da Comissão de Legislação e Justiça. Em abril de 2015, durante seu segundo mandato na Assembleia Legislativa, licenciou-se para assumir a Secretaria de Estado de Esportes. Suas principais regiões de atuação política concentram-se em Belo Horizonte e região metropolitana, Sul de Minas, Zona da Mata e no Vale do Jequitinhonha.",
+ "atuacaoParlamentar": "Reeleito para o quarto mandato na Assembleia Legislativa de Minas Gerais (ALMG), onde ingressou em 2011. Foi o 2º-Secretário da Mesa Diretora (ALMG), eleito no Biênio 2019-2021 e reeleito para o Biênio 2021/2023. Durante a 18ª Legislatura, foi membro efetivo das Comissões de Educação, Ciência e Tecnologia; Esporte, Lazer e Juventude; e de Fiscalização Financeira e Orçamentária.",
+ "condecoracao": "Medalha da Ordem do Mérito Legislativo (2005), da Assembleia Legislativa de Minas Gerais; Medalha de Ordem do Mérito Imperador Dom Pedro II - Corpo de Bombeiros de Minas Gerais; Notáveis do Ano 2005, do Jornal Hoje em Dia; condecorado com a Medalha da Inconfidência; homenageado com a Medalha José Alencar; condecorado com a Medalha Santos Dumont (2019).",
+ "candidaturas": [
+  {
+   "legislatura": 17,
+   "numeroCandidato": 10123
+  },
+  {
+   "legislatura": 18,
+   "numeroCandidato": 10123
+  },
+  {
+   "legislatura": 19,
+   "numeroCandidato": 10123
+  },
+  {
+   "legislatura": 20,
+   "numeroCandidato": 10123
+  }
+ ],
+ "filiacoes": [
+  {
+   "dataInicio": {
+    "@class": "sql-timestamp",
+    "$": "2010-10-03"
+   },
+   "dataTermino": {
+    "@class": "sql-timestamp",
+    "$": "2019-08-14"
+   },
+   "partido": {
+    "id": 10,
+    "sigla": "PRB"
+   }
+  },
+  {
+   "dataInicio": {
+    "@class": "sql-timestamp",
+    "$": "2019-08-15"
+   },
+   "dataTermino": {
+    "@class": "sql-timestamp",
+    "$": "2999-12-31"
+   },
+   "partido": {
+    "id": 9,
+    "sigla": "REPUBLICANOS"
+   }
+  }
+ ],
+ "enderecos": [
+  {
+   "logradouro": "Rua Rodrigues Caldas",
+   "numero": "30",
+   "complemento": "Palácio da Inconfidência - 1º andar - conjunto 102",
+   "bairro": "Santo Agostinho",
+   "cep": "30190921",
+   "municipio": {
+    "nome": "Belo Horizonte",
+    "uf": "MG",
+    "codigoIbge9": 310620005
+   },
+   "descTipo": "Gabinete",
+   "telefones": [
+    {
+     "ddd": "31",
+     "numero": "21085787",
+     "fax": "S"
+    },
+    {
+     "ddd": "31",
+     "numero": "21085788",
+     "fax": "N"
+    }
+   ]
+  }
+ ],
+ "legislaturas": [
+  {
+   "numeroLegislatura": 17,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2011-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2015-01-31"
+   },
+   "tipoMandato": "Efetivo",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2011-02-01"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2015-01-31"
+     }
+    }
+   ]
+  },
+  {
+   "numeroLegislatura": 18,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2015-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2019-01-31"
+   },
+   "tipoMandato": "Efetivo",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2015-02-01"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2015-04-06"
+     }
+    },
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2015-04-07"
+     },
+     "status": "Afastamento",
+     "motivo": "Ocupar cargo",
+     "complemento": "Secretário de Estado de Esportes",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2016-11-20"
+     }
+    },
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2016-11-21"
+     },
+     "status": "Em exercício",
+     "motivo": "Retorno de efetivo",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2019-01-31"
+     }
+    }
+   ]
+  },
+  {
+   "numeroLegislatura": 19,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2019-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2023-01-31"
+   },
+   "tipoMandato": "Efetivo",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2019-02-01"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2023-01-31"
+     }
+    }
+   ]
+  },
+  {
+   "numeroLegislatura": 20,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2023-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2027-01-31"
+   },
+   "tipoMandato": "Efetivo",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2023-02-01"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2027-01-31"
+     }
+    }
+   ]
+  }
+ ],
+ "situacaoLegislaturas": "17&ordf; - 2011-2015- Efetivo<br/>de 01/02/2011 até 31/01/2015 (Em exercício em 01/02/2011) <br/><br />18&ordf; - 2015-2019- Efetivo<br/>de 01/02/2015 até 06/04/2015 (Em exercício em 01/02/2015) <br/>de 07/04/2015 até 20/11/2016 (Afastamento em 07/04/2015 - Ocupar cargo - Secretário de Estado de Esportes) <br/>de 21/11/2016 até 31/01/2019 (Em exercício em 21/11/2016 - Retorno de efetivo) <br/><br />19&ordf; - 2019-2023- Efetivo<br/>de 01/02/2019 até 31/01/2023 (Em exercício em 01/02/2019) <br/><br />20&ordf; - 2023-2027- Efetivo<br/>de 01/02/2023 até 31/01/2027 (Em exercício em 01/02/2023) <br/><br />",
+ "partidosLegislatura": "REPUBLICANOS    <br/>",
+ "anoEleicaoLegislatura": "2022",
+ "situacaoTerminoLegislatura": "Em exercício"
+}

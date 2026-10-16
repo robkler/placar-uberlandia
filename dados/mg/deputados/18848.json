@@ -1,0 +1,267 @@
+{
+ "id": 18848,
+ "nome": "Cassio Soares",
+ "partido": "PSD",
+ "tagLocalizacao": 992,
+ "cargoRepresentacaoPartidaria": "Líder do Bloco Minas em Frente",
+ "liderancas": [
+  {
+   "categoria": "BLOCO",
+   "cargo": "Líder",
+   "idRepresentacao": 60,
+   "nomeRepresentacao": "Bloco Minas em Frente"
+  }
+ ],
+ "dataCargoRepresentacaoPartidaria": {
+  "@class": "sql-timestamp",
+  "$": "2026-02-02"
+ },
+ "sexo": "M",
+ "situacao": "Em exercício",
+ "inicioSituacao": {
+  "@class": "sql-timestamp",
+  "$": "2023-02-01"
+ },
+ "tipoMandato": "Efetivo",
+ "nomeServidor": "CASSIO ANTONIO FERREIRA SOARES",
+ "naturalidadeMunicipio": "Passos",
+ "naturalidadeUf": "MG",
+ "dataNascimento": "07/06/1981",
+ "apresentarEmail": "G",
+ "atividadeProfissional": "Economista",
+ "codigoSituacao": 1,
+ "partidoEleicao": "PSD",
+ "emails": [
+  {
+   "tipo": "1",
+   "endereco": "dep.cassio.soares"
+  }
+ ],
+ "vidaProfissionalPolitica": "Cassio Soares é natural de Passos, sudoeste de Minas Gerais, e é economista, formado pelo Centro Universitário Unifacef, de Franca (SP). Cassio também concluiu o Programa de Desenvolvimento de Gestores Públicos da Fundação Dom Cabral (2008). Iniciou na política como presidente do PFL Jovem e assessor parlamentar na Câmara Municipal de Passos. Entre 2007 e 2010, atuou como subsecretário de Estado da Defesa Social, na área de Inovação e Logística, e foi chefe de gabinete da mesma secretaria. Mais tarde, entre 2012 - 2014, Cassio se licenciou do Parlamento para atuar como secretário de Estado de Desenvolvimento Social (SEDESE).",
+ "atuacaoParlamentar": "Reeleito para o quarto mandato na Assembleia Legislativa de Minas Gerais (ALMG), onde ingressou em 2011. Na 19ª Legislatura, foi presidente da CPI da Cemig e membro da CPI de Brumadinho. Foi também Líder do Bloco independente \"Minas São Muitas\", composto por 40 parlamentares. Foi também relator da CPI dos Fura-Filas da Vacinação e membro da Comissão de Prevenção e Combate ao Uso de Crack e Outras Drogas. Nas 19ª e 18º Legislaturas, foi vice-presidente da Comissão de Fiscalização Financeira e Orçamentária. Durante a 18º Legislatura, atuou como vice-presidente da Comissão Extraordinária de Acerto de Contas entre Minas e a União. \r\n\r\nO parlamentar foi eleito pela primeira vez em 2010, com 36 mil votos. Em 2014, foi reeleito com mais de 90 mil votos, marca superada na eleição de 2018, quando obteve mais de 113 mil votos, o sexto deputado mais votado de Minas Gerais.",
+ "condecoracao": "Medalha da Ordem do Mérito Legislativo (Graus Mérito e Mérito Especial), Medalha da Inconfidência (Grau Honra), Medalha Ordem do Mérito do Imperador D. Pedro II - CBMMG, Medalha Alferes Tiradentes (PMMG); Medalha Presidente Juscelino Kubistcheck; Colaborador Benemérito Bombeiros (CBMMG); Medalha Santos\r\nDumont (Grau Prata); Medalha Santos Dumont; Medalha Coronel Fugêncio; Medalha das Águas; Guardião do Ouro Verde (PMMG); Comenda Ambiental de São Lourenço; Comenda Uriel Tavares de Ordem do Mérito Cultural (Muzambinho) e Medalha Dr. Davidson Pimenta da Rocha (SINDEPOMINAS). Medalha do Mérito Legislativo concedido pelas Câmaras Municipais de Passos e São Sebastião do Paraíso, Piumhi, Bandeira do Sul, Monte Belo e Piumhi. Título de Cidadão Honorário das cidades de: São Sebastião do Paraíso, Cássia, Itaú de Minas, Alpinópolis, Piumhi, Guapé, Guaxupé, Itamogi, Conceição da Aparecida, Guaranésia, Delfinópolis, São Roque de Minas, Arceburgo, Paraisópolis, Monte Belo, Alterosa, São João Batista do Glória, Juruaia, Carmópolis de Minas, Campestre, Heliodora, Campo do Meio, Pains, Botelhos e São Pedro da União.",
+ "candidaturas": [
+  {
+   "legislatura": 17,
+   "numeroCandidato": 28888
+  },
+  {
+   "legislatura": 18,
+   "numeroCandidato": 55555
+  },
+  {
+   "legislatura": 19,
+   "numeroCandidato": 55555
+  },
+  {
+   "legislatura": 20,
+   "numeroCandidato": 55555
+  }
+ ],
+ "filiacoes": [
+  {
+   "dataInicio": {
+    "@class": "sql-timestamp",
+    "$": "2010-10-03"
+   },
+   "dataTermino": {
+    "@class": "sql-timestamp",
+    "$": "2011-11-23"
+   },
+   "partido": {
+    "id": 28,
+    "sigla": "PRTB"
+   }
+  },
+  {
+   "dataInicio": {
+    "@class": "sql-timestamp",
+    "$": "2011-11-24"
+   },
+   "dataTermino": {
+    "@class": "sql-timestamp",
+    "$": "2999-12-31"
+   },
+   "partido": {
+    "id": 41,
+    "sigla": "PSD"
+   }
+  }
+ ],
+ "enderecos": [
+  {
+   "logradouro": "Praça Jornalista Antônio Faria de Castro",
+   "numero": "851C",
+   "bairro": "Bairro Belo Horizonte",
+   "cep": "37900009",
+   "municipio": {
+    "nome": "Passos",
+    "uf": "MG",
+    "codigoIbge9": 314790005
+   },
+   "descTipo": "Escritório Político",
+   "telefones": [
+    {
+     "ddd": "35",
+     "numero": "35229919",
+     "fax": "N"
+    }
+   ]
+  },
+  {
+   "logradouro": "Rua Rodrigues Caldas",
+   "numero": "30",
+   "complemento": "Palácio da Inconfidência - 1º andar - conjunto 101",
+   "bairro": "Santo Agostinho",
+   "cep": "30190921",
+   "municipio": {
+    "nome": "Belo Horizonte",
+    "uf": "MG",
+    "codigoIbge9": 310620005
+   },
+   "descTipo": "Gabinete",
+   "telefones": [
+    {
+     "ddd": "31",
+     "numero": "21085095",
+     "fax": "N"
+    },
+    {
+     "ddd": "31",
+     "numero": "21085098",
+     "fax": "S"
+    }
+   ]
+  }
+ ],
+ "legislaturas": [
+  {
+   "numeroLegislatura": 17,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2011-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2015-01-31"
+   },
+   "tipoMandato": "Efetivo",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2011-02-01"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2012-02-08"
+     }
+    },
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2012-02-09"
+     },
+     "status": "Afastamento",
+     "motivo": "Ocupar cargo",
+     "complemento": "Secretário de Estado de Desenvolvimento Social",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2014-04-03"
+     }
+    },
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2014-04-04"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2015-01-31"
+     }
+    }
+   ]
+  },
+  {
+   "numeroLegislatura": 18,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2015-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2019-01-31"
+   },
+   "tipoMandato": "Efetivo",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2015-02-01"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2019-01-31"
+     }
+    }
+   ]
+  },
+  {
+   "numeroLegislatura": 19,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2019-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2023-01-31"
+   },
+   "tipoMandato": "Efetivo",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2019-02-01"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2023-01-31"
+     }
+    }
+   ]
+  },
+  {
+   "numeroLegislatura": 20,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2023-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2027-01-31"
+   },
+   "tipoMandato": "Efetivo",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2023-02-01"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2027-01-31"
+     }
+    }
+   ]
+  }
+ ],
+ "situacaoLegislaturas": "17&ordf; - 2011-2015- Efetivo<br/>de 01/02/2011 até 08/02/2012 (Em exercício em 01/02/2011) <br/>de 09/02/2012 até 03/04/2014 (Afastamento em 09/02/2012 - Ocupar cargo - Secretário de Estado de Desenvolvimento Social) <br/>de 04/04/2014 até 31/01/2015 (Em exercício em 04/04/2014) <br/><br />18&ordf; - 2015-2019- Efetivo<br/>de 01/02/2015 até 31/01/2019 (Em exercício em 01/02/2015) <br/><br />19&ordf; - 2019-2023- Efetivo<br/>de 01/02/2019 até 31/01/2023 (Em exercício em 01/02/2019) <br/><br />20&ordf; - 2023-2027- Efetivo<br/>de 01/02/2023 até 31/01/2027 (Em exercício em 01/02/2023) <br/><br />",
+ "partidosLegislatura": "PSD    <br/>",
+ "anoEleicaoLegislatura": "2022",
+ "situacaoTerminoLegislatura": "Em exercício"
+}

@@ -1,0 +1,134 @@
+{
+ "id": 28873,
+ "nome": "Macaé Evaristo",
+ "partido": "PT",
+ "tagLocalizacao": 5966,
+ "sexo": "F",
+ "situacao": "Em exercício",
+ "inicioSituacao": {
+  "@class": "sql-timestamp",
+  "$": "2026-03-31"
+ },
+ "motivoSituacao": "Retorno de efetivo",
+ "tipoMandato": "Efetivo",
+ "nomeServidor": "MACAÉ MARIA EVARISTO DOS SANTOS",
+ "naturalidadeMunicipio": "São Gonçalo do Pará",
+ "naturalidadeUf": "MG",
+ "dataNascimento": "03/04/1965",
+ "atividadeProfissional": "Professora",
+ "codigoSituacao": 1,
+ "partidoEleicao": "PT",
+ "emails": [
+  {
+   "tipo": "1",
+   "endereco": "dep.macae.evaristo"
+  }
+ ],
+ "vidaProfissionalPolitica": "Vereadora em seu primeiro mandato na Capital, foi eleita em 2022 para seu primeiro mandato na \r\n(ALMG. É professora desde os 19 anos, graduada em Serviço Social, mestre e doutoranda em educação. Foi a primeira mulher negra a ocupar os cargos de secretária municipal (2005 a 2012) em Belo Horizonte e estadual (2015 a 2018) de Educação. Em 2013 e 2014, foi titular da Secretaria de Educação Continuada, Alfabetização, Diversidade e Inclusão do Ministério da Educação (MEC). Coordenou programas como a implantação de Escolas Indígenas, a Escola Integral em Minas Gerais, a Escola Integrada em BH e as cotas para ingresso de estudantes de escolas públicas, negros e indígenas no ensino superior, quando esteve no MEC. Na ALMG, deve seguir defendendo a escola pública como espaço de pluralidade e convivência democrática, articulada com a assistência social, cultura e esporte, preservando-a contra ameaças de privatização e censura ao livre debate. Tem orgulho de sua ancestralidade e pretende seguir lutando contra o racismo estrutural e a favor de políticas públicas voltadas à diversidade e à inclusão das mulheres e das minorias.",
+ "atuacaoParlamentar": "Assume, em 2023, seu primeiro mandato na Assembleia Legislativa de Minas Gerais.",
+ "candidaturas": [
+  {
+   "legislatura": 20,
+   "numeroCandidato": 13130
+  }
+ ],
+ "filiacoes": [
+  {
+   "dataInicio": {
+    "@class": "sql-timestamp",
+    "$": "2022-10-02"
+   },
+   "dataTermino": {
+    "@class": "sql-timestamp",
+    "$": "2999-12-31"
+   },
+   "partido": {
+    "id": 13,
+    "sigla": "PT"
+   }
+  }
+ ],
+ "enderecos": [
+  {
+   "logradouro": "Rua Rodrigues Caldas",
+   "numero": "30",
+   "complemento": "Palácio da Inconfidência - 2º andar - conjunto 203",
+   "bairro": "Santo Agostinho",
+   "cep": "30190921",
+   "municipio": {
+    "nome": "Belo Horizonte",
+    "uf": "MG",
+    "codigoIbge9": 310620005
+   },
+   "descTipo": "Gabinete",
+   "telefones": [
+    {
+     "ddd": "31",
+     "numero": "21085997",
+     "fax": "S"
+    },
+    {
+     "ddd": "31",
+     "numero": "21085999",
+     "fax": "N"
+    }
+   ]
+  }
+ ],
+ "legislaturas": [
+  {
+   "numeroLegislatura": 20,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2023-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2027-01-31"
+   },
+   "tipoMandato": "Efetiva",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2023-02-01"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2024-09-10"
+     }
+    },
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2024-09-11"
+     },
+     "status": "Afastamento",
+     "motivo": "Ocupar cargo",
+     "complemento": "Ministra de Estado dos Direitos Humanos e Cidadania",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2026-03-30"
+     }
+    },
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2026-03-31"
+     },
+     "status": "Em exercício",
+     "motivo": "Retorno de efetivo",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2027-01-31"
+     }
+    }
+   ]
+  }
+ ],
+ "situacaoLegislaturas": "20&ordf; - 2023-2027- Efetiva<br/>de 01/02/2023 até 10/09/2024 (Em exercício em 01/02/2023) <br/>de 11/09/2024 até 30/03/2026 (Afastamento em 11/09/2024 - Ocupar cargo - Ministra de Estado dos Direitos Humanos e Cidadania) <br/>de 31/03/2026 até 31/01/2027 (Em exercício em 31/03/2026 - Retorno de efetivo) <br/><br />",
+ "partidosLegislatura": "PT    <br/>",
+ "anoEleicaoLegislatura": "2022",
+ "situacaoTerminoLegislatura": "Em exercício"
+}

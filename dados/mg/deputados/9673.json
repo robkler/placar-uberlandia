@@ -1,0 +1,372 @@
+{
+ "id": 9673,
+ "nome": "Sargento Rodrigues",
+ "partido": "PL",
+ "tagLocalizacao": 706,
+ "cargoRepresentacaoPartidaria": "Vice-Líder da Bancada PL",
+ "liderancas": [
+  {
+   "categoria": "BANCADA",
+   "cargo": "Vice-Líder",
+   "idRepresentacao": 89,
+   "nomeRepresentacao": "PL"
+  }
+ ],
+ "dataCargoRepresentacaoPartidaria": {
+  "@class": "sql-timestamp",
+  "$": "2026-02-02"
+ },
+ "sexo": "M",
+ "situacao": "Em exercício",
+ "inicioSituacao": {
+  "@class": "sql-timestamp",
+  "$": "2023-02-01"
+ },
+ "tipoMandato": "Efetivo",
+ "nomeServidor": "WASHINGTON FERNANDO RODRIGUES",
+ "naturalidadeMunicipio": "Medeiros Neto",
+ "naturalidadeUf": "BA",
+ "dataNascimento": "30/05/1964",
+ "apresentarEmail": "G",
+ "atividadeProfissional": "Advogado e bacharel em Comunicação Social (habilitação em produção editorial) e pós-graduado em Estudos de Criminalidade e Segurança Pública pela UFMG",
+ "codigoSituacao": 1,
+ "partidoEleicao": "PL",
+ "emails": [
+  {
+   "tipo": "1",
+   "endereco": "dep.sargento.rodrigues"
+  }
+ ],
+ "vidaProfissionalPolitica": "Washington Fernando Rodrigues, mais conhecido como Sargento Rodrigues, é um policial militar e político brasileiro do estado de Minas Gerais, filiado ao PTB. Atualmente exerce o mandato de deputado estadual em Minas Gerais. Nasceu em Itupeva, distrito de Medeiros Neto, no dia 30 de maio de 1964.\n\nExerce o sexto mandato consecutivo como Deputado Estadual em Minas Gerais. Foi eleito a primeira vez em 1998, pelo PL. Foi reeleito em 2002, 2006, 2010 e 2014, pelo PDT. Em 2018, foi reeleito para o sexto mandato, pelo PTB, sendo o segundo deputado estadual mais bem votado em Minas Gerais, com 123.648 votos.\n\nBacharel em Direito pelo Centro Universitário Una (2011) e Comunicação Social pelo Centro Universitário Uni-BH (2004). Pós-graduado em Estudos de Criminalidade e Segurança Pública, pela Universidade Federal de Minas Gerais, e em Gestão Pública, pela Fundação João Pinheiro (2018).\r\n\r\nRodrigues também foi membro do Conselho Estadual Anti-Drogas - Conead, nos anos de 2001, 2002 e 2003, e do Conselho de Defesa Social de Minas Gerais, em 2003 e 2004.\r\n\r\n\n\nA família mudou-se para Belo Horizonte em 1968, quando, aos 4 anos de idade, Rodrigues tornou-se órfão de pai. Oriundo de uma família humilde, começou a trabalhar aos 13 anos como vendedor ambulante de jornal e, aos 15, trabalhou como auxiliar de produção da Ranel Bijouterias. Com 16 anos, foi vigilante mirim do Centro Salesiano do Menor - CESAM e, aos 18, office boy e auxiliar de tesouraria na Cisa Veículos.\n\nIngressou na carreira policial militar aos 20 anos, como soldado no Batalhão de Trânsito, onde permaneceu por três anos. Após ter sido aprovado no concurso para Cabo, foi transferido para o 5º Batalhão, no qual obteve o primeiro certificado de destaque operacional de sua carreira de policial militar. Devido ao empenho no exercício da profissão, foi transferido para o antigo Batalhão de Choque, para atuar na Companhia ROTAM. Em 1989, foi para a Academia de Polícia Militar e, em julho do mesmo ano, se formou Sargento, permanecendo na ROTAM até 1993. Nesse ano, passou a trabalhar no COPOM - Central de Operações da Polícia Militar, como operador de rádio. Em junho de 1997, voltou para o 5º BPM, no radiopatrulhamento.\r\n\r\nNo dia 13 de junho de 1997, a Polícia Militar mineira saiu às ruas para reivindicar seus direitos, fato este que se tornou parte da história de Minas. O Movimento nasceu do sofrimento vivido pelos policiais que clamavam por justiça e igualdade. O Sargento Rodrigues, um dos líderes de Movimento, foi aclamado pelas praças, na Praça da Liberdade, para fazer parte da Comissão de Negociação e se destacou pela coragem e determinação em defender os interesses da classe. Por liderar esse movimento histórico, foi expulso da PMMG, juntamente com outros 185 companheiros.\r\n\r\n\n\nAntes mesmo do Movimento de 1997, Rodrigues já se interessava pela carreira política, por acreditar que era a única forma de lutar contra as injustiças e por melhores condições de trabalho para os militares mineiros, sem ser perseguido e tolhido por superiores. Munido por esse sonho, candidatou-se a vereador em Belo Horizonte no ano de 1996, pelo PMN. Obteve 2.674 votos, ficando como primeiro suplente. Já naquela época, apesar do anonimato, Rodrigues foi o policial mais votado do Estado. Em 1998, desempregado, mas já conhecido como Líder do Movimento Reivindicatório das Praças da PMMG, candidatou-se a Deputado Estadual pelo PL e foi eleito pela primeira vez.",
+ "atuacaoParlamentar": "Assume, em 2023, seu sétimo mandato consecutivo na Assembleia Legislativa de Minas Gerais, onde ingressou em 1999. Em legislaturas anteriores, presidiu por cinco vezes a Comissão de Segurança Pública. Desde as eleições de 1998 tem sido o deputado estadual votado no maior número de municípios: em 1998, foram 801; em 2002, 841; em 2006, 837; em 2010, 844; em 2014, 846 e, em 2018, obteve votos em 852 dos 853 municípios mineiros.\r\n\r\nPrimeiro mandato (14ª Legislatura 1998 a 2001) - Em 1998, já conhecido como Líder do Movimento Reivindicatório das Praças da PMMG, candidatou-se a Deputado Estadual pelo PL e foi eleito com 74.594 votos, consagrando-se o segundo deputado mais bem votado do Estado.\n\n Segundo mandato (15ª Legislatura 2002 a 2006) - Em 2002, foi reeleito pelo PDT, com 78.183 votos. No biênio 2003/2004, presidiu a Comissão de Segurança Pública da Assembleia Legislativa de Minas Gerais, da qual também foi membro efetivo nos anos de 2005 e 2006. Sargento Rodrigues também fez parte da Comissão de Administração Pública. Rodrigues também foi membro do Conselho Estadual Anti-Drogas - CONEAD, nos anos de 2001, 2002 e 2003, e do Conselho de Defesa Social de Minas Gerais, em 2003 e 2004. Terceiro mandato (16ª Legislatura 2006 a 2009) - Em 2006, foi reeleito pelo PDT, com 66.941 votos. Foi 3º Secretário da Assembleia Legislativa. No biênio 2007/2008, presidiu pela segunda vez a Comissão de Segurança Pública e foi membro efetivo da Comissão de Constituição e Justiça. \n\nQuarto mandato - Em 2010, foi reeleito pelo PDT, com 94.312 votos. Atuou como Líder da Bancada do PDT e foi presidente da Executiva Municipal do partido, além de membro efetivo das Comissões de Segurança Pública e de Direitos Humanos. \n\nQuinto mandato - Em 2014, foi reeleito pelo PDT, com 98.841 votos. Foi novamente presidente da Comissão de Segurança Pública da ALMG e presidente do Partido Democrático Trabalhista de Belo Horizonte (PDT-BH).\n\n Sexto mandato - Em 2018, foi reeleito pelo PTB, com 123.648 votos, consagrando-se o segundo deputado mais bem votado do Estado. Em 2022, foi novamente eleito, dessa vez pelo PL, com 76.039 votos.",
+ "candidaturas": [
+  {
+   "legislatura": 14,
+   "numeroCandidato": 22213
+  },
+  {
+   "legislatura": 15,
+   "numeroCandidato": 12312
+  },
+  {
+   "legislatura": 16,
+   "numeroCandidato": 12312
+  },
+  {
+   "legislatura": 17,
+   "numeroCandidato": 12312
+  },
+  {
+   "legislatura": 18,
+   "numeroCandidato": 12312
+  },
+  {
+   "legislatura": 19,
+   "numeroCandidato": 14123
+  },
+  {
+   "legislatura": 20,
+   "numeroCandidato": 22122
+  }
+ ],
+ "filiacoes": [
+  {
+   "dataInicio": {
+    "@class": "sql-timestamp",
+    "$": "1998-10-03"
+   },
+   "dataTermino": {
+    "@class": "sql-timestamp",
+    "$": "2000-07-06"
+   },
+   "partido": {
+    "id": 22,
+    "sigla": "PL"
+   }
+  },
+  {
+   "dataInicio": {
+    "@class": "sql-timestamp",
+    "$": "2000-07-07"
+   },
+   "dataTermino": {
+    "@class": "sql-timestamp",
+    "$": "2001-10-08"
+   },
+   "partido": {
+    "id": 40,
+    "sigla": "PSB"
+   }
+  },
+  {
+   "dataInicio": {
+    "@class": "sql-timestamp",
+    "$": "2001-10-09"
+   },
+   "dataTermino": {
+    "@class": "sql-timestamp",
+    "$": "2018-03-27"
+   },
+   "partido": {
+    "id": 12,
+    "sigla": "PDT"
+   }
+  },
+  {
+   "dataInicio": {
+    "@class": "sql-timestamp",
+    "$": "2018-03-28"
+   },
+   "dataTermino": {
+    "@class": "sql-timestamp",
+    "$": "2022-03-30"
+   },
+   "partido": {
+    "id": 14,
+    "sigla": "PTB"
+   }
+  },
+  {
+   "dataInicio": {
+    "@class": "sql-timestamp",
+    "$": "2022-03-31"
+   },
+   "dataTermino": {
+    "@class": "sql-timestamp",
+    "$": "2999-12-31"
+   },
+   "partido": {
+    "id": 89,
+    "sigla": "PL"
+   }
+  }
+ ],
+ "enderecos": [
+  {
+   "logradouro": "Rua Rodrigues Caldas",
+   "numero": "79",
+   "complemento": "Edifício Tiradentes - 5º andar - sala 1",
+   "bairro": "Santo Agostinho",
+   "cep": "30190120",
+   "municipio": {
+    "nome": "Belo Horizonte",
+    "uf": "MG",
+    "codigoIbge9": 310620005
+   },
+   "descTipo": "Gabinete",
+   "telefones": [
+    {
+     "ddd": "31",
+     "numero": "21085200",
+     "fax": "N"
+    }
+   ]
+  },
+  {
+   "logradouro": "Rua Rodrigues Caldas",
+   "numero": "79",
+   "complemento": "Edifício Tiradentes - 5º andar - sala  1",
+   "bairro": "Santo Agostinho",
+   "cep": "30190120",
+   "municipio": {
+    "nome": "Belo Horizonte",
+    "uf": "MG",
+    "codigoIbge9": 310620005
+   },
+   "descTipo": "Escritório Político",
+   "telefones": [
+    {
+     "ddd": "31",
+     "numero": "21085200",
+     "fax": "N"
+    },
+    {
+     "ddd": "31",
+     "numero": "21085201",
+     "fax": "S"
+    }
+   ]
+  }
+ ],
+ "legislaturas": [
+  {
+   "numeroLegislatura": 14,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "1999-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2003-01-31"
+   },
+   "tipoMandato": "Efetivo",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "1999-02-01"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2003-01-31"
+     }
+    }
+   ]
+  },
+  {
+   "numeroLegislatura": 15,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2003-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2007-01-31"
+   },
+   "tipoMandato": "Efetivo",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2003-02-01"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2007-01-31"
+     }
+    }
+   ]
+  },
+  {
+   "numeroLegislatura": 16,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2007-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2011-01-31"
+   },
+   "tipoMandato": "Efetivo",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2007-02-01"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2011-01-31"
+     }
+    }
+   ]
+  },
+  {
+   "numeroLegislatura": 17,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2011-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2015-01-31"
+   },
+   "tipoMandato": "Efetivo",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2011-02-01"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2015-01-31"
+     }
+    }
+   ]
+  },
+  {
+   "numeroLegislatura": 18,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2015-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2019-01-31"
+   },
+   "tipoMandato": "Efetivo",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2015-02-01"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2019-01-31"
+     }
+    }
+   ]
+  },
+  {
+   "numeroLegislatura": 19,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2019-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2023-01-31"
+   },
+   "tipoMandato": "Efetivo",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2019-02-01"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2023-01-31"
+     }
+    }
+   ]
+  },
+  {
+   "numeroLegislatura": 20,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2023-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2027-01-31"
+   },
+   "tipoMandato": "Efetivo",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2023-02-01"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2027-01-31"
+     }
+    }
+   ]
+  }
+ ],
+ "situacaoLegislaturas": "14&ordf; - 1999-2003- Efetivo<br/>de 01/02/1999 até 31/01/2003 (Em exercício em 01/02/1999) <br/><br />15&ordf; - 2003-2007- Efetivo<br/>de 01/02/2003 até 31/01/2007 (Em exercício em 01/02/2003) <br/><br />16&ordf; - 2007-2011- Efetivo<br/>de 01/02/2007 até 31/01/2011 (Em exercício em 01/02/2007) <br/><br />17&ordf; - 2011-2015- Efetivo<br/>de 01/02/2011 até 31/01/2015 (Em exercício em 01/02/2011) <br/><br />18&ordf; - 2015-2019- Efetivo<br/>de 01/02/2015 até 31/01/2019 (Em exercício em 01/02/2015) <br/><br />19&ordf; - 2019-2023- Efetivo<br/>de 01/02/2019 até 31/01/2023 (Em exercício em 01/02/2019) <br/><br />20&ordf; - 2023-2027- Efetivo<br/>de 01/02/2023 até 31/01/2027 (Em exercício em 01/02/2023) <br/><br />",
+ "partidosLegislatura": "PL    <br/>",
+ "anoEleicaoLegislatura": "2022",
+ "situacaoTerminoLegislatura": "Em exercício"
+}

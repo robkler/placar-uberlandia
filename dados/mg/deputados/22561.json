@@ -1,0 +1,206 @@
+{
+ "id": 22561,
+ "nome": "João Magalhães",
+ "partido": "PSD",
+ "tagLocalizacao": 1682,
+ "cargoRepresentacaoPartidaria": "Líder do Governo",
+ "liderancas": [
+  {
+   "categoria": "GOVERNO",
+   "cargo": "Líder",
+   "nomeRepresentacao": "Liderança do Governo"
+  }
+ ],
+ "dataCargoRepresentacaoPartidaria": {
+  "@class": "sql-timestamp",
+  "$": "2023-08-08"
+ },
+ "sexo": "M",
+ "situacao": "Em exercício",
+ "inicioSituacao": {
+  "@class": "sql-timestamp",
+  "$": "2023-02-01"
+ },
+ "tipoMandato": "Efetivo",
+ "nomeServidor": "JOÃO LÚCIO MAGALHÃES BIFANO",
+ "naturalidadeMunicipio": "Matipó",
+ "naturalidadeUf": "MG",
+ "dataNascimento": "6/2/1960",
+ "atividadeProfissional": "Pecuarista e cafeicultor",
+ "codigoSituacao": 1,
+ "partidoEleicao": "MDB",
+ "emails": [
+  {
+   "tipo": "1",
+   "endereco": "dep.joao.magalhaes"
+  }
+ ],
+ "vidaProfissionalPolitica": "Cumpriu cinco mandatos consecutivos como deputado federal. No primeiro deles, assumiu como suplente, em 1996, e foi efetivado em janeiro de 1997. Na Câmara dos Deputados, foi presidente da Comissão Permanente de Finanças e Tributação, 1º-vice-presidente da Comissão de Finanças e Tributação, 1º-vice-presidente da Comissão Fiscalização Financeira e Controle e também 1º-vice-presidente da Comissão Externa de Subnutrição de Crianças Indígenas. Estudou Engenharia, sem concluir o curso, na Universidade Santos Dumont, em Governador Valadares. Em 2013, concluiu o curso superior de Processos Gerenciais/ Administração na Unopar.",
+ "atuacaoParlamentar": "Assume, em 2023, seu terceiro mandato consecutivo na Assembleia Legislativa de Minas Gerais. Nas legislaturas anteriores, presidiu a Comissão de Administração Pública.",
+ "candidaturas": [
+  {
+   "legislatura": 18,
+   "numeroCandidato": 15133
+  },
+  {
+   "legislatura": 19,
+   "numeroCandidato": 15133
+  },
+  {
+   "legislatura": 20,
+   "numeroCandidato": 15133
+  }
+ ],
+ "filiacoes": [
+  {
+   "dataInicio": {
+    "@class": "sql-timestamp",
+    "$": "2015-02-01"
+   },
+   "dataTermino": {
+    "@class": "sql-timestamp",
+    "$": "2018-05-14"
+   },
+   "partido": {
+    "id": 15,
+    "sigla": "PMDB"
+   }
+  },
+  {
+   "dataInicio": {
+    "@class": "sql-timestamp",
+    "$": "2018-05-15"
+   },
+   "dataTermino": {
+    "@class": "sql-timestamp",
+    "$": "2026-03-22"
+   },
+   "partido": {
+    "id": 72,
+    "sigla": "MDB"
+   }
+  },
+  {
+   "dataInicio": {
+    "@class": "sql-timestamp",
+    "$": "2026-03-23"
+   },
+   "dataTermino": {
+    "@class": "sql-timestamp",
+    "$": "2999-12-31"
+   },
+   "partido": {
+    "id": 41,
+    "sigla": "PSD"
+   }
+  }
+ ],
+ "enderecos": [
+  {
+   "logradouro": "Rua Rodrigues Caldas",
+   "numero": "30",
+   "complemento": "Palácio da Inconfidência - 2º andar - conjunto 243",
+   "bairro": "Santo Agostinho",
+   "cep": "30190921",
+   "municipio": {
+    "nome": "Belo Horizonte",
+    "uf": "MG",
+    "codigoIbge9": 310620005
+   },
+   "descTipo": "Gabinete",
+   "telefones": [
+    {
+     "ddd": "31",
+     "numero": "21085220",
+     "fax": "N"
+    },
+    {
+     "ddd": "31",
+     "numero": "21085222",
+     "fax": "S"
+    }
+   ]
+  }
+ ],
+ "legislaturas": [
+  {
+   "numeroLegislatura": 18,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2015-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2019-01-31"
+   },
+   "tipoMandato": "Efetivo",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2015-02-01"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2019-01-31"
+     }
+    }
+   ]
+  },
+  {
+   "numeroLegislatura": 19,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2019-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2023-01-31"
+   },
+   "tipoMandato": "Efetivo",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2019-02-01"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2023-01-31"
+     }
+    }
+   ]
+  },
+  {
+   "numeroLegislatura": 20,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2023-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2027-01-31"
+   },
+   "tipoMandato": "Efetivo",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2023-02-01"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2027-01-31"
+     }
+    }
+   ]
+  }
+ ],
+ "situacaoLegislaturas": "18&ordf; - 2015-2019- Efetivo<br/>de 01/02/2015 até 31/01/2019 (Em exercício em 01/02/2015) <br/><br />19&ordf; - 2019-2023- Efetivo<br/>de 01/02/2019 até 31/01/2023 (Em exercício em 01/02/2019) <br/><br />20&ordf; - 2023-2027- Efetivo<br/>de 01/02/2023 até 31/01/2027 (Em exercício em 01/02/2023) <br/><br />",
+ "partidosLegislatura": "MDB   até 22/03/2026<br/>PSD desde 23/03/2026  <br/>",
+ "anoEleicaoLegislatura": "2022",
+ "situacaoTerminoLegislatura": "Em exercício"
+}

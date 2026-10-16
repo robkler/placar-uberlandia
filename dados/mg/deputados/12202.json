@@ -1,0 +1,371 @@
+{
+ "id": 12202,
+ "nome": "Gustavo Valadares",
+ "partido": "PSD",
+ "tagLocalizacao": 684,
+ "sexo": "M",
+ "situacao": "Em exercício",
+ "inicioSituacao": {
+  "@class": "sql-timestamp",
+  "$": "2025-02-17"
+ },
+ "tipoMandato": "Efetivo",
+ "nomeServidor": "GUSTAVO DA CUNHA PEREIRA VALADARES",
+ "naturalidadeMunicipio": "Belo Horizonte",
+ "naturalidadeUf": "MG",
+ "dataNascimento": "30/08/1977",
+ "apresentarEmail": "G",
+ "atividadeProfissional": "Bacharel em Direito e empresário",
+ "codigoSituacao": 1,
+ "partidoEleicao": "PMN",
+ "emails": [
+  {
+   "tipo": "1",
+   "endereco": "dep.gustavo.valadares"
+  }
+ ],
+ "vidaProfissionalPolitica": "Bacharel em Direito pela PUC Minas, é natural de Belo Horizonte e filho do ex-deputado Ziza Valadares. As principais regiões de atuação política são Central, os Vales do Rio Doce, Jequitinhonha e Mucuri, Centro-Oeste e Zona da Mata. Os municípios de maior votação foram Sabará, Belo Horizonte, Guanhães, Capelinha, Ouro Verde de Minas, São João Evangelista, São Sebastião do Maranhão, Campos Gerais, Rio Vermelho, Caeté e Peçanha.",
+ "atuacaoParlamentar": "Atualmente exerce seu sexto mandato consecutivo na Assembleia. Em 2002, quando conquistou seu primeiro mandato, foi o mais jovem deputado estadual eleito. Foi líder do Governo entre 2020/2023. Em julho de 2023, foi convidado pelo governador Romeu Zema para ocupar a Secretaria de Estado de Governo, onde permaneceu até fevereiro de 2025. Em 2019, presidiu a CPI da Barragem de Brumadinho, que apurou o rompimento da Barragem do Córrego de Feijão, ocorrido em 25 de janeiro daquele ano. Durante seus mandatos, ocupou diversos cargos de liderança e presidência de Comissões. Na 18ª legislatura, foi líder da oposição.",
+ "candidaturas": [
+  {
+   "legislatura": 15,
+   "numeroCandidato": 28123
+  },
+  {
+   "legislatura": 16,
+   "numeroCandidato": 25464
+  },
+  {
+   "legislatura": 17,
+   "numeroCandidato": 25464
+  },
+  {
+   "legislatura": 18,
+   "numeroCandidato": 45678
+  },
+  {
+   "legislatura": 19,
+   "numeroCandidato": 45678
+  },
+  {
+   "legislatura": 20,
+   "numeroCandidato": 33333
+  }
+ ],
+ "filiacoes": [
+  {
+   "dataInicio": {
+    "@class": "sql-timestamp",
+    "$": "2002-10-06"
+   },
+   "dataTermino": {
+    "@class": "sql-timestamp",
+    "$": "2003-06-30"
+   },
+   "partido": {
+    "id": 28,
+    "sigla": "PRTB"
+   }
+  },
+  {
+   "dataInicio": {
+    "@class": "sql-timestamp",
+    "$": "2003-07-01"
+   },
+   "dataTermino": {
+    "@class": "sql-timestamp",
+    "$": "2007-03-27"
+   },
+   "partido": {
+    "id": 25,
+    "sigla": "PFL"
+   }
+  },
+  {
+   "dataInicio": {
+    "@class": "sql-timestamp",
+    "$": "2007-03-28"
+   },
+   "dataTermino": {
+    "@class": "sql-timestamp",
+    "$": "2011-11-23"
+   },
+   "partido": {
+    "id": 91,
+    "sigla": "DEM"
+   }
+  },
+  {
+   "dataInicio": {
+    "@class": "sql-timestamp",
+    "$": "2011-11-24"
+   },
+   "dataTermino": {
+    "@class": "sql-timestamp",
+    "$": "2013-10-01"
+   },
+   "partido": {
+    "id": 41,
+    "sigla": "PSD"
+   }
+  },
+  {
+   "dataInicio": {
+    "@class": "sql-timestamp",
+    "$": "2013-10-02"
+   },
+   "dataTermino": {
+    "@class": "sql-timestamp",
+    "$": "2013-10-02"
+   },
+   "partido": {
+    "id": 1,
+    "sigla": "SEMPARTIDO"
+   }
+  },
+  {
+   "dataInicio": {
+    "@class": "sql-timestamp",
+    "$": "2013-10-03"
+   },
+   "dataTermino": {
+    "@class": "sql-timestamp",
+    "$": "2022-04-25"
+   },
+   "partido": {
+    "id": 45,
+    "sigla": "PSDB"
+   }
+  },
+  {
+   "dataInicio": {
+    "@class": "sql-timestamp",
+    "$": "2022-04-26"
+   },
+   "dataTermino": {
+    "@class": "sql-timestamp",
+    "$": "2025-09-14"
+   },
+   "partido": {
+    "id": 33,
+    "sigla": "PMN"
+   }
+  },
+  {
+   "dataInicio": {
+    "@class": "sql-timestamp",
+    "$": "2025-09-15"
+   },
+   "dataTermino": {
+    "@class": "sql-timestamp",
+    "$": "2999-12-31"
+   },
+   "partido": {
+    "id": 41,
+    "sigla": "PSD"
+   }
+  }
+ ],
+ "enderecos": [
+  {
+   "logradouro": "Rua Rodrigues Caldas",
+   "numero": "30",
+   "complemento": "Palácio da Inconfidência - 2º andar - conjunto 232",
+   "bairro": "Santo Agostinho",
+   "cep": "30190921",
+   "municipio": {
+    "nome": "Belo Horizonte",
+    "uf": "MG",
+    "codigoIbge9": 310620005
+   },
+   "descTipo": "Gabinete",
+   "telefones": [
+    {
+     "ddd": "31",
+     "numero": "21085330",
+     "fax": "N"
+    }
+   ]
+  }
+ ],
+ "legislaturas": [
+  {
+   "numeroLegislatura": 15,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2003-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2007-01-31"
+   },
+   "tipoMandato": "Efetivo",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2003-02-01"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2007-01-31"
+     }
+    }
+   ]
+  },
+  {
+   "numeroLegislatura": 16,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2007-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2011-01-31"
+   },
+   "tipoMandato": "Efetivo",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2007-02-01"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2011-01-31"
+     }
+    }
+   ]
+  },
+  {
+   "numeroLegislatura": 17,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2011-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2015-01-31"
+   },
+   "tipoMandato": "Efetivo",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2011-02-01"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2015-01-31"
+     }
+    }
+   ]
+  },
+  {
+   "numeroLegislatura": 18,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2015-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2019-01-31"
+   },
+   "tipoMandato": "Efetivo",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2015-02-01"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2019-01-31"
+     }
+    }
+   ]
+  },
+  {
+   "numeroLegislatura": 19,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2019-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2023-01-31"
+   },
+   "tipoMandato": "Efetivo",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2019-02-01"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2023-01-31"
+     }
+    }
+   ]
+  },
+  {
+   "numeroLegislatura": 20,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2023-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2027-01-31"
+   },
+   "tipoMandato": "Efetivo",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2023-02-01"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2023-07-10"
+     }
+    },
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2023-07-11"
+     },
+     "status": "Afastamento",
+     "motivo": "Ocupar cargo",
+     "complemento": "Secretário de Estado de Governo.",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2025-02-16"
+     }
+    },
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2025-02-17"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2027-01-31"
+     }
+    }
+   ]
+  }
+ ],
+ "situacaoLegislaturas": "15&ordf; - 2003-2007- Efetivo<br/>de 01/02/2003 até 31/01/2007 (Em exercício em 01/02/2003) <br/><br />16&ordf; - 2007-2011- Efetivo<br/>de 01/02/2007 até 31/01/2011 (Em exercício em 01/02/2007) <br/><br />17&ordf; - 2011-2015- Efetivo<br/>de 01/02/2011 até 31/01/2015 (Em exercício em 01/02/2011) <br/><br />18&ordf; - 2015-2019- Efetivo<br/>de 01/02/2015 até 31/01/2019 (Em exercício em 01/02/2015) <br/><br />19&ordf; - 2019-2023- Efetivo<br/>de 01/02/2019 até 31/01/2023 (Em exercício em 01/02/2019) <br/><br />20&ordf; - 2023-2027- Efetivo<br/>de 01/02/2023 até 10/07/2023 (Em exercício em 01/02/2023) <br/>de 11/07/2023 até 16/02/2025 (Afastamento em 11/07/2023 - Ocupar cargo - Secretário de Estado de Governo.) <br/>de 17/02/2025 até 31/01/2027 (Em exercício em 17/02/2025) <br/><br />",
+ "partidosLegislatura": "PMN   até 14/09/2025<br/>PSD desde 15/09/2025  <br/>",
+ "anoEleicaoLegislatura": "2022",
+ "situacaoTerminoLegislatura": "Em exercício"
+}

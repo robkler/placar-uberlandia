@@ -1,0 +1,109 @@
+{
+ "id": 12552,
+ "nome": "Leleco Pimentel",
+ "partido": "PT",
+ "tagLocalizacao": 5961,
+ "sexo": "M",
+ "situacao": "Em exercício",
+ "inicioSituacao": {
+  "@class": "sql-timestamp",
+  "$": "2023-02-01"
+ },
+ "tipoMandato": "Efetivo",
+ "nomeServidor": "WHELTON PIMENTEL DE FREITAS",
+ "naturalidadeMunicipio": "Guaraciaba",
+ "naturalidadeUf": "MG",
+ "dataNascimento": "10/02/1981",
+ "apresentarEmail": "G",
+ "codigoSituacao": 1,
+ "partidoEleicao": "PT",
+ "emails": [
+  {
+   "tipo": "1",
+   "endereco": "dep.leleco.pimentel"
+  }
+ ],
+ "vidaProfissionalPolitica": "Historiador, educador popular, cientista político e músico. Iniciou sua militância na Pastoral da Juventude e participa de diversas organizações políticas e sociais. É membro da Comissão para o Meio Ambiente da Província Eclesiástica de Mariana e do Fórum Permanente em Defesa da Bacia do Rio Doce. Compõe as coordenações da Escola de Fé e Política Dom Luciano, da União Nacional por Moradia Popular e da Rede Igrejas e Mineração. Trabalhou como Diretor de Habitação e Desenvolvimento Social na Prefeitura de Ouro Preto, atuou como conselheiro estadual de Desenvolvimento Regional e Políticas Urbanas e, ao mesmo tempo, como conselheiro nacional da Cidades. Colaborou também na Secretaria de Patrimônio da União, atuando na identificação e destinação de terrenos para a construção de moradias em diversos municípios de Minas Gerais e na elaboração de propostas em âmbito federal que resultaram no lançamento do Programa Minha Casa, Minha Vida. Defende pautas como organização comunitária, segurança alimentar, agricultura familiar e agroecologia, direitos humanos e direito à cidade.",
+ "atuacaoParlamentar": "Assume, em 2023, seu primeiro mandato na Assembleia Legislativa de Minas Gerais.",
+ "condecoracao": "Medalha Comemorativa do Dia do Estado de Minas Gerais; Cidadão Honorário de Conselheiro Lafaiete e de Mariana.",
+ "candidaturas": [
+  {
+   "legislatura": 20,
+   "numeroCandidato": 13579
+  }
+ ],
+ "filiacoes": [
+  {
+   "dataInicio": {
+    "@class": "sql-timestamp",
+    "$": "2022-10-02"
+   },
+   "dataTermino": {
+    "@class": "sql-timestamp",
+    "$": "2999-12-31"
+   },
+   "partido": {
+    "id": 13,
+    "sigla": "PT"
+   }
+  }
+ ],
+ "enderecos": [
+  {
+   "logradouro": "Rua Rodrigues Caldas",
+   "numero": "30",
+   "complemento": "Palácio da Inconfidência - 2ºandar - conjunto 214",
+   "bairro": "Santo Agostinho",
+   "cep": "30190921",
+   "municipio": {
+    "nome": "Belo Horizonte",
+    "uf": "MG",
+    "codigoIbge9": 310620005
+   },
+   "descTipo": "Gabinete",
+   "telefones": [
+    {
+     "ddd": "31",
+     "numero": "21085155",
+     "fax": "N"
+    },
+    {
+     "ddd": "31",
+     "numero": "21085160",
+     "fax": "S"
+    }
+   ]
+  }
+ ],
+ "legislaturas": [
+  {
+   "numeroLegislatura": 20,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2023-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2027-01-31"
+   },
+   "tipoMandato": "Efetivo",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2023-02-01"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2027-01-31"
+     }
+    }
+   ]
+  }
+ ],
+ "situacaoLegislaturas": "20&ordf; - 2023-2027- Efetivo<br/>de 01/02/2023 até 31/01/2027 (Em exercício em 01/02/2023) <br/><br />",
+ "partidosLegislatura": "PT    <br/>",
+ "anoEleicaoLegislatura": "2022",
+ "situacaoTerminoLegislatura": "Em exercício"
+}

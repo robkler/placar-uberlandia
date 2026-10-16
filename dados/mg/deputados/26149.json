@@ -1,0 +1,151 @@
+{
+ "id": 26149,
+ "nome": "Coronel Henrique",
+ "partido": "PL",
+ "tagLocalizacao": 3904,
+ "sexo": "M",
+ "situacao": "Em exercício",
+ "inicioSituacao": {
+  "@class": "sql-timestamp",
+  "$": "2023-02-01"
+ },
+ "tipoMandato": "Efetivo",
+ "nomeServidor": "CARLOS HENRIQUE COELHO DE CAMPOS",
+ "naturalidadeMunicipio": "Barbacena",
+ "naturalidadeUf": "MG",
+ "dataNascimento": "11/7/1968",
+ "atividadeProfissional": "Coronel do Exército Brasileiro",
+ "codigoSituacao": 1,
+ "partidoEleicao": "PL",
+ "emails": [
+  {
+   "tipo": "1",
+   "endereco": "dep.coronel.henrique"
+  }
+ ],
+ "vidaProfissionalPolitica": "Atuou durante 23 anos na Academia Militar das Agulhas Negras, localizada em Resende (RJ). É graduado em Medicina Veterinária pela Universidade Federal de Minas Gerais (UFMG), com mestrado na mesma instituição, doutorado na Universidade Federal Rural do Rio de Janeiro (UFRRJ) e pós-doutorado pela Universidade Federal de Viçosa (UFV). É professor e, durante a campanha para deputado estadual, defendeu o resgate dos valores da família e da Pátria na educação. Também propõe a implementação de políticas públicas que viabilizem a ampliação das escolas militares em Minas Gerais e integração com a rede pública de ensino. Além disso, defende a adoção de políticas públicas de saúde única, que engloba a saúde humana, animal e ambiental, com enfoque na proteção animal e nas cadeias produtivas da agropecuária.",
+ "atuacaoParlamentar": "Assume, em 2023, seu segundo mandato consecutivo na Assembleia Legislativa de Minas Gerais. Na 19ª Legislatura, foi vice-presidente da Comissão de Agropecuária e Agroindústria e membro da Comissão de Esporte, Lazer e Juventude. Atuou também em duas comissões extraordinárias: das Energias Renováveis e dos Recursos Hídricos; e Pró-Ferrovias Mineiras.",
+ "candidaturas": [
+  {
+   "legislatura": 19,
+   "numeroCandidato": 17500
+  },
+  {
+   "legislatura": 20,
+   "numeroCandidato": 22500
+  }
+ ],
+ "filiacoes": [
+  {
+   "dataInicio": {
+    "@class": "sql-timestamp",
+    "$": "2018-10-07"
+   },
+   "dataTermino": {
+    "@class": "sql-timestamp",
+    "$": "2022-03-03"
+   },
+   "partido": {
+    "id": 17,
+    "sigla": "PSL"
+   }
+  },
+  {
+   "dataInicio": {
+    "@class": "sql-timestamp",
+    "$": "2022-03-04"
+   },
+   "dataTermino": {
+    "@class": "sql-timestamp",
+    "$": "2999-12-31"
+   },
+   "partido": {
+    "id": 89,
+    "sigla": "PL"
+   }
+  }
+ ],
+ "enderecos": [
+  {
+   "logradouro": "Rua Rodrigues Caldas",
+   "numero": "79",
+   "complemento": "Edifício Tiradentes - 20º andar  - Sala 01",
+   "bairro": "Santo Agostinho",
+   "cep": "30190120",
+   "municipio": {
+    "nome": "Belo Horizonte",
+    "uf": "MG",
+    "codigoIbge9": 310620005
+   },
+   "descTipo": "Gabinete",
+   "telefones": [
+    {
+     "ddd": "31",
+     "numero": "21085436",
+     "fax": "N"
+    },
+    {
+     "ddd": "31",
+     "numero": "21085543",
+     "fax": "S"
+    }
+   ]
+  }
+ ],
+ "legislaturas": [
+  {
+   "numeroLegislatura": 19,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2019-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2023-01-31"
+   },
+   "tipoMandato": "Efetivo",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2019-02-01"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2023-01-31"
+     }
+    }
+   ]
+  },
+  {
+   "numeroLegislatura": 20,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2023-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2027-01-31"
+   },
+   "tipoMandato": "Efetivo",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2023-02-01"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2027-01-31"
+     }
+    }
+   ]
+  }
+ ],
+ "situacaoLegislaturas": "19&ordf; - 2019-2023- Efetivo<br/>de 01/02/2019 até 31/01/2023 (Em exercício em 01/02/2019) <br/><br />20&ordf; - 2023-2027- Efetivo<br/>de 01/02/2023 até 31/01/2027 (Em exercício em 01/02/2023) <br/><br />",
+ "partidosLegislatura": "PL    <br/>",
+ "anoEleicaoLegislatura": "2022",
+ "situacaoTerminoLegislatura": "Em exercício"
+}

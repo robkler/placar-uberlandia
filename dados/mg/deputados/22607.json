@@ -1,0 +1,234 @@
+{
+ "id": 22607,
+ "nome": "Roberto Andrade",
+ "partido": "PRD",
+ "tagLocalizacao": 1690,
+ "cargoRepresentacaoPartidaria": "Líder da da Maioria",
+ "liderancas": [
+  {
+   "categoria": "MAIORIA",
+   "cargo": "Líder",
+   "nomeRepresentacao": "Liderança da Maioria"
+  }
+ ],
+ "dataCargoRepresentacaoPartidaria": {
+  "@class": "sql-timestamp",
+  "$": "2026-02-25"
+ },
+ "sexo": "M",
+ "situacao": "Em exercício",
+ "inicioSituacao": {
+  "@class": "sql-timestamp",
+  "$": "2023-02-01"
+ },
+ "tipoMandato": "Efetivo",
+ "nomeServidor": "ROBERTO DIAS DE ANDRADE",
+ "naturalidadeMunicipio": "Viçosa",
+ "naturalidadeUf": "MG",
+ "dataNascimento": "27/03/1958",
+ "atividadeProfissional": "Oficial do Registro de Imóveis de Viçosa",
+ "codigoSituacao": 1,
+ "partidoEleicao": "AVANTE",
+ "emails": [
+  {
+   "tipo": "1",
+   "endereco": "dep.roberto.andrade"
+  }
+ ],
+ "vidaProfissionalPolitica": "Foi presidente, por três mandatos consecutivos (2007 a 2018), da Serjus-Anoreg/MG, entidade que congrega os mais de 3 mil cartórios mineiros do serviço extrajudicial. Natural de Viçosa. É empresário do ramo da construção civil e membro do Conselho Consultivo da Fundação CDL/MG. Foi presidente, por dois mandatos, da Associação Comercial de Viçosa (ACV), nos anos de 1998 e 1999. Foi vice-presidente do Conselho Integrado de Desenvolvimento Regional e Comercial de Minas Gerais (Consider), em 1999. Entre 2011 e 2013, foi diretor administrativo-financeiro da Companhia Mineira de Turismo (Prominas) - empresa pública responsável por fomentar o turismo no Estado.",
+ "atuacaoParlamentar": "Assume, em 2023, seu quarto mandato na Assembleia Legislativa de Minas Gerais. Na 19ª Legislatura, atuou como membro de duas comissões extraordinárias: Pró-Ferrovias Mineiras e das Energias Renováveis e dos Recursos Hídricos. Integrou também a Comissão de Administração Pública e da CPI dos Fura-Filas da Vacinação. Na 18ª Legislatura, foi presidente da Comissão de Desenvolvimento Econômico e membro efetivo da Comissão Extraordinária Pró-Ferrovias Mineiras.",
+ "candidaturas": [
+  {
+   "legislatura": 18,
+   "numeroCandidato": 19222
+  },
+  {
+   "legislatura": 19,
+   "numeroCandidato": 40222
+  },
+  {
+   "legislatura": 20,
+   "numeroCandidato": 51222
+  }
+ ],
+ "filiacoes": [
+  {
+   "dataInicio": {
+    "@class": "sql-timestamp",
+    "$": "2015-02-01"
+   },
+   "dataTermino": {
+    "@class": "sql-timestamp",
+    "$": "2016-03-15"
+   },
+   "partido": {
+    "id": 19,
+    "sigla": "PTN"
+   }
+  },
+  {
+   "dataInicio": {
+    "@class": "sql-timestamp",
+    "$": "2016-03-16"
+   },
+   "dataTermino": {
+    "@class": "sql-timestamp",
+    "$": "2020-02-18"
+   },
+   "partido": {
+    "id": 40,
+    "sigla": "PSB"
+   }
+  },
+  {
+   "dataInicio": {
+    "@class": "sql-timestamp",
+    "$": "2020-03-05"
+   },
+   "dataTermino": {
+    "@class": "sql-timestamp",
+    "$": "2023-01-31"
+   },
+   "partido": {
+    "id": 71,
+    "sigla": "AVANTE"
+   }
+  },
+  {
+   "dataInicio": {
+    "@class": "sql-timestamp",
+    "$": "2023-02-01"
+   },
+   "dataTermino": {
+    "@class": "sql-timestamp",
+    "$": "2024-04-17"
+   },
+   "partido": {
+    "id": 52,
+    "sigla": "PATRIOTA"
+   }
+  },
+  {
+   "dataInicio": {
+    "@class": "sql-timestamp",
+    "$": "2024-04-18"
+   },
+   "dataTermino": {
+    "@class": "sql-timestamp",
+    "$": "2999-12-31"
+   },
+   "partido": {
+    "id": 83,
+    "sigla": "PRD"
+   }
+  }
+ ],
+ "enderecos": [
+  {
+   "logradouro": "Rua Rodrigues Caldas",
+   "numero": "30",
+   "complemento": "Palácio da Inconfidência - 1º andar - conjunto 106",
+   "bairro": "Santo Agostinho",
+   "cep": "30190921",
+   "municipio": {
+    "nome": "Belo Horizonte",
+    "uf": "MG",
+    "codigoIbge9": 310620005
+   },
+   "descTipo": "Gabinete",
+   "telefones": [
+    {
+     "ddd": "31",
+     "numero": "21085064",
+     "fax": "S"
+    },
+    {
+     "ddd": "31",
+     "numero": "21085065",
+     "fax": "N"
+    }
+   ]
+  }
+ ],
+ "legislaturas": [
+  {
+   "numeroLegislatura": 18,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2015-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2019-01-31"
+   },
+   "tipoMandato": "Efetivo",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2015-02-01"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2019-01-31"
+     }
+    }
+   ]
+  },
+  {
+   "numeroLegislatura": 19,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2019-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2023-01-31"
+   },
+   "tipoMandato": "Efetivo",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2019-02-01"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2023-01-31"
+     }
+    }
+   ]
+  },
+  {
+   "numeroLegislatura": 20,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2023-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2027-01-31"
+   },
+   "tipoMandato": "Efetivo",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2023-02-01"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2027-01-31"
+     }
+    }
+   ]
+  }
+ ],
+ "situacaoLegislaturas": "18&ordf; - 2015-2019- Efetivo<br/>de 01/02/2015 até 31/01/2019 (Em exercício em 01/02/2015) <br/><br />19&ordf; - 2019-2023- Efetivo<br/>de 01/02/2019 até 31/01/2023 (Em exercício em 01/02/2019) <br/><br />20&ordf; - 2023-2027- Efetivo<br/>de 01/02/2023 até 31/01/2027 (Em exercício em 01/02/2023) <br/><br />",
+ "partidosLegislatura": "PATRIOTA  01/02/2023 até 17/04/2024<br/>PRD desde 18/04/2024  <br/>",
+ "anoEleicaoLegislatura": "2022",
+ "situacaoTerminoLegislatura": "Em exercício"
+}

@@ -1,0 +1,238 @@
+{
+ "id": 18860,
+ "nome": "Tadeu Leite",
+ "partido": "MDB",
+ "tagLocalizacao": 1010,
+ "cargoMesa": "Presidente",
+ "dataCargoMesa": {
+  "@class": "sql-timestamp",
+  "$": "2025-02-03"
+ },
+ "sexo": "M",
+ "situacao": "Em exercício",
+ "inicioSituacao": {
+  "@class": "sql-timestamp",
+  "$": "2023-02-01"
+ },
+ "tipoMandato": "Efetivo",
+ "nomeServidor": "LUIZ TADEU MARTINS LEITE",
+ "naturalidadeMunicipio": "Montes Claros",
+ "naturalidadeUf": "MG",
+ "dataNascimento": "02/09/1986",
+ "apresentarEmail": "G",
+ "codigoSituacao": 1,
+ "partidoEleicao": "MDB",
+ "emails": [
+  {
+   "tipo": "1",
+   "endereco": "dep.tadeu.leite"
+  }
+ ],
+ "vidaProfissionalPolitica": "Foi o mais jovem secretário de Estado de Minas Gerais, ao ser nomeado em fevereiro de 2015 para assumir a Secretaria de Estado de Desenvolvimento Regional, Política Urbana e Gestão Metropolitana, onde, entre outras ações, coordenou a Força Tarefa criada pelo Governo de Minas para avaliar as consequências da tragédia de Mariana e reativou o processo de regularização fundiária urbana no Estado. Suas principais regiões de atuação política são o Norte de Minas, Jequitinhonha e Noroeste.",
+ "atuacaoParlamentar": "Reeleito para o quarto mandato na Assembleia Legislativa de Minas Gerais (ALMG). Foi o 1º-secretário da Assembleia durante a 19ª Legislatura (2019-2023). Já na 18ª Legislatura, foi líder da Maioria e fez parte Bloco Minas Melhor, composto de 33 deputados. Presidiu a Comissão Extraordinária de Acerto de Contas entre Minas e a União, foi vice-presidente da Comissão de Constituição e Justiça e membro efetivo de outras comissões. Foi eleito pela primeira vez em 2010, aos 24 anos de idade, tendo sido, na ocasião, o deputado mais jovem da história do Estado.",
+ "candidaturas": [
+  {
+   "legislatura": 17,
+   "numeroCandidato": 15300
+  },
+  {
+   "legislatura": 18,
+   "numeroCandidato": 15300
+  },
+  {
+   "legislatura": 19,
+   "numeroCandidato": 15300
+  },
+  {
+   "legislatura": 20,
+   "numeroCandidato": 15300
+  }
+ ],
+ "filiacoes": [
+  {
+   "dataInicio": {
+    "@class": "sql-timestamp",
+    "$": "2010-10-03"
+   },
+   "dataTermino": {
+    "@class": "sql-timestamp",
+    "$": "2018-05-14"
+   },
+   "partido": {
+    "id": 15,
+    "sigla": "PMDB"
+   }
+  },
+  {
+   "dataInicio": {
+    "@class": "sql-timestamp",
+    "$": "2018-05-15"
+   },
+   "dataTermino": {
+    "@class": "sql-timestamp",
+    "$": "2999-12-31"
+   },
+   "partido": {
+    "id": 72,
+    "sigla": "MDB"
+   }
+  }
+ ],
+ "enderecos": [
+  {
+   "logradouro": "Rua Rodrigues Caldas",
+   "numero": "30",
+   "complemento": "Palácio da Inconfidência - Térreo - conjunto 1",
+   "bairro": "Santo Agostinho",
+   "cep": "30190921",
+   "municipio": {
+    "nome": "Belo Horizonte",
+    "uf": "MG",
+    "codigoIbge9": 310620005
+   },
+   "descTipo": "Gabinete",
+   "telefones": [
+    {
+     "ddd": "31",
+     "numero": "21085895",
+     "fax": "S"
+    },
+    {
+     "ddd": "31",
+     "numero": "21085899",
+     "fax": "N"
+    }
+   ]
+  }
+ ],
+ "legislaturas": [
+  {
+   "numeroLegislatura": 17,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2011-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2015-01-31"
+   },
+   "tipoMandato": "Efetivo",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2011-02-01"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2015-01-31"
+     }
+    }
+   ]
+  },
+  {
+   "numeroLegislatura": 18,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2015-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2019-01-31"
+   },
+   "tipoMandato": "Efetivo",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2015-02-01"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2015-02-02"
+     }
+    },
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2015-02-03"
+     },
+     "status": "Afastamento",
+     "motivo": "Ocupar cargo",
+     "complemento": "Secretário de Estado de Desenvolvimento Regional, Política Urbana e Gestão Metropolitana.",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2016-05-03"
+     }
+    },
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2016-05-04"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2019-01-31"
+     }
+    }
+   ]
+  },
+  {
+   "numeroLegislatura": 19,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2019-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2023-01-31"
+   },
+   "tipoMandato": "Efetivo",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2019-02-01"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2023-01-31"
+     }
+    }
+   ]
+  },
+  {
+   "numeroLegislatura": 20,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2023-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2027-01-31"
+   },
+   "tipoMandato": "Efetivo",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2023-02-01"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2027-01-31"
+     }
+    }
+   ]
+  }
+ ],
+ "situacaoLegislaturas": "17&ordf; - 2011-2015- Efetivo<br/>de 01/02/2011 até 31/01/2015 (Em exercício em 01/02/2011) <br/><br />18&ordf; - 2015-2019- Efetivo<br/>de 01/02/2015 até 02/02/2015 (Em exercício em 01/02/2015) <br/>de 03/02/2015 até 03/05/2016 (Afastamento em 03/02/2015 - Ocupar cargo - Secretário de Estado de Desenvolvimento Regional, Política Urbana e Gestão Metropolitana.) <br/>de 04/05/2016 até 31/01/2019 (Em exercício em 04/05/2016) <br/><br />19&ordf; - 2019-2023- Efetivo<br/>de 01/02/2019 até 31/01/2023 (Em exercício em 01/02/2019) <br/><br />20&ordf; - 2023-2027- Efetivo<br/>de 01/02/2023 até 31/01/2027 (Em exercício em 01/02/2023) <br/><br />",
+ "partidosLegislatura": "MDB    <br/>",
+ "anoEleicaoLegislatura": "2022",
+ "situacaoTerminoLegislatura": "Em exercício"
+}

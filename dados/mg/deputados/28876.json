@@ -1,0 +1,108 @@
+{
+ "id": 28876,
+ "nome": "Oscar Teixeira",
+ "partido": "PP",
+ "tagLocalizacao": 5970,
+ "sexo": "M",
+ "situacao": "Em exercício",
+ "inicioSituacao": {
+  "@class": "sql-timestamp",
+  "$": "2023-02-01"
+ },
+ "tipoMandato": "Efetivo",
+ "nomeServidor": "OSCAR LISANDRO TEIXEIRA",
+ "naturalidadeMunicipio": "Porteirinha",
+ "naturalidadeUf": "MG",
+ "dataNascimento": "10/06/1974",
+ "apresentarEmail": "A",
+ "codigoSituacao": 1,
+ "partidoEleicao": "PP",
+ "emails": [
+  {
+   "tipo": "1",
+   "endereco": "dep.oscar.teixeira"
+  }
+ ],
+ "vidaProfissionalPolitica": "Ex-prefeito de Mato Verde (Norte de Minas) eleito por duas vezes, este será seu primeiro mandato como deputado estadual na (ALMG. Professor de Geografia, é empresário dos setores educacional e hoteleiro. Nasceu e foi criado no Norte de Minas. Oriundo de família humilde, iniciou sua vida profissional como educador, paixão que ele destaca como o tendo levado a investir na área educacional, iniciando sua vida empresarial neste segmento e se tornando referência regional na área. É diretor da Faculdade Favenorte em Mato Verde e da Rede OLT Hotéis. Entre suas várias propostas, defende a expansão do Projeto Jaíba, de agricultura irrigada, mais investimentos em infraestrutura e melhorias de vias de acesso à região da Serra Geral e do Alto Rio Pardo, além de iniciativas capazes de promover a melhoria das condições de saúde da população; a elaboração de roteiros turísticos para fomentar a criação de emprego e renda em municípios como os da Serra Geral e do Alto Rio Pardo; e a formação de mão de obra por meio de cursos profissionalizantes, etc.",
+ "atuacaoParlamentar": "Assume, em 2023, seu primeiro mandato na Assembleia Legislativa de Minas Gerais.",
+ "candidaturas": [
+  {
+   "legislatura": 20,
+   "numeroCandidato": 11230
+  }
+ ],
+ "filiacoes": [
+  {
+   "dataInicio": {
+    "@class": "sql-timestamp",
+    "$": "2022-10-02"
+   },
+   "dataTermino": {
+    "@class": "sql-timestamp",
+    "$": "2999-12-31"
+   },
+   "partido": {
+    "id": 73,
+    "sigla": "PP"
+   }
+  }
+ ],
+ "enderecos": [
+  {
+   "logradouro": "Rua Rodrigues Caldas",
+   "numero": "30",
+   "complemento": "Palácio da Inconfidência - 2º andar - conjunto 211",
+   "bairro": "Santo Agostinho",
+   "cep": "30190921",
+   "municipio": {
+    "nome": "Belo Horizonte",
+    "uf": "MG",
+    "codigoIbge9": 310620005
+   },
+   "descTipo": "Gabinete",
+   "telefones": [
+    {
+     "ddd": "31",
+     "numero": "21085235",
+     "fax": "S"
+    },
+    {
+     "ddd": "31",
+     "numero": "21085240",
+     "fax": "N"
+    }
+   ]
+  }
+ ],
+ "legislaturas": [
+  {
+   "numeroLegislatura": 20,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2023-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2027-01-31"
+   },
+   "tipoMandato": "Efetivo",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2023-02-01"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2027-01-31"
+     }
+    }
+   ]
+  }
+ ],
+ "situacaoLegislaturas": "20&ordf; - 2023-2027- Efetivo<br/>de 01/02/2023 até 31/01/2027 (Em exercício em 01/02/2023) <br/><br />",
+ "partidosLegislatura": "PP    <br/>",
+ "anoEleicaoLegislatura": "2022",
+ "situacaoTerminoLegislatura": "Em exercício"
+}

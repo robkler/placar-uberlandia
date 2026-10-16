@@ -1,0 +1,129 @@
+{
+ "id": 28863,
+ "nome": "Chiara Biondini",
+ "partido": "PL",
+ "tagLocalizacao": 5986,
+ "sexo": "F",
+ "situacao": "Em exercício",
+ "inicioSituacao": {
+  "@class": "sql-timestamp",
+  "$": "2023-02-23"
+ },
+ "tipoMandato": "Efetivo",
+ "nomeServidor": "CHIARA TEIXEIRA BIONDINI",
+ "naturalidadeMunicipio": "Belo Horizonte",
+ "naturalidadeUf": "MG",
+ "dataNascimento": "22/02/2002",
+ "apresentarEmail": "G",
+ "codigoSituacao": 1,
+ "partidoEleicao": "PP",
+ "emails": [
+  {
+   "tipo": "1",
+   "endereco": "dep.chiara.biondini"
+  }
+ ],
+ "vidaProfissionalPolitica": "Estudante de Administração pela Unicamp, foi eleita pela primeira vez para deputada estadual na ALMG. É filha do atual deputado federal e ex-deputado estadual Eros Biondini, sua principal referência  ao estrear na carreira política. Ambos são ligados aos movimentos católicos. No seu mandato, pretende atuar em prol do estímulo ao empreendedorismo e geração de empregos, autonomia financeira e crescimento econômico, associando essa ação com a prevenção, recuperação e reinserção social dos jovens dependentes químicos, em sintonia com as comunidades terapêuticas. Atuará em defesa das pessoas com deficiência física e com síndrome de Down, autismo e doenças raras. Também buscará a consolidação de Belo Horizonte como um dos principais polos de startups do País, colaborando para a implementação de medidas que desburocratizem e fomentem parcerias do poder público com o setor privado. Pretende atuar por mais programas de apoio às comunidades em áreas de risco, que tragam mais dignidade e oportunidades aos mais vulneráveis por meio de auxílio psicológico e estrutural, cadastramento e documentação, para que essas pessoas tenham sua entrada facilitada no mercado de trabalho. Na Assembleia de Minas, defenderá bandeiras em defesa da vida e da família, contra o aborto, a pedofilia, as drogas e a violência contra mulher.",
+ "candidaturas": [
+  {
+   "legislatura": 20,
+   "numeroCandidato": 11077
+  }
+ ],
+ "filiacoes": [
+  {
+   "dataInicio": {
+    "@class": "sql-timestamp",
+    "$": "2022-10-02"
+   },
+   "dataTermino": {
+    "@class": "sql-timestamp",
+    "$": "2026-03-17"
+   },
+   "partido": {
+    "id": 73,
+    "sigla": "PP"
+   }
+  },
+  {
+   "dataInicio": {
+    "@class": "sql-timestamp",
+    "$": "2026-03-18"
+   },
+   "dataTermino": {
+    "@class": "sql-timestamp",
+    "$": "2999-12-31"
+   },
+   "partido": {
+    "id": 89,
+    "sigla": "PL"
+   }
+  }
+ ],
+ "enderecos": [
+  {
+   "logradouro": "Rua Rodrigues Caldas",
+   "numero": "30",
+   "complemento": "Palácio da Inconfidência - 2º andar - conjunto 229",
+   "bairro": "Santo Agostinho",
+   "cep": "30190921",
+   "municipio": {
+    "nome": "Belo Horizonte",
+    "uf": "MG",
+    "codigoIbge9": 310620005
+   },
+   "descTipo": "Gabinete",
+   "telefones": [
+    {
+     "ddd": "31",
+     "numero": "21085440",
+     "fax": "N"
+    },
+    {
+     "ddd": "31",
+     "numero": "21085441",
+     "fax": "S"
+    }
+   ]
+  }
+ ],
+ "legislaturas": [
+  {
+   "numeroLegislatura": 20,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2023-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2027-01-31"
+   },
+   "tipoMandato": "Efetiva",
+   "inicioExercicio": {
+    "@class": "sql-timestamp",
+    "$": "2023-02-23"
+   },
+   "terminoExercicio": {
+    "@class": "sql-timestamp",
+    "$": "2027-01-31"
+   },
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2023-02-23"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2027-01-31"
+     }
+    }
+   ]
+  }
+ ],
+ "situacaoLegislaturas": "20&ordf; - 2023-2027- Efetiva<br/>de 23/02/2023 até 31/01/2027 (Em exercício em 23/02/2023) <br/><br />",
+ "partidosLegislatura": "PP   até 17/03/2026<br/>PL desde 18/03/2026  <br/>",
+ "anoEleicaoLegislatura": "2022",
+ "situacaoTerminoLegislatura": "Em exercício"
+}

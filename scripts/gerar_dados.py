@@ -109,13 +109,15 @@ def financas():
     for arq in sorted(glob.glob(os.path.join(pasta, '*-receitas.json'))):
         ano = int(os.path.basename(arq)[:4])
         rc = {i['conta']: i['valor'] for i in ler_json(arq)['items'] if i['coluna'] == 'Receitas Brutas Realizadas'}
+        itens = ler_json(arq)['items']
+        deducoes = sum(i['valor'] for i in itens if i['conta'].startswith('RECEITAS (EXCETO') and i['coluna'] != 'Receitas Brutas Realizadas')
         de_arq = ler_json(os.path.join(pasta, f'{ano}-despesas_funcao.json'), {'items': []})
         de = {i['conta']: i['valor'] for i in de_arq['items'] if i['coluna'] == 'Despesas Liquidadas'}
 
         def g(dic, pre):
             return next((v for k, v in dic.items() if k.startswith(pre)), 0)
         out.append(dict(
-            ano=ano, receita=g(rc, 'RECEITAS (EXCETO'), tributos=g(rc, '1.1.0.0.00'),
+            ano=ano, receitaBruta=g(rc, 'RECEITAS (EXCETO'), receita=g(rc, 'RECEITAS (EXCETO') - deducoes, tributos=g(rc, '1.1.0.0.00'),
             iptu=g(rc, '1.1.1.2.50'), iss=g(rc, '1.1.1.4.51.1'), itbi=g(rc, '1.1.1.2.53'),
             uniao=g(rc, '1.7.1.0.00'), estado=g(rc, '1.7.2.0.00'), icms=g(rc, '1.7.2.1.50'), fpm=g(rc, '1.7.1.1.51.0'),
             despesa=g(de, 'Despesas Exceto'),

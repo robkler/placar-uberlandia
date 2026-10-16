@@ -1,0 +1,311 @@
+{
+ "id": 9652,
+ "nome": "Arlen Santiago",
+ "partido": "MDB",
+ "tagLocalizacao": 652,
+ "sexo": "M",
+ "situacao": "Em exercício",
+ "inicioSituacao": {
+  "@class": "sql-timestamp",
+  "$": "2023-02-01"
+ },
+ "tipoMandato": "Efetivo",
+ "nomeServidor": "ARLEN DE PAULO SANTIAGO FILHO",
+ "naturalidadeMunicipio": "Montes Claros",
+ "naturalidadeUf": "MG",
+ "dataNascimento": "25/07/1954",
+ "atividadeProfissional": "Médico e advogado",
+ "codigoSituacao": 1,
+ "partidoEleicao": "AVANTE",
+ "emails": [
+  {
+   "tipo": "1",
+   "endereco": "dep.arlen.santiago"
+  }
+ ],
+ "vidaProfissionalPolitica": "Sua principal região de atuação política é o Norte de Minas. Foi vice-prefeito de Montes Claros (1996-1999). Presidiu a Associação dos Municípios da Área Mineira da Sudene (Amams) em dois mandatos: 1993-1994 e 1995-1996. Foi prefeito do município de Coração de Jesus, no Norte de Minas (1993-1995), tesoureiro da Executiva Estadual do PTB (1999) e presidente do Colegiado dos Secretários Municipais de Saúde de Minas Gerais (Cosems), em 1996 e 1997. Filiou-se ao Avante em 7 de março de 2022. Municípios de maior votação: São João da Ponte, Salinas, Montes Claros, Porteirinha, Várzea da Palma, São João do Paraíso, Januária, Coração de Jesus, Taoiobeiras, Montalvânia, Manga, Jequitaí, Francisco Sá e São João das Missões.",
+ "atuacaoParlamentar": "Assume, em 2023, seu sétimo mandato na Assembleia Legislativa de Minas Gerais, onde ingressou em 1999. Na 19ª Legislatura, foi o 3º-secretário da Assembleia no biênio 2019-2021. Na 18ª Legislatura, também foi 3º-secretário no biênio 2017/2019. Foi ainda presidente da Comissão de Saúde, tendo atuado também em outras comissões. Durante a 17ª Legislatura, exerceu a presidência da Comissão Especial das Enchentes. Em 2009, foi vice-presidente da Comissão de Direitos Humanos.",
+ "condecoracao": "Medalha da Inconfidência/Honra (1995); Medalha Santos Dumont (2001), Medalha Ivan José Lopes de Honra a Montes Claros (2006) e Medalha do Mérito Legislativo.",
+ "candidaturas": [
+  {
+   "legislatura": 14,
+   "numeroCandidato": 14111
+  },
+  {
+   "legislatura": 15,
+   "numeroCandidato": 14111
+  },
+  {
+   "legislatura": 16,
+   "numeroCandidato": 14111
+  },
+  {
+   "legislatura": 17,
+   "numeroCandidato": 14111
+  },
+  {
+   "legislatura": 18,
+   "numeroCandidato": 14111
+  },
+  {
+   "legislatura": 19,
+   "numeroCandidato": 14111
+  },
+  {
+   "legislatura": 20,
+   "numeroCandidato": 70111
+  }
+ ],
+ "filiacoes": [
+  {
+   "dataInicio": {
+    "@class": "sql-timestamp",
+    "$": "1998-10-03"
+   },
+   "dataTermino": {
+    "@class": "sql-timestamp",
+    "$": "2022-03-06"
+   },
+   "partido": {
+    "id": 14,
+    "sigla": "PTB"
+   }
+  },
+  {
+   "dataInicio": {
+    "@class": "sql-timestamp",
+    "$": "2022-03-07"
+   },
+   "dataTermino": {
+    "@class": "sql-timestamp",
+    "$": "2026-04-02"
+   },
+   "partido": {
+    "id": 71,
+    "sigla": "AVANTE"
+   }
+  },
+  {
+   "dataInicio": {
+    "@class": "sql-timestamp",
+    "$": "2026-04-03"
+   },
+   "dataTermino": {
+    "@class": "sql-timestamp",
+    "$": "2999-12-31"
+   },
+   "partido": {
+    "id": 72,
+    "sigla": "MDB"
+   }
+  }
+ ],
+ "enderecos": [
+  {
+   "logradouro": "Rua Rodrigues Caldas",
+   "numero": "30",
+   "complemento": "Palácio da Inconfidência - 2º andar - conjunto 222",
+   "bairro": "Santo Agostinho",
+   "cep": "30190921",
+   "municipio": {
+    "nome": "Belo Horizonte",
+    "uf": "MG",
+    "codigoIbge9": 310620005
+   },
+   "descTipo": "Gabinete",
+   "telefones": [
+    {
+     "ddd": "31",
+     "numero": "21085030",
+     "fax": "N"
+    },
+    {
+     "ddd": "31",
+     "numero": "21085033",
+     "fax": "S"
+    }
+   ]
+  }
+ ],
+ "legislaturas": [
+  {
+   "numeroLegislatura": 14,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "1999-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2003-01-31"
+   },
+   "tipoMandato": "Efetivo",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "1999-02-01"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2003-01-31"
+     }
+    }
+   ]
+  },
+  {
+   "numeroLegislatura": 15,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2003-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2007-01-31"
+   },
+   "tipoMandato": "Efetivo",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2003-02-01"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2007-01-31"
+     }
+    }
+   ]
+  },
+  {
+   "numeroLegislatura": 16,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2007-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2011-01-31"
+   },
+   "tipoMandato": "Efetivo",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2007-02-01"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2011-01-31"
+     }
+    }
+   ]
+  },
+  {
+   "numeroLegislatura": 17,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2011-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2015-01-31"
+   },
+   "tipoMandato": "Efetivo",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2011-02-01"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2015-01-31"
+     }
+    }
+   ]
+  },
+  {
+   "numeroLegislatura": 18,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2015-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2019-01-31"
+   },
+   "tipoMandato": "Efetivo",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2015-02-01"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2019-01-31"
+     }
+    }
+   ]
+  },
+  {
+   "numeroLegislatura": 19,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2019-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2023-01-31"
+   },
+   "tipoMandato": "Efetivo",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2019-02-01"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2023-01-31"
+     }
+    }
+   ]
+  },
+  {
+   "numeroLegislatura": 20,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2023-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2027-01-31"
+   },
+   "tipoMandato": "Efetivo",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2023-02-01"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2027-01-31"
+     }
+    }
+   ]
+  }
+ ],
+ "situacaoLegislaturas": "14&ordf; - 1999-2003- Efetivo<br/>de 01/02/1999 até 31/01/2003 (Em exercício em 01/02/1999) <br/><br />15&ordf; - 2003-2007- Efetivo<br/>de 01/02/2003 até 31/01/2007 (Em exercício em 01/02/2003) <br/><br />16&ordf; - 2007-2011- Efetivo<br/>de 01/02/2007 até 31/01/2011 (Em exercício em 01/02/2007) <br/><br />17&ordf; - 2011-2015- Efetivo<br/>de 01/02/2011 até 31/01/2015 (Em exercício em 01/02/2011) <br/><br />18&ordf; - 2015-2019- Efetivo<br/>de 01/02/2015 até 31/01/2019 (Em exercício em 01/02/2015) <br/><br />19&ordf; - 2019-2023- Efetivo<br/>de 01/02/2019 até 31/01/2023 (Em exercício em 01/02/2019) <br/><br />20&ordf; - 2023-2027- Efetivo<br/>de 01/02/2023 até 31/01/2027 (Em exercício em 01/02/2023) <br/><br />",
+ "partidosLegislatura": "AVANTE   até 02/04/2026<br/>MDB desde 03/04/2026  <br/>",
+ "anoEleicaoLegislatura": "2022",
+ "situacaoTerminoLegislatura": "Em exercício"
+}

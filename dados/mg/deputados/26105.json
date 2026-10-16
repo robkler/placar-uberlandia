@@ -1,0 +1,150 @@
+{
+ "id": 26105,
+ "nome": "Zé Guilherme",
+ "partido": "PP",
+ "tagLocalizacao": 3924,
+ "sexo": "M",
+ "situacao": "Em exercício",
+ "inicioSituacao": {
+  "@class": "sql-timestamp",
+  "$": "2023-02-01"
+ },
+ "tipoMandato": "Efetivo",
+ "nomeServidor": "JOSÉ GUILHERME FERREIRA FILHO",
+ "naturalidadeMunicipio": "Belo Horizonte",
+ "naturalidadeUf": "MG",
+ "dataNascimento": "17/08/1956",
+ "codigoSituacao": 1,
+ "partidoEleicao": "PP",
+ "emails": [
+  {
+   "tipo": "1",
+   "endereco": "dep.ze.guilherme"
+  }
+ ],
+ "vidaProfissionalPolitica": "José Guilherme Ferreira Filho, o Zé Guilherme, é mineiro e nasceu em Belo Horizonte em 1956. É casado com a Professora Marli, vereadora por Belo Horizonte, e pai de dois filhos: o atual presidente da Federação Mineira de Futebol, Adriano Aro, e o ex-deputado federal e presidente do Progressistas de Minas Gerais, Marcelo Aro. Zé Guilherme foi eleito Deputado Estadual em 2018 e reeleito para o seu segundo mandato em 2022, tendo recebido 72.376 votos, quadruplicando a votação que recebeu no primeiro pleito. O expressivo crescimento se deu em razão de sua atuação exemplar na Assembleia Legislativa de Minas Gerais, sobretudo em defesa das pessoas com deficiência e com doenças raras. Ele é autor da Lei 23.773/2021, que institui diretrizes para a criação de escolas bilíngues em Libras e Língua Portuguesa na rede estadual de ensino, um sonho antigo da comunidade surda que se tornou realidade. \r\nZé Guilherme também é um defensor da pauta municipalista. As suas emendas parlamentares já promoveram melhorias em diversas áreas, como saúde, educação e infraestrutura, e chegaram em locais que, por muito tempo, foram negligenciados pelo poder público. Graças a esses recursos, vários municípios do interior de Minas conseguiram pavimentar estradas e ruas, reestruturar a atenção primária à saúde, equipar escolas com mobiliários novos, comprar máquinas agrícolas, adquirir equipamentos esportivos e desenvolver estratégias voltadas para a área do desenvolvimento social e econômico. Com grande conhecimento da vida e dos costumes dos mineiros e dos municípios, desde 2013 o parlamentar visita todas as regiões do estado, entendendo as potencialidades e as dificuldades que o povo enfrenta, sobretudo os de menor porte. Zé Guilherme orgulha-se em dizer que já esteve presente em todos os municípios mineiros, e, não à toa, foi votado em quase 800 deles no último pleito.",
+ "atuacaoParlamentar": "Já em seu primeiro mandato, devido à reconhecida experiência diante de seus pares, Zé Guilherme foi eleito presidente da Comissão de Esporte, Lazer e Juventude e também vice-presidente da Comissão de Defesa dos Direitos da Pessoa com Deficiência, podendo então oferecer a todos os mineiros a experiência adquirida nos dois segmentos ao longo de sua vida. O deputado também foi o líder do Governador Romeu Zema, tendo tido a honra de representar o Governador na ALMG e capitanear importantes pautas para o estado. Agora em seu segundo mandato, mais experiente no parlamento e com muito trabalho realizado, Zé Guilherme foi eleito presidente da Comissão de Fiscalização Financeira e Orçamentaria e é também membro efetivo da Comissão de Redação, duas importantes comissões da Assembleia. Com essas missões, o segundo mandato promete, além de preservar as pautas do primeiro, apresentar resultados do ponto de vista da transparência com o dinheiro público e a desburocratização da legislação do estado de Minas Gerais.\r\nEm seus momentos de lazer, o Lito, como é chamado pela família, gosta de cozinhar e cuidar dos netos, que hoje já são oito. Foi o nascimento da sua neta mais velha, a Maria, que trouxe para ele uma nova missão de vida: tirar da invisibilidade e ajudar milhares de famílias que recebem o diagnóstico de uma doença rara ou deficiência. A Maria tem a síndrome Cornélia de Lange, uma doença genética rara que compromete a estrutura física e o sistema cognitivo. Desde então, ele tem trabalhado para promover o diagnóstico precoce, tratamento adequado e outros direitos dessa parcela da sociedade, seja no parlamento mineiro, seja na Casa de Maria, instituição que foi criada pelos familiares da Maria em 2019 e hoje atende mais de 120 famílias com doenças raras todos os meses. Sempre com um sorriso no rosto, muita atenção e paciência, Zé Guilherme tem, junto com os mineiros de cada canto do estado, construído um mandato diferenciado, com o objetivo de fazer com que os resultados cheguem a quem realmente precisa. Sem barulho, sem alardes em redes sociais, mas com muito trabalho e dedicação, a atuação parlamentar de Zé Guilherme tem sido reconhecida em diversas instâncias, tornando-se um deputado premiado e condecorado pelos mineiros, inclusive com a Medalha de Ordem do Mérito Especial, uma honraria concedida às pessoas que trabalham em prol da coletividade.",
+ "candidaturas": [
+  {
+   "legislatura": 19,
+   "numeroCandidato": 44333
+  },
+  {
+   "legislatura": 20,
+   "numeroCandidato": 11111
+  }
+ ],
+ "filiacoes": [
+  {
+   "dataInicio": {
+    "@class": "sql-timestamp",
+    "$": "2018-10-07"
+   },
+   "dataTermino": {
+    "@class": "sql-timestamp",
+    "$": "2019-09-29"
+   },
+   "partido": {
+    "id": 44,
+    "sigla": "PRP"
+   }
+  },
+  {
+   "dataInicio": {
+    "@class": "sql-timestamp",
+    "$": "2019-09-30"
+   },
+   "dataTermino": {
+    "@class": "sql-timestamp",
+    "$": "2999-12-31"
+   },
+   "partido": {
+    "id": 73,
+    "sigla": "PP"
+   }
+  }
+ ],
+ "enderecos": [
+  {
+   "logradouro": "Rua Rodrigues Caldas",
+   "numero": "30",
+   "complemento": "Palácio da Inconfidência - 2º andar - conjunto 248",
+   "bairro": "Santo Agostinho",
+   "cep": "30190921",
+   "municipio": {
+    "nome": "Belo Horizonte",
+    "uf": "MG",
+    "codigoIbge9": 310620005
+   },
+   "descTipo": "Gabinete",
+   "telefones": [
+    {
+     "ddd": "31",
+     "numero": "21085324",
+     "fax": "S"
+    },
+    {
+     "ddd": "31",
+     "numero": "21085325",
+     "fax": "N"
+    }
+   ]
+  }
+ ],
+ "legislaturas": [
+  {
+   "numeroLegislatura": 19,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2019-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2023-01-31"
+   },
+   "tipoMandato": "Efetivo",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2019-02-01"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2023-01-31"
+     }
+    }
+   ]
+  },
+  {
+   "numeroLegislatura": 20,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2023-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2027-01-31"
+   },
+   "tipoMandato": "Efetivo",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2023-02-01"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2027-01-31"
+     }
+    }
+   ]
+  }
+ ],
+ "situacaoLegislaturas": "19&ordf; - 2019-2023- Efetivo<br/>de 01/02/2019 até 31/01/2023 (Em exercício em 01/02/2019) <br/><br />20&ordf; - 2023-2027- Efetivo<br/>de 01/02/2023 até 31/01/2027 (Em exercício em 01/02/2023) <br/><br />",
+ "partidosLegislatura": "PP    <br/>",
+ "anoEleicaoLegislatura": "2022",
+ "situacaoTerminoLegislatura": "Em exercício"
+}

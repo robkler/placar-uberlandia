@@ -1,9 +1,10 @@
 #!/usr/bin/env bash
-# Atualiza os dados do Placar (Uberlândia + Câmara dos Deputados).
+# Atualiza os dados do Placar (Uberlândia, Minas Gerais e Câmara dos Deputados).
 #
-#   ./atualizar.sh                  coleta tudo e gera public/data.json e public/federal.json
+#   ./atualizar.sh                  coleta tudo e gera public/data.json, mg.json e federal.json
 #   ./atualizar.sh --publicar       faz o mesmo e publica na Vercel (produção)
 #   ./atualizar.sh --so-uberlandia  só a parte de Uberlândia (~1 min)
+#   ./atualizar.sh --so-mg          só Minas Gerais (ALMG e Governo, ~2 min)
 #   ./atualizar.sh --so-federal     só a Câmara dos Deputados (~5 a 10 min)
 #   ./atualizar.sh --tse            também recoleta dados do TSE (só após eleições / troca de parlamentar)
 #   ./atualizar.sh --forcar         grava os arquivos mesmo se a checagem de segurança reclamar
@@ -12,15 +13,16 @@
 set -euo pipefail
 cd "$(dirname "$0")"
 
-PUBLICAR=0; TSE=0; FORCAR=""; UDI=1; FED=1
+PUBLICAR=0; TSE=0; FORCAR=""; UDI=1; FED=1; MG=1
 for a in "$@"; do
   case "$a" in
     --publicar) PUBLICAR=1 ;;
     --tse) TSE=1 ;;
     --forcar) FORCAR="--forcar" ;;
-    --so-uberlandia) FED=0 ;;
-    --so-federal) UDI=0 ;;
-    -h|--help) sed -n '2,12p' "$0"; exit 0 ;;
+    --so-uberlandia) FED=0; MG=0 ;;
+    --so-federal) UDI=0; MG=0 ;;
+    --so-mg) UDI=0; FED=0 ;;
+    -h|--help) sed -n '2,13p' "$0"; exit 0 ;;
     *) echo "Opção desconhecida: $a (use --help)"; exit 2 ;;
   esac
 done
@@ -34,6 +36,11 @@ if [ "$UDI" = 1 ]; then
   python3 scripts/coletar_tesouro.py
   if [ "$TSE" = 1 ]; then python3 scripts/coletar_tse.py; fi
   python3 scripts/gerar_dados.py $FORCAR || falhou=1
+fi
+if [ "$MG" = 1 ]; then
+  python3 scripts/coletar_mg.py
+  if [ "$TSE" = 1 ]; then python3 scripts/coletar_tse_mg.py; fi
+  python3 scripts/gerar_mg.py $FORCAR || falhou=1
 fi
 if [ "$FED" = 1 ]; then
   python3 scripts/coletar_federal.py

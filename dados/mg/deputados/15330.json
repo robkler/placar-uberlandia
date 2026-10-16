@@ -1,0 +1,124 @@
+{
+ "id": 15330,
+ "nome": "Carol Caram",
+ "partido": "AVANTE",
+ "tagLocalizacao": 7612,
+ "cargoRepresentacaoPartidaria": "Vice-Líder do Governo, Vice-Líder da Bancada Feminina",
+ "liderancas": [
+  {
+   "categoria": "GOVERNO",
+   "cargo": "Vice-Líder",
+   "nomeRepresentacao": "Liderança do Governo"
+  },
+  {
+   "categoria": "GRUPO_PARLAMENTAR",
+   "cargo": "Vice-Líder",
+   "idRepresentacao": 1,
+   "nomeRepresentacao": "Bancada Feminina"
+  }
+ ],
+ "sexo": "F",
+ "situacao": "Em exercício",
+ "inicioSituacao": {
+  "@class": "sql-timestamp",
+  "$": "2025-02-03"
+ },
+ "tipoMandato": "Efetivo",
+ "nomeServidor": "ANA CAROLINA PINTO CARAM GUIMARÃES",
+ "naturalidadeMunicipio": "Belo Horizonte",
+ "naturalidadeUf": "MG",
+ "dataNascimento": "21/07/1985",
+ "apresentarEmail": "G",
+ "atividadeProfissional": "Advogada",
+ "codigoSituacao": 1,
+ "emails": [
+  {
+   "tipo": "1",
+   "endereco": "dep.carol.caram"
+  }
+ ],
+ "vidaProfissionalPolitica": "Advogada com mestrado em Direito pela PUC Minas. Foi integrante da Comissão de Direitos do Consumidor e\r\nconselheira da seccional mineira da Ordem dos Advogados do Brasil (OAB-MG). Foi presidente da Fundação de Ensino de Contagem, procuradora-geral do município de Sabará, diretora do Procon de Contagem,\r\ndiretora do Departamento de Proteção e Defesa do Consumidor do Ministério da Justiça e Secretária Nacional do Consumidor. Atuou como professora de Direito na PUC Minas e na Fumec e como comentarista da TV Alterosa e da Rádio Itatiaia.",
+ "filiacoes": [
+  {
+   "dataInicio": {
+    "@class": "sql-timestamp",
+    "$": "2025-01-15"
+   },
+   "dataTermino": {
+    "@class": "sql-timestamp",
+    "$": "2999-12-31"
+   },
+   "partido": {
+    "id": 71,
+    "sigla": "AVANTE"
+   }
+  }
+ ],
+ "enderecos": [
+  {
+   "logradouro": "Rua Rodrigues Caldas",
+   "numero": "79",
+   "complemento": "Edifício Tiradentes  - 18º andar - sala 01",
+   "bairro": "Santo Agostinho",
+   "cep": "30190120",
+   "municipio": {
+    "nome": "Belo Horizonte",
+    "uf": "MG",
+    "codigoIbge9": 310620005
+   },
+   "descTipo": "Gabinete",
+   "telefones": [
+    {
+     "ddd": "31",
+     "numero": "21085016",
+     "fax": "N"
+    },
+    {
+     "ddd": "31",
+     "numero": "21085017",
+     "fax": "S"
+    }
+   ]
+  }
+ ],
+ "legislaturas": [
+  {
+   "numeroLegislatura": 20,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2023-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2027-01-31"
+   },
+   "tipoMandato": "Efetiva",
+   "inicioExercicio": {
+    "@class": "sql-timestamp",
+    "$": "2025-02-03"
+   },
+   "terminoExercicio": {
+    "@class": "sql-timestamp",
+    "$": "2027-01-31"
+   },
+   "deputadoAfastado": "Fábio Avelar",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2025-02-03"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2027-01-31"
+     }
+    }
+   ]
+  }
+ ],
+ "situacaoLegislaturas": "20&ordf; - 2023-2027- Efetiva<br/>de 03/02/2025 até 31/01/2027 (Em exercício em 03/02/2025) <br/><br />",
+ "partidosLegislatura": "AVANTE desde 15/01/2025  <br/>",
+ "anoEleicaoLegislatura": "2022",
+ "situacaoTerminoLegislatura": "Em exercício"
+}

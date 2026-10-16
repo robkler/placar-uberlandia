@@ -1,0 +1,137 @@
+{
+ "id": 26145,
+ "nome": "Betão",
+ "partido": "PT",
+ "tagLocalizacao": 3899,
+ "sexo": "M",
+ "situacao": "Em exercício",
+ "inicioSituacao": {
+  "@class": "sql-timestamp",
+  "$": "2023-02-01"
+ },
+ "tipoMandato": "Efetivo",
+ "nomeServidor": "ROBERTO CUPOLILLO",
+ "naturalidadeMunicipio": "Juiz de Fora",
+ "naturalidadeUf": "MG",
+ "dataNascimento": "5/9/1964",
+ "atividadeProfissional": "Professor",
+ "codigoSituacao": 1,
+ "partidoEleicao": "PT",
+ "emails": [
+  {
+   "tipo": "1",
+   "endereco": "dep.betao"
+  }
+ ],
+ "vidaProfissionalPolitica": "Foi vereador na Câmara Municipal de Juiz de Fora (Mata), onde ingressou em 2009, tendo exercido três mandatos consecutivos. Formado em geografia, é professor efetivo no Estado, na rede municipal de Juiz de Fora e também atua na rede privada. Foi integrante do Diretório Acadêmico (DA) de Geografia e do Diretório Central dos Estudantes (DCE) da Universidade Federal de Juiz de Fora (UFJF). Grande parte de sua trajetória política foi no Sindicato dos Professores (Sinpro), no qual permaneceu de 1988 a 1995 e retornou em 1998. Cumpriu dois mandatos na Confederação Nacional dos Trabalhadores em Estabelecimentos de Ensino (Contee), entidade que reúne professores e auxiliares de administração de escolas privadas, e dirigiu a Central Única dos Trabalhadores na Zona da Mata e em Minas Gerais. Desde 1986, é filiado ao Partido dos Trabalhadores (PT), e é membro do Diálogo e Ação Petista (DAP). Presidiu o partido entre 1990 e 1991.",
+ "atuacaoParlamentar": "Assume, em 2023, seu segundo mandato consecutivo na Assembleia Legislativa de Minas Gerais. Na 19ª Legislatura, foi vice-presidente da Comissão de Educação, Ciência e Tecnologia, tendo também atuado como membro da Comissão do Trabalho, da Previdência e da Assistência Social e da Comissão Extraordinária das Privatizações.",
+ "candidaturas": [
+  {
+   "legislatura": 19,
+   "numeroCandidato": 13613
+  },
+  {
+   "legislatura": 20,
+   "numeroCandidato": 13613
+  }
+ ],
+ "filiacoes": [
+  {
+   "dataInicio": {
+    "@class": "sql-timestamp",
+    "$": "2018-10-07"
+   },
+   "dataTermino": {
+    "@class": "sql-timestamp",
+    "$": "2999-12-31"
+   },
+   "partido": {
+    "id": 13,
+    "sigla": "PT"
+   }
+  }
+ ],
+ "enderecos": [
+  {
+   "logradouro": "Rua Rodrigues Caldas",
+   "numero": "79",
+   "complemento": "Edifício Tiradentes - 22º andar - sala 2",
+   "bairro": "Santo Agostinho",
+   "cep": "30190120",
+   "municipio": {
+    "nome": "Belo Horizonte",
+    "uf": "MG",
+    "codigoIbge9": 310620005
+   },
+   "descTipo": "Gabinete",
+   "telefones": [
+    {
+     "ddd": "31",
+     "numero": "21085045",
+     "fax": "S"
+    },
+    {
+     "ddd": "31",
+     "numero": "21085050",
+     "fax": "N"
+    }
+   ]
+  }
+ ],
+ "legislaturas": [
+  {
+   "numeroLegislatura": 19,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2019-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2023-01-31"
+   },
+   "tipoMandato": "Efetivo",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2019-02-01"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2023-01-31"
+     }
+    }
+   ]
+  },
+  {
+   "numeroLegislatura": 20,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2023-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2027-01-31"
+   },
+   "tipoMandato": "Efetivo",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2023-02-01"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2027-01-31"
+     }
+    }
+   ]
+  }
+ ],
+ "situacaoLegislaturas": "19&ordf; - 2019-2023- Efetivo<br/>de 01/02/2019 até 31/01/2023 (Em exercício em 01/02/2019) <br/><br />20&ordf; - 2023-2027- Efetivo<br/>de 01/02/2023 até 31/01/2027 (Em exercício em 01/02/2023) <br/><br />",
+ "partidosLegislatura": "PT    <br/>",
+ "anoEleicaoLegislatura": "2022",
+ "situacaoTerminoLegislatura": "Em exercício"
+}

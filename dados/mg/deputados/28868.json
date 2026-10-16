@@ -1,0 +1,138 @@
+{
+ "id": 28868,
+ "nome": "Grego da Fundação",
+ "partido": "UNIÃO",
+ "tagLocalizacao": 5960,
+ "sexo": "M",
+ "situacao": "Em exercício",
+ "inicioSituacao": {
+  "@class": "sql-timestamp",
+  "$": "2023-02-01"
+ },
+ "tipoMandato": "Efetivo",
+ "nomeServidor": "IOANNIS KONSTANTINOS GRAMMATIKOPOULOS",
+ "naturalidadeMunicipio": "Muriaé",
+ "naturalidadeUf": "MG",
+ "dataNascimento": "15/04/1968",
+ "apresentarEmail": "G",
+ "atividadeProfissional": "Empresário",
+ "codigoSituacao": 1,
+ "partidoEleicao": "PMN",
+ "cargoAssembleia": "Ouvidor",
+ "emails": [
+  {
+   "tipo": "1",
+   "endereco": "dep.grego"
+  }
+ ],
+ "vidaProfissionalPolitica": "É filho de imigrante grego e de uma mineira de Muriaé (Zona da Mata). Foi eleito prefeito do município em 2016, sendo o mais bem votado da história da cidade. É também voluntário do setor de humanização do Hospital do Câncer de Muriaé, da Fundação Cristiano Varella, que atende mais de 3 milhões de pessoas em quase 200 municípios. Em sua atuação parlamentar, pretende priorizar a área da saúde.",
+ "atuacaoParlamentar": "Assume, em 2023, seu primeiro mandato como deputado estadual na Assembleia Legislativa de Minas Gerais. Em 2025, foi designado pelo presidente da ALMG para exercer as funções de ouvidor-geral, com mandato de 2 anos.",
+ "candidaturas": [
+  {
+   "legislatura": 20,
+   "numeroCandidato": 33033
+  }
+ ],
+ "filiacoes": [
+  {
+   "dataInicio": {
+    "@class": "sql-timestamp",
+    "$": "2022-10-02"
+   },
+   "dataTermino": {
+    "@class": "sql-timestamp",
+    "$": "2025-11-03"
+   },
+   "partido": {
+    "id": 33,
+    "sigla": "PMN"
+   }
+  },
+  {
+   "dataInicio": {
+    "@class": "sql-timestamp",
+    "$": "2025-11-04"
+   },
+   "dataTermino": {
+    "@class": "sql-timestamp",
+    "$": "2026-03-25"
+   },
+   "partido": {
+    "id": 2,
+    "sigla": "MOBILIZA"
+   }
+  },
+  {
+   "dataInicio": {
+    "@class": "sql-timestamp",
+    "$": "2026-03-26"
+   },
+   "dataTermino": {
+    "@class": "sql-timestamp",
+    "$": "2999-12-31"
+   },
+   "partido": {
+    "id": 84,
+    "sigla": "UNIÃO"
+   }
+  }
+ ],
+ "enderecos": [
+  {
+   "logradouro": "Rua Rodrigues Caldas",
+   "numero": "30",
+   "complemento": "Palácio da Inconfidência - 2º andar - conjunto 236",
+   "bairro": "Santo Agostinho",
+   "cep": "30190921",
+   "municipio": {
+    "nome": "Belo Horizonte",
+    "uf": "MG",
+    "codigoIbge9": 310620005
+   },
+   "descTipo": "Gabinete",
+   "telefones": [
+    {
+     "ddd": "31",
+     "numero": "21085110",
+     "fax": "N"
+    },
+    {
+     "ddd": "31",
+     "numero": "21085113",
+     "fax": "S"
+    }
+   ]
+  }
+ ],
+ "legislaturas": [
+  {
+   "numeroLegislatura": 20,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2023-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2027-01-31"
+   },
+   "tipoMandato": "Efetivo",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2023-02-01"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2027-01-31"
+     }
+    }
+   ]
+  }
+ ],
+ "situacaoLegislaturas": "20&ordf; - 2023-2027- Efetivo<br/>de 01/02/2023 até 31/01/2027 (Em exercício em 01/02/2023) <br/><br />",
+ "partidosLegislatura": "PMN   até 03/11/2025<br/>MOBILIZA de 04/11/2025 até 25/03/2026<br/>UNIÃO desde 26/03/2026  <br/>",
+ "anoEleicaoLegislatura": "2022",
+ "situacaoTerminoLegislatura": "Em exercício"
+}

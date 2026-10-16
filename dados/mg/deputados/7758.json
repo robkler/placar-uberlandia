@@ -1,0 +1,411 @@
+{
+ "id": 7758,
+ "nome": "Carlos Pimenta",
+ "partido": "PSB",
+ "tagLocalizacao": 657,
+ "cargoRepresentacaoPartidaria": "Vice-Líder do Bloco Avança Minas",
+ "liderancas": [
+  {
+   "categoria": "BLOCO",
+   "cargo": "Vice-Líder",
+   "idRepresentacao": 59,
+   "nomeRepresentacao": "Bloco Avança Minas"
+  }
+ ],
+ "dataCargoRepresentacaoPartidaria": {
+  "@class": "sql-timestamp",
+  "$": "2026-04-29"
+ },
+ "sexo": "M",
+ "situacao": "Em exercício",
+ "inicioSituacao": {
+  "@class": "sql-timestamp",
+  "$": "2025-12-04"
+ },
+ "tipoMandato": "Efetivo",
+ "nomeServidor": "CARLOS WELTH PIMENTA DE FIGUEIREDO",
+ "naturalidadeMunicipio": "Belo Horizonte",
+ "naturalidadeUf": "MG",
+ "dataNascimento": "11/10/1954",
+ "atividadeProfissional": "Médico",
+ "codigoSituacao": 1,
+ "partidoEleicao": "PDT",
+ "emails": [
+  {
+   "tipo": "1",
+   "endereco": "dep.carlos.pimenta"
+  }
+ ],
+ "vidaProfissionalPolitica": "Carlos Pimenta retorna à Assembleia Legislativa para seu oitavo mandato de deputado estadual. É médico, formado pela Universidade Estadual de Montes Claros (Unimontes). Na ALMG, foi presidente da Comissão de Saúde entre 1995 e 1996 e entre 2017 e 2021, tendo sido ainda vice-presidente da mesma comissão. Também já integrou as Comissões de Meio Ambiente e Desenvolvimento Sustentável, de Direitos Humanos e de Cultura, entre outras. Entre janeiro de 2011 e maio de 2012, afastou-se do exercício do mandato parlamentar para ocupar o cargo de secretário de Estado de Trabalho e Emprego. Ex-secretário municipal de Governo da Prefeitura de Montes Claros (1991), foi vereador por três mandatos (1977 a 1992) nesta cidade e presidente da Câmara Municipal (1989-1990). As principais regiões de atuação política são o Norte de Minas e os Vales do Jequitinhonha e do Mucuri.",
+ "atuacaoParlamentar": "Reeleito para seu sétimo mandato consecutivo na Assembleia Legislativa de Minas Gerais (ALMG), que integra desde 1995. Na 18ª Legislatura, foi presidente da Comissão de Saúde de março de 2017 até o fim do mandato. Entre fevereiro de 2015 e dezembro de 2016, foi vice-presidente da comissão. Também atuou como membro das Comissões de Direitos Humanos e de Cultura, entre outras.",
+ "condecoracao": "Medalha Alferes Tiradentes; Medalha Santos Dumont; Medalha da Ordem do Mérito Legislativo, Medalha da Ordem do Mérito da Saúde. Cidadão honorário de Capitão Enéas, Mirabela, Japonvar, Matias Cardoso, Mato Verde, Juramento, Varzelândia, Engenheiro Navarro, Manga e São João da Ponte. Cidadão benemérito de Montes Claros. Diploma de Irmão Efetivo da Irmandade Nossa Senhora das Mercês (Santa Casa de Misericórdia de Montes Claros). Eleito deputado estadual mais atuante, em pesquisa popular feita pela Associação Comercial, Industrial e Agropecuária de Capelinha (Aciac). Homenageado pela Associação dos Vereadores da Área Mineira da Adene (Avams), pelo apoio e empenho em prol da instituição.",
+ "candidaturas": [
+  {
+   "legislatura": 14,
+   "numeroCandidato": 45130
+  },
+  {
+   "legislatura": 15,
+   "numeroCandidato": 12369
+  },
+  {
+   "legislatura": 16,
+   "numeroCandidato": 12369
+  },
+  {
+   "legislatura": 17,
+   "numeroCandidato": 12369
+  },
+  {
+   "legislatura": 18,
+   "numeroCandidato": 12369
+  },
+  {
+   "legislatura": 19,
+   "numeroCandidato": 12369
+  }
+ ],
+ "filiacoes": [
+  {
+   "dataInicio": {
+    "@class": "sql-timestamp",
+    "$": "1994-10-03"
+   },
+   "dataTermino": {
+    "@class": "sql-timestamp",
+    "$": "1997-09-30"
+   },
+   "partido": {
+    "id": 22,
+    "sigla": "PL"
+   }
+  },
+  {
+   "dataInicio": {
+    "@class": "sql-timestamp",
+    "$": "1997-10-01"
+   },
+   "dataTermino": {
+    "@class": "sql-timestamp",
+    "$": "2001-10-08"
+   },
+   "partido": {
+    "id": 45,
+    "sigla": "PSDB"
+   }
+  },
+  {
+   "dataInicio": {
+    "@class": "sql-timestamp",
+    "$": "2001-10-09"
+   },
+   "dataTermino": {
+    "@class": "sql-timestamp",
+    "$": "2026-03-30"
+   },
+   "partido": {
+    "id": 12,
+    "sigla": "PDT"
+   }
+  },
+  {
+   "dataInicio": {
+    "@class": "sql-timestamp",
+    "$": "2026-03-31"
+   },
+   "dataTermino": {
+    "@class": "sql-timestamp",
+    "$": "2999-12-31"
+   },
+   "partido": {
+    "id": 40,
+    "sigla": "PSB"
+   }
+  }
+ ],
+ "enderecos": [
+  {
+   "logradouro": "Rua Rodrigues Caldas",
+   "numero": "79",
+   "complemento": "Edifício Tiradentes, 19º andar, sala 02",
+   "bairro": "Santo Agostinho",
+   "cep": "30190921",
+   "municipio": {
+    "nome": "Belo Horizonte",
+    "uf": "MG",
+    "codigoIbge9": 310620005
+   },
+   "descTipo": "Gabinete",
+   "telefones": [
+    {
+     "ddd": "31",
+     "numero": "21087119",
+     "fax": "N"
+    }
+   ]
+  }
+ ],
+ "legislaturas": [
+  {
+   "numeroLegislatura": 13,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "1995-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "1999-01-31"
+   },
+   "tipoMandato": "Efetivo",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "1995-02-01"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "1999-01-31"
+     }
+    }
+   ]
+  },
+  {
+   "numeroLegislatura": 14,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "1999-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2003-01-31"
+   },
+   "tipoMandato": "Efetivo",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "1999-02-01"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2003-01-31"
+     }
+    }
+   ]
+  },
+  {
+   "numeroLegislatura": 15,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2003-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2007-01-31"
+   },
+   "tipoMandato": "Efetivo",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2003-02-01"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2007-01-31"
+     }
+    }
+   ]
+  },
+  {
+   "numeroLegislatura": 16,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2007-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2011-01-31"
+   },
+   "tipoMandato": "Efetivo",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2007-02-01"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2011-01-02"
+     }
+    },
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2011-01-03"
+     },
+     "status": "Afastamento",
+     "motivo": "Ocupar cargo",
+     "complemento": "Secretário de Estado de Trabalho e Emprego",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2011-01-28"
+     }
+    },
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2011-01-29"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2011-01-31"
+     }
+    }
+   ]
+  },
+  {
+   "numeroLegislatura": 17,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2011-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2015-01-31"
+   },
+   "tipoMandato": "Efetivo",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2011-02-01"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2011-02-02"
+     }
+    },
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2011-02-03"
+     },
+     "status": "Afastamento",
+     "motivo": "Ocupar cargo",
+     "complemento": "Secretário de Estado de Trabalho e Emprego",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2012-05-21"
+     }
+    },
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2012-05-22"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2015-01-31"
+     }
+    }
+   ]
+  },
+  {
+   "numeroLegislatura": 18,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2015-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2019-01-31"
+   },
+   "tipoMandato": "Efetivo",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2015-02-01"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2019-01-31"
+     }
+    }
+   ]
+  },
+  {
+   "numeroLegislatura": 19,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2019-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2023-01-31"
+   },
+   "tipoMandato": "Efetivo",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2019-02-01"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2023-01-31"
+     }
+    }
+   ]
+  },
+  {
+   "numeroLegislatura": 20,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2023-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2027-01-31"
+   },
+   "tipoMandato": "Efetivo",
+   "inicioExercicio": {
+    "@class": "sql-timestamp",
+    "$": "2025-12-04"
+   },
+   "terminoExercicio": {
+    "@class": "sql-timestamp",
+    "$": "2027-01-31"
+   },
+   "deputadoAfastado": "Alencar da Silveira Jr.",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2025-12-04"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2027-01-31"
+     }
+    }
+   ]
+  }
+ ],
+ "situacaoLegislaturas": "13&ordf; - 1995-1999- Efetivo<br/>de 01/02/1995 até 31/01/1999 (Em exercício em 01/02/1995) <br/><br />14&ordf; - 1999-2003- Efetivo<br/>de 01/02/1999 até 31/01/2003 (Em exercício em 01/02/1999) <br/><br />15&ordf; - 2003-2007- Efetivo<br/>de 01/02/2003 até 31/01/2007 (Em exercício em 01/02/2003) <br/><br />16&ordf; - 2007-2011- Efetivo<br/>de 01/02/2007 até 02/01/2011 (Em exercício em 01/02/2007) <br/>de 03/01/2011 até 28/01/2011 (Afastamento em 03/01/2011 - Ocupar cargo - Secretário de Estado de Trabalho e Emprego) <br/>de 29/01/2011 até 31/01/2011 (Em exercício em 29/01/2011) <br/><br />17&ordf; - 2011-2015- Efetivo<br/>de 01/02/2011 até 02/02/2011 (Em exercício em 01/02/2011) <br/>de 03/02/2011 até 21/05/2012 (Afastamento em 03/02/2011 - Ocupar cargo - Secretário de Estado de Trabalho e Emprego) <br/>de 22/05/2012 até 31/01/2015 (Em exercício em 22/05/2012) <br/><br />18&ordf; - 2015-2019- Efetivo<br/>de 01/02/2015 até 31/01/2019 (Em exercício em 01/02/2015) <br/><br />19&ordf; - 2019-2023- Efetivo<br/>de 01/02/2019 até 31/01/2023 (Em exercício em 01/02/2019) <br/><br />20&ordf; - 2023-2027- Efetivo<br/>de 04/12/2025 até 31/01/2027 (Em exercício em 04/12/2025) <br/><br />",
+ "partidosLegislatura": "PDT   até 30/03/2026<br/>PSB desde 31/03/2026  <br/>",
+ "anoEleicaoLegislatura": "2022",
+ "situacaoTerminoLegislatura": "Em exercício"
+}

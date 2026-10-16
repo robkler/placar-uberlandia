@@ -1,0 +1,433 @@
+{
+ "id": 7762,
+ "nome": "Gil Pereira",
+ "partido": "PSD",
+ "tagLocalizacao": 680,
+ "sexo": "M",
+ "situacao": "Em exercício",
+ "inicioSituacao": {
+  "@class": "sql-timestamp",
+  "$": "2023-02-01"
+ },
+ "tipoMandato": "Efetivo",
+ "nomeServidor": "GILBERTO WAGNER MARTINS PEREIRA ANTUNES",
+ "naturalidadeMunicipio": "Montes Claros",
+ "naturalidadeUf": "MG",
+ "dataNascimento": "13/06/1961",
+ "atividadeProfissional": "Administrador de empresas",
+ "codigoSituacao": 1,
+ "partidoEleicao": "PSD",
+ "emails": [
+  {
+   "tipo": "1",
+   "endereco": "dep.gil.pereira"
+  }
+ ],
+ "vidaProfissionalPolitica": "Bacharel em Administração com especialização em Comércio Exterior, iniciou a vida pública como vereador em Montes Claros em 1988, quando presidiu a comissão que elaborou a Lei Orgânica do município (1989/90). Foi secretário municipal de Governo na gestão do Prefeito Mário Ribeiro (1991/1992) e presidente da Câmara Municipal (1993/1994). É um dos deputados estaduais mais bem votados na história do Norte de Minas, tendo sido eleito, em 1994, com 26.345 votos; reeleito em 1998, com 56.540 votos; em 2002, com 74.502 votos; em 2006, com 100.442 votos e em 2010, com 95.450 votos; e, em 2014, com 104.730 votos. Em 2011, foi chamado pelo então governador Antonio Anastasia para ocupar o cargo de secretário de Estado de Desenvolvimento e Integração do Norte e Nordeste de Minas (Sedinor), no qual permaneceu até abril de 2014, quando retornou à Assembleia. As principais regiões de atuação política são o Norte de Minas e o Vale do Jequitinhonha.",
+ "atuacaoParlamentar": "Reeleito para seu oitavo mandato consecutivo na Assembleia de Minas, onde ingressou em 1995. Na 19ª Legislatura, foi membro da Comissão de Meio Ambiente e Desenvolvimento Sustentável. Funções na 18ª Legislatura (2015/2019): presidente da Comissão de Minas e Energia e membro efetivo da Comissão do Trabalho, da Previdência e da Ação Social. Funções na 17ª Legislatura: foi membro efetivo das Comissões de Turismo, Indústria, Comércio e Cooperativismo e de Defesa dos Direitos da Pessoa com Deficiência. Eleito deputado estadual para o 1º mandato em 1994, foi líder da Minoria e presidente da Comissão de Ciência e Tecnologia (1995/96) e da Comissão de Turismo, Indústria e Comércio (1997/98). Foi também presidente da Comissão de Assuntos do Mercosul. Reeleito deputado em 1998, foi 2º secretário da Mesa da ALMG (1999/2000); vice líder do Governo Itamar Franco (2001/2002); representante da ALMG no Conselho de Industrialização - Coind (1999 a 2002); e vice presidente da Comissão de Turismo. Em seu terceiro mandato, foi presidente das comissões de Transporte, Comunicação e Obras Públicas (2003/2004), de Política Agropecuária (2005) e de Cultura (2005/2006). Foi ainda coordenador da Cipe São Francisco e líder da Bancada do PP na ALMG (2003 a 2007). Reeleito para o 4° mandato em 2006, foi indicado vice líder do Governo Aécio Neves (2007 a 2010). No ano de 2007, criou e presidiu a Frente Parlamentar para Implantação da Universidade Federal do Norte de Minas. Em abril de 2010, foi novamente indicado para ser o vice líder do Governo Anastasia na ALMG. Foi presidente da Comissão Interestadual Parlamentar de Estudos (Cipe) São Francisco (2007 a 2009); relator da Comissão Especial de Aeroportos (2008); presidente da Comissão Especial do Pré-Sal (2009); presidente da Cipe da Mineração (2009/2010); membro da Comissão de Meio Ambiente e Recursos Naturais (2007 a 2010) e da Comissão de Minas e Energia (2008 a 2010). Em 2008, liderou, como vice-presidente da Comissão de Minas e Energia, os trabalhos para a exploração do gás natural na Bacia do São Francisco, sendo o primeiro poço perfurado em novembro de 2010. Foi presidente da Comissão de Política Agropecuária e Agroindustrial (2009); membro da Comissão de Defesa do Consumidor e do Contribuinte   (2009/2010). Em 03 de outubro de 2010, reelegeu-se deputado estadual. Em fevereiro de 2011, licenciou-se para ocupar o cargo de secretário de Estado a convite do governador Antonio Anastasia, no qual permaneceu até abril de 2014, quando retornou à Assembleia.",
+ "condecoracao": "Medalha Alferes Tiradentes (1995); Medalha da Ordem do Mérito Legislativo/Mérito Especial (1995/96); Medalha da Inconfidência/Honra (1997); Medalha Santos Dumont/Prata (1997); Medalha Santos Dumont/Ouro (1999); Medalha 500 Anos - Rio São Francisco (2001).",
+ "candidaturas": [
+  {
+   "legislatura": 14,
+   "numeroCandidato": 11210
+  },
+  {
+   "legislatura": 15,
+   "numeroCandidato": 11210
+  },
+  {
+   "legislatura": 16,
+   "numeroCandidato": 11210
+  },
+  {
+   "legislatura": 17,
+   "numeroCandidato": 11210
+  },
+  {
+   "legislatura": 18,
+   "numeroCandidato": 11210
+  },
+  {
+   "legislatura": 19,
+   "numeroCandidato": 11210
+  },
+  {
+   "legislatura": 20,
+   "numeroCandidato": 55210
+  }
+ ],
+ "filiacoes": [
+  {
+   "dataInicio": {
+    "@class": "sql-timestamp",
+    "$": "1994-10-03"
+   },
+   "dataTermino": {
+    "@class": "sql-timestamp",
+    "$": "2018-09-10"
+   },
+   "partido": {
+    "id": 11,
+    "sigla": "PP"
+   }
+  },
+  {
+   "dataInicio": {
+    "@class": "sql-timestamp",
+    "$": "2018-09-11"
+   },
+   "dataTermino": {
+    "@class": "sql-timestamp",
+    "$": "2020-03-23"
+   },
+   "partido": {
+    "id": 73,
+    "sigla": "PP"
+   }
+  },
+  {
+   "dataInicio": {
+    "@class": "sql-timestamp",
+    "$": "2020-03-27"
+   },
+   "dataTermino": {
+    "@class": "sql-timestamp",
+    "$": "2999-12-31"
+   },
+   "partido": {
+    "id": 41,
+    "sigla": "PSD"
+   }
+  }
+ ],
+ "enderecos": [
+  {
+   "logradouro": "Rua Rodrigues Caldas",
+   "numero": "30",
+   "complemento": "Palácio da Inconfidência - 1º andar - conjunto 107",
+   "bairro": "Sto. Agostinho",
+   "cep": "30190921",
+   "municipio": {
+    "nome": "Belo Horizonte",
+    "uf": "MG",
+    "codigoIbge9": 310620005
+   },
+   "descTipo": "Gabinete",
+   "telefones": [
+    {
+     "ddd": "31",
+     "numero": "21085577",
+     "fax": "N"
+    },
+    {
+     "ddd": "31",
+     "numero": "21085578",
+     "fax": "S"
+    }
+   ]
+  },
+  {
+   "logradouro": "Rua Dom Pedro II",
+   "numero": "841",
+   "bairro": "Centro",
+   "cep": "39400058",
+   "municipio": {
+    "nome": "Montes Claros",
+    "uf": "MG",
+    "codigoIbge9": 314330005
+   },
+   "descTipo": "Escritório Político",
+   "telefones": [
+    {
+     "ddd": "038",
+     "numero": "32124650",
+     "fax": "N"
+    },
+    {
+     "ddd": "038",
+     "numero": "32124658",
+     "fax": "N"
+    }
+   ]
+  },
+  {
+   "logradouro": "Rua Rodrigues Caldas",
+   "numero": "30",
+   "complemento": "Palácio da Inconfidência - 1º andar - conjunto 107",
+   "bairro": "Santo Agostinho",
+   "cep": "30190921",
+   "municipio": {
+    "nome": "Belo Horizonte",
+    "uf": "MG",
+    "codigoIbge9": 310620005
+   },
+   "descTipo": "Gabinete",
+   "telefones": [
+    {
+     "ddd": "31",
+     "numero": "21085577",
+     "fax": "N"
+    },
+    {
+     "ddd": "31",
+     "numero": "21085578",
+     "fax": "S"
+    }
+   ]
+  }
+ ],
+ "legislaturas": [
+  {
+   "numeroLegislatura": 13,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "1995-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "1999-01-31"
+   },
+   "tipoMandato": "Efetivo",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "1995-02-01"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "1999-01-31"
+     }
+    }
+   ]
+  },
+  {
+   "numeroLegislatura": 14,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "1999-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2003-01-31"
+   },
+   "tipoMandato": "Efetivo",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "1999-02-01"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2003-01-31"
+     }
+    }
+   ]
+  },
+  {
+   "numeroLegislatura": 15,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2003-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2007-01-31"
+   },
+   "tipoMandato": "Efetivo",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2003-02-01"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2007-01-31"
+     }
+    }
+   ]
+  },
+  {
+   "numeroLegislatura": 16,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2007-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2011-01-31"
+   },
+   "tipoMandato": "Efetivo",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2007-02-01"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2011-01-02"
+     }
+    },
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2011-01-03"
+     },
+     "status": "Afastamento",
+     "motivo": "Ocupar cargo",
+     "complemento": "Secretário de Estado de Desenvolvimento e Integração do Norte e Nordeste de Minas Gerais",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2011-01-28"
+     }
+    },
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2011-01-29"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2011-01-31"
+     }
+    }
+   ]
+  },
+  {
+   "numeroLegislatura": 17,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2011-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2015-01-31"
+   },
+   "tipoMandato": "Efetivo",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2011-02-01"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2011-02-02"
+     }
+    },
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2011-02-03"
+     },
+     "status": "Afastamento",
+     "motivo": "Ocupar cargo",
+     "complemento": "Secretário de Estado de Desenvolvimento e Integração do Norte e Nordeste de Minas Gerais",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2014-04-03"
+     }
+    },
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2014-04-04"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2015-01-31"
+     }
+    }
+   ]
+  },
+  {
+   "numeroLegislatura": 18,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2015-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2019-01-31"
+   },
+   "tipoMandato": "Efetivo",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2015-02-01"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2019-01-31"
+     }
+    }
+   ]
+  },
+  {
+   "numeroLegislatura": 19,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2019-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2023-01-31"
+   },
+   "tipoMandato": "Efetivo",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2019-02-01"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2023-01-31"
+     }
+    }
+   ]
+  },
+  {
+   "numeroLegislatura": 20,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2023-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2027-01-31"
+   },
+   "tipoMandato": "Efetivo",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2023-02-01"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2027-01-31"
+     }
+    }
+   ]
+  }
+ ],
+ "situacaoLegislaturas": "13&ordf; - 1995-1999- Efetivo<br/>de 01/02/1995 até 31/01/1999 (Em exercício em 01/02/1995) <br/><br />14&ordf; - 1999-2003- Efetivo<br/>de 01/02/1999 até 31/01/2003 (Em exercício em 01/02/1999) <br/><br />15&ordf; - 2003-2007- Efetivo<br/>de 01/02/2003 até 31/01/2007 (Em exercício em 01/02/2003) <br/><br />16&ordf; - 2007-2011- Efetivo<br/>de 01/02/2007 até 02/01/2011 (Em exercício em 01/02/2007) <br/>de 03/01/2011 até 28/01/2011 (Afastamento em 03/01/2011 - Ocupar cargo - Secretário de Estado de Desenvolvimento e Integração do Norte e Nordeste de Minas Gerais) <br/>de 29/01/2011 até 31/01/2011 (Em exercício em 29/01/2011) <br/><br />17&ordf; - 2011-2015- Efetivo<br/>de 01/02/2011 até 02/02/2011 (Em exercício em 01/02/2011) <br/>de 03/02/2011 até 03/04/2014 (Afastamento em 03/02/2011 - Ocupar cargo - Secretário de Estado de Desenvolvimento e Integração do Norte e Nordeste de Minas Gerais) <br/>de 04/04/2014 até 31/01/2015 (Em exercício em 04/04/2014) <br/><br />18&ordf; - 2015-2019- Efetivo<br/>de 01/02/2015 até 31/01/2019 (Em exercício em 01/02/2015) <br/><br />19&ordf; - 2019-2023- Efetivo<br/>de 01/02/2019 até 31/01/2023 (Em exercício em 01/02/2019) <br/><br />20&ordf; - 2023-2027- Efetivo<br/>de 01/02/2023 até 31/01/2027 (Em exercício em 01/02/2023) <br/><br />",
+ "partidosLegislatura": "PSD    <br/>",
+ "anoEleicaoLegislatura": "2022",
+ "situacaoTerminoLegislatura": "Em exercício"
+}

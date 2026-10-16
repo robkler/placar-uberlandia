@@ -1,0 +1,122 @@
+{
+ "id": 28866,
+ "nome": "Eduardo Azevedo",
+ "partido": "PL",
+ "tagLocalizacao": 5958,
+ "sexo": "M",
+ "situacao": "Em exercício",
+ "inicioSituacao": {
+  "@class": "sql-timestamp",
+  "$": "2023-02-01"
+ },
+ "tipoMandato": "Efetivo",
+ "nomeServidor": "EDUARDO HENRIQUE DE AZEVÊDO",
+ "naturalidadeMunicipio": "Divinópolis",
+ "naturalidadeUf": "MG",
+ "dataNascimento": "03/05/1979",
+ "apresentarEmail": "A",
+ "codigoSituacao": 1,
+ "partidoEleicao": "PSC",
+ "emails": [
+  {
+   "tipo": "1",
+   "endereco": "dep.eduardo.azevedo"
+  }
+ ],
+ "vidaProfissionalPolitica": "Foi vereador em Divinópolis (Centro-oeste), eleito em 2020. Éengenheiro civil, comerciante e irmão de Cleitinho Azevedo, deputado eleito para a 19ª Legislatura na ALMG e eleito senador por Minas Gerais em 2022. Cristão e conservador, se autodefine defensor da família e da vida. Os compromissos assumidos em campanha são fortalecer os valores cristãos, lutar pela redução de impostos, pelo livre mercado e contra as regalias sustentadas pelo dinheiro público.",
+ "atuacaoParlamentar": "Assume, em 2023, seu primeiro mandato como deputado estadual na Assembleia Legislativa de Minas Gerais.",
+ "candidaturas": [
+  {
+   "legislatura": 20,
+   "numeroCandidato": 20200
+  }
+ ],
+ "filiacoes": [
+  {
+   "dataInicio": {
+    "@class": "sql-timestamp",
+    "$": "2022-10-02"
+   },
+   "dataTermino": {
+    "@class": "sql-timestamp",
+    "$": "2023-10-09"
+   },
+   "partido": {
+    "id": 20,
+    "sigla": "PSC"
+   }
+  },
+  {
+   "dataInicio": {
+    "@class": "sql-timestamp",
+    "$": "2023-10-10"
+   },
+   "dataTermino": {
+    "@class": "sql-timestamp",
+    "$": "2999-12-31"
+   },
+   "partido": {
+    "id": 89,
+    "sigla": "PL"
+   }
+  }
+ ],
+ "enderecos": [
+  {
+   "logradouro": "Rua Rodrigues Caldas",
+   "numero": "79",
+   "complemento": "Edifício Tiradentes - 21º andar - sala 1",
+   "bairro": "Santo Agostinho",
+   "cep": "30190120",
+   "municipio": {
+    "nome": "Belo Horizonte",
+    "uf": "MG",
+    "codigoIbge9": 310620005
+   },
+   "descTipo": "Gabinete",
+   "telefones": [
+    {
+     "ddd": "31",
+     "numero": "21085955",
+     "fax": "N"
+    },
+    {
+     "ddd": "31",
+     "numero": "21085956",
+     "fax": "S"
+    }
+   ]
+  }
+ ],
+ "legislaturas": [
+  {
+   "numeroLegislatura": 20,
+   "inicioLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2023-02-01"
+   },
+   "terminoLegislatura": {
+    "@class": "sql-timestamp",
+    "$": "2027-01-31"
+   },
+   "tipoMandato": "Efetivo",
+   "situacoes": [
+    {
+     "dataInicio": {
+      "@class": "sql-timestamp",
+      "$": "2023-02-01"
+     },
+     "status": "Em exercício",
+     "dataTermino": {
+      "@class": "sql-timestamp",
+      "$": "2027-01-31"
+     }
+    }
+   ]
+  }
+ ],
+ "situacaoLegislaturas": "20&ordf; - 2023-2027- Efetivo<br/>de 01/02/2023 até 31/01/2027 (Em exercício em 01/02/2023) <br/><br />",
+ "partidosLegislatura": "PSC   até 09/10/2023<br/>PL desde 10/10/2023  <br/>",
+ "anoEleicaoLegislatura": "2022",
+ "situacaoTerminoLegislatura": "Em exercício"
+}

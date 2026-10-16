@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<meta name="description" content="Vereadores e Prefeitura de Uberlândia: presença, como cada vereador votou, patrimônio e campanha declarados ao TSE, e as contas da cidade.">
+<meta name="description" content="Vereadores de Uberlândia, deputados estaduais de Minas e deputados federais: presença, como cada vereador votou, patrimônio e campanha declarados ao TSE, e as contas da cidade.">
 <title>Placar de Uberlândia</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,400..800&family=Public+Sans:wght@400;500;600&display=swap">
@@ -169,6 +169,7 @@ img{max-width:100%}
   <span class="marca">Placar</span>
   <div class="nivel" role="tablist" aria-label="Escolha o que ver">
     <button role="tab" id="n-udi" data-nivel="udi" aria-selected="true">Uberlândia</button>
+    <button role="tab" id="n-mg" data-nivel="mg" aria-selected="false">Minas Gerais</button>
     <button role="tab" id="n-fed" data-nivel="fed" aria-selected="false">Câmara dos Deputados</button>
   </div>
 </div></div>
@@ -222,6 +223,48 @@ img{max-width:100%}
 <footer class="wrap">
   <p><b>Como os números foram calculados.</b> Presença: a Câmara publica uma lista de frequência, mas ela não está sendo atualizada (vereadores que votaram aparecem com "falta"). Por isso a presença aqui é medida pelas votações nominais: o vereador conta como presente na reunião em que registrou pelo menos um voto (sim, não, abstenção ou presidindo a mesa). Reuniões sem nenhuma votação nominal ficam de fora. "Votou contra a maioria" = votou sim quando a maioria votou não, ou o contrário. Em votações de veto e de parecer contrário da Comissão de Legislação, Justiça e Redação (CLJR), "sim" e "não" se referem ao veto ou ao parecer, não ao projeto. Proposições: total apresentado em 2025 e 2026, de todos os tipos; indicações e requerimentos são pedidos formais à Prefeitura e costumam ser a maior parte. Patrimônio e campanha: declarações e prestação de contas entregues ao TSE na eleição de 2024. Finanças da Prefeitura: Declaração de Contas Anuais (DCA) entregue ao Tesouro Nacional; despesas liquidadas; população estimada pelo IBGE.</p>
   <p>Fontes: <a href="https://www.camarauberlandia.mg.gov.br/vereadores" target="_blank" rel="noopener">Câmara Municipal de Uberlândia</a>, <a href="https://dadosabertos.tse.jus.br" target="_blank" rel="noopener">TSE Dados Abertos</a>, <a href="https://siconfi.tesouro.gov.br" target="_blank" rel="noopener">Tesouro Nacional (SICONFI)</a> e IBGE. Coletado em <span id="coleta">…</span>. Código e metodologia: scripts em /scripts deste projeto.</p>
+</footer>
+</div>
+<div id="lvl-mg" hidden>
+<header class="top wrap">
+  <div class="eyebrow">Minas Gerais · Assembleia Legislativa e Governo do Estado</div>
+  <h1>Minas Gerais</h1>
+  <p class="lede">Os 77 deputados estaduais da Assembleia Legislativa (ALMG) e o Governo do Estado: o que cada deputado apresentou e aprovou, quanto usou da verba indenizatória, quantos votos teve em Uberlândia, e como o Estado arrecada e gasta. Dados oficiais atualizados em <span id="m-dt">…</span>.</p>
+  <div class="aviso" id="m-carregando" role="status">Carregando dados de Minas Gerais…</div>
+  <div class="board" id="m-board"></div>
+  <nav class="tabs" role="tablist">
+    <button role="tab" id="t-est" aria-selected="true" data-mtab="est">Deputados estaduais</button>
+    <button role="tab" id="t-gov" aria-selected="false" data-mtab="gov">Governo do Estado</button>
+  </nav>
+</header>
+
+<section id="p-est">
+  <div class="bar"><div class="wrap">
+    <input id="mq" type="search" placeholder="Buscar deputado(a) estadual…" aria-label="Buscar deputado estadual">
+    <select id="mpt" aria-label="Partido"><option value="">Todos os partidos</option></select>
+    <select id="mso" aria-label="Ordenar">
+      <option value="local-desc">Mais votados em Uberlândia</option>
+      <option value="votos-desc">Mais votados em MG</option>
+      <option value="props-desc">Mais projetos apresentados</option>
+      <option value="leis-desc">Mais projetos que viraram lei</option>
+      <option value="verba-desc">Maior uso da verba indenizatória</option>
+      <option value="nome">Nome (A–Z)</option>
+    </select>
+    <span class="count num" id="mcount"></span>
+  </div></div>
+  <main class="wrap">
+    <div class="panel" id="m-plen"></div>
+    <div class="grid" id="mgrid"></div>
+  </main>
+</section>
+
+<section id="p-gov" hidden>
+  <main class="wrap" id="mgov"></main>
+</section>
+
+<footer class="wrap">
+  <p><b>Como os números foram calculados.</b> A ALMG não publica em dados abertos a presença nem o voto individual dos deputados, por isso esses números não aparecem aqui. Reuniões de Plenário: reuniões ordinárias e extraordinárias marcadas e quantas de fato aconteceram, segundo a própria ALMG (uma reunião não acontece, por exemplo, quando falta quórum). Projetos: PL, PLC e PEC publicados desde 2023 em que o deputado aparece como autor; "viraram lei" = situação "Transformado em norma jurídica". Verba indenizatória: valores reembolsados mês a mês desde fevereiro de 2023. Votos e patrimônio: eleição de 2022 (TSE). Contas do Estado: Declaração de Contas Anuais entregue ao Tesouro Nacional; despesas liquidadas; população estimada pelo IBGE.</p>
+  <p>Fontes: <a href="https://dadosabertos.almg.gov.br" target="_blank" rel="noopener">Dados Abertos da ALMG</a>, <a href="https://dadosabertos.tse.jus.br" target="_blank" rel="noopener">TSE Dados Abertos</a>, <a href="https://siconfi.tesouro.gov.br" target="_blank" rel="noopener">Tesouro Nacional (SICONFI)</a> e IBGE. Coletado em <span id="m-coleta">…</span>.</p>
 </footer>
 </div>
 <div id="lvl-fed" hidden>
@@ -285,18 +328,20 @@ window.openSheet=function(html){last=last||document.activeElement;$('#sheet').in
 window.closeSheet=function(){$('#sheet').hidden=true;$('#scrim').hidden=true;document.body.style.overflow='';if(last)last.focus();last=null};
 $('#scrim').addEventListener('click',window.closeSheet);
 document.addEventListener('keydown',e=>{if(e.key==='Escape'&&!$('#sheet').hidden)window.closeSheet()});
-const FED=['dep','fvot'];
+const FED=['dep','fvot'], MG=['est','gov'];
 window.mostrarNivel=function(n,hash){
   document.querySelectorAll('[data-nivel]').forEach(b=>b.setAttribute('aria-selected',b.dataset.nivel===n));
-  $('#lvl-udi').hidden=n!=='udi';$('#lvl-fed').hidden=n!=='fed';
-  if(n==='fed'){window.carregarFederal&&window.carregarFederal();const t=FED.includes(hash)?hash:'dep';window.fTab&&window.fTab(t);try{history.replaceState(null,'','#'+t)}catch(e){}}
-  else{try{if(FED.includes((location.hash||'').slice(1)))history.replaceState(null,'','#ver')}catch(e){}}
+  $('#lvl-udi').hidden=n!=='udi';$('#lvl-fed').hidden=n!=='fed';$('#lvl-mg').hidden=n!=='mg';
+  const set=h=>{try{history.replaceState(null,'','#'+h)}catch(e){}};
+  if(n==='fed'){window.carregarFederal&&window.carregarFederal();const t=FED.includes(hash)?hash:'dep';window.fTab&&window.fTab(t);set(t)}
+  else if(n==='mg'){window.carregarMG&&window.carregarMG();const t=MG.includes(hash)?hash:'est';window.mTab&&window.mTab(t);set(t)}
+  else{const x=(location.hash||'').slice(1);if(FED.includes(x)||MG.includes(x))set('ver')}
   window.scrollTo({top:0});
 };
 document.querySelectorAll('[data-nivel]').forEach(b=>b.addEventListener('click',()=>window.mostrarNivel(b.dataset.nivel)));
 const h=(location.hash||'').slice(1);
-document.addEventListener('DOMContentLoaded',()=>{if(FED.includes(h))window.mostrarNivel('fed',h)});
-window.addEventListener('hashchange',()=>{const x=(location.hash||'').slice(1);if(FED.includes(x))window.mostrarNivel('fed',x)});
+document.addEventListener('DOMContentLoaded',()=>{if(FED.includes(h))window.mostrarNivel('fed',h);else if(MG.includes(h))window.mostrarNivel('mg',h)});
+window.addEventListener('hashchange',()=>{const x=(location.hash||'').slice(1);if(FED.includes(x))window.mostrarNivel('fed',x);else if(MG.includes(x))window.mostrarNivel('mg',x)});
 })();
 </script>
 <script>
@@ -462,7 +507,7 @@ function renderPref(){
  </div>
  <div class="panel"><h3>Projetos da Prefeitura na Câmara</h3><p style="margin:0">Desde 2025, a Câmara fez <b class="num">${nint(P.votacoesPrefeitura)}</b> votações nominais de projetos enviados pela Prefeitura, e <b class="num">${nint(P.aprovadasPrefeitura)}</b> terminaram aprovadas. <a href="#vot" id="goPref">Ver essas votações</a></p></div>
  <div class="cols">
-  <div class="panel"><h3>Receita total por ano</h3><div class="cols-chart num">${fin.map(f=>`<div class="c" data-tip="${f.ano}: ${bi(f.receita)}"><span class="lbv">${(f.receita/1e9).toLocaleString('pt-BR',{maximumFractionDigits:1})}</span><div class="bx" style="height:${f.receita/mxR*100}%"></div><span>${f.ano}</span></div>`).join('')}</div><p class="sub">Em R$ bilhões, valores nominais (sem correção pela inflação). ${lf.ano}: ${brl(lf.receita/pop)} por habitante.</p></div>
+  <div class="panel"><h3>Receita total por ano</h3><div class="cols-chart num">${fin.map(f=>`<div class="c" data-tip="${f.ano}: ${bi(f.receita)}"><span class="lbv">${(f.receita/1e9).toLocaleString('pt-BR',{maximumFractionDigits:1})}</span><div class="bx" style="height:${f.receita/mxR*100}%"></div><span>${f.ano}</span></div>`).join('')}</div><p class="sub">Em R$ bilhões, valores nominais (sem correção pela inflação), já descontada a parte que vai para o FUNDEB. ${lf.ano}: ${brl(lf.receita/pop)} por habitante.</p></div>
   <div class="panel"><h3>Principais fontes de arrecadação em ${lf.ano}</h3><div class="hbar num">${own.map(([k,x])=>`<span>${esc(k)}</span><div class="t" data-tip="${esc(k)}: ${mi(x)}"><span style="width:${x/mxO*100}%"></span></div><span class="val">${mi(x)}</span>`).join('')}</div><p class="sub">ISS, IPTU e ITBI são impostos cobrados pela própria Prefeitura; ICMS e FPM são repasses do Estado e da União.</p></div>
  </div>
  <div class="panel"><h3>Onde a Prefeitura gastou em ${lf.ano}</h3><div class="hbar num">${top.map(([k,x])=>`<span>${esc(k)}</span><div class="t" data-tip="${esc(k)}: ${mi(x)} (${brl(x/pop)} por habitante)"><span style="width:${x/mxF*100}%"></span></div><span class="val">${mi(x)} · ${pct(x/lf.despesa)}</span>`).join('')}</div>
@@ -635,6 +680,133 @@ function openVot(vid){
    return `<div class="grp"><h4><span class="chip ${VCLS[k]}" style="min-width:0">${g.length}</span>${lbl}</h4><div class="faces">${g.map(({d})=>`<button class="face" data-id="${d.id}">${d.foto?`<img src="${d.foto}" alt="" loading="lazy" style="border-color:${col}">`:`<div class="ini" style="border-color:${col}">${esc(d.nome[0])}</div>`}<span class="fn">${esc(d.nome)}</span><span class="fp">${esc(d.partido)} · ${d.uf}</span></button>`).join('')}</div></div>`}).join('');
   $('#vgr').querySelectorAll('.face').forEach(b=>b.addEventListener('click',()=>openDep(b.dataset.id)))};
  $('#vuf').addEventListener('input',draw);draw();
+}
+})();
+</script>
+<script>
+/* ===== Minas Gerais (ALMG + Governo do Estado) ===== */
+(function(){
+const $=s=>document.querySelector(s);
+const esc=s=>String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const pct=x=>x==null||isNaN(x)?'—':(x*100).toFixed(0)+'%';
+const fdate=s=>s?s.slice(0,10).split('-').reverse().join('/'):'—';
+const brl=v=>v==null?'—':v.toLocaleString('pt-BR',{style:'currency',currency:'BRL',maximumFractionDigits:0});
+const mi=v=>'R$ '+(v/1e6).toLocaleString('pt-BR',{maximumFractionDigits:v>=1e9?0:1})+' mi';
+const bi=v=>'R$ '+(v/1e9).toLocaleString('pt-BR',{minimumFractionDigits:1,maximumFractionDigits:1})+' bi';
+const nint=v=>v==null?'—':v.toLocaleString('pt-BR');
+const norm=s=>String(s||'').normalize('NFD').replace(/[̀-ͯ]/g,'').toLowerCase();
+const cap=s=>s?s.toLowerCase().replace(/(^|\s)\S/g,m=>m.toUpperCase()):'';
+const idade=s=>{if(!s)return null;const [d,m,a]=s.split('/').map(Number);const h=new Date();let i=h.getFullYear()-a;if(h.getMonth()+1<m||(h.getMonth()+1===m&&h.getDate()<d))i--;return i};
+let M=null,carregando=null,byId={};
+
+window.carregarMG=function(){
+  if(M)return Promise.resolve(M);if(carregando)return carregando;
+  carregando=fetch('mg.json',{cache:'no-cache'}).then(r=>{if(!r.ok)throw new Error('HTTP '+r.status);return r.json()}).then(d=>{M=d;iniciar();return d}).catch(e=>{
+    carregando=null;const el=$('#m-carregando');el.hidden=false;el.className='aviso erro';
+    el.textContent='Não foi possível carregar os dados de Minas Gerais ('+e.message+'). Recarregue a página em alguns instantes.';console.error(e)});
+  return carregando;
+};
+window.mTab=function(t){document.querySelectorAll('[data-mtab]').forEach(b=>b.setAttribute('aria-selected',b.dataset.mtab===t));$('#p-est').hidden=t!=='est';$('#p-gov').hidden=t!=='gov'};
+
+function rows(arr,fmt){const mx=Math.max(...arr.map(a=>a[1]),1);return `<div class="rows">${arr.map(([k,v])=>`<span>${esc(k)}</span><span class="num">${fmt(v)}</span><div class="b"><span style="width:${v/mx*100}%"></span></div>`).join('')}</div>`}
+
+function iniciar(){
+  const D=M.deputados;
+  D.forEach(d=>{byId[d.id]=d;d.local=(d.tse||{}).votosLocal||0;d.votos=(d.tse||{}).votos||0;d.key=norm(d.nome+' '+(d.nomeCompleto||'')+' '+d.partido)});
+  $('#m-dt').textContent=fdate(M.gerado)+(M.gerado.length>10?' às '+M.gerado.slice(11,16):'');$('#m-coleta').textContent=fdate(M.gerado);
+  const anos=Object.keys(M.reunioes).sort();const ua=anos[anos.length-1];const ro=(M.reunioes[ua]||{})['ORDINÁRIA']||{marcadas:0,realizadas:0};
+  const G=M.governo, lf=G.fin[G.fin.length-1];
+  $('#m-board').innerHTML=[
+    [nint(D.length),'Deputados estaduais em exercício'],
+    [`${ro.realizadas} de ${ro.marcadas}`,`Reuniões ordinárias marcadas em ${ua} que aconteceram`],
+    [nint(D.reduce((s,d)=>s+d.props.total,0)),'Autorias em projetos desde 2023'],
+    [bi(lf.receita),'Receita do Estado em '+lf.ano]
+  ].map(([v,k])=>`<div><div class="v num">${v}</div><div class="k">${k}</div></div>`).join('');
+  // plenário
+  $('#m-plen').innerHTML=`<h3>Reuniões de Plenário da ALMG</h3>
+   <div style="overflow-x:auto"><table class="vt num" style="cursor:default"><tr style="cursor:default"><td><b>Ano</b></td><td style="text-align:right"><b>Ordinárias marcadas</b></td><td style="text-align:right"><b>Aconteceram</b></td><td style="text-align:right"><b>Extraordinárias</b></td></tr>
+   ${anos.map(a=>{const o=M.reunioes[a]['ORDINÁRIA']||{marcadas:0,realizadas:0},x=M.reunioes[a]['EXTRAORDINÁRIA']||{marcadas:0,realizadas:0};const p=o.marcadas?o.realizadas/o.marcadas:null;
+    return `<tr style="cursor:default"><td>${a}</td><td style="text-align:right">${o.marcadas}</td><td style="text-align:right"><span class="c-${p==null?'':p>=.8?'ok':p>=.6?'warn':'bad'}">${o.realizadas} (${pct(p)})</span></td><td style="text-align:right">${x.realizadas} de ${x.marcadas}</td></tr>`}).join('')}</table></div>
+   <p class="sub">A ALMG não publica a presença nem o voto de cada deputado em dados abertos. Quando uma reunião marcada não acontece, geralmente é por falta de quórum.</p>`;
+  [...new Set(D.map(d=>d.partido))].sort().forEach(p=>$('#mpt').insertAdjacentHTML('beforeend',`<option>${esc(p)}</option>`));
+  ['mq','mpt','mso'].forEach(k=>$('#'+k).addEventListener('input',renderDep));
+  $('#mgrid').addEventListener('click',e=>{const c=e.target.closest('.card');if(c)openDep(c.dataset.id)});
+  document.querySelectorAll('[data-mtab]').forEach(b=>b.addEventListener('click',()=>{mTab(b.dataset.mtab);try{history.replaceState(null,'','#'+b.dataset.mtab)}catch(e){}}));
+  $('#m-carregando').hidden=true;
+  renderDep();renderGov();
+}
+
+function card(d){
+  const ord=d.mandatos?`${d.mandatos}º mandato`:'';
+  return `<button class="card" data-id="${d.id}">${d.foto?`<img src="${d.foto}" alt="" loading="lazy" width="78" height="104">`:'<div class="ph"></div>'}
+  <div style="min-width:0"><p class="nm">${esc(d.nome)}</p>
+  <div class="pt">${esc(d.partido)}${d.tipoMandato&&d.tipoMandato!=='Efetivo'?`<span class="tag">${esc(d.tipoMandato.toLowerCase())}</span>`:''}</div>
+  <div class="pt">${ord}${d.inicio?` · em exercício desde ${fdate(d.inicio)}`:''}</div>
+  <div class="pres"><span class="pct num">${nint(d.local)}</span><span class="lb">votos em Uberlândia (2022)</span></div>
+  <div class="mini num"><span><b>${d.props.total}</b> projetos</span><span><b>${d.props.leis}</b> viraram lei</span><span><b>R$ ${(d.verba/1000).toLocaleString('pt-BR',{maximumFractionDigits:0})} mil</b> verba</span></div></div></button>`}
+function renderDep(){
+  const q=norm($('#mq').value.trim()),p=$('#mpt').value,so=$('#mso').value;
+  let L=M.deputados.filter(d=>(!q||d.key.includes(q))&&(!p||d.partido===p));
+  const S={'local-desc':(a,b)=>b.local-a.local,'votos-desc':(a,b)=>b.votos-a.votos,'props-desc':(a,b)=>b.props.total-a.props.total,'leis-desc':(a,b)=>b.props.leis-a.props.leis||b.props.total-a.props.total,'verba-desc':(a,b)=>b.verba-a.verba,'nome':(a,b)=>a.nome.localeCompare(b.nome,'pt')};
+  L.sort(S[so]);
+  $('#mcount').textContent=L.length+(L.length===1?' deputado':' deputados');
+  $('#mgrid').innerHTML=L.length?L.map(card).join(''):'<div class="empty">Nenhum deputado encontrado. Tente outro nome ou limpe o filtro de partido.</div>';
+}
+
+function openDep(id){
+  const d=byId[id],t=d.tse,id_=idade(d.nasc);
+  const info=[id_?id_+' anos':null,d.profissao,d.naturalidade?'natural de '+d.naturalidade:null].filter(Boolean).join(' · ');
+  const leis=d.props.leisLista.length?`<ul style="margin:8px 0 0;padding-left:18px;font-size:13px">${d.props.leisLista.map(l=>`<li style="margin-bottom:6px"><b>${esc(l.p)}</b> · ${esc(l.e)}</li>`).join('')}</ul>`:'<p class="sub">Nenhum projeto de autoria apresentado desde 2023 virou lei até agora.</p>';
+  window.openSheet(`<div class="hd">${d.foto?`<img src="${d.foto}" alt="Foto de ${esc(d.nome)}">`:''}<div><h2>${esc(d.nome)}</h2>
+   <div class="meta">${esc(d.partido)} · deputado(a) estadual${d.mandatos?' · '+d.mandatos+'º mandato':''}<br>${esc(d.nomeCompleto||'')}${info?'<br>'+esc(info):''}${d.inicio?`<br>Em exercício desde ${fdate(d.inicio)}`:''}</div></div></div>
+   ${t?`<div class="sec"><h3>Eleição de 2022 (TSE)</h3><div class="kv num">
+    <div><div class="v">${nint(t.votos)}</div><div class="k">votos em Minas Gerais</div></div>
+    <div><div class="v">${nint(t.votosLocal)}</div><div class="k">votos em Uberlândia${t.votos?` (${pct(t.votosLocal/t.votos)} do total)`:''}</div></div>
+    <div><div class="v" style="font-size:20px">${brl(t.patrimonio)}</div><div class="k">patrimônio declarado</div></div></div>
+    ${t.partido2022&&t.partido2022!==d.partido?`<p class="sub">Eleito(a) pelo ${esc(t.partido2022)}; hoje está no ${esc(d.partido)}.</p>`:''}</div>`:''}
+   <div class="sec"><h3>Projetos (desde 2023)</h3><div class="kv num">
+    <div><div class="v">${d.props.total}</div><div class="k">como autor ou coautor</div></div>
+    <div><div class="v">${d.props.principal}</div><div class="k">como primeiro autor</div></div>
+    <div><div class="v">${d.props.leis}</div><div class="k">viraram lei</div></div></div>${leis}</div>
+   <div class="sec"><h3>Verba indenizatória</h3><div class="kv num" style="grid-template-columns:repeat(2,minmax(0,1fr))">
+    <div><div class="v">${brl(d.verba)}</div><div class="k">reembolsado desde 2023</div></div>
+    <div><div class="v">${d.verbaMeses?brl(d.verba/d.verbaMeses):'—'}</div><div class="k">média por mês (${d.verbaMeses} meses)</div></div></div>
+    ${d.verbaCat.length?`<div style="margin-top:12px">${rows(d.verbaCat,brl)}</div>`:''}</div>
+   ${d.bio?`<div class="sec"><h3>Trajetória (site da ALMG)</h3><p style="font-size:14px;margin:0">${esc(d.bio)}${d.bio.length>=700?'…':''}</p></div>`:''}
+   <p class="sub" style="margin-top:20px"><a href="https://www.almg.gov.br/a-assembleia/deputados/deputado/?id=${d.id}" target="_blank" rel="noopener">Ver página oficial na ALMG ↗</a></p>`);
+}
+
+function renderGov(){
+  const G=M.governo,a=G.atual,e22=G.eleito2022,fin=G.fin,lf=fin[fin.length-1],pop=G.pop[lf.ano]||G.pop[String(lf.ano)];
+  const totMG=G.eleicao.reduce((s,x)=>s+x.votos,0),totL=G.eleicao.reduce((s,x)=>s+x.votosLocal,0);
+  const top=G.eleicao.slice(0,5);
+  const funcs=Object.entries(lf.funcoes).sort((x,y)=>y[1]-x[1]);const tf=funcs.slice(0,9);const rest=funcs.slice(9).reduce((s,x)=>s+x[1],0);if(rest)tf.push(['Outras áreas',rest]);
+  const mxF=tf[0][1],mxR=Math.max(...fin.map(f=>f.receita));
+  const fontes=[['ICMS',lf.icms],['IPVA',lf.ipva],['FPE (repasse da União)',lf.fpe],['Outras transferências da União',Math.max(lf.uniao-lf.fpe,0)]].filter(x=>x[1]>0);const mxO=Math.max(...fontes.map(x=>x[1]));
+  $('#mgov').innerHTML=`<div class="pp">
+   <div class="pcard">${a.foto?`<img src="${a.foto}" alt="Foto de ${esc(a.nome)}">`:''}<div style="min-width:0"><div class="eyebrow">Governador</div>
+    <p class="nm" style="font-size:20px;font-family:var(--f-display);font-stretch:80%;font-weight:800">${esc(a.nome)}</p>
+    <div class="pt">${esc(a.partido)} · no cargo desde ${fdate(a.desde)}</div><p class="sub">${esc(a.nota)}</p>
+    ${a.patrimonio2022!=null?`<div class="mini num"><span>Patrimônio declarado em 2022 <b>${brl(a.patrimonio2022)}</b></span></div>`:''}</div></div>
+   ${e22?`<div class="pcard">${e22.foto?`<img src="${e22.foto}" alt="Foto de ${esc(cap(e22.nome))}">`:''}<div style="min-width:0"><div class="eyebrow">Eleito governador em 2022</div>
+    <p class="nm" style="font-size:20px;font-family:var(--f-display);font-stretch:80%;font-weight:800">${esc(cap(e22.nome))}</p>
+    <div class="pt">${esc(e22.partido)} · reeleito no 1º turno</div>
+    <div class="mini num"><span>Patrimônio declarado em 2022 <b>${brl(e22.patrimonio)}</b></span></div></div></div>`:''}
+  </div>
+  <div class="aviso">As eleições de 2026 estão em andamento (1º turno em 4 de outubro, 2º turno em 25 de outubro). Quem for eleito assume em 1º de janeiro de 2027; até lá estes são os ocupantes atuais.</div>
+  <div class="cols">
+   <div class="panel"><h3>Eleição para governador em 2022 · Minas Gerais</h3><div class="hbar num">${top.map((x,i)=>`<span>${esc(cap(x.nome))} <span class="pt">${esc(x.partido)}</span></span><div class="t" data-tip="${esc(cap(x.nome))}: ${nint(x.votos)} votos"><span class="${i===0?'hl':''}" style="width:${x.votos/top[0].votos*100}%"></span></div><span class="val">${pct(x.votos/totMG)}</span>`).join('')}</div></div>
+   <div class="panel"><h3>A mesma eleição só em Uberlândia</h3><div class="hbar num">${top.slice().sort((x,y)=>y.votosLocal-x.votosLocal).map((x,i)=>`<span>${esc(cap(x.nome))} <span class="pt">${esc(x.partido)}</span></span><div class="t" data-tip="${esc(cap(x.nome))}: ${nint(x.votosLocal)} votos em Uberlândia"><span class="${i===0?'hl':''}" style="width:${x.votosLocal/Math.max(...top.map(t=>t.votosLocal))*100}%"></span></div><span class="val">${pct(x.votosLocal/totL)}</span>`).join('')}</div><p class="sub">% dos votos nominais para governador em Uberlândia.</p></div>
+  </div>
+  <div class="panel"><h3>Projetos do governador na Assembleia</h3><p style="margin:0">Desde 2023, o governo enviou <b class="num">${nint(G.projetos.total)}</b> projetos (PL, PLC e PEC) à ALMG; <b class="num">${nint(G.projetos.leis)}</b> já viraram lei.</p>
+   <ul style="margin:10px 0 0;padding-left:18px;font-size:13px">${G.projetos.lista.map(p=>`<li style="margin-bottom:6px"><b>${esc(p.p)}</b>${p.lei?' <span class="res ap">virou lei</span>':''} · ${esc(p.e)}</li>`).join('')}</ul></div>
+  <div class="cols">
+   <div class="panel"><h3>Receita do Estado por ano</h3><div class="cols-chart num">${fin.map(f=>`<div class="c" data-tip="${f.ano}: ${bi(f.receita)}"><span class="lbv">${(f.receita/1e9).toLocaleString('pt-BR',{maximumFractionDigits:0})}</span><div class="bx" style="height:${f.receita/mxR*100}%"></div><span>${f.ano}</span></div>`).join('')}</div><p class="sub">Em R$ bilhões, valores nominais, já descontados os repasses obrigatórios aos municípios e ao FUNDEB. ${lf.ano}: ${brl(lf.receita/pop)} por habitante.</p></div>
+   <div class="panel"><h3>Principais fontes de arrecadação em ${lf.ano}</h3><div class="hbar num">${fontes.map(([k,x])=>`<span>${esc(k)}</span><div class="t" data-tip="${esc(k)}: ${bi(x)}"><span style="width:${x/mxO*100}%"></span></div><span class="val">${bi(x)}</span>`).join('')}</div><p class="sub">ICMS e IPVA são impostos estaduais; parte deles é repassada aos municípios.</p></div>
+  </div>
+  <div class="panel"><h3>Onde o Estado gastou em ${lf.ano}</h3><div class="hbar num">${tf.map(([k,x])=>`<span>${esc(k)}</span><div class="t" data-tip="${esc(k)}: ${bi(x)} (${brl(x/pop)} por habitante)"><span style="width:${x/mxF*100}%"></span></div><span class="val">${bi(x)} · ${pct(x/lf.despesa)}</span>`).join('')}</div>
+   <p class="sub">Despesas liquidadas por área, total de ${bi(lf.despesa)} (${brl(lf.despesa/pop)} por habitante, população estimada de ${nint(pop)}). Previdência inclui aposentadorias e pensões dos servidores estaduais.</p></div>
+  <div class="panel"><h3>Saúde, educação e segurança ao longo do tempo</h3><div style="overflow-x:auto"><table class="vt num" style="cursor:default"><tr style="cursor:default"><td><b>Ano</b></td><td style="text-align:right"><b>Saúde</b></td><td style="text-align:right"><b>Educação</b></td><td style="text-align:right"><b>Segurança pública</b></td><td style="text-align:right"><b>Despesa total</b></td></tr>${fin.map(f=>`<tr style="cursor:default"><td>${f.ano}</td><td style="text-align:right">${bi(f.funcoes['Saúde']||0)}</td><td style="text-align:right">${bi(f.funcoes['Educação']||0)}</td><td style="text-align:right">${bi(f.funcoes['Segurança Pública']||0)}</td><td style="text-align:right">${bi(f.despesa)}</td></tr>`).join('')}</table></div></div>`;
 }
 })();
 </script>
