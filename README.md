@@ -68,8 +68,48 @@ O projeto `placar-uberlandia` na Vercel está ligado a este repositório: todo p
 Para publicar direto do seu computador, sem passar pelo GitHub: `./atualizar.sh --publicar`
 (precisa da CLI, `npm i -g vercel`, e de `vercel link` uma vez).
 
-O `vercel.json` faz a Vercel servir só a pasta `public/`; o `.vercelignore` evita enviar
-scripts e dados brutos nos deploys pela CLI.
+O `vercel.json` faz a Vercel servir só a pasta `public/` e publicar `api/chat.ts` como função
+(com os três JSONs incluídos); o `.vercelignore` evita enviar scripts, dados brutos e testes nos
+deploys pela CLI.
+
+## Chat
+
+O painel de chat do site responde perguntas sobre os dados do placar (presença, votações,
+proposições, contas da Prefeitura e do Estado, governo de Minas). Roda numa Vercel Function
+(`api/chat.ts`) com um agente Pi e o modelo DeepSeek, e consulta só `public/data.json`,
+`mg.json` e `federal.json`.
+
+- **O que faz**: busca políticos por nome, monta rankings (por exemplo, quem mais faltou), mostra
+  como cada um votou e resume as contas. Toda resposta sobre uma pessoa traz o link do placar
+  (`#v/<id>`, `#e/<id>`, `#d/<id>`) e o link oficial.
+- **O que não faz**: não opina, não adjetiva político, não recomenda voto e não responde sobre
+  assuntos fora dos dados. A ALMG não publica presença nem voto individual, então para
+  deputado estadual ele diz isso em vez de dar um número.
+- **Limites**: mensagem de até 500 caracteres, histórico de 10 mensagens, 60 s por pergunta.
+  `/api/chat` tem limite por IP no firewall da Vercel (10 requisições por 60 s; acima disso,
+  responde 429).
+
+Variáveis de ambiente (na Vercel, em *Settings → Environment Variables*):
+
+| Variável | Padrão | Para quê |
+|---|---|---|
+| `DEEPSEEK_API_KEY` | (obrigatória) | chave da API da DeepSeek |
+| `CHAT_PROVEDOR` | `deepseek` | provedor do modelo |
+| `CHAT_MODELO` | `deepseek-flash` | modelo usado |
+
+Para rodar no seu computador:
+
+```bash
+mise install                   # Node e pnpm nas versões do projeto
+pnpm install
+pnpm test                      # testes (Vitest), não chamam o modelo
+pnpm typecheck
+echo 'DEEPSEEK_API_KEY=sua-chave' > .env.local   # .env* está no .gitignore
+vercel dev                     # site e /api/chat em http://localhost:3000
+```
+
+A lista de perguntas para conferir o chat antes de publicar está em
+[`tests/perguntas.md`](tests/perguntas.md).
 
 ## Estrutura
 
@@ -94,10 +134,14 @@ scripts/
   coletar_mg.py         ALMG (deputados, projetos, reuniões, verba) e contas do Estado
   coletar_tse_mg.py     fotos, votos (MG e Uberlândia) e patrimônio de deputados estaduais e governador
   gerar_mg.py           gera public/mg.json (inclui quem governa hoje, em GOVERNO_ATUAL)
+api/
+  chat.ts               Vercel Function do chat (POST /api/chat)
+lib/                    agente, consultas e leitura dos JSONs (usados por api/chat.ts)
+tests/                  testes (Vitest) e perguntas.md, a lista de conferência do chat
 dados/                  dados brutos e cache (não vão para o site)
 atualizar.sh            comando principal
 ver.sh                  servidor local para testar
-vercel.json             configuração da Vercel (pasta public, cache)
+vercel.json             configuração da Vercel (pasta public, cache, função do chat)
 ```
 
 ## Fontes e metodologia

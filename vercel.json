@@ -3,6 +3,12 @@
   "outputDirectory": "public",
   "framework": null,
   "cleanUrls": true,
+  "functions": {
+    "api/chat.ts": {
+      "maxDuration": 60,
+      "includeFiles": "public/{data,mg,federal}.json"
+    }
+  },
   "headers": [
     {
       "source": "/data.json",
