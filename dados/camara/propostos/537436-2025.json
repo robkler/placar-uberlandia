@@ -1,0 +1,311 @@
+{
+ "id": "537436",
+ "codAutor": "537436",
+ "ano": 2025,
+ "total": 10,
+ "coletadoEm": "2026-10-16T18:25",
+ "itens": [
+  {
+   "cod_materia": 237002,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 788,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 788/2025",
+   "txt_ementa": "DECLARA DE UTILIDADE PÚBLICA A ENTIDADE INSTITUTO CANAÃ",
+   "dat_apresentacao": "07/11/2025",
+   "autores": "Thais Andrade - União Brasil",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=237002",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Encaminhado à Comissão",
+    "nom_unidade": "Seção de Apoio às Comissões",
+    "dat_tramitacao": "10/11/2025 09:43:30",
+    "dat_fim_prazo": "24/11/2025",
+    "txt_tramitacao": "<p>Comiss&atilde;o de Legisla&ccedil;&atilde;o, Justi&ccedil;a e Reda&ccedil;&atilde;o</p>\r\n<p>Comiss&atilde;o de Direitos Humanos, Sociais e do Consumidor</p>"
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 236001,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 750,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 750/2025",
+   "txt_ementa": "DENOMINA DE AVENIDA LISIAS ABRÃO O LOGRADOURO PÚBLICO QUE ESPECIFICA",
+   "dat_apresentacao": "30/10/2025",
+   "autores": "Thais Andrade - União Brasil",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=236001",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "06/11/2025 12:23:46",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": {
+    "sgl_norma": "LEI",
+    "num_norma": 14600,
+    "ano_norma": 2025,
+    "cod_norma": 18554,
+    "tip_norma": 6,
+    "ind_publico": 1,
+    "pode_cadastrar_norma": false,
+    "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=18554"
+   },
+   "anexadoras": [
+    {
+     "identificacao": "Proposição de Lei n° 264/2025",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=236648",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 234183,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 706,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 706/2025",
+   "txt_ementa": "INSTITUI A SEMANA MUNICIPAL DE CONSCIENTIZAÇÃO E DEFESA DOS DIREITOS DAS PESSOAS COM NANISMO, CRIA O DIA MUNICIPAL DE COMBATE AO PRECONCEITO CONTRA AS PESSOAS COM NANISMO E DÁ OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "08/10/2025",
+   "autores": "Thais Andrade - União Brasil",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=234183",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "04/11/2025 12:36:24",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": {
+    "sgl_norma": "LEI",
+    "num_norma": 14591,
+    "ano_norma": 2025,
+    "cod_norma": 18524,
+    "tip_norma": 6,
+    "ind_publico": 1,
+    "pode_cadastrar_norma": false,
+    "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=18524"
+   },
+   "anexadoras": [
+    {
+     "identificacao": "Proposição de Lei n° 254/2025",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=234648",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 234169,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 705,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 705/2025",
+   "txt_ementa": "DECLARA DE UTILIDADE PÚBLICA A ENTIDADE INSTITUTO UBERHUB EDUCACAO",
+   "dat_apresentacao": "08/10/2025",
+   "autores": "Thais Andrade - União Brasil",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=234169",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Encaminhado à Comissão",
+    "nom_unidade": "Seção de Apoio às Comissões",
+    "dat_tramitacao": "09/10/2025 09:31:32",
+    "dat_fim_prazo": "23/10/2025",
+    "txt_tramitacao": "<p>Comiss&atilde;o de Legisla&ccedil;&atilde;o, Justi&ccedil;a e Reda&ccedil;&atilde;o</p>\r\n<p>Comiss&atilde;o de Direitos Humanos, Sociais e do Consumidor</p>"
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 230862,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 631,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 631/2025",
+   "txt_ementa": "DECLARA DE UTILIDADE PÚBLICA A ENTIDADE COMUNIDADE VIDA",
+   "dat_apresentacao": "03/09/2025",
+   "autores": "Thais Andrade - União Brasil",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=230862",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Encaminhado à Comissão",
+    "nom_unidade": "Seção de Apoio às Comissões",
+    "dat_tramitacao": "04/09/2025 09:37:51",
+    "dat_fim_prazo": "18/09/2025",
+    "txt_tramitacao": "<p>Comiss&atilde;o de Legisla&ccedil;&atilde;o, Justi&ccedil;a e Reda&ccedil;&atilde;o</p>\r\n<p>Comiss&atilde;o de Direitos Humanos, Sociais e do Consumidor</p>"
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 230861,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 630,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 630/2025",
+   "txt_ementa": "DECLARA DE UTILIDADE PÚBLICA A ENTIDADE MUNDO DA CULTURA",
+   "dat_apresentacao": "03/09/2025",
+   "autores": "Thais Andrade - União Brasil",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=230861",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "29/09/2025 12:03:43",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": {
+    "sgl_norma": "LEI",
+    "num_norma": 14530,
+    "ano_norma": 2025,
+    "cod_norma": 18382,
+    "tip_norma": 6,
+    "ind_publico": 1,
+    "pode_cadastrar_norma": false,
+    "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=18382"
+   },
+   "anexadoras": [
+    {
+     "identificacao": "Proposição de Lei n° 210/2025",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=232362",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 218994,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 355,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 355/2025",
+   "txt_ementa": "DECLARA DE UTILIDADE PÚBLICA A ORGANIZAÇÃO NÃO GOVERNAMENTAL DE PRESERVAÇÃO DOS ANIMAIS SILVESTRE DO BRASIL – ONG PAS DO BRASIL",
+   "dat_apresentacao": "14/05/2025",
+   "autores": "Thais Andrade - União Brasil, Adriano Zago - AVANTE",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=218994",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "16/06/2025 17:57:20",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": {
+    "sgl_norma": "LEI",
+    "num_norma": 14419,
+    "ano_norma": 2025,
+    "cod_norma": 17970,
+    "tip_norma": 6,
+    "ind_publico": 1,
+    "pode_cadastrar_norma": false,
+    "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=17970"
+   },
+   "anexadoras": [
+    {
+     "identificacao": "Proposição de Lei n° 83/2025",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=220923",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 218831,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 347,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 347/2025",
+   "txt_ementa": "TORNA OBRIGATORIO A INSTALAÇÃO DE BEBEDOUROS DE ÁGUA EM CASAS LOTÉRICAS DO MUNICIPIO DE UBERLÂNDIA DA OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "13/05/2025",
+   "autores": "Thais Andrade - União Brasil",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=218831",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Devolvido a(o) autor(a)",
+    "nom_unidade": "Seção de Apoio às Comissões",
+    "dat_tramitacao": "07/08/2025 10:37:11",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 218824,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 346,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 346/2025",
+   "txt_ementa": "DISPÕE SOBRE O PROGRAMA AGENTE DE SAÚDE VOLUNTÁRIO DE COMBATE À DENGUE E OUTRAS DOENÇAS TRANSMITIDAS PELO MOSQUITO AEDES AEGYPTI, COMO DENGUE, CHIKUNGUNHA, VÍRUS ZIKA OUTRAS, NO MUNÍCIPIO DE UBERLÂNDIA E DÁ OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "13/05/2025",
+   "autores": "Thais Andrade - União Brasil",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=218824",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Requerimento Parecer Contrário Apresentado - Art. 172, RI",
+    "nom_unidade": "Seção de Apoio às Comissões",
+    "dat_tramitacao": "13/08/2025 11:26:13",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": [
+    {
+     "identificacao": "Requerimento n° 20291/2025",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=228794",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 218818,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 345,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 345/2025",
+   "txt_ementa": "INSTITUI O PROGRAMA MUNICIPAL DE RESGATE SOCIAL E REINTEGRAÇÃO PARA PESSOAS EM SITUAÇÃO DE RUA E DEPENDÊNCIA QUÍMICA NO MUNICÍPIO DE UBERLÂNDIA E DÁ OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "13/05/2025",
+   "autores": "Thais Andrade - União Brasil",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=218818",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Requerimento Parecer Contrário Apresentado - Art. 172, RI",
+    "nom_unidade": "Seção de Apoio às Comissões",
+    "dat_tramitacao": "13/08/2025 11:27:55",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": [
+    {
+     "identificacao": "Requerimento n° 20292/2025",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=228795",
+     "is_veto": false
+    }
+   ]
+  }
+ ]
+}

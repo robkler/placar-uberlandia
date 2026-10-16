@@ -1,0 +1,1662 @@
+{
+ "id": "528006",
+ "codAutor": "528006",
+ "ano": 2025,
+ "total": 61,
+ "coletadoEm": "2026-10-16T18:25",
+ "itens": [
+  {
+   "cod_materia": 240561,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 844,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 844/2025",
+   "txt_ementa": "INSTITUI A CARTEIRA DE IDENTIFICAÇÃO DO ACOMPANHANTE OU CUIDADOR E DE PESSOAS COM NECESSIDADES ESPECIAIS – CIAC – E DÁ OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "04/12/2025",
+   "autores": "Ronaldo Tannús - PODEMOS",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=240561",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado - Art. 172, Regimento Interno",
+    "nom_unidade": "Seção de Controle de Processo Legislativo",
+    "dat_tramitacao": "20/02/2026 11:43:11",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 237392,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 794,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 794/2025",
+   "txt_ementa": "DECLARA DE UTILIDADE PÚBLICA A ASSOCIAÇÃO CULTURAL CAMISA VERDE ",
+   "dat_apresentacao": "12/11/2025",
+   "autores": "Ronaldo Tannús - PODEMOS",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=237392",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "26/06/2026 09:21:46",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": {
+    "sgl_norma": "LEI",
+    "num_norma": 14810,
+    "ano_norma": 2026,
+    "cod_norma": 18965,
+    "tip_norma": 6,
+    "ind_publico": 1,
+    "pode_cadastrar_norma": false,
+    "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=18965"
+   },
+   "anexadoras": [
+    {
+     "identificacao": "Proposição de Lei n° 475/2026",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=263597",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 236494,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 776,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 776/2025",
+   "txt_ementa": "DENOMINA DE RUA VILLA GÁVEA O LOGRADOURO PÚBLICO QUE ESPECIFICA.",
+   "dat_apresentacao": "04/11/2025",
+   "autores": "Ronaldo Tannús - PODEMOS",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=236494",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "09/01/2026 14:02:59",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": {
+    "sgl_norma": "LEI",
+    "num_norma": 14668,
+    "ano_norma": 2026,
+    "cod_norma": 18643,
+    "tip_norma": 6,
+    "ind_publico": 1,
+    "pode_cadastrar_norma": false,
+    "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=18643"
+   },
+   "anexadoras": [
+    {
+     "identificacao": "Proposição de Lei n° 331/2025",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=241846",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 234848,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 735,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 735/2025",
+   "txt_ementa": "DISPÕE SOBRE A OBRIGATORIEDADE DE VERIFICAÇÃO DE ANTECEDENTES CRIMINAIS DE FUNCIONÁRIOS E COLABORADORES QUE EXERÇAM ATIVIDADES COM CONTATO DIRETO OU HABITUAL COM CRIANÇAS, EM QUALQUER ESTABELECIMENTO SITUADO NO MUNICÍPIO DE UBERLÂNDIA.",
+   "dat_apresentacao": "15/10/2025",
+   "autores": "Ronaldo Tannús - PODEMOS",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=234848",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado - Art. 172, Regimento Interno",
+    "nom_unidade": "Seção de Controle de Processo Legislativo",
+    "dat_tramitacao": "20/02/2026 09:02:27",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 233911,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 691,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 691/2025",
+   "txt_ementa": "DECLARA DE UTILIDADE PÚBLICA A ASSOCIAÇÃO PÉS DE LUZ",
+   "dat_apresentacao": "06/10/2025",
+   "autores": "Ronaldo Tannús - PODEMOS",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=233911",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "06/11/2025 12:23:46",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": {
+    "sgl_norma": "LEI",
+    "num_norma": 14593,
+    "ano_norma": 2025,
+    "cod_norma": 18544,
+    "tip_norma": 6,
+    "ind_publico": 1,
+    "pode_cadastrar_norma": false,
+    "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=18544"
+   },
+   "anexadoras": [
+    {
+     "identificacao": "Proposição de Lei n° 257/2025",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=236173",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 233392,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 682,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 682/2025",
+   "txt_ementa": "PROÍBE AS OPERADORAS DE PLANOS DE SAÚDE DE LIMITAR CONSULTAS E SESSÕES DE FISIOTERAPIA, FONOAUDIOLOGIA, TERAPIA OCUPACIONAL E PSICOTERAPIA NO TRATAMENTO DAS PESSOAS COM TRANSTORNO DO ESPECTRO AUTISTA.",
+   "dat_apresentacao": "01/10/2025",
+   "autores": "Ronaldo Tannús - PODEMOS",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=233392",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado - Art. 172, Regimento Interno",
+    "nom_unidade": "Seção de Controle de Processo Legislativo",
+    "dat_tramitacao": "11/02/2026 14:04:33",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 233383,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 678,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 678/2025",
+   "txt_ementa": "DISPÕE SOBRE A INSTITUIÇÃO DO SELO DE RECONHECIMENTO \"EMPRESA PARCEIRA DA INCLUSÃO\", NO ÂMBITO DO MUNICÍPIO DE UBERLÂNDIA, DESTINADO A ESTIMULAR BOAS PRÁTICAS DE ACOLHIMENTO E ACESSIBILIDADE A PESSOAS COM TRANSTORNO DO ESPECTRO AUTISTA (TEA) E TRANSTORNO DO DÉFICIT DE ATENÇÃO COM HIPERATIVIDADE (TDAH), E DÁ OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "30/09/2025",
+   "autores": "Ronaldo Tannús - PODEMOS",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=233383",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado - Art. 172, Regimento Interno",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "17/11/2025 08:28:25",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 231379,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 648,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 648/2025",
+   "txt_ementa": "DECLARA DE UTILIDADE PÚBLICA A ASSOCIAÇÃO SAL DA TERRA ZONA SUL",
+   "dat_apresentacao": "09/09/2025",
+   "autores": "Ronaldo Tannús - PODEMOS",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=231379",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "08/10/2025 15:56:51",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": {
+    "sgl_norma": "LEI",
+    "num_norma": 14550,
+    "ano_norma": 2025,
+    "cod_norma": 18437,
+    "tip_norma": 6,
+    "ind_publico": 1,
+    "pode_cadastrar_norma": false,
+    "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=18437"
+   },
+   "anexadoras": [
+    {
+     "identificacao": "Proposição de Lei n° 211/2025",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=232363",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 231124,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 642,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 642/2025",
+   "txt_ementa": "INSTITUI E INSERE NO CALENDÁRIO OFICIAL DE EVENTOS DO MUNICÍPIO DE UBERLÂNDIA, O SETEMBRO AMARELO PELA SAÚDE EMOCIONAL INFANTIL.",
+   "dat_apresentacao": "05/09/2025",
+   "autores": "Ronaldo Tannús - PODEMOS",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=231124",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Devolvido a(o) autor(a)",
+    "nom_unidade": "Seção de Apoio às Comissões",
+    "dat_tramitacao": "04/11/2025 11:30:04",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 231121,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 641,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 641/2025",
+   "txt_ementa": "INSTITUI A POLÍTICA MUNICIPAL DE FORMAÇÃO PERMANENTE DE EDUCADORES PARA A EDUCAÇÃO INCLUSIVA, COM ÊNFASE NA ELABORAÇÃO E APLICAÇÃO DE PLANEJAMENTOS EDUCACIONAIS INDIVIDUALIZADOS VOLTADOS A ESTUDANTES COM TRANSTORNO DO ESPECTRO AUTISTA (TEA), E DÁ OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "05/09/2025",
+   "autores": "Ronaldo Tannús - PODEMOS",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=231121",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado - Art. 172, Regimento Interno",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "17/11/2025 08:28:02",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 230957,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 633,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 633/2025",
+   "txt_ementa": "INSTITUI E INSERE NO CALENDÁRIO OFICIAL DE EVENTOS DO MUNICÍPIO DE UBERLÂNDIA A SEMANA MUNICIPAL DO COMBATE AO BULLYING E À VIOLÊNCIA NA ESCOLA.",
+   "dat_apresentacao": "04/09/2025",
+   "autores": "Ronaldo Tannús - PODEMOS",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=230957",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "24/02/2026 12:48:30",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": {
+    "sgl_norma": "LEI",
+    "num_norma": 14696,
+    "ano_norma": 2026,
+    "cod_norma": 18683,
+    "tip_norma": 6,
+    "ind_publico": 1,
+    "pode_cadastrar_norma": false,
+    "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=18683"
+   },
+   "anexadoras": [
+    {
+     "identificacao": "Proposição de Lei n° 344/2026",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=247330",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 230660,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 626,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 626/2025",
+   "txt_ementa": "DISPÕE SOBRE A CRIAÇÃO DO SELO “EMPRESA AMIGA DAS PESSOAS COM TRANSTORNO DO ESPECTRO AUTISTA (TEA) E COM TRANSTORNO DO DÉFICIT DE ATENÇÃO COM HIPERATIVIDADE (TDAH)”, NO ÂMBITO DO MUNICÍPIO DE UBERLÂNDIA, E DÁ OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "02/09/2025",
+   "autores": "Ronaldo Tannús - PODEMOS",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=230660",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado - Art. 172, Regimento Interno",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "17/11/2025 08:32:03",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 230456,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 612,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 612/2025",
+   "txt_ementa": "ALTERA A LEI Nº 10.741, DE 6 DE ABRIL DE 2011 E SUAS ALTERAÇÕES, QUE \"INSTITUI O CÓDIGO MUNICIPAL DE POSTURAS DE UBERLÂNDIA E REVOGA A LEI Nº 4744, DE 05 DE JULHO DE 1988 E SUAS ALTERAÇÕES\".",
+   "dat_apresentacao": "29/08/2025",
+   "autores": "Ronaldo Tannús - PODEMOS",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=230456",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado - Art. 172, Regimento Interno",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "17/11/2025 08:27:19",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 230455,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 611,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 611/2025",
+   "txt_ementa": "CRIA O PLANO MUNICIPAL PELA PRIMEIRA INFÂNCIA DE UBERLÂNDIA E ESTABELECE DIRETRIZES PARA SUA FORMULAÇÃO E IMPLEMENTAÇÃO.",
+   "dat_apresentacao": "29/08/2025",
+   "autores": "Ronaldo Tannús - PODEMOS",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=230455",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado - Art. 172, Regimento Interno",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "17/11/2025 08:26:50",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 230454,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 610,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 610/2025",
+   "txt_ementa": "CRIA O PROGRAMA MUNICIPAL DE TERAPIA NUTRICIONAL DO ALUNO AUTISTA.",
+   "dat_apresentacao": "29/08/2025",
+   "autores": "Ronaldo Tannús - PODEMOS",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=230454",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado - Art. 172, Regimento Interno",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "17/11/2025 08:26:20",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 230453,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 609,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 609/2025",
+   "txt_ementa": "ESTABELECE DIRETRIZES PARA A INSTITUIÇÃO DO PROGRAMA ÓRFÃOS DO FEMINICÍDIO: ATENÇÃO E PROTEÇÃO, NO ÂMBITO DO MUNICÍPIO DE UBERLÂNDIA.",
+   "dat_apresentacao": "29/08/2025",
+   "autores": "Ronaldo Tannús - PODEMOS",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=230453",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado - Art. 172, Regimento Interno",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "17/11/2025 08:25:56",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 230452,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 608,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 608/2025",
+   "txt_ementa": "INSTITUI, NO ÂMBITO DO MUNICÍPIO DE UBERLÂNDIA, O PROGRAMA DE CAPACITAÇÃO E INSERÇÃO PROFISSIONAL DE RESPONSÁVEIS LEGAIS DE CRIANÇAS E ADOLESCENTES COM TRANSTORNO DO ESPECTRO AUTISTA - TEA COMO MEDIADORES DE APOIO, A SER IMPLEMENTADO EM ESTABELECIMENTOS PÚBLICOS E PRIVADOS E DÁ OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "29/08/2025",
+   "autores": "Ronaldo Tannús - PODEMOS",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=230452",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado - Art. 172, Regimento Interno",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "17/11/2025 08:25:25",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 230451,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 607,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 607/2025",
+   "txt_ementa": "REGULAMENTA, NO ÂMBITO DO MUNICÍPIO DE UBERLÂNDIA, A LEI FEDERAL Nº 14.344, DE 2022 – QUE ESTABELECE MEDIDAS DE PROTEÇÃO À CRIANÇA E AO ADOLESCENTE EM SITUAÇÃO DE VIOLÊNCIA DOMÉSTICA E FAMILIAR E DÁ OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "29/08/2025",
+   "autores": "Ronaldo Tannús - PODEMOS",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=230451",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado - Art. 172, Regimento Interno",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "17/11/2025 08:25:00",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 230450,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 606,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 606/2025",
+   "txt_ementa": "REGULAMENTA, NO ÂMBITO DO MUNICÍPIO DE UBERLÂNDIA, A LEI FEDERAL Nº 14.811, DE 12 DE JANEIRO DE 2024, QUE INSTITUI MEDIDAS DE PROTEÇÃO À CRIANÇA E AO ADOLESCENTE CONTRA A VIOLÊNCIA NOS ESTABELECIMENTOS EDUCACIONAIS OU SIMILARES, E ADERE À POLÍTICA NACIONAL DE PREVENÇÃO E COMBATE AO ABUSO E EXPLORAÇÃO SEXUAL DA CRIANÇA E DO ADOLESCENTE. ",
+   "dat_apresentacao": "29/08/2025",
+   "autores": "Ronaldo Tannús - PODEMOS",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=230450",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado - Art. 172, Regimento Interno",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "17/11/2025 08:24:31",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 230449,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 605,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 605/2025",
+   "txt_ementa": "CRIA A CAMPANHA PERMANENTE DE CONSCIENTIZAÇÃO E ENFRENTAMENTO AO ALICIAMENTO E CORRUPÇÃO DE MENORES DE DEZOITO ANOS POR GRUPOS E ORGANIZAÇÕES CRIMINOSAS NO MUNICÍPIO DE UBERLÂNDIA.",
+   "dat_apresentacao": "29/08/2025",
+   "autores": "Ronaldo Tannús - PODEMOS",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=230449",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado - Art. 172, Regimento Interno",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "17/11/2025 08:24:09",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 230448,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 604,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 604/2025",
+   "txt_ementa": "DISPÕE SOBRE OS CRITÉRIOS DE PARTICIPAÇÃO DE CRIANÇAS E ADOLESCENTES EM MANIFESTAÇÕES PÚBLICAS NO ÂMBITO DO MUNICÍPIO DE UBERLÂNDIA E DÁ OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "29/08/2025",
+   "autores": "Ronaldo Tannús - PODEMOS",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=230448",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado - Art. 172, Regimento Interno",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "17/11/2025 08:23:44",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 230447,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 603,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 603/2025",
+   "txt_ementa": "INSTITUI COMO ATIVIDADE EXTRACURRICULAR O ENSINO DE EDUCAÇÃO AMBIENTAL INFANTIL NA REDE PÚBLICA MUNICIPAL DE ENSINO DE UBERLÂNDIA.",
+   "dat_apresentacao": "29/08/2025",
+   "autores": "Ronaldo Tannús - PODEMOS",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=230447",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado - Art. 172, Regimento Interno",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "17/11/2025 08:23:22",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 230446,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 602,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 602/2025",
+   "txt_ementa": "CRIA O PROGRAMA DE TRANSPORTE ESCOLAR SEGURINHO PARA CRIANÇAS DA EDUCAÇÃO PÚBLICA NO MUNICÍPIO DE UBERLÂNDIA.",
+   "dat_apresentacao": "29/08/2025",
+   "autores": "Ronaldo Tannús - PODEMOS",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=230446",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado - Art. 172, Regimento Interno",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "17/11/2025 08:22:56",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 230445,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 601,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 601/2025",
+   "txt_ementa": "CRIA O PROGRAMA DE BRINQUEDOTECAS COMUNITÁRIAS NO MUNICÍPIO DE UBERLÂNDIA.",
+   "dat_apresentacao": "29/08/2025",
+   "autores": "Ronaldo Tannús - PODEMOS",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=230445",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado - Art. 172, Regimento Interno",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "17/11/2025 08:22:26",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 230444,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 600,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 600/2025",
+   "txt_ementa": "CRIA O PROGRAMA CRIANÇA NA RUA COM SEGURANÇA NO MUNICÍPIO DE UBERLÂNDIA.",
+   "dat_apresentacao": "29/08/2025",
+   "autores": "Ronaldo Tannús - PODEMOS",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=230444",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado - Art. 172, Regimento Interno",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "17/11/2025 08:21:59",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 230443,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 599,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 599/2025",
+   "txt_ementa": "CRIA O PROGRAMA CRIANÇA NO ESPORTE NOS BAIRROS DO MUNICÍPIO DE UBERLÂNDIA.",
+   "dat_apresentacao": "29/08/2025",
+   "autores": "Ronaldo Tannús - PODEMOS",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=230443",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado - Art. 172, Regimento Interno",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "17/11/2025 08:21:34",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 230442,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 598,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 598/2025",
+   "txt_ementa": "INSTITUI O SELO ESCOLA AMIGA DA CRIANÇA NO MUNICÍPIO DE UBERLÂNDIA.",
+   "dat_apresentacao": "29/08/2025",
+   "autores": "Ronaldo Tannús - PODEMOS",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=230442",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado - Art. 172, Regimento Interno",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "17/11/2025 08:21:06",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 230441,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 597,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 597/2025",
+   "txt_ementa": "INSTITUI O PROGRAMA “BRINCAR É DIREITO” NO MUNICÍPIO DE UBERLÂNDIA E DÁ OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "29/08/2025",
+   "autores": "Ronaldo Tannús - PODEMOS",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=230441",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado - Art. 172, Regimento Interno",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "17/11/2025 08:20:46",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 230440,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 596,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 596/2025",
+   "txt_ementa": "DISPÕE SOBRE A CAPACITAÇÃO CONTINUADA E ESTRUTURAÇÃO DOS CONSELHOS TUTELARES DO MUNICÍPIO DE UBERLÂNDIA E DÁ OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "29/08/2025",
+   "autores": "Ronaldo Tannús - PODEMOS",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=230440",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado - Art. 172, Regimento Interno",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "17/11/2025 08:20:02",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 230439,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 595,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 595/2025",
+   "txt_ementa": "INSTITUI O PROGRAMA MUNICIPAL DE PROTEÇÃO E REINTEGRAÇÃO DE CRIANÇAS EM SITUAÇÃO DE RUA NO MUNICÍPIO DE UBERLÂNDIA E DÁ OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "29/08/2025",
+   "autores": "Ronaldo Tannús - PODEMOS",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=230439",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado - Art. 172, Regimento Interno",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "17/11/2025 08:19:41",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 230438,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 594,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 594/2025",
+   "txt_ementa": "INSTITUI O SELO “ESCOLA ALIMENTA COM DIGNIDADE” NO ÂMBITO DA REDE PÚBLICA MUNICIPAL DE ENSINO DE UBERLÂNDIA, COMO FORMA DE RECONHECIMENTO ÀS UNIDADES ESCOLARES QUE ADOTAM BOAS PRÁTICAS DE ALIMENTAÇÃO ESCOLAR, E DÁ OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "29/08/2025",
+   "autores": "Ronaldo Tannús - PODEMOS",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=230438",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado - Art. 172, Regimento Interno",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "17/11/2025 08:19:18",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 230437,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 593,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 593/2025",
+   "txt_ementa": "INSTITUI O PROGRAMA MUNICIPAL DE EDUCAÇÃO EMOCIONAL NAS ESCOLAS NA REDE PÚBLICA DE ENSINO DO MUNICÍPIO DE UBERLÂNDIA, DENOMINADO “LEI DA CONVIVÊNCIA E DA PAZ”, E DÁ OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "29/08/2025",
+   "autores": "Ronaldo Tannús - PODEMOS",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=230437",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado - Art. 172, Regimento Interno",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "17/11/2025 08:18:57",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 230436,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 592,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 592/2025",
+   "txt_ementa": "CRIA O PROGRAMA MUNICIPAL “INFÂNCIA EM CENA” DE FORMAÇÃO TEATRAL E ACESSO À CULTURA PARA CRIANÇAS DA REDE PÚBLICA DE ENSINO DO MUNICÍPIO DE UBERLÂNDIA E DÁ OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "29/08/2025",
+   "autores": "Ronaldo Tannús - PODEMOS",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=230436",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado - Art. 172, Regimento Interno",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "17/11/2025 08:18:36",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 230435,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 591,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 591/2025",
+   "txt_ementa": "INSTITUI O PROGRAMA “CIDADE INCLUSIVA MIRIM” NO ÂMBITO DO MUNICÍPIO DE UBERLÂNDIA, VOLTADO À PROMOÇÃO DO DESENVOLVIMENTO INTEGRAL DE CRIANÇAS COM DEFICIÊNCIA, TRANSTORNO DO ESPECTRO AUTISTA (TEA), SÍNDROMES GENÉTICAS E DEMAIS CONDIÇÕES DO NEURODESENVOLVIMENTO, ASSEGURANDO ATENDIMENTO INTERSETORIAL E PERSONALIZADO COM BASE EM EVIDÊNCIAS, E DÁ OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "29/08/2025",
+   "autores": "Ronaldo Tannús - PODEMOS",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=230435",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado - Art. 172, Regimento Interno",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "17/11/2025 08:18:08",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 230434,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 590,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 590/2025",
+   "txt_ementa": "CRIA O PROGRAMA “TERRITÓRIOS DA INFÂNCIA UBERLANDENSE” PARA IDENTIFICAÇÃO, RECONHECIMENTO E PRIORIZAÇÃO DE ÁREAS COM ALTA VULNERABILIDADE INFANTIL NO MUNICÍPIO DE UBERLÂNDIA E DÁ OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "29/08/2025",
+   "autores": "Ronaldo Tannús - PODEMOS",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=230434",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado - Art. 172, Regimento Interno",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "17/11/2025 08:17:39",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 230433,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 589,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 589/2025",
+   "txt_ementa": "ESTABELECE A PRIORIDADE PARA FAMÍLIAS COM FILHOS ACOLHIDOS INSTITUCIONALMENTE OU AFASTADOS JUDICIALMENTE NA FILA DE PROGRAMAS HABITACIONAIS MUNICIPAIS E DÁ OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "29/08/2025",
+   "autores": "Ronaldo Tannús - PODEMOS",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=230433",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado - Art. 172, Regimento Interno",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "17/11/2025 08:17:18",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 230432,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 588,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 588/2025",
+   "txt_ementa": "INSTITUI O PROGRAMA MUNICIPAL “UBERLÂNDIA LÊ” DE INCENTIVO À LEITURA INFANTIL NO MUNICÍPIO DE UBERLÂNDIA, COM A CRIAÇÃO DE CLUBES LITERÁRIOS, PREMIAÇÕES E AÇÕES PEDAGÓGICAS DE VALORIZAÇÃO DO LIVRO NA INFÂNCIA E DÁ OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "29/08/2025",
+   "autores": "Ronaldo Tannús - PODEMOS",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=230432",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado - Art. 172, Regimento Interno",
+    "nom_unidade": "Seção de Controle de Processo Legislativo",
+    "dat_tramitacao": "11/02/2026 14:02:17",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 230010,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 581,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 581/2025",
+   "txt_ementa": "DISPÕE SOBRE A OBRIGATORIEDADE DAS INSTITUIÇÕES DE ENSINO PRIVADO DO MUNICÍPIO DE UBERLÂNDIA ACEITAREM A MATRÍCULA DE CRIANÇAS E ADOLESCENTES COM TRANSTORNO DO ESPECTRO AUTISTA (TEA), GARANTINDO A INCLUSÃO ESCOLAR E O DIREITO AO ACOMPANHANTE ESPECIALIZADO, NOS TERMOS DA LEI FEDERAL Nº 12.764/2012, E DÁ OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "25/08/2025",
+   "autores": "Ronaldo Tannús - PODEMOS, Amanda Gondim - PSB, Liza Prado - CIDADANIA",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=230010",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "03/11/2025 15:36:24",
+    "dat_fim_prazo": "04/11/2025",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": {
+    "sgl_norma": "LEI",
+    "num_norma": 14588,
+    "ano_norma": 2025,
+    "cod_norma": 18520,
+    "tip_norma": 6,
+    "ind_publico": 1,
+    "pode_cadastrar_norma": false,
+    "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=18520"
+   },
+   "anexadoras": [
+    {
+     "identificacao": "Proposição de Lei n° 246/2025",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=234465",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 225970,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 498,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 498/2025",
+   "txt_ementa": "INSTITUI E INSERE NO CALENDÁRIO OFICIAL DE EVENTOS DO MUNICÍPIO DE UBERLÂNDIA O DIA MUNICIPAL DE CONSCIENTIZAÇÃO SOBRE O TRANSTORNO DO DÉFICIT DE ATENÇÃO COM HIPERATIVIDADE (TDAH)  E DÁ OUTRAS PROVIDÊNCIAS",
+   "dat_apresentacao": "15/07/2025",
+   "autores": "Ronaldo Tannús - PODEMOS",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=225970",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "29/09/2025 12:47:38",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": {
+    "sgl_norma": "LEI",
+    "num_norma": 14545,
+    "ano_norma": 2025,
+    "cod_norma": 18408,
+    "tip_norma": 6,
+    "ind_publico": 1,
+    "pode_cadastrar_norma": false,
+    "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=18408"
+   },
+   "anexadoras": [
+    {
+     "identificacao": "Proposição de Lei n° 180/2025",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=231153",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 225916,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 496,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 496/2025",
+   "txt_ementa": "INSTITUI E INSERE NO CALENDÁRIO OFICIAL DE EVENTOS DO MUNICÍPIO DE UBERLÂNDIA O DIA DO ORGULHO AUTISTA E DÁ OUTRAS PROVIDÊNCIAS",
+   "dat_apresentacao": "15/07/2025",
+   "autores": "Ronaldo Tannús - PODEMOS",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=225916",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "29/09/2025 12:51:02",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": {
+    "sgl_norma": "LEI",
+    "num_norma": 14542,
+    "ano_norma": 2025,
+    "cod_norma": 18410,
+    "tip_norma": 6,
+    "ind_publico": 1,
+    "pode_cadastrar_norma": false,
+    "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=18410"
+   },
+   "anexadoras": [
+    {
+     "identificacao": "Proposição de Lei n° 179/2025",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=231152",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 225639,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 477,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 477/2025",
+   "txt_ementa": "DISPÕE SOBRE O MONITORAMENTO POR CÂMERAS DE SEGURANÇA NAS INSTITUIÇÕES DE ENSINO DAS REDES PÚBLICAS E PRIVADA DO MUNICÍPIO DE UBERLÂNDIA E DÁ OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "10/07/2025",
+   "autores": "Ronaldo Tannús - PODEMOS",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=225639",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado - Art. 172, Regimento Interno",
+    "nom_unidade": "Seção de Controle de Processo Legislativo",
+    "dat_tramitacao": "22/09/2025 12:14:31",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 225178,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 462,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 462/2025",
+   "txt_ementa": "DENOMINA COMO PRAÇA MARIZA VIEIRA VILLELA REZENDE A PRAÇA QUE ESPECIFICA",
+   "dat_apresentacao": "07/07/2025",
+   "autores": "Ronaldo Tannús - PODEMOS",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=225178",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "25/08/2025 15:23:38",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": {
+    "sgl_norma": "LEI",
+    "num_norma": 14481,
+    "ano_norma": 2025,
+    "cod_norma": 18314,
+    "tip_norma": 6,
+    "ind_publico": 1,
+    "pode_cadastrar_norma": false,
+    "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=18314"
+   },
+   "anexadoras": [
+    {
+     "identificacao": "Proposição de Lei n° 144/2025",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=228783",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 224632,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 454,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 454/2025",
+   "txt_ementa": "DISPÕE SOBRE O TEMPO MÍNIMO DE TOLERÂNCIA CONCEDIDA À PESSOA COM DEFICIÊNCIA COM MOBILIDADE REDUZIDA NA COBRANÇA PELO ESTACIONAMENTO DE VEÍCULO EM ESTABELECIMENTO COMERCIAL",
+   "dat_apresentacao": "02/07/2025",
+   "autores": "Ronaldo Tannús - PODEMOS, Amanda Gondim - PSB",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=224632",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Inclusão de Co-autoria",
+    "nom_unidade": "Seção de Apoio às Comissões",
+    "dat_tramitacao": "09/09/2025 09:53:04",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": [
+    {
+     "identificacao": "Requerimento n° 20419/2025",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=231065",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 224453,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 446,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 446/2025",
+   "txt_ementa": "INSTITUI COMO ATIVIDADE EXTRACURRICULAR O ENSINO DO ESTATUTO DA CRIANÇA E DO ADOLESCENTE - ECA NAS UNIDADES DE ENSINO DA REDE PÚBLICA MUNICIPAL",
+   "dat_apresentacao": "30/06/2025",
+   "autores": "Ronaldo Tannús - PODEMOS",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=224453",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado - Art. 172, Regimento Interno",
+    "nom_unidade": "Seção de Controle de Processo Legislativo",
+    "dat_tramitacao": "25/08/2025 10:00:24",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 224401,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 445,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 445/2025",
+   "txt_ementa": "DECLARA DE UTILIDADE PÚBLICA A ASSOCIAÇÃO GERAÇÃO ESPLENDOR DE UBERLÂNDIA.",
+   "dat_apresentacao": "30/06/2025",
+   "autores": "Ronaldo Tannús - PODEMOS",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=224401",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "01/08/2025 14:36:53",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": {
+    "sgl_norma": "LEI",
+    "num_norma": 14472,
+    "ano_norma": 2025,
+    "cod_norma": 18288,
+    "tip_norma": 6,
+    "ind_publico": 1,
+    "pode_cadastrar_norma": false,
+    "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=18288"
+   },
+   "anexadoras": [
+    {
+     "identificacao": "Proposição de Lei n° 134/2025",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=226412",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 223022,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 430,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 430/2025",
+   "txt_ementa": "INSTITUI O PROGRAMA DE VACINAÇÃO DOMICILIAR PARA PESSOAS COM TRANSTORNO DO ESPECTRO AUTISTA (TEA) E PCD’S NO MUNICÍPIO DE UBERLÂNDIA E DÁ OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "16/06/2025",
+   "autores": "Ronaldo Tannús - PODEMOS",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=223022",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado - Art. 172, Regimento Interno",
+    "nom_unidade": "Seção de Controle de Processo Legislativo",
+    "dat_tramitacao": "20/08/2025 09:18:41",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 222417,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 422,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 422/2025",
+   "txt_ementa": "ALTERA A LEI Nº 13.685, DE 12 DE JANEIRO DE 2022, QUE “INSTITUI A SEMANA MUNICIPAL DA MATERNIDADE ATÍPICA E DÁ OUTRAS PROVIDÊNCIAS.”",
+   "dat_apresentacao": "11/06/2025",
+   "autores": "Ronaldo Tannús - PODEMOS",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=222417",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "03/03/2026 16:14:29",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": {
+    "sgl_norma": "LEI",
+    "num_norma": 14694,
+    "ano_norma": 2026,
+    "cod_norma": 18682,
+    "tip_norma": 6,
+    "ind_publico": 1,
+    "pode_cadastrar_norma": false,
+    "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=18682"
+   },
+   "anexadoras": [
+    {
+     "identificacao": "Proposição de Lei n° 341/2026",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=247172",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 221775,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 405,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 405/2025",
+   "txt_ementa": "ALTERA A LEI Nº 11.494, DE 17 DE SETEMBRO DE 2013, QUE \"DISPÕE SOBRE A REGULAMENTAÇÃO DAS ATIVIDADES DOS PROFISSIONAIS EM TRANSPORTE DE PASSAGEIROS - MOTOTÁXI E DOS SERVIÇOS DE TRANSPORTE REMUNERADO DE MERCADORIAS - MOTOFRETE, EM MOTOCICLETAS E MOTONETAS NO MUNICÍPIO DE UBERLÂNDIA, E DÁ OUTRAS PROVIDÊNCIAS\".",
+   "dat_apresentacao": "05/06/2025",
+   "autores": "Ronaldo Tannús - PODEMOS",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=221775",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Parecer de Comissão apresentado",
+    "nom_unidade": "Seção de Apoio às Comissões",
+    "dat_tramitacao": "27/06/2025 10:39:50",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 219353,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 365,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 365/2025",
+   "txt_ementa": "INSTITUI E INSERE NO CALENDÁRIO OFICIAL DE EVENTOS A “SEMANA DA MATERNIDADE ATÍPICA” NO MUNICÍPIO DE UBERLÂNDIA E DÁ OUTRAS PROVIDÊNCIAS",
+   "dat_apresentacao": "15/05/2025",
+   "autores": "Ronaldo Tannús - PODEMOS",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=219353",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "06/08/2025 13:40:56",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": "<p>Mat&eacute;ria apresentada como substitutivo no PL n&ordm; 422/25.</p>"
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 219351,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 364,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 364/2025",
+   "txt_ementa": "INSTITUI, NO ÂMBITO DO MUNICÍPIO DE UBERLÂNDIA, A OBRIGATORIEDADE DE IDENTIFICAÇÃO DO REMETENTE EM TODAS AS ENTREGAS DE BENS E MERCADORIAS, E ESTABELECE PENALIDADES EM CASO DE DESCUMPRIMENTO.",
+   "dat_apresentacao": "15/05/2025",
+   "autores": "Ronaldo Tannús - PODEMOS",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=219351",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "12/06/2025 12:47:12",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 213835,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 287,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 287/2025",
+   "txt_ementa": "ALTERA A LEI Nº 10.715, DE 21 DE MARÇO DE 2011 E SUAS ALTERAÇÕES, QUE \"INSTITUI O CÓDIGO MUNICIPAL DE SAÚDE\".",
+   "dat_apresentacao": "02/04/2025",
+   "autores": "Ronaldo Tannús - PODEMOS",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=213835",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "29/09/2025 11:04:14",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": {
+    "sgl_norma": "LEI",
+    "num_norma": 14543,
+    "ano_norma": 2025,
+    "cod_norma": 18384,
+    "tip_norma": 6,
+    "ind_publico": 1,
+    "pode_cadastrar_norma": false,
+    "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=18384"
+   },
+   "anexadoras": [
+    {
+     "identificacao": "Proposição de Lei n° 194/2025",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=231551",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 212993,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 272,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 272/2025",
+   "txt_ementa": "DISPÕE DA LIBERAÇÃO PARA A ENTRADA DE CONSUMIDORES PORTANDO PRODUTOS ALIMENTÍCIOS DE OUTROS ESTABELECIMENTOS NOS CLUBES ESTABELECIDOS NO MUNICÍPIO DE UBERLÂNDIA. ",
+   "dat_apresentacao": "27/03/2025",
+   "autores": "Ronaldo Tannús - PODEMOS",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=212993",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado - Art. 172, Regimento Interno",
+    "nom_unidade": "Seção de Controle de Processo Legislativo",
+    "dat_tramitacao": "20/08/2025 09:17:37",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 208542,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 210,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 210/2025",
+   "txt_ementa": "DISPÕE SOBRE A OBRIGATORIEDADE DE INSTALAÇÃO DE CÂMERAS DE MONITORAMENTO EM SESSÕES CLÍNICAS QUE TRATAM DE PESSOAS COM DEFICIÊNCIA NO MUNICÍPIO DE UBERLÂNDIA.",
+   "dat_apresentacao": "19/02/2025",
+   "autores": "Ronaldo Tannús - PODEMOS",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=208542",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "05/01/2026 13:51:09",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": {
+    "sgl_norma": "LEI",
+    "num_norma": 14661,
+    "ano_norma": 2025,
+    "cod_norma": 18636,
+    "tip_norma": 6,
+    "ind_publico": 1,
+    "pode_cadastrar_norma": false,
+    "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=18636"
+   },
+   "anexadoras": [
+    {
+     "identificacao": "Proposição de Lei n° 310/2025",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=241064",
+     "is_veto": false
+    },
+    {
+     "identificacao": "Requerimento n° 8613/2025",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=213830",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 206457,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 132,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 132/2025",
+   "txt_ementa": "ALTERA A LEI Nº 7212, DE 16 DE DEZEMBRO DE 1998, QUE AUTORIZA O MUNICÍPIO A OUTORGADA, MEDIANTE LICITAÇÃO, CONCESSÃO DO TERMINAL RODOVIÁRIO PRESIDENTE CASTELO BRANCO, E EXPLORAR ECONOMICAMENTE AS SUAS UNIDADES COMERCIAIS E DE PRESTAÇÃO DE SERVIÇOS, E DÁ OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "04/02/2025",
+   "autores": "Ronaldo Tannús - PODEMOS",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=206457",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "29/04/2025 12:36:44",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 206128,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 115,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 115/2025",
+   "txt_ementa": "DISPÕE SOBRE A OBRIGATORIEDADE DE IMPLEMENTAÇÃO DE SALAS MULTISSENSORIAIS NOS LOCAIS QUE ESPECIFICA PARA PESSOAS COM TRANSTORNO DO ESPECTRO AUTISTA (TEA) E OUTRAS NEURODIVERGÊNCIAS.",
+   "dat_apresentacao": "31/01/2025",
+   "autores": "Ronaldo Tannús - PODEMOS",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=206128",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado - Art. 172, Regimento Interno",
+    "nom_unidade": "Seção de Controle de Processo Legislativo",
+    "dat_tramitacao": "07/07/2025 08:38:11",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 205958,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 110,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 110/2025",
+   "txt_ementa": "INSTITUI CORDÃO COM DESENHO DE CARICATURA DE MÃOS COMO SÍMBOLO DE IDENTIFICAÇÃO DE PESSOA COM DOENÇA RARA.",
+   "dat_apresentacao": "30/01/2025",
+   "autores": "Ronaldo Tannús - PODEMOS, Amanda Gondim - PSB, Liza Prado - CIDADANIA, Sérvio Túlio - PSDB",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=205958",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "09/05/2025 18:36:07",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": {
+    "sgl_norma": "LEI",
+    "num_norma": 14375,
+    "ano_norma": 2025,
+    "cod_norma": 17839,
+    "tip_norma": 6,
+    "ind_publico": 1,
+    "pode_cadastrar_norma": false,
+    "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=17839"
+   },
+   "anexadoras": [
+    {
+     "identificacao": "Proposição de Lei n° 32/2025",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=213832",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 205951,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 109,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 109/2025",
+   "txt_ementa": "DISPÕE SOBRE A OBRIGATORIEDADE DE ESTABELECIMENTOS COMERCIAIS PROMOVEREM A ACESSIBILIDADE E INCLUSÃO DE PESSOAS COM TRANSTORNO DO ESPECTRO AUTISTA (TEA), PERMITINDO A ENTRADA, PERMANÊNCIA E O CONSUMO DE ALIMENTOS E BEBIDAS, INCLUSIVE COM O USO DE UTENSÍLIOS PRÓPRIOS, EM ÁREAS COMPATÍVEIS COM AS NORMAS SANITÁRIAS.",
+   "dat_apresentacao": "30/01/2025",
+   "autores": "Ronaldo Tannús - PODEMOS",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=205951",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "05/05/2025 11:51:39",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": {
+    "sgl_norma": "LEI",
+    "num_norma": 14383,
+    "ano_norma": 2025,
+    "cod_norma": 17848,
+    "tip_norma": 6,
+    "ind_publico": 1,
+    "pode_cadastrar_norma": false,
+    "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=17848"
+   },
+   "anexadoras": [
+    {
+     "identificacao": "Proposição de Lei n° 34/2025",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=214154",
+     "is_veto": false
+    },
+    {
+     "identificacao": "Requerimento n° 8487/2025",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=213698",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 205941,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 108,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 108/2025",
+   "txt_ementa": "DISPÕE SOBRE A GARANTIA ÀS MÃES OU TUTOR/CURADOR LEGAL COM FILHOS COM TRANSTORNO DO ESPECTRO AUTISTA OU TUTOR/CURADOR LEGAL A PRIORIDADE NOS PROGRAMAS HABITACIONAIS NO MUNICÍPIO E DÁ OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "30/01/2025",
+   "autores": "Ronaldo Tannús - PODEMOS",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=205941",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "08/04/2025 13:42:35",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 205935,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 106,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 106/2025",
+   "txt_ementa": "GARANTE A CRIANÇA COM TRANSTORNO DO ESPECTRO AUTISTA, ALTAS HABILIDADES/SUPERDOTAÇÃO, TRANSTORNO DO DÉFICIT DE ATENÇÃO COM HIPERATIVIDADE OU OUTRAS ATIPICIDADES O DIREITO A LEVAR SEU PRÓPRIO LANCHE PARA A ESCOLA EM QUE ESTEJA MATRICULADA.",
+   "dat_apresentacao": "30/01/2025",
+   "autores": "Ronaldo Tannús - PODEMOS",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=205935",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "03/04/2025 13:13:01",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 213398,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PLC",
+   "des_tipo_materia": "Projeto de Lei Complementar",
+   "num_ident_basica": 17,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Complementar n° 17/2025",
+   "txt_ementa": "ALTERA A LEI COMPLEMENTAR Nº 040, DE 5 DE OUTUBRO DE 1992, QUE \"DISPÕE SOBRE O ESTATUTO DOS SERVIDORES PÚBLICOS DO MUNICÍPIO DE UBERLÂNDIA, SUAS AUTARQUIAS, FUNDAÇÕES PÚBLICAS E CÂMARA MUNICIPAL\"",
+   "dat_apresentacao": "31/03/2025",
+   "autores": "Ronaldo Tannús - PODEMOS",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=213398",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado - Art. 172, Regimento Interno",
+    "nom_unidade": "Seção de Controle de Processo Legislativo",
+    "dat_tramitacao": "11/06/2025 14:11:17",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 207953,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PELO",
+   "des_tipo_materia": "Proposta de Emenda à Lei Orgânica",
+   "num_ident_basica": 4,
+   "ano_ident_basica": 2025,
+   "identificacao": "Proposta de Emenda à Lei Orgânica n° 4/2025",
+   "txt_ementa": "ALTERA O ART. 17, INCISO II, DA LEI ORGÂNICA MUNICIPAL",
+   "dat_apresentacao": "13/02/2025",
+   "autores": "Ronaldo Tannús - PODEMOS, Adriano Zago - AVANTE, Amanda Gondim - PSB, Anderson Lima - PL, Ângela Do Postinho - Solidariedade, Antônio Augusto Queijinho - PSDB, Antônio Carrijo - PP, Delegada Lia Valechi - União Brasil, Dr. Igino - PT, Edinho Combate Ao Câncer (in memoriam) - DEMOCRATA, Elinho Da Academia - MOBILIZA, Fabão - PV, Gláucia da Saúde - PL, Ivan Nunes - PP, Liza Prado - CIDADANIA, Neemias Miquéias - PODEMOS, Nei Borges - Solidariedade, Pezão Do Esporte - DC, Prof. Conrado Augusto - MDB, Prof. Ronaldo - PT, Sargento Ednaldo - PP, Thais Andrade - União Brasil, Zezinho Mendonça - PP",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=207953",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "23/04/2025 12:52:19",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": {
+    "sgl_norma": "ELO",
+    "num_norma": 43,
+    "ano_norma": 2025,
+    "cod_norma": 17825,
+    "tip_norma": 10,
+    "ind_publico": 1,
+    "pode_cadastrar_norma": false,
+    "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=17825"
+   },
+   "anexadoras": []
+  }
+ ]
+}

@@ -324,10 +324,10 @@ const CATALOGO: Record<Casa, Record<string, [Metrica, Extrator]>> = {
       "Taxa de aprovação: projetos aprovados ÷ projetos votados do vereador. Quem não teve projeto votado fica em semDado; quem teve menos de 3 projetos votados fica fora do ranking e vem em poucosProjetos (a taxa com 1 ou 2 projetos não é comparável). Os itens trazem num/den.",
       r => taxa(r.projetos?.aprovados, r.projetos?.votados), 3),
     projetos_propostos: def("valor", "qtd",
-      "Projetos de lei ordinária + complementar + propostas de emenda à Lei Orgânica apresentados na legislatura (desde 2025) pelo vereador. Vem da lista de proposições do site da Câmara e pode incluir coautoria.",
+      "Projetos de lei ordinária + complementar + propostas de emenda à Lei Orgânica de autoria principal do vereador, apresentados na legislatura (desde 2025). Fonte: e-processos da Câmara.",
       r => r.projetos?.propostos),
     taxa_chegou_votacao: def("taxa", "pct",
-      "Dos projetos propostos na legislatura (desde 2025), quantos chegaram à votação nominal: projetos de autoria principal, apresentados desde 2025, com ao menos uma votação nominal ÷ projetos propostos. Os propostos podem incluir coautoria; os votados só autoria principal, então a taxa pode ficar subestimada. Só votações nominais (votação simbólica não aparece). Quem propôs menos de 3 projetos fica fora do ranking e vem em poucosProjetos. Os itens trazem num/den.",
+      "Dos projetos de autoria principal apresentados na legislatura (desde 2025), quantos chegaram à votação nominal (ao menos uma) ÷ projetos propostos. Projetos aprovados em votação simbólica não contam como votados (o perfil traz aprovadosSemVotoNominal). Quem propôs menos de 3 projetos fica fora do ranking e vem em poucosProjetos. Os itens trazem num/den.",
       r => taxa(r.projetos?.propostosVotados, r.projetos?.propostos), 3, "projetos propostos"),
     votos_eleicao: def("valor", "votos", "Votos recebidos na eleição de 2024.", r => r.tse?.votos2024 ?? r.votosEleicao),
     patrimonio: def("valor", "reais", "Patrimônio declarado ao TSE (2024).", r => r.tse?.patrimonio),
@@ -608,6 +608,58 @@ export function contas(d: Dados, ente: "prefeitura" | "estado", ano?: number): o
     origem: ente === "prefeitura" ? "Tesouro Nacional (Siconfi)" : "Tesouro Nacional (Siconfi), Estado de Minas Gerais",
     link: ente === "prefeitura" ? "#pref" : "#gov",
     fonte: "https://siconfi.tesouro.gov.br",
+  };
+}
+
+export type FiltroProjetos = "todos" | "aprovados" | "votados" | "nao_votados";
+
+const FILTROS: Record<FiltroProjetos, (x: any) => boolean> = {
+  todos: () => true,
+  aprovados: x => x.status === "aprovado",
+  votados: x => x.votado,
+  nao_votados: x => !x.votado,
+};
+
+const RESSALVA_PROPOSTOS = "votado = teve ao menos uma votação nominal em plenário; aprovação em votação simbólica não tem voto nominal, mas aparece como aprovado quando a tramitação ou a lei gerada mostram a aprovação (aprovadoPorTramitacao).";
+
+/** Projetos de autoria principal de um vereador (e-processos), com filtro, ano de apresentação e limite. */
+export function projetosDoVereador(
+  d: Dados,
+  opcoes: { id?: string; consulta?: string; filtro?: FiltroProjetos; ano?: number; limite?: number },
+): object {
+  let id = opcoes.id;
+  if (id == null) {
+    const achados = buscarParlamentar(d, opcoes.consulta ?? "", "vereador");
+    if (achados.length === 0) throw new Error(`Nenhum vereador encontrado para "${opcoes.consulta ?? ""}".`);
+    if (achados.length > 1) return { ambiguo: true, opcoes: achados };
+    id = achados[0]!.id;
+  }
+  const { p } = achar(d, "vereador", id);
+  const todos: any[] = d.proj?.vereadores?.[p.id];
+  if (!todos) throw new Error("O placar ainda não tem a lista de projetos deste vereador.");
+  const filtro: FiltroProjetos = opcoes.filtro ?? "todos";
+  const escopo = opcoes.ano == null ? todos : todos.filter(x => x.identificacao.endsWith(`/${opcoes.ano}`));
+  const filtrados = escopo.filter(FILTROS[filtro]);
+  const n = Math.max(1, Math.floor(opcoes.limite ?? 10));
+  const itens = filtrados.slice(0, n).map(x => ({
+    identificacao: x.identificacao, ementa: x.ementa, data: x.data, situacao: x.situacao,
+    votado: x.votado, status: x.status, ...(x.norma ? { norma: x.norma } : {}), fonte: x.fonte,
+  }));
+  const aprovados = escopo.filter(x => x.status === "aprovado");
+  return {
+    pessoa: p, filtro, ...(opcoes.ano == null ? {} : { ano: opcoes.ano }),
+    escopo: opcoes.ano == null ? `legislatura (desde 2025)` : `apresentados em ${opcoes.ano}`,
+    totais: {
+      propostos: escopo.length,
+      votados: escopo.filter(x => x.votado).length,
+      aprovados: aprovados.length,
+      aprovadosEmVotacaoNominal: aprovados.filter(x => x.votado).length,
+      aprovadosSemVotoNominal: aprovados.filter(x => !x.votado).length,
+      naoVotados: escopo.filter(x => !x.votado).length,
+    },
+    totalNoFiltro: filtrados.length, mostrando: itens.length, itens,
+    ressalva: RESSALVA_PROPOSTOS,
+    origem: d.proj?.fonte,
   };
 }
 

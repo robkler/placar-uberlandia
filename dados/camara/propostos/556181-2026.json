@@ -1,0 +1,176 @@
+{
+ "id": "556181",
+ "codAutor": "556186",
+ "ano": 2026,
+ "total": 7,
+ "coletadoEm": "2026-10-16T18:25",
+ "itens": [
+  {
+   "cod_materia": 269295,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 1347,
+   "ano_ident_basica": 2026,
+   "identificacao": "Projeto de Lei Ordinária n° 1347/2026",
+   "txt_ementa": "CONCEDE O BENEFÍCIO DA MEIA-ENTRADA AOS SERVIDORES PÚBLICOS MUNICIPAIS, ESTADUAIS E FEDERAIS, OCUPANTES DE CARGOS EFETIVOS OU EM COMISSÃO, EM EVENTOS ARTÍSTICO-CULTURAIS E ESPORTIVOS REALIZADOS NO MUNICÍPIO DE UBERLÂNDIA E DÁ OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "04/09/2026",
+   "autores": "Nei Borges - Solidariedade",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=269295",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Encaminhado à Comissão",
+    "nom_unidade": "Seção de Apoio às Comissões",
+    "dat_tramitacao": "08/09/2026 09:47:33",
+    "dat_fim_prazo": "22/09/2026",
+    "txt_tramitacao": "<p>Comissão de Legislação, Justiça e Redação</p> <p></p>"
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 260792,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 1174,
+   "ano_ident_basica": 2026,
+   "identificacao": "Projeto de Lei Ordinária n° 1174/2026",
+   "txt_ementa": "DISPÕE SOBRE A ISENÇÃO PARCIAL DO IMPOSTO PREDIAL E TERRITORIAL URBANO – IPTU, DOS IMÓVEIS QUE POSSUEM PONTO DE ÔNIBUS EM SUA FACHADA FRONTAL NO MUNICÍPIO DE UBERLÂNDIA, E DÁ OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "22/05/2026",
+   "autores": "Nei Borges - Solidariedade",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=260792",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Requerimento Parecer Contrário Apresentado - Art. 172, RI",
+    "nom_unidade": "Seção de Apoio às Comissões",
+    "dat_tramitacao": "16/09/2026 10:44:54",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": [
+    {
+     "identificacao": "Requerimento n° 21318/2026",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=269935",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 256361,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 1076,
+   "ano_ident_basica": 2026,
+   "identificacao": "Projeto de Lei Ordinária n° 1076/2026",
+   "txt_ementa": "INSTITUI, NO ÂMBITO DO MUNICÍPIO DE UBERLÂNDIA, A RESERVA DE PERCENTUAL DE ÔNIBUS DO TRANSPORTE PÚBLICO COLETIVO URBANO PARA USO EXCLUSIVO DE MULHERES, NOS HORÁRIOS DE PICO, E DÁ OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "09/04/2026",
+   "autores": "Nei Borges - Solidariedade",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=256361",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado - Art. 172, Regimento Interno",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "21/05/2026 08:47:17",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 248658,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 980,
+   "ano_ident_basica": 2026,
+   "identificacao": "Projeto de Lei Ordinária n° 980/2026",
+   "txt_ementa": "ACRESCENTA PARÁGRAFO ÚNICO AO ART. 137 DA LEI Nº 10.741, DE 6 DE ABRIL DE 2011, QUE INSTITUI O CÓDIGO MUNICIPAL DE POSTURAS DE UBERLÂNDIA E REVOGA A LEI Nº 4744, DE 05 DE JULHO DE 1988 E SUAS ALTERAÇÕES.",
+   "dat_apresentacao": "12/02/2026",
+   "autores": "Nei Borges - Solidariedade",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=248658",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "14/04/2026 11:49:20",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 245040,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 890,
+   "ano_ident_basica": 2026,
+   "identificacao": "Projeto de Lei Ordinária n° 890/2026",
+   "txt_ementa": "DISPÕE SOBRE A POSSIBILIDADE DE CONVERSÃO DE MULTAS DE TRÂNSITO APLICADAS NO MUNICÍPIO DE UBERLÂNDIA EM DOAÇÃO DE SANGUE OU DE MEDULA ÓSSEA, E DÁ OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "26/01/2026",
+   "autores": "Nei Borges - Solidariedade",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=245040",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Devolvido a(o) autor(a)",
+    "nom_unidade": "Seção de Apoio às Comissões",
+    "dat_tramitacao": "13/03/2026 14:10:27",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 245039,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 889,
+   "ano_ident_basica": 2026,
+   "identificacao": "Projeto de Lei Ordinária n° 889/2026",
+   "txt_ementa": "DISPÕE SOBRE A INSTALAÇÃO DE PLACAS EDUCATIVAS E INFORMATIVAS NOS LOCAIS CRÍTICOS DE DESCARTE IRREGULAR DE RESÍDUOS SÓLIDOS NO MUNICÍPIO DE UBERLÂNDIA E DÁ OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "26/01/2026",
+   "autores": "Nei Borges - Solidariedade",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=245039",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado - Art. 172, Regimento Interno",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "10/06/2026 13:46:23",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 245038,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 888,
+   "ano_ident_basica": 2026,
+   "identificacao": "Projeto de Lei Ordinária n° 888/2026",
+   "txt_ementa": "DISPÕE SOBRE A INSTITUIÇÃO DO PROGRAMA MUNICIPAL DE SEGURANÇA VIÁRIA ESCOLAR, QUE INCENTIVA A ADOÇÃO DE SENTIDO ÚNICO DE DIREÇÃO NAS VIAS PÚBLICAS QUE CIRCUNDAM UNIDADES ESCOLARES DA REDE PÚBLICA E PRIVADA NO MUNICÍPIO DE UBERLÂNDIA, E DÁ OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "26/01/2026",
+   "autores": "Nei Borges - Solidariedade",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=245038",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Devolvido a(o) autor(a)",
+    "nom_unidade": "Seção de Apoio às Comissões",
+    "dat_tramitacao": "03/03/2026 09:40:36",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  }
+ ]
+}

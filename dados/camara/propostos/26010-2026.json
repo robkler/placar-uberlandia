@@ -1,0 +1,139 @@
+{
+ "id": "26010",
+ "codAutor": "26010",
+ "ano": 2026,
+ "total": 5,
+ "coletadoEm": "2026-10-16T18:25",
+ "itens": [
+  {
+   "cod_materia": 268986,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 1340,
+   "ano_ident_basica": 2026,
+   "identificacao": "Projeto de Lei Ordinária n° 1340/2026",
+   "txt_ementa": "CONSIDERA ENTIDADE DE UTILIDADE PÚBLICA MUNICIPAL O CENTRO SOCIAL BOM SAMARITANO",
+   "dat_apresentacao": "01/09/2026",
+   "autores": "Gláucia da Saúde - PL",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=268986",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Encaminhado à Comissão",
+    "nom_unidade": "Seção de Apoio às Comissões",
+    "dat_tramitacao": "02/09/2026 09:25:56",
+    "dat_fim_prazo": "17/09/2026",
+    "txt_tramitacao": "Comissão de Legislação, Justiça e Redação<p></p> Comissão de Direitos Humanos, Sociais e do Consumidor<p></p> <p></p>"
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 266624,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 1280,
+   "ano_ident_basica": 2026,
+   "identificacao": "Projeto de Lei Ordinária n° 1280/2026",
+   "txt_ementa": "CONSIDERA ENTIDADE DE UTILIDADE PÚBLICA MUNICIPAL O INSTITUTO IDADOS DE PESQUISA E INFORMAÇÃO",
+   "dat_apresentacao": "31/07/2026",
+   "autores": "Gláucia da Saúde - PL",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=266624",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Devolvido a(o) autor(a)",
+    "nom_unidade": "Seção de Apoio às Comissões",
+    "dat_tramitacao": "01/09/2026 10:11:33",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 258742,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 1130,
+   "ano_ident_basica": 2026,
+   "identificacao": "Projeto de Lei Ordinária n° 1130/2026",
+   "txt_ementa": "DISPÕE SOBRE A PRESTAÇÃO DE ASSISTÊNCIA ESPIRITUAL E RELIGIOSA AOS PACIENTES INTERNADOS EM ESTABELECIMENTOS DE SAÚDE PÚBLICA E PRIVADOS, E REVOGA A LEI Nº 12.075, DE 18 DE JANEIRO DE 2015.",
+   "dat_apresentacao": "30/04/2026",
+   "autores": "Gláucia da Saúde - PL",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=258742",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Devolvido a(o) autor(a)",
+    "nom_unidade": "Seção de Apoio às Comissões",
+    "dat_tramitacao": "03/08/2026 11:17:39",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 251706,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 1008,
+   "ano_ident_basica": 2026,
+   "identificacao": "Projeto de Lei Ordinária n° 1008/2026",
+   "txt_ementa": "INSTITUI NO MUNICÍPIO DE UBERLÂNDIA O “MARÇO AZUL-MARINHO”, MÊS DE CONSCIENTIZAÇÃO E PREVENÇÃO DO CÂNCER DE INTESTINO (COLORRETAL).",
+   "dat_apresentacao": "06/03/2026",
+   "autores": "Gláucia da Saúde - PL",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=251706",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "23/07/2026 09:12:08",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": {
+    "sgl_norma": "LEI",
+    "num_norma": 14806,
+    "ano_norma": 2026,
+    "cod_norma": 18966,
+    "tip_norma": 6,
+    "ind_publico": 1,
+    "pode_cadastrar_norma": false,
+    "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=18966"
+   },
+   "anexadoras": [
+    {
+     "identificacao": "Proposição de Lei n° 459/2026",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=261855",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 247307,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 961,
+   "ano_ident_basica": 2026,
+   "identificacao": "Projeto de Lei Ordinária n° 961/2026",
+   "txt_ementa": "DISPÕE SOBRE PRAZOS MÁXIMOS DE ESPERA PARA REALIZAÇÃO DE PROCEDIMENTOS MÉDICOS NAS UNIDADES DA REDE PÚBLICA MUNICIPAL DE SAÚDE E DÁ OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "06/02/2026",
+   "autores": "Gláucia da Saúde - PL",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=247307",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Ciência de Parecer Contrário - Art. 172, Regimento Interno",
+    "nom_unidade": "Seção de Apoio às Comissões",
+    "dat_tramitacao": "09/06/2026 09:12:52",
+    "dat_fim_prazo": "11/06/2026",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  }
+ ]
+}

@@ -1,0 +1,122 @@
+{
+ "id": "537433",
+ "codAutor": "537433",
+ "ano": 2026,
+ "total": 4,
+ "coletadoEm": "2026-10-16T18:25",
+ "itens": [
+  {
+   "cod_materia": 269576,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 1357,
+   "ano_ident_basica": 2026,
+   "identificacao": "Projeto de Lei Ordinária n° 1357/2026",
+   "txt_ementa": "DENOMINA DE ROTATÓRIA EUGENIO MARIANO DE ALMEIDA O LOGRADOURO PÚBLICO QUE ESPECIFICA",
+   "dat_apresentacao": "09/09/2026",
+   "autores": "Ivan Nunes - PP",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=269576",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Aprovado - Art. 102-A, RI",
+    "nom_unidade": "Seção de Controle de Processo Legislativo",
+    "dat_tramitacao": "24/09/2026 16:22:57",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": [
+    {
+     "identificacao": "Proposição de Lei n° 540/2026",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=270547",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 267578,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 1306,
+   "ano_ident_basica": 2026,
+   "identificacao": "Projeto de Lei Ordinária n° 1306/2026",
+   "txt_ementa": "CONSIDERA ENTIDADE DE UTILIDADE PUBLICA A ASSOCIAÇÃO CRISTÃ ELEVANDO PESSOAS",
+   "dat_apresentacao": "11/08/2026",
+   "autores": "Ivan Nunes - PP",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=267578",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "14/10/2026 13:31:38",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": {
+    "sgl_norma": "LEI",
+    "num_norma": 14869,
+    "ano_norma": 2026,
+    "cod_norma": 19056,
+    "tip_norma": 6,
+    "ind_publico": 1,
+    "pode_cadastrar_norma": false,
+    "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=19056"
+   },
+   "anexadoras": [
+    {
+     "identificacao": "Proposição de Lei n° 545/2026",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=271129",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 266616,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 1279,
+   "ano_ident_basica": 2026,
+   "identificacao": "Projeto de Lei Ordinária n° 1279/2026",
+   "txt_ementa": "DECLARA DE UTILIDADE PÚBLICA A ASSOCIAÇÃO MONTE HEBROM",
+   "dat_apresentacao": "31/07/2026",
+   "autores": "Ivan Nunes - PP",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=266616",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Devolvido a(o) autor(a)",
+    "nom_unidade": "Seção de Apoio às Comissões",
+    "dat_tramitacao": "01/09/2026 10:10:52",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 262883,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 1214,
+   "ano_ident_basica": 2026,
+   "identificacao": "Projeto de Lei Ordinária n° 1214/2026",
+   "txt_ementa": "INSTITUI PONTOS DE EMBARQUE E DESEMBARQUE PARA VEÍCULOS DE TRANSPORTE INDIVIDUAL PRIVADO DE PASSAGEIROS INTERMEDIADO POR APLICATIVOS NO MUNICÍPIO DE UBERLÂNDIA/MG E DÁ OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "17/06/2026",
+   "autores": "Ivan Nunes - PP",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=262883",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Devolvido a(o) autor(a)",
+    "nom_unidade": "Seção de Apoio às Comissões",
+    "dat_tramitacao": "01/09/2026 10:07:22",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  }
+ ]
+}

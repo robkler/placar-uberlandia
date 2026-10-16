@@ -1,0 +1,1637 @@
+{
+ "id": "537380",
+ "codAutor": "537380",
+ "ano": 2025,
+ "total": 55,
+ "coletadoEm": "2026-10-16T18:25",
+ "itens": [
+  {
+   "cod_materia": 240612,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 847,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 847/2025",
+   "txt_ementa": "INSTITUI O PROGRAMA BOLSA ATLETA MUNICIPAL.",
+   "dat_apresentacao": "04/12/2025",
+   "autores": "Antônio Augusto Queijinho - PSDB, Elinho Da Academia - MOBILIZA",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=240612",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Requerimento Parecer Contrário Apresentado - Art. 172, RI",
+    "nom_unidade": "Seção de Apoio às Comissões",
+    "dat_tramitacao": "09/04/2026 12:38:53",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": [
+    {
+     "identificacao": "Requerimento n° 20939/2026",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=256546",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 240517,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 840,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 840/2025",
+   "txt_ementa": "DISPÕE SOBRE A UTILIZAÇÃO DE LOCAIS PÚBLICOS PARA A REALIZAÇÃO DE COMEMORAÇÕES DE TORCIDAS ESPORTIVAS, EM ESPECIAL EM FINAIS DE CAMPEONATOS ESTADUAIS, NACIONAIS E INTERNACIONAIS NO MUNICÍPIO DE UBERLÂNDIA E DÁ OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "03/12/2025",
+   "autores": "Antônio Augusto Queijinho - PSDB",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=240517",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Requerimento Parecer Contrário Apresentado - Art. 172, RI",
+    "nom_unidade": "Seção de Apoio às Comissões",
+    "dat_tramitacao": "09/02/2026 14:17:43",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": [
+    {
+     "identificacao": "Requerimento n° 20767/2026",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=247609",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 238755,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 815,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 815/2025",
+   "txt_ementa": "ALTERA A LEI Nº 12.404, DE 18 DE ABRIL DE 2016, QUE \"ESTABELECE, NO ÂMBITO DO MUNICÍPIO DE UBERLÂNDIA, SANÇÕES E PENALIDADES ADMINISTRATIVAS PARA AQUELES QUE PRATICAREM MAUS-TRATOS AOS ANIMAIS E DÁ OUTRAS PROVIDÊNCIAS\"",
+   "dat_apresentacao": "26/11/2025",
+   "autores": "Antônio Augusto Queijinho - PSDB",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=238755",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado - Art. 172, Regimento Interno",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "17/06/2026 09:44:37",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 238754,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 814,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 814/2025",
+   "txt_ementa": "AUTORIZA O TRANSPORTE DE ANIMAIS DOMÉSTICOS NO SERVIÇO DE TRANSPORTE COLETIVO DE PASSAGEIROS DO MUNICÍPIO DE UBERLÂNDIA E DA OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "26/11/2025",
+   "autores": "Antônio Augusto Queijinho - PSDB",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=238754",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado - Art. 172, Regimento Interno",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "10/03/2026 07:58:11",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 238753,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 813,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 813/2025",
+   "txt_ementa": "AUTORIZA A UTILIZAÇÃO DE ÁREAS PÚBLICAS MUNICIPAIS PARA O CULTIVO DE HORTAS POR PARTICULARES, MEDIANTE A DOAÇÃO DE 20% (VINTE POR CENTO) DA PRODUÇÃO PARA ESCOLAS PÚBLICAS MUNICIPAIS, E DÁ OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "26/11/2025",
+   "autores": "Antônio Augusto Queijinho - PSDB",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=238753",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "08/04/2026 14:14:49",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": {
+    "sgl_norma": "LEI",
+    "num_norma": 14745,
+    "ano_norma": 2026,
+    "cod_norma": 18741,
+    "tip_norma": 6,
+    "ind_publico": 1,
+    "pode_cadastrar_norma": false,
+    "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=18741"
+   },
+   "anexadoras": [
+    {
+     "identificacao": "Proposição de Lei n° 402/2026",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=252659",
+     "is_veto": false
+    },
+    {
+     "identificacao": "Requerimento n° 20860/2026",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=251316",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 237393,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 795,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 795/2025",
+   "txt_ementa": "DISPÕE SOBRE A UTILIZAÇÃO DE VAGAS DE ESTACIONAMENTO ROTATIVO PARA ATENDER EMERGÊNCIAS EM CLÍNICAS E HOSPITAIS VETERINÁRIOS E DÁ OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "12/11/2025",
+   "autores": "Antônio Augusto Queijinho - PSDB",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=237393",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Requerimento Parecer Contrário Apresentado - Art. 172, RI",
+    "nom_unidade": "Seção de Apoio às Comissões",
+    "dat_tramitacao": "05/02/2026 13:31:04",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": [
+    {
+     "identificacao": "Requerimento n° 20744/2026",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=247002",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 236537,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 779,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 779/2025",
+   "txt_ementa": "INSTITUI A CAMPANHA “DEZEMBRO VERDE” - NÃO AO ABANDONO DE ANIMAIS NO MUNICÍPIO DE UBERLÂNDIA E DÁ OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "04/11/2025",
+   "autores": "Antônio Augusto Queijinho - PSDB",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=236537",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "29/12/2025 16:44:08",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": {
+    "sgl_norma": "LEI",
+    "num_norma": 14657,
+    "ano_norma": 2025,
+    "cod_norma": 18633,
+    "tip_norma": 6,
+    "ind_publico": 1,
+    "pode_cadastrar_norma": false,
+    "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=18633"
+   },
+   "anexadoras": [
+    {
+     "identificacao": "Proposição de Lei n° 299/2025",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=240776",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 234236,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 708,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 708/2025",
+   "txt_ementa": "DISPÕE SOBRE A POSSIBILIDADE DE ENVIO DE NOTIFICAÇÕES ADMINISTRATIVAS PELA SECRETARIA MUNICIPAL DE PLANEJAMENTO URBANO DA PREFEITURA DE UBERLÂNDIA POR MEIO ELETRÔNICO, INCLUINDO APLICATIVOS DE MENSAGENS INSTANTÂNEAS E CORREIO ELETRÔNICO (E-MAIL), E DÁ OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "09/10/2025",
+   "autores": "Antônio Augusto Queijinho - PSDB",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=234236",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado - Art. 172, Regimento Interno",
+    "nom_unidade": "Seção de Controle de Processo Legislativo",
+    "dat_tramitacao": "20/02/2026 08:43:24",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 233874,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 690,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 690/2025",
+   "txt_ementa": "INSTITUI O DIA MUNICIPAL DO QUEIJO EM UBERLÂNDIA E DÁ OUTRAS PROVIDÊNCIAS",
+   "dat_apresentacao": "06/10/2025",
+   "autores": "Antônio Augusto Queijinho - PSDB",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=233874",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "07/04/2026 13:23:10",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": {
+    "sgl_norma": "LEI",
+    "num_norma": 14735,
+    "ano_norma": 2026,
+    "cod_norma": 18735,
+    "tip_norma": 6,
+    "ind_publico": 1,
+    "pode_cadastrar_norma": false,
+    "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=18735"
+   },
+   "anexadoras": [
+    {
+     "identificacao": "Proposição de Lei n° 380/2026",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=252201",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 233873,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 689,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 689/2025",
+   "txt_ementa": "DISPÕE SOBRE A OBRIGATORIEDADE DA INSTALAÇÃO DE SISTEMAS DE ALARME SONORO E VISUAL, A CAPACITAÇÃO DE BRIGADISTAS E O TREINAMENTO DE SÍNDICOS E FUNCIONÁRIOS EM CONDOMÍNIOS RESIDENCIAIS E COMERCIAIS, NO ÂMBITO DO MUNICÍPIO DE UBERLÂNDIA, COMO MEDIDA PREVENTIVA EM SITUAÇÕES DE RISCO À SEGURANÇA.",
+   "dat_apresentacao": "06/10/2025",
+   "autores": "Antônio Augusto Queijinho - PSDB",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=233873",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Encaminhado à Comissão",
+    "nom_unidade": "Seção de Apoio às Comissões",
+    "dat_tramitacao": "07/10/2025 09:28:02",
+    "dat_fim_prazo": "21/10/2025",
+    "txt_tramitacao": "<p>Comiss&atilde;o de Legisla&ccedil;&atilde;o, Justi&ccedil;a e Reda&ccedil;&atilde;o</p>"
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 233716,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 687,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 687/2025",
+   "txt_ementa": "INSTITUI A SEMANA MUNICIPAL DO AGRONEGÓCIO E INCLUI NO CALENDÁRIO OFICIAL DE EVENTOS O DIA MUNICIPAL DO AGRONEGÓCIO DO MUNICÍPIO E DÁ OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "03/10/2025",
+   "autores": "Antônio Augusto Queijinho - PSDB",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=233716",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "07/04/2026 12:50:29",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": {
+    "sgl_norma": "LEI",
+    "num_norma": 14738,
+    "ano_norma": 2026,
+    "cod_norma": 18733,
+    "tip_norma": 6,
+    "ind_publico": 1,
+    "pode_cadastrar_norma": false,
+    "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=18733"
+   },
+   "anexadoras": [
+    {
+     "identificacao": "Veto n° 3/2026",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=255166",
+     "is_veto": true
+    },
+    {
+     "identificacao": "Proposição de Lei n° 372/2026",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=252141",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 233630,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 685,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 685/2025",
+   "txt_ementa": "DISPÕE SOBRE A GRATUIDADE NO SERVIÇO DE RELIGAÇÃO DO FORNECIMENTO DE ENERGIA ELÉTRICA DE INSTALAÇÕES LOCALIZADAS EM ÁREA RURAL NO MUNICÍPIO DE UBERLÂNDIA, E DÁ OUTRAS PROVIDÊNCIAS",
+   "dat_apresentacao": "02/10/2025",
+   "autores": "Antônio Augusto Queijinho - PSDB",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=233630",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado - Art. 172, Regimento Interno",
+    "nom_unidade": "Seção de Controle de Processo Legislativo",
+    "dat_tramitacao": "11/02/2026 14:05:11",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 233328,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 676,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 676/2025",
+   "txt_ementa": "INSTITUI O PROGRAMA “HORA DE TRATOR” NO MUNICÍPIO DE UBERLÂNDIA, E DÁ OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "30/09/2025",
+   "autores": "Antônio Augusto Queijinho - PSDB",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=233328",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado - Art. 172, Regimento Interno",
+    "nom_unidade": "Seção de Controle de Processo Legislativo",
+    "dat_tramitacao": "11/02/2026 14:04:01",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 232714,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 673,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 673/2025",
+   "txt_ementa": "DISPÕE SOBRE O DIREITO DA PESSOA COM DEFICIÊNCIA OU COM TRANSTORNOS MENTAIS, DE INGRESSAR E PERMANECER EM AMBIENTES DE USO COLETIVO ACOMPANHADO DE ANIMAL DE APOIO EMOCIONAL, NO ÂMBITO DO MUNICÍPIO DE UBERLÂNDIA/MG",
+   "dat_apresentacao": "24/09/2025",
+   "autores": "Antônio Augusto Queijinho - PSDB",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=232714",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Encaminhado à Comissão",
+    "nom_unidade": "Seção de Apoio às Comissões",
+    "dat_tramitacao": "01/10/2025 10:05:31",
+    "dat_fim_prazo": "15/10/2025",
+    "txt_tramitacao": "<p>Comiss&atilde;o de Legisla&ccedil;&atilde;o, Justi&ccedil;a e Reda&ccedil;&atilde;o</p>"
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 232698,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 671,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 671/2025",
+   "txt_ementa": "ALTERA OS §§ 2º E 3º DO ARTIGO 22 DA LEI Nº 8814, DE 30 DE AGOSTO DE 2004, QUE \"DISCIPLINA O PROCESSO ADMINISTRATIVO NO ÂMBITO DA ADMINISTRAÇÃO PÚBLICA MUNICIPAL\"",
+   "dat_apresentacao": "24/09/2025",
+   "autores": "Antônio Augusto Queijinho - PSDB",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=232698",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Requerimento Parecer Contrário Apresentado - Art. 172, RI",
+    "nom_unidade": "Seção de Apoio às Comissões",
+    "dat_tramitacao": "05/02/2026 12:50:35",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": [
+    {
+     "identificacao": "Requerimento n° 20725/2026",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=246802",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 232273,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 666,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 666/2025",
+   "txt_ementa": "DENOMINA DE RUA ALAMAR JOSÉ DA SILVA O LOGRADOURO PÚBLICO QUE MENCIONA.",
+   "dat_apresentacao": "16/09/2025",
+   "autores": "Antônio Augusto Queijinho - PSDB",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=232273",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "18/11/2025 13:13:43",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": {
+    "sgl_norma": "LEI",
+    "num_norma": 14595,
+    "ano_norma": 2025,
+    "cod_norma": 18545,
+    "tip_norma": 6,
+    "ind_publico": 1,
+    "pode_cadastrar_norma": false,
+    "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=18545"
+   },
+   "anexadoras": [
+    {
+     "identificacao": "Proposição de Lei n° 259/2025",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=236176",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 231949,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 665,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 665/2025",
+   "txt_ementa": "INSTITUI E INSERE NO CALENDÁRIO MUNICIPAL DE UBERLÂNDIA O DIA DO TORCEDOR DO CLUBE DE REGATAS VASCO DA GAMA.",
+   "dat_apresentacao": "15/09/2025",
+   "autores": "Antônio Augusto Queijinho - PSDB",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=231949",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "07/04/2026 13:41:05",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": {
+    "sgl_norma": "LEI",
+    "num_norma": 14734,
+    "ano_norma": 2026,
+    "cod_norma": 18734,
+    "tip_norma": 6,
+    "ind_publico": 1,
+    "pode_cadastrar_norma": false,
+    "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=18734"
+   },
+   "anexadoras": [
+    {
+     "identificacao": "Proposição de Lei n° 379/2026",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=252200",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 225985,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 499,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 499/2025",
+   "txt_ementa": "INSTITUI NO CALENDÁRIO MUNICIPAL DE UBERLÂNDIA O DIA DO PRODUTOR DE LEITE.",
+   "dat_apresentacao": "15/07/2025",
+   "autores": "Antônio Augusto Queijinho - PSDB",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=225985",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "14/10/2025 14:25:44",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": {
+    "sgl_norma": "LEI",
+    "num_norma": 14562,
+    "ano_norma": 2025,
+    "cod_norma": 18458,
+    "tip_norma": 6,
+    "ind_publico": 1,
+    "pode_cadastrar_norma": false,
+    "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=18458"
+   },
+   "anexadoras": [
+    {
+     "identificacao": "Proposição de Lei n° 229/2025",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=233848",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 225761,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 490,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 490/2025",
+   "txt_ementa": "ALTERA A LEI N.º 13.800, DE 20 DE JULHO DE 2022, QUE “DENOMINA DE AVENIDA HELENA PAIVA ROCHA O LOGRADOURO PÚBLICO QUE ESPECIFICA”",
+   "dat_apresentacao": "11/07/2025",
+   "autores": "Antônio Augusto Queijinho - PSDB",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=225761",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "29/09/2025 12:03:43",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": {
+    "sgl_norma": "LEI",
+    "num_norma": 14522,
+    "ano_norma": 2025,
+    "cod_norma": 18404,
+    "tip_norma": 6,
+    "ind_publico": 1,
+    "pode_cadastrar_norma": false,
+    "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=18404"
+   },
+   "anexadoras": [
+    {
+     "identificacao": "Proposição de Lei n° 188/2025",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=231352",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 225505,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 475,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 475/2025",
+   "txt_ementa": "DISPÕE SOBRE A EDUCAÇÃO, PROTEÇÃO E BEM-ESTAR ANIMAL AOS ESTUDANTES DO ENSINO FUNDAMENTAL DA REDE PÚBLICA MUNICIPAL A ADMISSÃO A CONTEÚDOS RELACIONADOS À TEMÁTICA DOS DIREITOS DOS ANIMAIS COM TEMA TRANSVERSAL NA INTEGRALIZAÇÃO CURRICULAR, E DÁ OUTRAS PROVIDÊNCIAS",
+   "dat_apresentacao": "09/07/2025",
+   "autores": "Antônio Augusto Queijinho - PSDB",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=225505",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado - Art. 172, Regimento Interno",
+    "nom_unidade": "Seção de Controle de Processo Legislativo",
+    "dat_tramitacao": "09/09/2025 08:51:31",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 224786,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 455,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 455/2025",
+   "txt_ementa": "DECLARA DE UTILIDADE PÚBLICA O INSTITUTO BEIJA-FLOR TERAPÊUTICO UNIVERSALISTA DE UBERLÂNDIA",
+   "dat_apresentacao": "03/07/2025",
+   "autores": "Antônio Augusto Queijinho - PSDB",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=224786",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "29/09/2025 12:03:43",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": {
+    "sgl_norma": "LEI",
+    "num_norma": 14525,
+    "ano_norma": 2025,
+    "cod_norma": 18401,
+    "tip_norma": 6,
+    "ind_publico": 1,
+    "pode_cadastrar_norma": false,
+    "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=18401"
+   },
+   "anexadoras": [
+    {
+     "identificacao": "Proposição de Lei n° 191/2025",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=231366",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 224140,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 441,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 441/2025",
+   "txt_ementa": "CONSIDERA PATRIMÔNIO CULTURAL IMATERIAL PARA FINS DE REGISTRO, A CAVALGADA CAMARU, QUE ABRE A EXPOSIÇÃO AGROPECUÁRIA DE UBERLÂNDIA E DÁ OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "26/06/2025",
+   "autores": "Antônio Augusto Queijinho - PSDB",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=224140",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "05/09/2025 13:34:03",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": {
+    "sgl_norma": "LEI",
+    "num_norma": 14501,
+    "ano_norma": 2025,
+    "cod_norma": 18359,
+    "tip_norma": 6,
+    "ind_publico": 1,
+    "pode_cadastrar_norma": false,
+    "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=18359"
+   },
+   "anexadoras": [
+    {
+     "identificacao": "Proposição de Lei n° 140/2025",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=228777",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 223569,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 437,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 437/2025",
+   "txt_ementa": "DISPÕE A SOBRE O ABATE DE ANIMAIS DE ESPÉCIES NOCIVAS, NOS TERMOS DO ART. 3º, § 2º E ART. 8º, PARÁGRAFO ÚNICO DA LEI Nº 5.197, DE 3 DE JANEIRO DE 1967, QUE DISPÕE SOBRE A PROTEÇÃO À FAUNA E DÁ OUTRAS PROVIDÊNCIAS E O ART. 37, INCISO IV, DA LEI Nº 9.605, DE 12 DE FEVEREIRO DE 1998, LEI DOS CRIMES AMBIENTAIS, NO MUNICÍPIO DE UBERLÂNDIA E DÁ OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "24/06/2025",
+   "autores": "Antônio Augusto Queijinho - PSDB",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=223569",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado - Art. 172, Regimento Interno",
+    "nom_unidade": "Seção de Controle de Processo Legislativo",
+    "dat_tramitacao": "20/08/2025 09:06:28",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 223568,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 436,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 436/2025",
+   "txt_ementa": "DISPÕE SOBRE O TRANSPORTE DE CÃES EM CARROCERIAS NA ZONA RURAL NO ÂMBITO DO MUNICÍPIO DE UBERLÂNDIA/MG.",
+   "dat_apresentacao": "24/06/2025",
+   "autores": "Antônio Augusto Queijinho - PSDB",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=223568",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado - Art. 172, Regimento Interno",
+    "nom_unidade": "Seção de Controle de Processo Legislativo",
+    "dat_tramitacao": "20/08/2025 09:07:14",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 223025,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 431,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 431/2025",
+   "txt_ementa": "INSTITUI NO ÂMBITO DO MUNICÍPIO DE UBERLÂNDIA, O DIA DO PROMOTOR DE EVENTOS NO CALENDÁRIO",
+   "dat_apresentacao": "16/06/2025",
+   "autores": "Antônio Augusto Queijinho - PSDB",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=223025",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "29/09/2025 12:47:38",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": {
+    "sgl_norma": "LEI",
+    "num_norma": 14515,
+    "ano_norma": 2025,
+    "cod_norma": 18389,
+    "tip_norma": 6,
+    "ind_publico": 1,
+    "pode_cadastrar_norma": false,
+    "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=18389"
+   },
+   "anexadoras": [
+    {
+     "identificacao": "Proposição de Lei n° 175/2025",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=230902",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 221773,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 403,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 403/2025",
+   "txt_ementa": "DISPÕE SOBRE O ACESSO GRATUITO PARA MENOR DE 12 (DOZE) ANOS, ACOMPANHADO DO PAI OU RESPONSÁVEL LEGAL, EM EVENTOS ESPORTIVOS EM ESTÁDIOS E GINÁSIOS NO MUNICÍPIO DE UBERLÂNDIA E DA OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "05/06/2025",
+   "autores": "Antônio Augusto Queijinho - PSDB",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=221773",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Devolvido a(o) autor(a)",
+    "nom_unidade": "Seção de Apoio às Comissões",
+    "dat_tramitacao": "07/08/2025 10:54:49",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 220230,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 369,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 369/2025",
+   "txt_ementa": "RECONHECE A PROFISSÃO DE VIGILANTE E AGENTE DE SEGURANÇA PRIVADA COMO ATIVIDADE DE RISCO NO MUNICÍPIO DE UBERLÂNDIA E DÁ OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "23/05/2025",
+   "autores": "Antônio Augusto Queijinho - PSDB",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=220230",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado - Art. 172, Regimento Interno",
+    "nom_unidade": "Seção de Controle de Processo Legislativo",
+    "dat_tramitacao": "20/08/2025 09:08:00",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 220097,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 367,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 367/2025",
+   "txt_ementa": "DISPÕE SOBRE O USO DO BIOCOMBUSTÍVEL NO ÂMBITO DA ADMINISTRAÇÃO PÚBLICA DIRETA E INDIRETA DO MUNICÍPIO DE UBERLÂNDIA E DÁ OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "22/05/2025",
+   "autores": "Antônio Augusto Queijinho - PSDB",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=220097",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado - Art. 172, Regimento Interno",
+    "nom_unidade": "Seção de Controle de Processo Legislativo",
+    "dat_tramitacao": "20/08/2025 09:08:35",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 218486,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 339,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 339/2025",
+   "txt_ementa": "DENOMINA DE ROTATÓRIA MÁRIO CÉSAR DE ABREU O LOGRADOURO PÚBLICO QUE ESPECIFICA",
+   "dat_apresentacao": "12/05/2025",
+   "autores": "Antônio Augusto Queijinho - PSDB",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=218486",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "02/06/2025 17:53:45",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": {
+    "sgl_norma": "LEI",
+    "num_norma": 14416,
+    "ano_norma": 2025,
+    "cod_norma": 17957,
+    "tip_norma": 6,
+    "ind_publico": 1,
+    "pode_cadastrar_norma": false,
+    "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=17957"
+   },
+   "anexadoras": [
+    {
+     "identificacao": "Proposição de Lei n° 64/2025",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=219467",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 218476,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 338,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 338/2025",
+   "txt_ementa": "DENOMINA DE RUA SÔNIA MARIA FAGUNDES FARIA O LOGRADOURO PÚBLICO QUE ESPECIFICA",
+   "dat_apresentacao": "12/05/2025",
+   "autores": "Antônio Augusto Queijinho - PSDB",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=218476",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "16/06/2025 15:39:36",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": {
+    "sgl_norma": "LEI",
+    "num_norma": 14415,
+    "ano_norma": 2025,
+    "cod_norma": 17958,
+    "tip_norma": 6,
+    "ind_publico": 1,
+    "pode_cadastrar_norma": false,
+    "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=17958"
+   },
+   "anexadoras": [
+    {
+     "identificacao": "Proposição de Lei n° 63/2025",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=219466",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 218423,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 337,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 337/2025",
+   "txt_ementa": "DENOMINA DE RUA  MARCOS FAGUNDES DA COSTA O LOGRADOURO PÚBLICO QUE ESPECIFICA.",
+   "dat_apresentacao": "09/05/2025",
+   "autores": "Antônio Augusto Queijinho - PSDB",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=218423",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "16/06/2025 15:39:07",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": {
+    "sgl_norma": "LEI",
+    "num_norma": 14414,
+    "ano_norma": 2025,
+    "cod_norma": 17960,
+    "tip_norma": 6,
+    "ind_publico": 1,
+    "pode_cadastrar_norma": false,
+    "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=17960"
+   },
+   "anexadoras": [
+    {
+     "identificacao": "Proposição de Lei n° 62/2025",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=219465",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 216998,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 323,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 323/2025",
+   "txt_ementa": "INSTITUI O DIA MUNICIPAL DO AGRÔNOMO NO MUNICÍPIO DE UBERLÂNDIA",
+   "dat_apresentacao": "29/04/2025",
+   "autores": "Antônio Augusto Queijinho - PSDB",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=216998",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "29/09/2025 12:13:47",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": {
+    "sgl_norma": "LEI",
+    "num_norma": 14529,
+    "ano_norma": 2025,
+    "cod_norma": 18406,
+    "tip_norma": 6,
+    "ind_publico": 1,
+    "pode_cadastrar_norma": false,
+    "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=18406"
+   },
+   "anexadoras": [
+    {
+     "identificacao": "Proposição de Lei n° 197/2025",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=231762",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 216795,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 322,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 322/2025",
+   "txt_ementa": "CONSIDERA DE UTILIDADE PÚBLICA A ENTIDADE CATAP - CLUBE AUTOMOBILÍSTICO DO TRIÂNGULO E ALTO PARANAÍBA",
+   "dat_apresentacao": "28/04/2025",
+   "autores": "Antônio Augusto Queijinho - PSDB",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=216795",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado - Art. 172, Regimento Interno",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "12/06/2025 12:45:21",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 216539,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 319,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 319/2025",
+   "txt_ementa": "ALTERA A LEI Nº 6058, DE 13 DE JULHO DE 1994, QUE \"CRIA ATENDIMENTO ESPECIAL NOS ÓRGÃOS PÚBLICOS MUNICIPAIS\"",
+   "dat_apresentacao": "24/04/2025",
+   "autores": "Antônio Augusto Queijinho - PSDB",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=216539",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Encaminhado à Comissão",
+    "nom_unidade": "Seção de Apoio às Comissões",
+    "dat_tramitacao": "05/05/2025 09:45:09",
+    "dat_fim_prazo": "19/05/2025",
+    "txt_tramitacao": "<p>Comiss&atilde;o de Legisla&ccedil;&atilde;o, Justi&ccedil;a e Reda&ccedil;&atilde;o</p>"
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 216208,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 318,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 318/2025",
+   "txt_ementa": "DISPÕE SOBRE A INCLUSÃO DE OBRAS DE ARTE NAS EDIFICAÇÕES DE USO PÚBLICO OU COLETIVO NO MUNICÍPIO DE UBERLÂNDIA E DÁ OUTRAS PROVIDÊNCIAS",
+   "dat_apresentacao": "22/04/2025",
+   "autores": "Antônio Augusto Queijinho - PSDB",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=216208",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado - Art. 172, Regimento Interno",
+    "nom_unidade": "Seção de Controle de Processo Legislativo",
+    "dat_tramitacao": "20/08/2025 09:09:21",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 213485,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 282,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 282/2025",
+   "txt_ementa": "INSTITUI O PROGRAMA EMAGRECER CERTO, NO MUNICÍPIO DE UBERLÂNDIA E DÁ OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "31/03/2025",
+   "autores": "Antônio Augusto Queijinho - PSDB",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=213485",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado - Art. 172, Regimento Interno",
+    "nom_unidade": "Seção de Controle de Processo Legislativo",
+    "dat_tramitacao": "20/08/2025 09:09:54",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 213484,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 281,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 281/2025",
+   "txt_ementa": "INSTITUI O PROGRAMA BANCO DE RAÇÃO NO MUNICÍPIO DE UBERLÂNDIA E DÁ OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "31/03/2025",
+   "autores": "Antônio Augusto Queijinho - PSDB",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=213484",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado - Art. 172, Regimento Interno",
+    "nom_unidade": "Seção de Controle de Processo Legislativo",
+    "dat_tramitacao": "07/07/2025 08:53:19",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 212018,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 259,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 259/2025",
+   "txt_ementa": "ESTABELECE REGRAS E CONDIÇÕES PARA A INSTALAÇÃO DE “PARKLETS/VARANDAS URBANAS/MINI PRAÇAS OU PARQUES PORTÁTEIS” NO MUNICÍPIO E DÁ OUTRAS PROVIDÊNCIAS. ",
+   "dat_apresentacao": "19/03/2025",
+   "autores": "Antônio Augusto Queijinho - PSDB",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=212018",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Retirado pelo(a) autor(a)",
+    "nom_unidade": "Seção de Controle de Processo Legislativo",
+    "dat_tramitacao": "16/06/2026 11:53:52",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 210007,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 231,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 231/2025",
+   "txt_ementa": "ALTERA A LEI Nº 10.741/2011 QUE “INSTITUI O CÓDIGO MUNICIPAL DE POSTURAS DE UBERLÂNDIA E REVOGA A LEI Nº 4744, DE 05 DE JULHO DE 1998 E SUAS ALTERAÇÕES”, E DÁ OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "06/03/2025",
+   "autores": "Antônio Augusto Queijinho - PSDB",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=210007",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado - Art. 172, Regimento Interno",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "12/06/2025 12:44:31",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 209953,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 230,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 230/2025",
+   "txt_ementa": "DENOMINA DE RUA WILLIAMS JOSÉ ALVES O LOGRADOURO PÚBLICO QUE ESPECIFICA.",
+   "dat_apresentacao": "06/03/2025",
+   "autores": "Antônio Augusto Queijinho - PSDB",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=209953",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "23/04/2025 14:58:31",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": {
+    "sgl_norma": "LEI",
+    "num_norma": 14372,
+    "ano_norma": 2025,
+    "cod_norma": 17835,
+    "tip_norma": 6,
+    "ind_publico": 1,
+    "pode_cadastrar_norma": false,
+    "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=17835"
+   },
+   "anexadoras": [
+    {
+     "identificacao": "Proposição de Lei n° 27/2025",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=213377",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 209941,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 227,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 227/2025",
+   "txt_ementa": "ALTERA A LEI Nº 10.683/2010 QUE “ESTABELECE MEDIDAS DE CONTROLE PARA EVITAR A FORMAÇÃO DE CRIADOUROS DE “AEDES AEGYPTI” E “AEDES ALBOPICTUS”, E DA OUTRAS PROVIDÊNCIAS",
+   "dat_apresentacao": "28/02/2025",
+   "autores": "Antônio Augusto Queijinho - PSDB",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=209941",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Devolvido a(o) autor(a)",
+    "nom_unidade": "Seção de Apoio às Comissões",
+    "dat_tramitacao": "02/06/2025 09:52:59",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 209220,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 215,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 215/2025",
+   "txt_ementa": "INSTITUI O PROGRAMA DE INCENTIVO À SUSTENTABILIDADE POR ADOÇÃO DE AÇÕES ECOLÓGICAS NO MUNICÍPIO DE UBERLÂNDIA -\"IPTU VERDE\" CONFORME ESPECIFICA E DÁ OUTRAS PROVIDÊNCIAS",
+   "dat_apresentacao": "21/02/2025",
+   "autores": "Antônio Augusto Queijinho - PSDB",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=209220",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Encaminhado à Comissão",
+    "nom_unidade": "Seção de Apoio às Comissões",
+    "dat_tramitacao": "02/06/2025 09:40:11",
+    "dat_fim_prazo": "09/06/2025",
+    "txt_tramitacao": "<p>Comiss&atilde;o de Finan&ccedil;as, Or&ccedil;amento e Tributos</p>\r\n<p>Comiss&atilde;o de Meio Ambiente e Defesa Animal</p>"
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 206342,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 128,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 128/2025",
+   "txt_ementa": "DISPÕE SOBRE O ENVIO AUTOMÁTICO DO CARTÃO DE ESTACIONAMENTO PREFERENCIAL PARA IDOSOS A PARTIR DE 60 ANOS NO MUNICÍPIO DE UBERLÂNDIA/MG E DÁ OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "03/02/2025",
+   "autores": "Antônio Augusto Queijinho - PSDB",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=206342",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Requerimento Parecer Contrário Apresentado - Art. 172, RI",
+    "nom_unidade": "Seção de Apoio às Comissões",
+    "dat_tramitacao": "16/06/2025 12:29:42",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": [
+    {
+     "identificacao": "Requerimento n° 9307/2025",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=214581",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 206341,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 127,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 127/2025",
+   "txt_ementa": "DISPÕE SOBRE A IMPLEMENTAÇÃO DE NOTIFICAÇÕES DE VACINAÇÃO NO APLICATIVO SAÚDE+ UBERLÂNDIA E DÁ OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "03/02/2025",
+   "autores": "Antônio Augusto Queijinho - PSDB",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=206341",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Requerimento Parecer Contrário Apresentado - Art. 172, RI",
+    "nom_unidade": "Seção de Apoio às Comissões",
+    "dat_tramitacao": "16/06/2025 12:29:14",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": [
+    {
+     "identificacao": "Requerimento n° 9306/2025",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=214580",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 205596,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 83,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 83/2025",
+   "txt_ementa": "ACRESCENTA DISPOSITIVO A LEI Nº 10.715, DE 21 DE MARÇO DE 2011, QUE \"INSTITUI O CÓDIGO MUNICIPAL DE SAÚDE\"",
+   "dat_apresentacao": "27/01/2025",
+   "autores": "Antônio Augusto Queijinho - PSDB",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=205596",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado - Art. 172, Regimento Interno",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "25/04/2025 10:27:08",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 204534,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 65,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 65/2025",
+   "txt_ementa": "DISPÕE SOBRE A AUTORIZAÇÃO DE SEPULTAMENTO DE CÃES E GATOS DE ESTIMAÇÃO EM SEPULTURAS, LÓCULOS, GAVETAS, CARNEIROS, JAZIGOS LOCALIZADOS NOS CEMITÉRIOS PÚBLICOS E PRIVADOS DO MUNICÍPIO DE UBERLÂNDIA E DÁ OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "22/01/2025",
+   "autores": "Antônio Augusto Queijinho - PSDB",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=204534",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado - Art. 172, Regimento Interno",
+    "nom_unidade": "Seção de Controle de Processo Legislativo",
+    "dat_tramitacao": "28/03/2025 09:06:51",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 241392,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PLC",
+   "des_tipo_materia": "Projeto de Lei Complementar",
+   "num_ident_basica": 56,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Complementar n° 56/2025",
+   "txt_ementa": "ALTERA A LEI COMPLEMENTAR Nº 797, DE JULHO DE 2025, QUE \"APROVA A REVISÃO DO PLANO DIRETOR DO MUNICÍPIO DE UBERLÂNDIA, ESTABELECE OS PRINCÍPIOS BÁSICOS E DIRETRIZES PARA SUA IMPLANTAÇÃO E REVOGA A LEI COMPLEMENTAR Nº 432, DE 19 DE OUTUBRO DE 2006 E SUAS ALTERAÇÕES\".",
+   "dat_apresentacao": "11/12/2025",
+   "autores": "Antônio Augusto Queijinho - PSDB",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=241392",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "05/01/2026 14:02:37",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": {
+    "sgl_norma": "LC",
+    "num_norma": 810,
+    "ano_norma": 2025,
+    "cod_norma": 18637,
+    "tip_norma": 3,
+    "ind_publico": 1,
+    "pode_cadastrar_norma": false,
+    "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=18637"
+   },
+   "anexadoras": [
+    {
+     "identificacao": "Proposição de Lei Complementar n° 32/2025",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=241830",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 224655,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PLC",
+   "des_tipo_materia": "Projeto de Lei Complementar",
+   "num_ident_basica": 34,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Complementar n° 34/2025",
+   "txt_ementa": "ALTERA DISPOSITIVOS DA LEI COMPLEMENTAR Nº 622, DE 09 DE AGOSTO DE 2017 QUE “DISPÕE SOBRE O PROGRAMA DE REGULARIZAÇÃO DE EDIFICAÇÕES – PRED TÔ LEGAL”, NO MUNICÍPIO DE UBERLÂNDIA E DE SEUS DISTRITOS, REVOGA AS LEIS COMPLEMENTARES Nº 549 DE 13 DE NOVEMBRO DE 2012, Nº 554 DE 19 DE DEZEMBRO DE 2012 3 Nº 611 DE 14 DE ABRIL DE 2016 E DÁ OUTRAS PROVIDÊNCIAS",
+   "dat_apresentacao": "02/07/2025",
+   "autores": "Antônio Augusto Queijinho - PSDB",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=224655",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "19/08/2026 11:27:24",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": [
+    {
+     "identificacao": "Requerimento n° 20517/2025",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=234971",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 204486,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 26,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 26/2025",
+   "txt_ementa": "ACRESCENTA O INCISO IV AO ART. 1-B, DA LEI Nº 7324/1999, QUE \"OBRIGAM OS ESTABELECIMENTOS DENOMINADOS FERROS-VELHOS DEDICADOS À COMPRA E VENDA DE SUCATA E PEÇAS AVULSAS DE VEÍCULOS AUTOMOTORES E RELACIONAR TODAS AS PEÇAS ADQUIRIDAS E A REGISTRAR EM LIVRO SUA PROCEDÊNCIA, PARA FINS DE EMISSÃO DE NOTA FISCAL\".",
+   "dat_apresentacao": "15/01/2025",
+   "autores": "Antônio Augusto Queijinho - PSDB",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=204486",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Devolvido a(o) autor(a)",
+    "nom_unidade": "Seção de Apoio às Comissões",
+    "dat_tramitacao": "10/03/2025 10:05:30",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 204484,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 24,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 24/2025",
+   "txt_ementa": "INSTITUI, NO ÂMBITO DO MUNICÍPIO DE UBERLÂNDIA, O DIA DO ADVOGADO.",
+   "dat_apresentacao": "15/01/2025",
+   "autores": "Antônio Augusto Queijinho - PSDB",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=204484",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "03/04/2025 16:59:38",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": {
+    "sgl_norma": "LEI",
+    "num_norma": 14364,
+    "ano_norma": 2025,
+    "cod_norma": 17817,
+    "tip_norma": 6,
+    "ind_publico": 1,
+    "pode_cadastrar_norma": false,
+    "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=17817"
+   },
+   "anexadoras": [
+    {
+     "identificacao": "Proposição de Lei n° 19/2025",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=211727",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 204483,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 23,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 23/2025",
+   "txt_ementa": "INSTITUI, NO ÂMBITO DO MUNICÍPIO DE UBERLÂNDIA, O DIA DOS CAÇADORES, ATIRADORES E COLECIONADORES.",
+   "dat_apresentacao": "15/01/2025",
+   "autores": "Antônio Augusto Queijinho - PSDB",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=204483",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "03/04/2025 16:58:46",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": {
+    "sgl_norma": "LEI",
+    "num_norma": 14363,
+    "ano_norma": 2025,
+    "cod_norma": 17816,
+    "tip_norma": 6,
+    "ind_publico": 1,
+    "pode_cadastrar_norma": false,
+    "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=17816"
+   },
+   "anexadoras": [
+    {
+     "identificacao": "Proposição de Lei n° 18/2025",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=211705",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 204482,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 22,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 22/2025",
+   "txt_ementa": "INSTITUI O PROGRAMA DE FOMENTO A PRODUÇÃO ARTESANAL DE BEBIDAS ALCOÓLICAS E NÃO ALCOÓLICAS E SUA COMERCIALIZAÇÃO NO ÂMBITO DO MUNICÍPIO DE UBERLÂNDIA - MG E REVOGA A LEI ORDINÁRIA Nº 12.801, DE 5 DE OUTUBRO DE 2017, E DÁ OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "15/01/2025",
+   "autores": "Antônio Augusto Queijinho - PSDB",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=204482",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Parecer de Comissão apresentado",
+    "nom_unidade": "Seção de Apoio às Comissões",
+    "dat_tramitacao": "27/06/2025 10:38:53",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 204481,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 21,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 21/2025",
+   "txt_ementa": "PROÍBE INFORMES DE QUALQUER NATUREZA EM ESTACIONAMENTOS OU SIMILARES COM DIZERES QUE ISENTEM ESTABELECIMENTOS COMERCIAIS, SUPERMERCADOS, SHOPPINGS OU CONGÊNERES DA RESPONSABILIDADE POR DANOS MATERIAIS E/OU OBJETOS DEIXADOS NO INTERIOR DO VEÍCULO, NO MUNICÍPIO DE UBERLÂNDIA, E DÁ OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "15/01/2025",
+   "autores": "Antônio Augusto Queijinho - PSDB",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=204481",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Parecer de Comissão apresentado",
+    "nom_unidade": "Seção de Apoio às Comissões",
+    "dat_tramitacao": "27/06/2025 10:37:20",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 204480,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 20,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 20/2025",
+   "txt_ementa": "DISPÕE SOBRE A PROIBIÇÃO DE EXECUÇÃO DE MÚSICAS COM LETRAS QUE FAÇAM APOLOGIA AO CRIME, AO USO DE DROGAS E/OU QUE EXPRESSEM CONTEÚDOS SEXUAIS, NAS INSTITUIÇÕES ESCOLARES PÚBLICAS E PRIVADAS NA REDE DE ENSINO DE TODO ÂMBITO DO MUNICÍPIO DE UBERLÂNDIA.",
+   "dat_apresentacao": "15/01/2025",
+   "autores": "Antônio Augusto Queijinho - PSDB, Liza Prado - CIDADANIA",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=204480",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Requerimento Parecer Contrário Apresentado - Art. 172, RI",
+    "nom_unidade": "Seção de Apoio às Comissões",
+    "dat_tramitacao": "09/04/2026 12:53:22",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": [
+    {
+     "identificacao": "Requerimento n° 20946/2026",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=256554",
+     "is_veto": false
+    },
+    {
+     "identificacao": "Requerimento n° 9305/2025",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=214579",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 204479,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 19,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 19/2025",
+   "txt_ementa": "ALTERA A LEI ORDINÁRIA DE Nº 13.315, DE 08 DE JANEIRO DE 2020, QUE INSTITUI A EXIGÊNCIA DE FICHA LIMPA PARA NOMEAÇÃO NOS CARGOS COMISSIONADOS EXISTENTES NOS ÓRGÃOS DOS PODERES EXECUTIVO E LEGISLATIVO MUNICIPAL.",
+   "dat_apresentacao": "15/01/2025",
+   "autores": "Antônio Augusto Queijinho - PSDB, Thais Andrade - União Brasil",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=204479",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "16/06/2025 15:40:41",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": {
+    "sgl_norma": "LEI",
+    "num_norma": 14418,
+    "ano_norma": 2025,
+    "cod_norma": 17966,
+    "tip_norma": 6,
+    "ind_publico": 1,
+    "pode_cadastrar_norma": false,
+    "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=17966"
+   },
+   "anexadoras": [
+    {
+     "identificacao": "Proposição de Lei n° 61/2025",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=219464",
+     "is_veto": false
+    }
+   ]
+  }
+ ]
+}

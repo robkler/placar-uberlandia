@@ -20,18 +20,21 @@ TSE_ANO_ELEICAO = 2024
 REBUSCAR_SESSOES_DIAS = 45         # reuniões recentes são baixadas de novo (votos podem ser lançados depois)
 
 UA = 'Mozilla/5.0 (PlacarUberlandia; dados publicos) Python-urllib'
+# O e-processos da Câmara (SAGL) recusa (403) User-Agent com "Python-urllib"; lá nos identificamos sem ele.
+UA_EPROCESSOS = 'Mozilla/5.0 (PlacarUberlandia; dados publicos)'
+EPROCESSOS = 'https://e-processos.camarauberlandia.mg.gov.br'
 
 
 def log(*a):
     print(*a, file=sys.stderr, flush=True)
 
 
-def baixar(url, tentativas=4, timeout=60, json_=True):
+def baixar(url, tentativas=4, timeout=60, json_=True, ua=UA):
     """GET com retentativas. Retorna JSON (dict) ou bytes."""
     erro = None
     for i in range(tentativas):
         try:
-            req = urllib.request.Request(url, headers={'User-Agent': UA, 'Accept': 'application/json' if json_ else '*/*'})
+            req = urllib.request.Request(url, headers={'User-Agent': ua, 'Accept': 'application/json' if json_ else '*/*'})
             with urllib.request.urlopen(req, timeout=timeout) as r:
                 corpo = r.read()
             if corpo[:2] == b'\x1f\x8b':  # alguns servidores respondem em gzip

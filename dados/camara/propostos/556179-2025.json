@@ -1,0 +1,223 @@
+{
+ "id": "556179",
+ "codAutor": "556184",
+ "ano": 2025,
+ "total": 8,
+ "coletadoEm": "2026-10-16T18:25",
+ "itens": [
+  {
+   "cod_materia": 233283,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 675,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 675/2025",
+   "txt_ementa": "OBRIGA A CONCESSIONÁRIA DA RODOVIÁRIA DE UBERLÂNDIA A AFIXAR CARTAZES INFORMATIVOS SOBRE OS PERIGOS DO TRANSPORTE CLANDESTINO DE PASSAGEIROS.",
+   "dat_apresentacao": "29/09/2025",
+   "autores": "Elinho Da Academia - MOBILIZA",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=233283",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado - Art. 172, Regimento Interno",
+    "nom_unidade": "Seção de Controle de Processo Legislativo",
+    "dat_tramitacao": "11/02/2026 14:03:31",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 233250,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 674,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 674/2025",
+   "txt_ementa": "DISPÕE SOBRE A IMPLANTAÇÃO DE FAIXAS EXCLUSIVAS PARA MOTOCICLETAS NO MUNICÍPIO DE UBERLÂNDIA, E DÁ OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "29/09/2025",
+   "autores": "Elinho Da Academia - MOBILIZA",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=233250",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado - Art. 172, Regimento Interno",
+    "nom_unidade": "Seção de Controle de Processo Legislativo",
+    "dat_tramitacao": "11/02/2026 14:02:51",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 230864,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 632,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 632/2025",
+   "txt_ementa": "INSTITUI O DIA MUNICIPAL DE CONSCIENTIZAÇÃO SOBRE AS DOENÇAS DE ORIGEM GENÉTICA QUE ACOMETEM A VISÃO.",
+   "dat_apresentacao": "03/09/2025",
+   "autores": "Elinho Da Academia - MOBILIZA",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=230864",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "24/02/2026 12:48:30",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": {
+    "sgl_norma": "LEI",
+    "num_norma": 14690,
+    "ano_norma": 2026,
+    "cod_norma": 18676,
+    "tip_norma": 6,
+    "ind_publico": 1,
+    "pode_cadastrar_norma": false,
+    "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=18676"
+   },
+   "anexadoras": [
+    {
+     "identificacao": "Proposição de Lei n° 343/2026",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=247329",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 228518,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 530,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 530/2025",
+   "txt_ementa": "ALTERA DISPOSIÇÕES DA LEI Nº 12.904, DE MARÇO DE 2018, PARA INCLUIR A ISENÇÃO AOS ATLETAS COM DEFICIÊNCIA EM CORRIDAS DE RUA E EVENTOS CICLÍSTICOS REALIZADOS POR INSTITUIÇÕES PÚBLICAS EM ÂMBITO MUNICIPAL.",
+   "dat_apresentacao": "11/08/2025",
+   "autores": "Elinho Da Academia - MOBILIZA",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=228518",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "24/11/2025 09:05:43",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": {
+    "sgl_norma": "LEI",
+    "num_norma": 14625,
+    "ano_norma": 2025,
+    "cod_norma": 18576,
+    "tip_norma": 6,
+    "ind_publico": 1,
+    "pode_cadastrar_norma": false,
+    "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=18576"
+   },
+   "anexadoras": [
+    {
+     "identificacao": "Proposição de Lei n° 268/2025",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=237013",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 225275,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 465,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 465/2025",
+   "txt_ementa": "INSTITUI O DIA MUNICIPAL DO EDUCADOR FÍSICO, ASSIM COMO DISPÕE SOBRE A SEMANA DE CONSCIENTIZAÇÃO DA IMPORTÂNCIA DA PRÁTICA REGULAR DE ATIVIDADES FÍSICAS.",
+   "dat_apresentacao": "07/07/2025",
+   "autores": "Elinho Da Academia - MOBILIZA",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=225275",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Encaminhado à Comissão",
+    "nom_unidade": "Seção de Apoio às Comissões",
+    "dat_tramitacao": "01/09/2025 10:09:19",
+    "dat_fim_prazo": "08/09/2025",
+    "txt_tramitacao": "<p>Comiss&atilde;o de Esporte, Lazer e Paradesporto</p>"
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 220706,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 381,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 381/2025",
+   "txt_ementa": "ALTERA DISPOSIÇÕES DA LEI Nº 9.519 DE JULHO DE 2007, E SUAS ALTERAÇÕES, QUE TRATA SOBRE A OBRIGATORIEDADE DE DESTINAÇÃO DE VAGAS PARA IDOSOS NOS ESTACIONAMENTOS PÚBLICOS E PRIVADOS NO MUNICÍPIO DE UBERLÂNDIA.",
+   "dat_apresentacao": "28/05/2025",
+   "autores": "Elinho Da Academia - MOBILIZA",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=220706",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado - Art. 172, Regimento Interno",
+    "nom_unidade": "Seção de Controle de Processo Legislativo",
+    "dat_tramitacao": "20/08/2025 09:15:11",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 220562,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 374,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 374/2025",
+   "txt_ementa": "INSTITUI A POLÍTICA DE PREVENÇÃO À VIOLÊNCIA CONTRA OS PROFISSIONAIS DA EDUCAÇÃO NO MUNICÍPIO DE UBERLÂNDIA.",
+   "dat_apresentacao": "27/05/2025",
+   "autores": "Elinho Da Academia - MOBILIZA",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=220562",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado - Art. 172, Regimento Interno",
+    "nom_unidade": "Seção de Controle de Processo Legislativo",
+    "dat_tramitacao": "20/08/2025 09:13:28",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 218792,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 344,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 344/2025",
+   "txt_ementa": "DISPÕE SOBRE O RECONHECIMENTO, A INSTALAÇÃO E O FUNCIONAMENTO DE CIRCOS ITINERANTES NO MUNICÍPIO DE UBERLÂNDIA, E DÁ OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "13/05/2025",
+   "autores": "Elinho Da Academia - MOBILIZA",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=218792",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado - Art. 172, Regimento Interno",
+    "nom_unidade": "Seção de Controle de Processo Legislativo",
+    "dat_tramitacao": "20/08/2025 09:12:22",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  }
+ ]
+}

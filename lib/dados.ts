@@ -8,6 +8,7 @@ export interface Dados {
   udi: any; // data.json
   mg: any; // mg.json
   fed: any; // federal.json
+  proj: any; // projetos.json (lista de projetos de autoria principal por vereador); null se faltar
 }
 
 const TTL_MS = 10 * 60 * 1000;
@@ -17,7 +18,7 @@ async function ler(pasta: string, arquivo: string) {
   return JSON.parse(await readFile(path.join(pasta, arquivo), "utf8"));
 }
 
-/** Lê public/*.json e guarda em memória por 10 minutos. */
+/** Lê public/*.json e guarda em memória por 10 minutos. Sem projetos.json, só a lista de projetos fica indisponível. */
 export function carregarDados(pasta: string = path.join(process.cwd(), "public")): Promise<Dados> {
   const agora = Date.now();
   const hit = cache.get(pasta);
@@ -26,7 +27,8 @@ export function carregarDados(pasta: string = path.join(process.cwd(), "public")
     ler(pasta, "data.json"),
     ler(pasta, "mg.json"),
     ler(pasta, "federal.json"),
-  ]).then(([udi, mg, fed]) => ({ udi, mg, fed }));
+    ler(pasta, "projetos.json").catch(() => null),
+  ]).then(([udi, mg, fed, proj]) => ({ udi, mg, fed, proj }));
   cache.set(pasta, { em: agora, dados });
   dados.catch(() => cache.delete(pasta));
   return dados;

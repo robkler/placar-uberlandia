@@ -1,0 +1,994 @@
+{
+ "id": "556174",
+ "codAutor": "556174",
+ "ano": 2025,
+ "total": 35,
+ "coletadoEm": "2026-10-16T18:25",
+ "itens": [
+  {
+   "cod_materia": 241826,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 876,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 876/2025",
+   "txt_ementa": "DENOMINA DE “RUA SÉRGIO CROSARA SAAD” O LOGRADOURO PÚBLICO QUE ESPECIFICA.",
+   "dat_apresentacao": "12/12/2025",
+   "autores": "Jair Ferraz - PP",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=241826",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "02/02/2026 17:57:25",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": {
+    "sgl_norma": "LEI",
+    "num_norma": 14676,
+    "ano_norma": 2026,
+    "cod_norma": 18665,
+    "tip_norma": 6,
+    "ind_publico": 1,
+    "pode_cadastrar_norma": false,
+    "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=18665"
+   },
+   "anexadoras": [
+    {
+     "identificacao": "Proposição de Lei n° 336/2026",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=246440",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 241233,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 865,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 865/2025",
+   "txt_ementa": "DECLARA DE UTILIDADE PÚBLICA O CONGADO ROSARIO SANTO",
+   "dat_apresentacao": "10/12/2025",
+   "autores": "Jair Ferraz - PP",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=241233",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Encaminhado à Comissão",
+    "nom_unidade": "Seção de Apoio às Comissões",
+    "dat_tramitacao": "11/12/2025 10:13:11",
+    "dat_fim_prazo": "25/12/2025",
+    "txt_tramitacao": "<p>Comiss&atilde;o de Legisla&ccedil;&atilde;o, Justi&ccedil;a e Reda&ccedil;&atilde;o</p>\r\n<p>Comiss&atilde;o de Educa&ccedil;&atilde;o, Cultura e Ci&ecirc;ncia</p>"
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 241185,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 864,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 864/2025",
+   "txt_ementa": "DECLARA DE UTILIDADE PÚBLICA O TERNO DE CATUPÉ DE SÃO BENEDITO E NOSSA SENHORA DO ROSÁRIO DO BAIRRO MANSOUR ",
+   "dat_apresentacao": "10/12/2025",
+   "autores": "Jair Ferraz - PP",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=241185",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Encaminhado à Comissão",
+    "nom_unidade": "Seção de Apoio às Comissões",
+    "dat_tramitacao": "11/12/2025 10:13:11",
+    "dat_fim_prazo": "25/12/2025",
+    "txt_tramitacao": "<p>Comiss&atilde;o de Legisla&ccedil;&atilde;o, Justi&ccedil;a e Reda&ccedil;&atilde;o</p>\r\n<p>Comiss&atilde;o de Educa&ccedil;&atilde;o, Cultura e Ci&ecirc;ncia</p>"
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 241161,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 862,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 862/2025",
+   "txt_ementa": "DECLARA DE UTILIDADE PÚBLICA O TERNO MOÇAMBIQUE LUANDA ",
+   "dat_apresentacao": "10/12/2025",
+   "autores": "Jair Ferraz - PP",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=241161",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "14/04/2026 12:24:48",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": {
+    "sgl_norma": "LEI",
+    "num_norma": 14746,
+    "ano_norma": 2026,
+    "cod_norma": 18744,
+    "tip_norma": 6,
+    "ind_publico": 1,
+    "pode_cadastrar_norma": false,
+    "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=18744"
+   },
+   "anexadoras": [
+    {
+     "identificacao": "Proposição de Lei n° 405/2026",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=255165",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 240767,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 852,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 852/2025",
+   "txt_ementa": "DISPÕE SOBRE A DISPONIBILIDADE, EM TODOS OS HIPERMERCADOS E SUPERMERCADOS DE ADAPTAÇÃO DE 5% (CINCO POR CENTO) DO CARRINHOS DE COMPRA PARA UTILIZAÇÃO POR ACOPLAÇÃO DE CASINHAS PETS PARA UTILIZAÇÃO PELOS POSSUIDORES DE ANIMAIS DOMÉSTICOS NO ÂMBITO DO MUNICÍPIO DE UBERLÂNDIA, E DÁ OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "05/12/2025",
+   "autores": "Jair Ferraz - PP",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=240767",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado - Art. 172, Regimento Interno",
+    "nom_unidade": "Seção de Controle de Processo Legislativo",
+    "dat_tramitacao": "20/02/2026 11:54:18",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 237450,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 801,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 801/2025",
+   "txt_ementa": "ALTERA A LEI Nº 10.741, DE 6 DE ABRIL DE 2011, QUE“INSTITUI O CÓDIGO MUNICIPAL DE POSTURAS DE UBERLÂNDIA E REVOGA A LEI Nº 4744, DE 05 DE JULHO DE 1988 E SUAS ALTERAÇÕES”.",
+   "dat_apresentacao": "13/11/2025",
+   "autores": "Jair Ferraz - PP, Antônio Carrijo - PP, Edinho Combate Ao Câncer (in memoriam) - DEMOCRATA, Elinho Da Academia - MOBILIZA, Sargento Ednaldo - PP, Sérvio Túlio - PSDB, Thais Andrade - União Brasil, Zezinho Mendonça - PP",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=237450",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "18/12/2025 13:47:28",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": {
+    "sgl_norma": "LEI",
+    "num_norma": 14632,
+    "ano_norma": 2025,
+    "cod_norma": 18591,
+    "tip_norma": 6,
+    "ind_publico": 1,
+    "pode_cadastrar_norma": false,
+    "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=18591"
+   },
+   "anexadoras": [
+    {
+     "identificacao": "Proposição de Lei n° 296/2025",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=237599",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 234566,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 731,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 731/2025",
+   "txt_ementa": "INSTITUI A POLÍTICA MUNICIPAL DE INCENTIVO À INSTALAÇÃO DE FOSSAS SÉPTICAS BIODIGESTORAS NAS ÁREAS RURAIS E EM LOCALIDADES DESPROVIDAS DE REDE COLETORA DE ESGOTO DO MUNICÍPIO DE UBERLÂNDIA E DÁ OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "13/10/2025",
+   "autores": "Jair Ferraz - PP",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=234566",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado - Art. 172, Regimento Interno",
+    "nom_unidade": "Seção de Controle de Processo Legislativo",
+    "dat_tramitacao": "20/02/2026 08:59:05",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 234235,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 707,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 707/2025",
+   "txt_ementa": "DECLARA DE UTILIDADE PÚBLICA A  ASSOCIACAO DAS CERVEJARIAS ARTESANAIS DE UBERLANDIA - ASCAU",
+   "dat_apresentacao": "09/10/2025",
+   "autores": "Jair Ferraz - PP",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=234235",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado - Art. 172, Regimento Interno",
+    "nom_unidade": "Seção de Controle de Processo Legislativo",
+    "dat_tramitacao": "20/02/2026 08:32:40",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 234118,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 700,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 700/2025",
+   "txt_ementa": "INSTITUI O PROGRAMA MUNICIPAL DE INCENTIVO AO FUTEBOL AMADOR – FUTEBOL DE RUA, E DÁ OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "08/10/2025",
+   "autores": "Jair Ferraz - PP",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=234118",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "28/11/2025 14:31:56",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 233717,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 688,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 688/2025",
+   "txt_ementa": "INSTITUI O PROGRAMA MUNICIPAL DE INCENTIVO AO FUTEBOL AMADOR E DÁ OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "03/10/2025",
+   "autores": "Jair Ferraz - PP",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=233717",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado - Art. 172, Regimento Interno",
+    "nom_unidade": "Seção de Controle de Processo Legislativo",
+    "dat_tramitacao": "11/02/2026 14:05:43",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 230539,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 623,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 623/2025",
+   "txt_ementa": "DECLARA COMO PATRIMÔNIO CULTURAL, HISTÓRICO E TURISTICO DE NATUREZA MATERIAL DO MUNICÍPIO DE UBERLÂNDIA O PARQUE DA GRANJA MARILEUZA E DÁ OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "01/09/2025",
+   "autores": "Jair Ferraz - PP",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=230539",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Encaminhado à Comissão",
+    "nom_unidade": "Seção de Apoio às Comissões",
+    "dat_tramitacao": "02/09/2025 09:42:58",
+    "dat_fim_prazo": "16/09/2025",
+    "txt_tramitacao": "<p>Comiss&atilde;o de Legisla&ccedil;&atilde;o, Justi&ccedil;a e Reda&ccedil;&atilde;o</p>"
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 230538,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 622,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 622/2025",
+   "txt_ementa": "DECLARA COMO PATRIMÔNIO CULTURAL, HISTÓRICO E TURÍSTICO DE NATUREZA MATERIAL DO MUNICÍPIO DE UBERLÂNDIA O PARQUE MUNICIPAL DISTRITO INDUSTRIAL E DÁ OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "01/09/2025",
+   "autores": "Jair Ferraz - PP",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=230538",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Encaminhado à Comissão",
+    "nom_unidade": "Seção de Apoio às Comissões",
+    "dat_tramitacao": "02/09/2025 09:42:58",
+    "dat_fim_prazo": "16/09/2025",
+    "txt_tramitacao": "<p>Comiss&atilde;o de Legisla&ccedil;&atilde;o, Justi&ccedil;a e Reda&ccedil;&atilde;o</p>"
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 230537,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 621,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 621/2025",
+   "txt_ementa": "DECLARA COMO PATRIMÔNIO CULTURAL, HISTÓRICO E TURISTICO DE NATUREZA MATERIAL DO MUNICÍPIO DE UBERLÂNDIA O PARQUE MUNICIPAL VIRGÍLIO GALASSI – PARQUE DO SABIÁ E DÁ OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "01/09/2025",
+   "autores": "Jair Ferraz - PP",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=230537",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Encaminhado à Comissão",
+    "nom_unidade": "Seção de Apoio às Comissões",
+    "dat_tramitacao": "02/09/2025 09:42:58",
+    "dat_fim_prazo": "16/09/2025",
+    "txt_tramitacao": "<p>Comiss&atilde;o de Legisla&ccedil;&atilde;o, Justi&ccedil;a e Reda&ccedil;&atilde;o</p>"
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 230536,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 620,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 620/2025",
+   "txt_ementa": "DECLARA COMO PATRIMÔNIO CULTURAL, HISTÓRICO E TURISTICO DE NATUREZA MATERIAL DO MUNICÍPIO DE UBERLÂNDIA O PARQUE ECOLÓGICO SÃO FRANCISCO E DÁ OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "01/09/2025",
+   "autores": "Jair Ferraz - PP",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=230536",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Encaminhado à Comissão",
+    "nom_unidade": "Seção de Apoio às Comissões",
+    "dat_tramitacao": "02/09/2025 09:42:58",
+    "dat_fim_prazo": "16/09/2025",
+    "txt_tramitacao": "<p>Comiss&atilde;o de Legisla&ccedil;&atilde;o, Justi&ccedil;a e Reda&ccedil;&atilde;o</p>"
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 230535,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 619,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 619/2025",
+   "txt_ementa": "DECLARA COMO PATRIMÔNIO CULTURAL, HISTÓRICO E TURISTICO DE NATUREZA MATERIAL DO MUNICÍPIO DE UBERLÂNDIA O PARQUE MUNICIPAL MANSOUR E DÁ OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "01/09/2025",
+   "autores": "Jair Ferraz - PP",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=230535",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Encaminhado à Comissão",
+    "nom_unidade": "Seção de Apoio às Comissões",
+    "dat_tramitacao": "02/09/2025 09:42:58",
+    "dat_fim_prazo": "16/09/2025",
+    "txt_tramitacao": "<p>Comiss&atilde;o de Legisla&ccedil;&atilde;o, Justi&ccedil;a e Reda&ccedil;&atilde;o</p>"
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 230534,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 618,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 618/2025",
+   "txt_ementa": "DECLARA COMO PATRIMÔNIO CULTURAL, HISTÓRICO E TURÍSTICO DE NATUREZA MATERIAL DO MUNICÍPIO DE UBERLÂNDIA O PARQUE MUNICIPAL LUIZOTE DE FREITAS E DÁ OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "01/09/2025",
+   "autores": "Jair Ferraz - PP",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=230534",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Encaminhado à Comissão",
+    "nom_unidade": "Seção de Apoio às Comissões",
+    "dat_tramitacao": "02/09/2025 09:42:58",
+    "dat_fim_prazo": "16/09/2025",
+    "txt_tramitacao": "<p>Comiss&atilde;o de Legisla&ccedil;&atilde;o, Justi&ccedil;a e Reda&ccedil;&atilde;o</p>"
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 230533,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 617,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 617/2025",
+   "txt_ementa": "DECLARA COMO PATRIMÔNIO CULTURAL, HISTÓRICO E TURISTICO DE NATUREZA MATERIAL DO MUNICÍPIO DE UBERLÂNDIA O PARQUE NATURAL MUNICIPAL DO ÓLEO E DÁ OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "01/09/2025",
+   "autores": "Jair Ferraz - PP",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=230533",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Encaminhado à Comissão",
+    "nom_unidade": "Seção de Apoio às Comissões",
+    "dat_tramitacao": "02/09/2025 09:42:58",
+    "dat_fim_prazo": "16/09/2025",
+    "txt_tramitacao": "<p>Comiss&atilde;o de Legisla&ccedil;&atilde;o, Justi&ccedil;a e Reda&ccedil;&atilde;o</p>"
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 230532,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 616,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 616/2025",
+   "txt_ementa": "DECLARA COMO PATRIMÔNIO CULTURAL, HISTÓRICO E TURÍSTICO DE NATUREZA MATERIAL DO MUNICÍPIO DE UBERLÂNDIA O PARQUE MUNICIPAL SANTA LUZIA E DÁ OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "01/09/2025",
+   "autores": "Jair Ferraz - PP",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=230532",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Encaminhado à Comissão",
+    "nom_unidade": "Seção de Apoio às Comissões",
+    "dat_tramitacao": "02/09/2025 09:42:58",
+    "dat_fim_prazo": "16/09/2025",
+    "txt_tramitacao": "<p>Comiss&atilde;o de Legisla&ccedil;&atilde;o, Justi&ccedil;a e Reda&ccedil;&atilde;o</p>"
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 230531,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 615,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 615/2025",
+   "txt_ementa": "DECLARA COMO PATRIMÔNIO CULTURAL, HISTÓRICO E TURISTICO DE NATUREZA MATERIAL DO MUNICÍPIO DE UBERLÂNDIA O PARQUE MUNICIPAL SIQUEIROLLI E DÁ OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "01/09/2025",
+   "autores": "Jair Ferraz - PP",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=230531",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Encaminhado à Comissão",
+    "nom_unidade": "Seção de Apoio às Comissões",
+    "dat_tramitacao": "02/09/2025 09:42:58",
+    "dat_fim_prazo": "16/09/2025",
+    "txt_tramitacao": "<p>Comiss&atilde;o de Legisla&ccedil;&atilde;o, Justi&ccedil;a e Reda&ccedil;&atilde;o</p>"
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 230530,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 614,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 614/2025",
+   "txt_ementa": "DECLARA COMO PATRIMÔNIO CULTURAL, HISTÓRICO E TURISTICO DE NATUREZA MATERIAL DO MUNICÍPIO DE UBERLÂNDIA O PARQUE MUNICIPAL GÁVEA E DÁ OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "01/09/2025",
+   "autores": "Jair Ferraz - PP",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=230530",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Encaminhado à Comissão",
+    "nom_unidade": "Seção de Apoio às Comissões",
+    "dat_tramitacao": "02/09/2025 09:42:58",
+    "dat_fim_prazo": "16/09/2025",
+    "txt_tramitacao": "<p>Comiss&atilde;o de Legisla&ccedil;&atilde;o, Justi&ccedil;a e Reda&ccedil;&atilde;o</p>"
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 230529,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 613,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 613/2025",
+   "txt_ementa": "INSTITUI NO CALENDÁRIO OFICIAL DE EVENTOS DO MUNICÍPIO DE UBERLÂNDIA, O “DIA MUNDIAL DA LIMPEZA” E DÁ OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "01/09/2025",
+   "autores": "Jair Ferraz - PP",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=230529",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "27/11/2025 09:00:59",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": {
+    "sgl_norma": "LEI",
+    "num_norma": 14627,
+    "ano_norma": 2025,
+    "cod_norma": 18582,
+    "tip_norma": 6,
+    "ind_publico": 1,
+    "pode_cadastrar_norma": false,
+    "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=18582"
+   },
+   "anexadoras": [
+    {
+     "identificacao": "Proposição de Lei n° 269/2025",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=237014",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 229233,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 569,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 569/2025",
+   "txt_ementa": "DISPÕE SOBRE O PROGRAMA LIMPA UBERABINHA E DEMAIS CÓRREGOS NO ÂMBITO DO MUNICÍPIO DE UBERLÂNDIA E DÁ OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "19/08/2025",
+   "autores": "Jair Ferraz - PP",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=229233",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado - Art. 172, Regimento Interno",
+    "nom_unidade": "Seção de Controle de Processo Legislativo",
+    "dat_tramitacao": "11/02/2026 13:57:06",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 229232,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 568,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 568/2025",
+   "txt_ementa": "DISPÕE SOBRE OS ELEMENTOS BÁSICOS DE SINALIZAÇÃO PARA O TRÂNSITO EM ÁREAS ESCOLARES NO ÂMBITO DO MUNICÍPIO DE UBERLÂNDIA” E DÁ OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "19/08/2025",
+   "autores": "Jair Ferraz - PP",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=229232",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado - Art. 172, Regimento Interno",
+    "nom_unidade": "Seção de Controle de Processo Legislativo",
+    "dat_tramitacao": "17/10/2025 13:05:54",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 228454,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 529,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 529/2025",
+   "txt_ementa": "RECONHECE A FEIRA LIVRE DA AVENIDA JOSÉ FONSECA E SILVA – BAIRRO LUIZOTE DE FREITAS COMO PATRIMÔNIO CULTURAL IMATERIAL DO MUNICÍPIO DE UBERLÂNDIA E DÁ OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "08/08/2025",
+   "autores": "Jair Ferraz - PP",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=228454",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "05/11/2025 13:30:33",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 228452,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 528,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 528/2025",
+   "txt_ementa": "RECONHECE A FEIRA LIVRE DA AVENIDA MONSENHOR EDUARDO COMO PATRIMÔNIO CULTURAL IMATERIAL DO MUNICÍPIO DE UBERLÂNDIA E DÁ OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "08/08/2025",
+   "autores": "Jair Ferraz - PP",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=228452",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "05/11/2025 13:29:42",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 228421,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 527,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 527/2025",
+   "txt_ementa": "DECLARA DE UTILIDADE PÚBLICA O INSTITUTO EDUCACIONAL SOCIAL E DE TECNOLOGIA AMBIENTAL ECOCICLO",
+   "dat_apresentacao": "08/08/2025",
+   "autores": "Jair Ferraz - PP",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=228421",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "14/10/2025 14:32:58",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": {
+    "sgl_norma": "LEI",
+    "num_norma": 14558,
+    "ano_norma": 2025,
+    "cod_norma": 18451,
+    "tip_norma": 6,
+    "ind_publico": 1,
+    "pode_cadastrar_norma": false,
+    "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=18451"
+   },
+   "anexadoras": [
+    {
+     "identificacao": "Proposição de Lei n° 223/2025",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=233527",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 228398,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 526,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 526/2025",
+   "txt_ementa": "INSTITUI NO CALENDÁRIO OFICIAL DE EVENTOS DO MUNICÍPIO DE UBERLÂNDIA, A “SEMANA DA ÁRVORE” E DÁ OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "07/08/2025",
+   "autores": "Jair Ferraz - PP",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=228398",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "03/11/2025 15:36:24",
+    "dat_fim_prazo": "04/11/2025",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": {
+    "sgl_norma": "LEI",
+    "num_norma": 14585,
+    "ano_norma": 2025,
+    "cod_norma": 18516,
+    "tip_norma": 6,
+    "ind_publico": 1,
+    "pode_cadastrar_norma": false,
+    "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=18516"
+   },
+   "anexadoras": [
+    {
+     "identificacao": "Proposição de Lei n° 237/2025",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=234116",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 228135,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 523,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 523/2025",
+   "txt_ementa": "INSTITUI A SEMANA DA DOAÇÃO DE LIVROS NO MUNICÍPIO DE UBERLÂNDIA E DÁ OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "07/08/2025",
+   "autores": "Jair Ferraz - PP",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=228135",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "03/11/2025 15:36:24",
+    "dat_fim_prazo": "04/11/2025",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": {
+    "sgl_norma": "LEI",
+    "num_norma": 14584,
+    "ano_norma": 2025,
+    "cod_norma": 18517,
+    "tip_norma": 6,
+    "ind_publico": 1,
+    "pode_cadastrar_norma": false,
+    "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=18517"
+   },
+   "anexadoras": [
+    {
+     "identificacao": "Proposição de Lei n° 236/2025",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=234115",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 227880,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 522,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 522/2025",
+   "txt_ementa": "INSTITUI, NO ÂMBITO DAS ESCOLAS DA REDE MUNICIPAL DE ENSINO DE UBERLÂNDIA, AS COMISSÕES PERMANENTES DE CULTURA, CIDADANIA E SUSTENTABILIDADE E DÁ OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "04/08/2025",
+   "autores": "Jair Ferraz - PP",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=227880",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "09/10/2025 12:35:51",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 227879,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 521,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 521/2025",
+   "txt_ementa": "DISPÕE SOBRE A REGULAMENTAÇÃO DOS ESPAÇOS PET FRIENDLY (AMIGOS DOS ANIMAIS) EM ESTABELECIMENTOS COMERCIAIS, SHOPPING CENTERS, HOTÉIS, RESTAURANTES, BARES E SIMILARES",
+   "dat_apresentacao": "04/08/2025",
+   "autores": "Jair Ferraz - PP",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=227879",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "02/12/2025 12:40:19",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": {
+    "sgl_norma": "LEI",
+    "num_norma": 14630,
+    "ano_norma": 2025,
+    "cod_norma": 18587,
+    "tip_norma": 6,
+    "ind_publico": 1,
+    "pode_cadastrar_norma": false,
+    "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=18587"
+   },
+   "anexadoras": [
+    {
+     "identificacao": "Proposição de Lei n° 267/2025",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=237012",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 225542,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 476,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 476/2025",
+   "txt_ementa": "DECLARA DE UTILIDADE PÚBLICA A ASSOCIACAO CIDADANIA CULTURAL E ESPORTIVO DE DESENVOLVIMENTO EDUCACIONAL - ACCEDE",
+   "dat_apresentacao": "09/07/2025",
+   "autores": "Jair Ferraz - PP",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=225542",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "25/08/2025 15:28:38",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": {
+    "sgl_norma": "LEI",
+    "num_norma": 14478,
+    "ano_norma": 2025,
+    "cod_norma": 18315,
+    "tip_norma": 6,
+    "ind_publico": 1,
+    "pode_cadastrar_norma": false,
+    "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=18315"
+   },
+   "anexadoras": [
+    {
+     "identificacao": "Proposição de Lei n° 141/2025",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=228778",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 222421,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 425,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 425/2025",
+   "txt_ementa": "ALTERA A LEI Nº 4651, DE 08 DE MARÇO DE 1988, QUE DECLARA DE UTILIDADE PÚBLICA A ENTIDADE QUE MENCIONA ",
+   "dat_apresentacao": "11/06/2025",
+   "autores": "Jair Ferraz - PP",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=222421",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "24/07/2025 12:08:52",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": {
+    "sgl_norma": "LEI",
+    "num_norma": 14464,
+    "ano_norma": 2025,
+    "cod_norma": 18235,
+    "tip_norma": 6,
+    "ind_publico": 1,
+    "pode_cadastrar_norma": false,
+    "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=18235"
+   },
+   "anexadoras": [
+    {
+     "identificacao": "Proposição de Lei n° 111/2025",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=224855",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 222419,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 423,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 423/2025",
+   "txt_ementa": "DENOMINA DE “RUA ACHILLINA BO BARDI (LINA BO BARDI)” O LOGRADOURO PÚBLICO QUE ESPECIFICA.",
+   "dat_apresentacao": "11/06/2025",
+   "autores": "Jair Ferraz - PP",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=222419",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "14/07/2025 12:37:57",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": {
+    "sgl_norma": "LEI",
+    "num_norma": 14448,
+    "ano_norma": 2025,
+    "cod_norma": 18128,
+    "tip_norma": 6,
+    "ind_publico": 1,
+    "pode_cadastrar_norma": false,
+    "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=18128"
+   },
+   "anexadoras": [
+    {
+     "identificacao": "Proposição de Lei n° 110/2025",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=224499",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 221655,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 395,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 395/2025",
+   "txt_ementa": "INSTITUI E INSERE NO CALENDÁRIO OFICIAL DO MUNICÍPIO DE UBERLÂNDIA-MG “O DIA MUNICIPAL DO PRODUTOR DE EVENTOS”, E DÁ OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "04/06/2025",
+   "autores": "Jair Ferraz - PP, Amanda Gondim - PSB",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=221655",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "07/08/2025 13:38:43",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": {
+    "sgl_norma": "LEI",
+    "num_norma": 14475,
+    "ano_norma": 2025,
+    "cod_norma": 18309,
+    "tip_norma": 6,
+    "ind_publico": 1,
+    "pode_cadastrar_norma": false,
+    "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=18309"
+   },
+   "anexadoras": [
+    {
+     "identificacao": "Proposição de Lei n° 137/2025",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=227998",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 218604,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 341,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 341/2025",
+   "txt_ementa": "INSTITUI A \"CARTEIRA DO CONGADEIRO\" NO MUNICÍPIO DE UBERLÂNDIA, ESTABELECE NORMAS PARA SEU CADASTRO E EMISSÃO, E DÁ OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "12/05/2025",
+   "autores": "Jair Ferraz - PP, Dr. Igino - PT",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=218604",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Encaminhado à Comissão",
+    "nom_unidade": "Seção de Apoio às Comissões",
+    "dat_tramitacao": "13/05/2025 09:31:35",
+    "dat_fim_prazo": "27/05/2025",
+    "txt_tramitacao": "<p>Comiss&atilde;o de Legisla&ccedil;&atilde;o, Justi&ccedil;a e Reda&ccedil;&atilde;o</p>"
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  }
+ ]
+}

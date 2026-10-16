@@ -1,0 +1,624 @@
+{
+ "id": "537428",
+ "codAutor": "537428",
+ "ano": 2025,
+ "total": 24,
+ "coletadoEm": "2026-10-16T18:25",
+ "itens": [
+  {
+   "cod_materia": 240836,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 853,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 853/2025",
+   "txt_ementa": "INSTITUI O PROGRAMA MUNICIPAL DE PREVENÇÃO DA VIOLÊNCIA DOMÉSTICA E PROMOÇÃO DA CULTURA DE PAZ NAS ESCOLAS, NO ÂMBITO DA REDE MUNICIPAL DE ENSINO, E DÁ OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "08/12/2025",
+   "autores": "Amanda Gondim - PSB, Elinho Da Academia - MOBILIZA",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=240836",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado - Art. 172, Regimento Interno",
+    "nom_unidade": "Seção de Controle de Processo Legislativo",
+    "dat_tramitacao": "20/02/2026 11:55:42",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 240586,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 845,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 845/2025",
+   "txt_ementa": "GARANTE, NO MUNICÍPIO DE UBERLÂNDIA, ÀS PESSOAS ACOMETIDAS PELA DIABETES MELLITUS TIPO 1 (DM1) O MESMO TRATAMENTO DISPOSTO NA LEI FEDERAL 10.048, DE 08 DE NOVEMBRO DE 2000.",
+   "dat_apresentacao": "04/12/2025",
+   "autores": "Amanda Gondim - PSB",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=240586",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado - Art. 172, Regimento Interno",
+    "nom_unidade": "Seção de Controle de Processo Legislativo",
+    "dat_tramitacao": "20/02/2026 11:46:53",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 238148,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 811,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 811/2025",
+   "txt_ementa": "DECLARA DE UTILIDADE PÚBLICA A ASSOCIAÇÃO ROCK AID.",
+   "dat_apresentacao": "24/11/2025",
+   "autores": "Amanda Gondim - PSB",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=238148",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "09/01/2026 14:02:59",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": {
+    "sgl_norma": "LEI",
+    "num_norma": 14670,
+    "ano_norma": 2026,
+    "cod_norma": 18645,
+    "tip_norma": 6,
+    "ind_publico": 1,
+    "pode_cadastrar_norma": false,
+    "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=18645"
+   },
+   "anexadoras": [
+    {
+     "identificacao": "Proposição de Lei n° 334/2025",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=241852",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 237472,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 803,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 803/2025",
+   "txt_ementa": "DISPÕE SOBRE O MAPEAMENTO, ORGANIZAÇÃO E DIVULGAÇÃO DOS DADOS SOBRE OS IMPACTOS DA CRISE CLIMÁTICA NA VIDA DE MENINAS E MULHERES NO ÂMBITO DO MUNICÍPIO DE UBERLÂNDIA.",
+   "dat_apresentacao": "13/11/2025",
+   "autores": "Amanda Gondim - PSB",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=237472",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado - Art. 172, Regimento Interno",
+    "nom_unidade": "Seção de Controle de Processo Legislativo",
+    "dat_tramitacao": "20/02/2026 11:28:45",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 234796,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 734,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 734/2025",
+   "txt_ementa": "INSTITUI O SERVIÇO DA FARMÁCIA VETERINÁRIA POPULAR NO ÂMBITO DO MUNICÍPIO DE UBERLÂNDIA E DÁ OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "15/10/2025",
+   "autores": "Amanda Gondim - PSB",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=234796",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado - Art. 172, Regimento Interno",
+    "nom_unidade": "Seção de Controle de Processo Legislativo",
+    "dat_tramitacao": "20/02/2026 09:01:22",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 234391,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 723,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 723/2025",
+   "txt_ementa": "DISPÕE SOBRE DIRETRIZES PARA A ELABORAÇÃO DA “POLÍTICA MUNICIPAL DE ADAPTAÇÃO CLIMÁTICA NA REDE MUNICIPAL DE ENSINO DO MUNICÍPIO DE UBERLÂNDIA” E DÁ OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "10/10/2025",
+   "autores": "Amanda Gondim - PSB",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=234391",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado - Art. 172, Regimento Interno",
+    "nom_unidade": "Seção de Controle de Processo Legislativo",
+    "dat_tramitacao": "20/02/2026 08:48:39",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 234143,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 703,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 703/2025",
+   "txt_ementa": "DISPÕE SOBRE A INSTITUIÇÃO DA POLÍTICA MUNICIPAL DE DISTRIBUIÇÃO GRATUITA DE MEDICAMENTOS À BASE DE CANNABIS PARA FINS TERAPÊUTICOS NO ÂMBITO DO SISTEMA ÚNICO DE SAÚDE (SUS) NO MUNICÍPIO DE UBERLÂNDIA, E DÁ OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "08/10/2025",
+   "autores": "Amanda Gondim - PSB",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=234143",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado - Art. 172, Regimento Interno",
+    "nom_unidade": "Seção de Controle de Processo Legislativo",
+    "dat_tramitacao": "20/02/2026 08:29:31",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 230072,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 582,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 582/2025",
+   "txt_ementa": "INSTITUI A POLÍTICA MUNICIPAL DE INCENTIVO À PRODUÇÃO ARTESANAL DE CERVEJA E COMIDA LOCAL EM UBERLÂNDIA, ESTABELECE DIRETRIZES DE FOMENTO À GERAÇÃO DE EMPREGO E RENDA, E DÁ OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "26/08/2025",
+   "autores": "Amanda Gondim - PSB",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=230072",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado - Art. 172, Regimento Interno",
+    "nom_unidade": "Seção de Controle de Processo Legislativo",
+    "dat_tramitacao": "19/02/2026 11:23:37",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 229574,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 577,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 577/2025",
+   "txt_ementa": "INCLUI NO CALENDÁRIO DE DATAS COMEMORATIVAS E DE CONSCIENTIZAÇÃO DO MUNICÍPIO DE UBERLÂNDIA O AGOSTO LILÁS, NO MÊS DE AGOSTO, E ESTABELECE AÇÕES INTERSETORIAIS PARA CONSCIENTIZAÇÃO E ESCLARECIMENTO SOBRE A VIOLÊNCIA CONTRA A MULHER, COMO O PROJETO BANCO VERMELHO.",
+   "dat_apresentacao": "20/08/2025",
+   "autores": "Amanda Gondim - PSB",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=229574",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Devolvido a(o) autor(a)",
+    "nom_unidade": "Seção de Apoio às Comissões",
+    "dat_tramitacao": "13/03/2026 14:06:46",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 228945,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 558,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 558/2025",
+   "txt_ementa": "INSTITUI O MÊS DE INCENTIVO AO ALEITAMENTO HUMANO - \"AGOSTO DOURADO\" - E A SEMANA MUNICIPAL DO ALEITAMENTO HUMANO NO CALENDÁRIO OFICIAL DO MUNICÍPIO DE UBERLÂNDIA E DÁ OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "13/08/2025",
+   "autores": "Amanda Gondim - PSB",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=228945",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Devolvido a(o) autor(a)",
+    "nom_unidade": "Seção de Apoio às Comissões",
+    "dat_tramitacao": "01/10/2025 10:19:30",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 228944,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 557,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 557/2025",
+   "txt_ementa": "GARANTE ESPAÇO DE AMAMENTAÇÃO OU RECEBIMENTO DE LEITE HUMANO CONGELADO NAS ESCOLAS DE EDUCAÇÃO INFANTIL PÚBLICAS E PRIVADAS NO MUNICÍPIO DE UBERLÂNDIA. ",
+   "dat_apresentacao": "13/08/2025",
+   "autores": "Amanda Gondim - PSB",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=228944",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado - Art. 172, Regimento Interno",
+    "nom_unidade": "Seção de Controle de Processo Legislativo",
+    "dat_tramitacao": "15/10/2025 10:33:27",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 228819,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 551,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 551/2025",
+   "txt_ementa": "INSTITUI A POLÍTICA MUNICIPAL DE COMBATE À CYBERPEDOFILIA, DENOMINADA \"LEI FELCA\", ESTABELECE MECANISMOS DE RESPONSABILIZAÇÃO E DÁ OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "13/08/2025",
+   "autores": "Amanda Gondim - PSB",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=228819",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Devolvido a(o) autor(a)",
+    "nom_unidade": "Seção de Apoio às Comissões",
+    "dat_tramitacao": "09/10/2025 09:33:54",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 226122,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 502,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 502/2025",
+   "txt_ementa": "INSTITUI A POLÍTICA MUNICIPAL DE PROMOÇÃO DOS DIREITOS E ATENÇÃO INTEGRAL ÀS PESSOAS IDOSAS LGBTI+ NO MUNICÍPIO DE UBERLÂNDIA/MG.",
+   "dat_apresentacao": "17/07/2025",
+   "autores": "Amanda Gondim - PSB",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=226122",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado - Art. 172, Regimento Interno",
+    "nom_unidade": "Seção de Controle de Processo Legislativo",
+    "dat_tramitacao": "09/09/2025 08:54:21",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 221546,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 394,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 394/2025",
+   "txt_ementa": "INSTITUI O PROGRAMA MUNICIPAL DE INCENTIVO AO USO DO TRANSPORTE PÚBLICO COLETIVO POR ÔNIBUS E AUTORIZA A IMPLEMENTAÇÃO DA TARIFA ZERO NO SERVIÇO DO TRANSPORTE PÚBLICO COLETIVO POR ÔNIBUS.",
+   "dat_apresentacao": "04/06/2025",
+   "autores": "Amanda Gondim - PSB",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=221546",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Requerimento Parecer Contrário Apresentado - Art. 172, RI",
+    "nom_unidade": "Seção de Apoio às Comissões",
+    "dat_tramitacao": "11/08/2025 12:01:26",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": [
+    {
+     "identificacao": "Requerimento n° 20278/2025",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=228515",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 218214,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 333,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 333/2025",
+   "txt_ementa": "DISPÕE SOBRE A OBRIGATORIEDADE DE CLÁUSULA DE ABONO DE FALTAS JUSTIFICADAS POR MOTIVO DE CUIDADO EM CONTRATOS FIRMADOS COM EMPRESAS PRIVADAS PRESTADORAS DE SERVIÇOS À ADMINISTRAÇÃO PÚBLICA NO ÂMBITO DO MUNICÍPIO DE UBERLÂNDIA.",
+   "dat_apresentacao": "08/05/2025",
+   "autores": "Amanda Gondim - PSB",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=218214",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Requerimento Parecer Contrário Apresentado - Art. 172, RI",
+    "nom_unidade": "Seção de Apoio às Comissões",
+    "dat_tramitacao": "11/08/2025 11:58:36",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": [
+    {
+     "identificacao": "Requerimento n° 20277/2025",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=228514",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 216018,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 316,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 316/2025",
+   "txt_ementa": "INSTITUI MECANISMOS DE PUNIÇÃO ADMINISTRATIVA PARA COMBATE À VIOLÊNCIA CONTRA A MULHER NO ÂMBITO DO MUNICÍPIO DO UBERLÂNDIA.",
+   "dat_apresentacao": "16/04/2025",
+   "autores": "Amanda Gondim - PSB",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=216018",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Requerimento Parecer Contrário Apresentado - Art. 172, RI",
+    "nom_unidade": "Seção de Apoio às Comissões",
+    "dat_tramitacao": "11/08/2025 11:57:02",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": [
+    {
+     "identificacao": "Requerimento n° 20279/2025",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=228516",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 212856,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 269,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 269/2025",
+   "txt_ementa": "DISPÕE SOBRE A TRANSPARÊNCIA E PUBLICIZAÇÃO DO COUVERT ARTÍSTICO REPASSADO AOS ARTISTAS POR ESTABELECIMENTOS COMERCIAIS NO ÂMBITO DO MUNICÍPIO DE UBERLÂNDIA E DÁ OUTRAS PROVIDÊNCIAS",
+   "dat_apresentacao": "26/03/2025",
+   "autores": "Amanda Gondim - PSB",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=212856",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Devolvido a(o) autor(a)",
+    "nom_unidade": "Seção de Apoio às Comissões",
+    "dat_tramitacao": "02/06/2025 09:56:19",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 210434,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 244,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 244/2025",
+   "txt_ementa": "ALTERA E ACRESCENTA INCISOS À LEI N° 13.011, DE 26 DE NOVEMBRO DE 2018, A QUAL INSTITUI NO CALENDÁRIO A SEMANA DE CONSCIENTIZAÇÃO E COMBATE AO FEMINICÍDIO.",
+   "dat_apresentacao": "10/03/2025",
+   "autores": "Amanda Gondim - PSB",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=210434",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Requerimento Parecer Contrário Apresentado - Art. 172, RI",
+    "nom_unidade": "Seção de Apoio às Comissões",
+    "dat_tramitacao": "16/06/2025 12:36:49",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": [
+    {
+     "identificacao": "Requerimento n° 16324/2025",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=222105",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 210283,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 238,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 238/2025",
+   "txt_ementa": "INSTITUI A CAMPANHA PERMANENTE DE CONSCIENTIZAÇÃO E ENFRENTAMENTO AO ASSÉDIO MATERNO",
+   "dat_apresentacao": "07/03/2025",
+   "autores": "Amanda Gondim - PSB",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=210283",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Requerimento Parecer Contrário Apresentado - Art. 172, RI",
+    "nom_unidade": "Seção de Apoio às Comissões",
+    "dat_tramitacao": "16/06/2025 12:35:12",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": [
+    {
+     "identificacao": "Requerimento n° 16321/2025",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=222102",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 209718,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 225,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 225/2025",
+   "txt_ementa": "INSTITUI DIRETRIZES PARA A FORMULAÇÃO E IMPLEMENTAÇÃO DE POLÍTICA PÚBLICA DE PROTEÇÃO E ATENDIMENTO ESPECIALIZADO A GESTANTES DEPENDENTES QUÍMICAS NO ÂMBITO DO MUNICÍPIO DE UBERLÂNDIA, E DÁ OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "27/02/2025",
+   "autores": "Amanda Gondim - PSB",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=209718",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Requerimento Parecer Contrário Apresentado - Art. 172, RI",
+    "nom_unidade": "Seção de Apoio às Comissões",
+    "dat_tramitacao": "16/06/2025 12:34:32",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": [
+    {
+     "identificacao": "Requerimento n° 16323/2025",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=222104",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 208827,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 213,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 213/2025",
+   "txt_ementa": "AUTORIZA O MUNICÍPIO DE UBERLÂNDIA A CONCEDER ÀS PESSOAS COM DIABETES SENSOR MEDIDOR DE GLICOSE DIGITAL.",
+   "dat_apresentacao": "19/02/2025",
+   "autores": "Amanda Gondim - PSB",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=208827",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Requerimento Parecer Contrário Apresentado - Art. 172, RI",
+    "nom_unidade": "Seção de Apoio às Comissões",
+    "dat_tramitacao": "16/06/2025 12:34:03",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": [
+    {
+     "identificacao": "Requerimento n° 16322/2025",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=222103",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 207507,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 195,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 195/2025",
+   "txt_ementa": "ALTERA E ACRESCENTA DISPOSITIVOS DA LEI Nº 10.715, DE 21 DE MARÇO DE 2011, QUE \"INSTITUI O CÓDIGO MUNICIPAL DE SAÚDE\".",
+   "dat_apresentacao": "11/02/2025",
+   "autores": "Amanda Gondim - PSB",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=207507",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Devolvido a(o) autor(a)",
+    "nom_unidade": "Seção de Apoio às Comissões",
+    "dat_tramitacao": "05/05/2025 09:55:08",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 206836,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 174,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 174/2025",
+   "txt_ementa": "DISPÕE SOBRE CONCESSÃO DE AUXÍLIO ALUGUEL ÀS MULHERES VÍTIMAS DE VIOLÊNCIA DOMÉSTICA, NO MUNICÍPIO DE UBERLÂNDIA, E DÁ OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "05/02/2025",
+   "autores": "Amanda Gondim - PSB",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=206836",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Devolvido a(o) autor(a)",
+    "nom_unidade": "Seção de Apoio às Comissões",
+    "dat_tramitacao": "14/04/2025 11:26:57",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 206068,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 112,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 112/2025",
+   "txt_ementa": "DISPÕE SOBRE A EFETIVAÇÃO DE AÇÕES DE SAÚDE QUE ASSEGUREM A PREVENÇÃO, A DETECÇÃO, O TRATAMENTO E O SEGUIMENTO DOS CÂNCERES DE COLO UTERINO, MAMA E COLORRETAL NO ÂMBITO DO SISTEMA ÚNICO DE SAÚDE (SUS)",
+   "dat_apresentacao": "31/01/2025",
+   "autores": "Amanda Gondim - PSB",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=206068",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Requerimento Parecer Contrário Apresentado - Art. 172, RI",
+    "nom_unidade": "Seção de Apoio às Comissões",
+    "dat_tramitacao": "16/06/2025 12:27:41",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": [
+    {
+     "identificacao": "Requerimento n° 9221/2025",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=214494",
+     "is_veto": false
+    }
+   ]
+  }
+ ]
+}

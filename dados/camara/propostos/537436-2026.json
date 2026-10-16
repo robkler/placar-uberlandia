@@ -1,0 +1,254 @@
+{
+ "id": "537436",
+ "codAutor": "537436",
+ "ano": 2026,
+ "total": 10,
+ "coletadoEm": "2026-10-16T18:25",
+ "itens": [
+  {
+   "cod_materia": 268901,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 1334,
+   "ano_ident_basica": 2026,
+   "identificacao": "Projeto de Lei Ordinária n° 1334/2026",
+   "txt_ementa": "CONCEDE UM DIA DE FOLGA AO SERVIDOR PÚBLICO NO DIA DO SEU ANIVERSÁRIO, SEM PREJUÍZO DOS SEUS VENCIMENTOS",
+   "dat_apresentacao": "28/08/2026",
+   "autores": "Thais Andrade - União Brasil",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=268901",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Encaminhado à Comissão",
+    "nom_unidade": "Seção de Apoio às Comissões",
+    "dat_tramitacao": "01/09/2026 09:56:46",
+    "dat_fim_prazo": "16/09/2026",
+    "txt_tramitacao": "<p>Comissão de Legislação, Justiça e Redação</p> <p></p>"
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 267572,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 1305,
+   "ano_ident_basica": 2026,
+   "identificacao": "Projeto de Lei Ordinária n° 1305/2026",
+   "txt_ementa": "PERMITE ÀS PESSOAS COM TRANSTORNO DO ESPECTRO AUTISTA TEA O INGRESSO E A PERMANÊNCIA EM QUALQUER LOCAL PORTANDO ALIMENTOS PARA CONSUMO PRÓPRIO E UTENSÍLIOS DE USO PESSOAL.",
+   "dat_apresentacao": "11/08/2026",
+   "autores": "Thais Andrade - União Brasil",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=267572",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Encaminhado à Comissão",
+    "nom_unidade": "Seção de Apoio às Comissões",
+    "dat_tramitacao": "12/08/2026 09:29:44",
+    "dat_fim_prazo": "26/08/2026",
+    "txt_tramitacao": "<p>Comissão de Legislação, Justiça e Redação</p> <p></p>"
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 267571,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 1304,
+   "ano_ident_basica": 2026,
+   "identificacao": "Projeto de Lei Ordinária n° 1304/2026",
+   "txt_ementa": "INSTITUI, NO ÂMBITO MUNICIPAL, O PROGRAMA CIDADE AMIGA DO IDOSO, E DÁ OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "11/08/2026",
+   "autores": "Thais Andrade - União Brasil",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=267571",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Encaminhado à Comissão",
+    "nom_unidade": "Seção de Apoio às Comissões",
+    "dat_tramitacao": "12/08/2026 09:29:44",
+    "dat_fim_prazo": "26/08/2026",
+    "txt_tramitacao": "<p>Comissão de Legislação, Justiça e Redação</p> <p></p>"
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 267570,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 1303,
+   "ano_ident_basica": 2026,
+   "identificacao": "Projeto de Lei Ordinária n° 1303/2026",
+   "txt_ementa": "AUTORIZA O PODER EXECUTIVO A INSTITUIR O PROGRAMA MUNICIPAL DE CAPACITAÇÃO EM MANOBRA DE HEIMLICH PARA SERVIDORES PÚBLICOS QUE PRESTAM ATENDIMENTO AO PÚBLICO.",
+   "dat_apresentacao": "11/08/2026",
+   "autores": "Thais Andrade - União Brasil",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=267570",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Encaminhado à Comissão",
+    "nom_unidade": "Seção de Apoio às Comissões",
+    "dat_tramitacao": "12/08/2026 09:29:44",
+    "dat_fim_prazo": "26/08/2026",
+    "txt_tramitacao": "<p>Comissão de Legislação, Justiça e Redação</p> <p></p>"
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 267567,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 1302,
+   "ano_ident_basica": 2026,
+   "identificacao": "Projeto de Lei Ordinária n° 1302/2026",
+   "txt_ementa": "INSTITUI O SELO ESCOLA AMIGA DO AUTISTA NO MUNICIPIO DE UBERLÃNIDA E DE DÁ OUTRAS PROVIDENCIAS",
+   "dat_apresentacao": "11/08/2026",
+   "autores": "Thais Andrade - União Brasil",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=267567",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Encaminhado à Comissão",
+    "nom_unidade": "Seção de Apoio às Comissões",
+    "dat_tramitacao": "12/08/2026 09:29:44",
+    "dat_fim_prazo": "26/08/2026",
+    "txt_tramitacao": "<p>Comissão de Legislação, Justiça e Redação</p> <p></p>"
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 267566,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 1301,
+   "ano_ident_basica": 2026,
+   "identificacao": "Projeto de Lei Ordinária n° 1301/2026",
+   "txt_ementa": "INSTITUI O PROGRAMA DE SEGURANÇA E INCLUSÃO DOS CATADORES DE MATERIAIS RECICLÁVEIS NO ÂMBITO DO MUNICÍPIO DE UBERLÂNDIA E DÁ OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "11/08/2026",
+   "autores": "Thais Andrade - União Brasil",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=267566",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Encaminhado à Comissão",
+    "nom_unidade": "Seção de Apoio às Comissões",
+    "dat_tramitacao": "12/08/2026 09:29:44",
+    "dat_fim_prazo": "26/08/2026",
+    "txt_tramitacao": "<p>Comissão de Legislação, Justiça e Redação</p> <p></p>"
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 267565,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 1300,
+   "ano_ident_basica": 2026,
+   "identificacao": "Projeto de Lei Ordinária n° 1300/2026",
+   "txt_ementa": "DISPÕE SOBRE A INSTALAÇÃO DE PLACAS INDICATIVAS DE “AMBIENTE SILENCIOSO” NAS PROXIMIDADES DE RESIDÊNCIAS DE PESSOAS COM TRANSTORNO DO ESPECTRO AUTISTA (TEA) NO MUNICÍPIO DE UBERLÂNDIA, E DÁ OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "11/08/2026",
+   "autores": "Thais Andrade - União Brasil",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=267565",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Encaminhado à Comissão",
+    "nom_unidade": "Seção de Apoio às Comissões",
+    "dat_tramitacao": "12/08/2026 09:29:44",
+    "dat_fim_prazo": "26/08/2026",
+    "txt_tramitacao": "<p>Comissão de Legislação, Justiça e Redação</p> <p></p>"
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 267564,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 1299,
+   "ano_ident_basica": 2026,
+   "identificacao": "Projeto de Lei Ordinária n° 1299/2026",
+   "txt_ementa": "DISPÕE SOBRE A CRIAÇÃO DO PROGRAMA MUNICIPAL DE INCENTIVO AO EMPREENDEDORISMO FEMININO NO MUNICÍPIO DE UBERLÂNDIA E DÁ OUTRAS PROVIDÊNCIAS",
+   "dat_apresentacao": "11/08/2026",
+   "autores": "Thais Andrade - União Brasil",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=267564",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Encaminhado à Comissão",
+    "nom_unidade": "Seção de Apoio às Comissões",
+    "dat_tramitacao": "12/08/2026 09:29:44",
+    "dat_fim_prazo": "26/08/2026",
+    "txt_tramitacao": "<p>Comissão de Legislação, Justiça e Redação</p> <p></p>"
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 267562,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 1298,
+   "ano_ident_basica": 2026,
+   "identificacao": "Projeto de Lei Ordinária n° 1298/2026",
+   "txt_ementa": "AUTORIZA O PODER EXECUTIVO A CRIAR CAMPANHA DE CONSCIENTIZAÇÃO SOBRE A VIOLÊNCIA ENTRE ALUNOS NAS ESCOLAS DA REDE PÚBLICA E PRIVADA DE ENSINO NO MUNICÍPIO DE UBERLÂNDIA.",
+   "dat_apresentacao": "11/08/2026",
+   "autores": "Thais Andrade - União Brasil",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=267562",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Encaminhado à Comissão",
+    "nom_unidade": "Seção de Apoio às Comissões",
+    "dat_tramitacao": "12/08/2026 09:29:44",
+    "dat_fim_prazo": "26/08/2026",
+    "txt_tramitacao": "<p>Comissão de Legislação, Justiça e Redação</p> <p></p>"
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 260070,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 1159,
+   "ano_ident_basica": 2026,
+   "identificacao": "Projeto de Lei Ordinária n° 1159/2026",
+   "txt_ementa": "DECLARA DE UTILIDADE PÚBLICA A ASSOCIAÇÃO TEMPLO ESCOLA UMBANDA SAGRADA CONVIVER",
+   "dat_apresentacao": "14/05/2026",
+   "autores": "Thais Andrade - União Brasil",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=260070",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "29/05/2026 16:39:59",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": {
+    "sgl_norma": "LEI",
+    "num_norma": 14776,
+    "ano_norma": 2026,
+    "cod_norma": 18801,
+    "tip_norma": 6,
+    "ind_publico": 1,
+    "pode_cadastrar_norma": false,
+    "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=18801"
+   },
+   "anexadoras": [
+    {
+     "identificacao": "Proposição de Lei n° 454/2026",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=260158",
+     "is_veto": false
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,78 @@
+{
+ "id": "556182",
+ "codAutor": "556187",
+ "ano": 2026,
+ "total": 3,
+ "coletadoEm": "2026-10-16T18:25",
+ "itens": [
+  {
+   "cod_materia": 268905,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 1337,
+   "ano_ident_basica": 2026,
+   "identificacao": "Projeto de Lei Ordinária n° 1337/2026",
+   "txt_ementa": "DECLARA A FEIRA LIVRE DA AVENIDA MONSENHOR EDUARDO COMO PATRIMÔNIO CULTURAL IMATERIAL DO MUNICÍPIO DE UBERLÂNDIA.",
+   "dat_apresentacao": "28/08/2026",
+   "autores": "Pezão Do Esporte - DC, Ângela Do Postinho - Solidariedade, Elinho Da Academia - MOBILIZA, Ivan Nunes - PP, Nei Borges - Solidariedade, Prof. Conrado Augusto - MDB, Sargento Ednaldo - PP, Sérvio Túlio - PSDB, Thais Andrade - União Brasil",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=268905",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Encaminhado à Comissão",
+    "nom_unidade": "Seção de Apoio às Comissões",
+    "dat_tramitacao": "01/09/2026 09:56:46",
+    "dat_fim_prazo": "16/09/2026",
+    "txt_tramitacao": "<p>Comissão de Legislação, Justiça e Redação</p> <p></p>"
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 268904,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 1336,
+   "ano_ident_basica": 2026,
+   "identificacao": "Projeto de Lei Ordinária n° 1336/2026",
+   "txt_ementa": "DISPÕE SOBRE A PROMOÇÃO DA PARTICIPAÇÃO FEMININA EM ESCOLINHAS E PROJETOS DE FUTEBOL BENEFICIÁRIOS DE RECURSOS OU BENEFÍCIOS PÚBLICOS MUNICIPAIS NO MUNICÍPIO DE UBERLÂNDIA E DÁ OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "28/08/2026",
+   "autores": "Pezão Do Esporte - DC, Elinho Da Academia - MOBILIZA, Nei Borges - Solidariedade, Prof. Conrado Augusto - MDB, Sérvio Túlio - PSDB, Thais Andrade - União Brasil",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=268904",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Encaminhado à Comissão",
+    "nom_unidade": "Seção de Apoio às Comissões",
+    "dat_tramitacao": "01/09/2026 09:56:46",
+    "dat_fim_prazo": "16/09/2026",
+    "txt_tramitacao": "<p>Comissão de Legislação, Justiça e Redação</p> <p></p>"
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 268903,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 1335,
+   "ano_ident_basica": 2026,
+   "identificacao": "Projeto de Lei Ordinária n° 1335/2026",
+   "txt_ementa": "DISPÕE SOBRE A DIVULGAÇÃO DE MENSAGEM DE CONSCIENTIZAÇÃO E PREVENÇÃO À INJÚRIA RACIAL EM EVENTOS ESPORTIVOS REALIZADOS NO MUNICÍPIO DE UBERLÂNDIA E DÁ OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "28/08/2026",
+   "autores": "Pezão Do Esporte - DC, Elinho Da Academia - MOBILIZA, Nei Borges - Solidariedade, Prof. Conrado Augusto - MDB, Thais Andrade - União Brasil",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=268903",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Encaminhado à Comissão",
+    "nom_unidade": "Seção de Apoio às Comissões",
+    "dat_tramitacao": "01/09/2026 09:56:46",
+    "dat_fim_prazo": "16/09/2026",
+    "txt_tramitacao": "<p>Comissão de Legislação, Justiça e Redação</p> <p></p>"
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  }
+ ]
+}

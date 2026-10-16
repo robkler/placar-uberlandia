@@ -1,0 +1,180 @@
+{
+ "id": "537431",
+ "codAutor": "537431",
+ "ano": 2025,
+ "total": 6,
+ "coletadoEm": "2026-10-16T18:25",
+ "itens": [
+  {
+   "cod_materia": 239529,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 819,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 819/2025",
+   "txt_ementa": "DISPÕE SOBRE NORMAS RELATIVAS À ENTREGA DE ENCOMENDAS POR ENTREGADORES VINCULADOS A PLATAFORMAS DIGITAIS OU PRESTADORES AUTÔNOMOS EM CONDOMÍNIOS VERTICAIS RESIDENCIAIS E COMERCIAIS NO MUNICÍPIO DE UBERLÂNDIA, E DÁ OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "28/11/2025",
+   "autores": "Fabão - PV",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=239529",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "23/03/2026 13:43:07",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": {
+    "sgl_norma": "LEI",
+    "num_norma": 14709,
+    "ano_norma": 2026,
+    "cod_norma": 18706,
+    "tip_norma": 6,
+    "ind_publico": 1,
+    "pode_cadastrar_norma": false,
+    "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=18706"
+   },
+   "anexadoras": [
+    {
+     "identificacao": "Proposição de Lei n° 383/2026",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=252204",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 230137,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 583,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 583/2025",
+   "txt_ementa": "INSTITUI, NO ÂMBITO DO MUNICÍPIO DE UBERLÂNDIA, O PROGRAMA MUNICIPAL DE CONSCIENTIZAÇÃO, PREVENÇÃO E TRATAMENTO AOS MALEFÍCIOS DOS JOGOS DE APOSTAS ONLINE E FÍSICAS, E DÁ OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "27/08/2025",
+   "autores": "Fabão - PV",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=230137",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Requerimento Parecer Contrário Apresentado - Art. 172, RI",
+    "nom_unidade": "Seção de Apoio às Comissões",
+    "dat_tramitacao": "06/02/2026 08:49:09",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": [
+    {
+     "identificacao": "Requerimento n° 20758/2026",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=247166",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 221020,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 385,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 385/2025",
+   "txt_ementa": "DISPÕE SOBRE A SUBSTITUIÇÃO GRADATIVA DOS VEÍCULOS DE TRAÇÃO ANIMAL NO MUNICÍPIO DE UBERLÂNDIA, ALTERA A LEI Nº 7.038, DE 26 DE DEZEMBRO DE 1997, REVOGA A LEI Nº 5.275, DE 28 DE JUNHO DE 1991, E DÁ OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "02/06/2025",
+   "autores": "Fabão - PV",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=221020",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Encaminhado à Comissão",
+    "nom_unidade": "Seção de Apoio às Comissões",
+    "dat_tramitacao": "03/06/2025 09:26:43",
+    "dat_fim_prazo": "17/06/2025",
+    "txt_tramitacao": "<p>Comiss&atilde;o de Legisla&ccedil;&atilde;o, Justi&ccedil;a e Reda&ccedil;&atilde;o</p>"
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 220527,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 371,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 371/2025",
+   "txt_ementa": "DISPÕE SOBRE A PROIBIÇÃO DE PUBLICIDADE DE APOSTAS ELETRÔNICAS EM ESPAÇOS PÚBLICOS E EVENTOS COM APOIO DO PODER PÚBLICO MUNICIPAL, ESTABELECE DIRETRIZES PARA CAMPANHAS EDUCATIVAS, PREVENÇÃO E ACOLHIMENTO DE PESSOAS AFETADAS PELO TRANSTORNO DE JOGO PATOLÓGICO (LUDOMANIA), NO ÂMBITO DO MUNICÍPIO DE UBERLÂNDIA, E DÁ OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "27/05/2025",
+   "autores": "Fabão - PV, Delegada Lia Valechi - União Brasil",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=220527",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Requerimento Parecer Contrário Apresentado - Art. 172, RI",
+    "nom_unidade": "Seção de Apoio às Comissões",
+    "dat_tramitacao": "20/08/2025 14:41:11",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": [
+    {
+     "identificacao": "Requerimento n° 20379/2025",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=229575",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 211655,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 254,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 254/2025",
+   "txt_ementa": "DISPÕE SOBRE A AUTORIZAÇÃO PARA DESEMBARQUE DE MULHERES, IDOSOS E PESSOAS COM DEFICIÊNCIA FORA DOS PONTOS PREESTABELECIDOS NO TRANSPORTE COLETIVO URBANO DE UBERLÂNDIA DURANTE O PERÍODO NOTURNO, E DÁ OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "18/03/2025",
+   "autores": "Fabão - PV",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=211655",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Requerimento Parecer Contrário Apresentado - Art. 172, RI",
+    "nom_unidade": "Seção de Apoio às Comissões",
+    "dat_tramitacao": "16/06/2025 12:37:19",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": [
+    {
+     "identificacao": "Requerimento n° 15956/2025",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=221713",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 206772,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 142,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 142/2025",
+   "txt_ementa": "ALTERA A LEI Nº 10.741, DE 6 DE ABRIL DE 2011 QUE \"INSTITUI O CÓDIGO MUNICIPAL DE POSTURAS DE UBERLÂNDIA E REVOGA A LEI Nº 4.744, DE 05 DE JULHO DE 1988 E SUAS ALTERAÇÕES.",
+   "dat_apresentacao": "05/02/2025",
+   "autores": "Fabão - PV",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=206772",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "24/04/2025 12:34:09",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  }
+ ]
+}

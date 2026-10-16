@@ -1,0 +1,153 @@
+{
+ "id": "556180",
+ "codAutor": "556185",
+ "ano": 2026,
+ "total": 6,
+ "coletadoEm": "2026-10-16T18:25",
+ "itens": [
+  {
+   "cod_materia": 269901,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 1367,
+   "ano_ident_basica": 2026,
+   "identificacao": "Projeto de Lei Ordinária n° 1367/2026",
+   "txt_ementa": "INSTITUI, NO MUNICÍPIO DE UBERLÂNDIA, O SELO ESTACIONAMENTO INCLUSIVO, DESTINADO AO RECONHECIMENTO E INCENTIVO A ESTABELECIMENTOS PRIVADOS QUE ADOTEM, VOLUNTARIAMENTE, MEDIDAS DE ACESSIBILIDADE E PRÁTICAS DIFERENCIADAS DE ATENDIMENTO ÀS PESSOAS COM DEFICIÊNCIA OU COM MOBILIDADE REDUZIDA, E DÁ OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "14/09/2026",
+   "autores": "Janaina Guimarães - PL",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=269901",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Encaminhado à Comissão",
+    "nom_unidade": "Seção de Apoio às Comissões",
+    "dat_tramitacao": "15/09/2026 09:23:50",
+    "dat_fim_prazo": "29/09/2026",
+    "txt_tramitacao": "<p>Comissão de Legislação, Justiça e Redação</p> <p></p>"
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 267852,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 1316,
+   "ano_ident_basica": 2026,
+   "identificacao": "Projeto de Lei Ordinária n° 1316/2026",
+   "txt_ementa": "DISPÕE SOBRE A OBRIGATORIEDADE DE FIXAÇÃO DE CARTAZ INFORMATIVO OU COMUNICADO, NAS UNIDADES PÚBLICAS E PRIVADAS DE SAÚDE DO MUNICÍPIO DE UBERLÂNDIA, VERSANDO SOBRE A ENTREGA LEGAL, INSTITUÍDA PELA LEI N° 13.509, DE 22/11/2017.",
+   "dat_apresentacao": "13/08/2026",
+   "autores": "Janaina Guimarães - PL",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=267852",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Aprovado em 2ª Discussão",
+    "nom_unidade": "Seção de Controle de Processo Legislativo",
+    "dat_tramitacao": "08/10/2026 11:55:23",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": "<p>c/ Substitutivo nº 1</p>"
+   },
+   "norma_derivada": null,
+   "anexadoras": [
+    {
+     "identificacao": "Proposição de Lei n° 551/2026",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=271748",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 263916,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 1222,
+   "ano_ident_basica": 2026,
+   "identificacao": "Projeto de Lei Ordinária n° 1222/2026",
+   "txt_ementa": "PROÍBE A REALIZAÇÃO OU CUSTEIO DE QUAISQUER TRATAMENTOS OU PROCEDIMENTOS HORMONAIS E CIRÚRGICOS PARA A MUDANÇA DE GÊNERO EM MENORES DE DEZOITO ANOS NO ÂMBITO DO MUNICÍPIO DE UBERLÂNDIA E DÁ OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "30/06/2026",
+   "autores": "Janaina Guimarães - PL",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=263916",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado - Art. 172, Regimento Interno",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "06/10/2026 11:05:59",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 263747,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 1221,
+   "ano_ident_basica": 2026,
+   "identificacao": "Projeto de Lei Ordinária n° 1221/2026",
+   "txt_ementa": "AUTORIZA O MUNICÍPIO DE UBERLÂNDIA A CELEBRAR CONVÊNIO COM O ESTADO DE MINAS GERAIS PARA A UTILIZAÇÃO DE MÃO DE OBRA DE PESSOAS PRIVADAS DE LIBERDADE EM ATIVIDADES DE INTERESSE PÚBLICO, E DÁ OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "29/06/2026",
+   "autores": "Janaina Guimarães - PL",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=263747",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado - Art. 172, Regimento Interno",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "17/09/2026 13:04:52",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 258982,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 1136,
+   "ano_ident_basica": 2026,
+   "identificacao": "Projeto de Lei Ordinária n° 1136/2026",
+   "txt_ementa": "INSTITUI O “DIA MUNICIPAL DA MÃE ATÍPICA” NO MUNICÍPIO DE UBERLÂNDIA E DÁ OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "05/05/2026",
+   "autores": "Janaina Guimarães - PL",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=258982",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado - Art. 172, Regimento Interno",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "17/09/2026 13:04:51",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 255926,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 1061,
+   "ano_ident_basica": 2026,
+   "identificacao": "Projeto de Lei Ordinária n° 1061/2026",
+   "txt_ementa": "INSTITUI O \"DIA MUNICIPAL DE PROMOÇÃO DA SAÚDE MENTAL E PREVENÇÃO AO SOFRIMENTO PSÍQUICO INFANTO-JUVENIL\" NO ÂMBITO DO MUNICÍPIO DE UBERLÂNDIA, E DÁ OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "07/04/2026",
+   "autores": "Janaina Guimarães - PL",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=255926",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Devolvido a(o) autor(a)",
+    "nom_unidade": "Seção de Apoio às Comissões",
+    "dat_tramitacao": "02/07/2026 09:46:35",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  }
+ ]
+}

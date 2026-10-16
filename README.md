@@ -77,7 +77,7 @@ deploys pela CLI.
 O painel de chat do site responde perguntas sobre os dados do placar (presença, votações,
 proposições, contas da Prefeitura e do Estado, governo de Minas). Roda numa Vercel Function
 (`api/chat.ts`) com um agente Pi e o modelo DeepSeek, e consulta só `public/data.json`,
-`mg.json` e `federal.json`.
+`projetos.json`, `mg.json` e `federal.json`.
 
 - **O que faz**: busca políticos por nome e mostra como cada um votou. Dá para perguntar:
   - rankings por qualquer métrica do catálogo (presença, faltas, votos contra a maioria,
@@ -93,7 +93,9 @@ proposições, contas da Prefeitura e do Estado, governo de Minas). Roda numa Ve
     estaduais entram nos rankings de proposições, verba indenizatória etc., mas não nos de votação;
   - projetos de lei votados e aprovados pela Câmara de Uberlândia: totais e por ano (ferramenta
     `projetos_camara`, "quantos projetos a Câmara votou e aprovou em 2025?", quantos eram da Prefeitura),
-    quantos projetos cada vereador propôs e quantos chegaram à votação nominal (perfil e rankings `projetos_propostos` e `taxa_chegou_votacao`),
+    quantos projetos cada vereador propôs como autor principal e quantos chegaram à votação nominal (perfil e rankings `projetos_propostos` e `taxa_chegou_votacao`),
+    a lista desses projetos com o link oficial de cada um (ferramenta `projetos_do_vereador`, filtros
+    todos, aprovados, votados e nao_votados, e por ano de apresentação),
     projetos votados no perfil de cada vereador e rankings por pessoa ou partido de projetos votados,
     projetos aprovados e taxa de aprovação (aprovados ÷ votados; quem teve menos de 3 projetos votados fica fora do
     ranking e da soma dos partidos, e vem listado à parte, pois a taxa com 1 ou 2 projetos não é
@@ -163,6 +165,7 @@ A lista de perguntas para conferir o chat antes de publicar está em
 public/                 o que vai para o ar
   index.html            a página
   data.json             Uberlândia, gerado por scripts/gerar_dados.py
+  projetos.json         projetos de autoria principal de cada vereador (lista), também de gerar_dados.py
   federal.json          Câmara dos Deputados, gerado por scripts/gerar_federal.py
   mg.json               Minas Gerais, gerado por scripts/gerar_mg.py
   fotos/                fotos oficiais do TSE (vereadores, prefeito, vice)
@@ -170,7 +173,7 @@ public/                 o que vai para o ar
   fotos/mg/             fotos do TSE (deputados estaduais e governo de MG)
 scripts/
   comum.py              configuração (município, legislatura) e funções comuns
-  coletar_camara.py     vereadores e reuniões da Câmara (todo dia)
+  coletar_camara.py     vereadores, reuniões e projetos de autoria principal (e-processos) da Câmara (todo dia)
   coletar_tesouro.py    contas anuais da Prefeitura e população (todo dia, só baixa anos novos)
   coletar_tse.py        candidatos, bens, campanha e fotos (só após eleições)
   gerar_dados.py        junta tudo em public/data.json, com checagem de segurança
@@ -196,6 +199,7 @@ vercel.json             configuração da Vercel (pasta public, cache, função 
 | Dado | Fonte |
 |---|---|
 | Vereadores, reuniões, votações, proposições | API do site da Câmara Municipal (`camarauberlandia.mg.gov.br/++api++`) |
+| Projetos de lei de autoria principal de cada vereador e sua tramitação | e-processos da Câmara (SAGL), `e-processos.camarauberlandia.mg.gov.br/consultas/materia/materias_legislativas_json` |
 | Fotos, idade, patrimônio, campanha, votos | TSE, arquivos públicos em `cdn.tse.jus.br` |
 | Receitas e despesas | Tesouro Nacional, SICONFI (Declaração de Contas Anuais) |
 | População | IBGE, estimativas anuais |
@@ -226,15 +230,35 @@ vercel.json             configuração da Vercel (pasta public, cache, função 
   entram só no total da Câmara; vereadores são ligados pelo nome (ex-vereadores contam só no total).
   **Taxa de aprovação** = aprovados ÷ votados, só para quem teve pelo menos 3 projetos votados. Ressalva: "Só entram projetos com votação nominal;
   aprovações em votação simbólica não aparecem."
-- **Projetos propostos e que chegaram à votação** (vereadores): *propostos* = projetos de lei ordinária,
-  complementar e propostas de emenda à Lei Orgânica apresentados desde 2025 (`LEGISLATURA_INICIO`),
-  somados dos facets de proposições da API da Câmara. Esse número pode incluir coautoria (a mesma
-  matéria aparece na lista de mais de um vereador) e não dá para separar; por isso o `data.json` leva
-  `notaAutoria`. *Chegaram à votação* = projetos de autoria principal, apresentados desde 2025 (ano do
-  número da matéria, ex. "nº 1252/2026"), com pelo menos uma votação nominal; projetos antigos votados
-  agora não entram nessa conta (continuam em "votados"). `pctChegouVotacao` = votados ÷ propostos (1 casa;
-  nulo sem propostos). Como os propostos podem incluir coautoria e os votados só autoria principal, o
-  percentual pode ficar subestimado. Ranking `taxa_chegou_votacao`: só quem propôs 3 ou mais projetos.
+- **Projetos propostos e que chegaram à votação** (vereadores): *propostos* = projetos de lei ordinária
+  (PL), complementar (PLC) e propostas de emenda à Lei Orgânica (PELO) de **autoria principal** do
+  vereador, apresentados desde 2025 (`LEGISLATURA_INICIO`), da consulta de matérias do e-processos
+  (`chk_primeiro_autor=1`, um ano por consulta; coautoria não entra). O código de autor do e-processos
+  nem sempre é o id do vereador no site (ex.: Ângela do Postinho é 556176 no site e 556181 no
+  e-processos), então o coletor casa os dois pelo nome, usando `autores_json`. Cache em
+  `dados/camara/propostos/<id>-<ano>.json`: anos passados não são baixados de novo, o ano atual sim.
+  O e-processos recusa (403) User-Agent com "Python-urllib"; lá o coletor se identifica como
+  `Mozilla/5.0 (PlacarUberlandia; dados publicos)`. Se o e-processos falhar, a coleta segue com o cache;
+  se faltar o cache de um vereador, o `gerar_dados.py` mantém os números e a lista anteriores.
+  *Chegaram à votação* (`propostosVotados`) = desses projetos, os que têm pelo menos uma votação
+  nominal (ligados pelo código da matéria, `cod_materia` = `materiaId`). Status de cada projeto:
+  com votação nominal, o das regras acima (em tramitação vira aprovado se a tramitação já mostra a
+  aprovação); sem votação nominal, **aprovado** se a tramitação mostra aprovação
+  (`aprovadoPorTramitacao`), senão **nao_votado**. `propostosAprovados` = aprovados entre os que
+  chegaram à votação nominal; `aprovadosSemVotoNominal` = aprovados sem nenhuma votação nominal
+  (votação simbólica). `pctChegouVotacao` = chegaram à votação ÷ propostos (1 casa; nulo sem
+  propostos). Ranking `taxa_chegou_votacao`: só quem propôs 3 ou mais projetos.
+  **Situações de tramitação** (última tramitação, `ult_tramitacao.des_status`; lista completa em
+  `consultas/materia/status_tramitacao_json`, 61 situações). Contam como aprovação: "Aprovado",
+  "Aprovado - Art. 102-A, RI", "Aprovado em 2ª Discussão", "Aprovado em Discussão Única",
+  "Aguardando Sanção/Veto Executivo", "Redação Final", "Promulgação", "Juntada - Norma Promulgada" e
+  "Veto Rejeitado"; e também qualquer projeto com **norma jurídica derivada** (`norma_derivada`, a lei
+  gerada), porque depois de virar lei o projeto costuma terminar como "Arquivado" (em out/2026, 229
+  dos 230 projetos que viraram lei estavam "Arquivado"). Não contam: "Aprovado em 1ª Discussão" (falta
+  a 2ª), "Arquivado" sem norma, "Arquivado - Art. 172, Regimento Interno", pareceres, pautas,
+  "Devolvido a(o) autor(a)", "Retirado pelo(a) autor(a)", "Rejeitado", vetos e as demais.
+  A lista completa vai em `public/projetos.json` (≈500 KB; grande demais para o `data.json`, que
+  leva só as contagens); o chat lê os dois.
 - **Presença dos deputados federais**: é a contagem oficial da Câmara (presenças, ausências
   justificadas e não justificadas). A % conta ausência justificada como ausência.
 - **Principais votações federais**: votações do texto de PL, PLP, PEC, MP e PDL no plenário com
@@ -277,7 +301,7 @@ vercel.json             configuração da Vercel (pasta public, cache, função 
 ## Licença
 
 - **Código** (scripts, página, configuração): [MIT](LICENSE).
-- **Dados** (`dados/`, `public/data.json`, `public/mg.json`, `public/federal.json`): dados
+- **Dados** (`dados/`, `public/data.json`, `public/projetos.json`, `public/mg.json`, `public/federal.json`): dados
   públicos da Câmara Municipal de Uberlândia, da ALMG, da Câmara dos Deputados, do TSE, do
   Tesouro Nacional (SICONFI) e do IBGE. Pertencem a essas fontes e não estão sob a licença MIT; ao reutilizar, cite a fonte original.
 - **Fotos** (`public/fotos/`): fotos oficiais do TSE e da Câmara dos Deputados; também não

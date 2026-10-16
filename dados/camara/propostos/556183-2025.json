@@ -1,0 +1,641 @@
+{
+ "id": "556183",
+ "codAutor": "556188",
+ "ano": 2025,
+ "total": 24,
+ "coletadoEm": "2026-10-16T18:25",
+ "itens": [
+  {
+   "cod_materia": 241416,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 871,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 871/2025",
+   "txt_ementa": "AUTORIZA O PODER EXECUTIVO A INSTITUIR, NO ÂMBITO DO MUNICÍPIO DE UBERLÂNDIA, A POLÍTICA MUNICIPAL DE PREVENÇÃO E ENFRENTAMENTO AO ASSÉDIO SEXUAL E MORAL NA SAÚDE, ESTABELECE DIRETRIZES E DÁ OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "11/12/2025",
+   "autores": "Prof. Conrado Augusto - MDB",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=241416",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "14/04/2026 11:52:40",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 236117,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 756,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 756/2025",
+   "txt_ementa": "INSTITUI A “SEMANA MUNICIPAL DE CONSCIENTIZAÇÃO CONTRA A VIOLÊNCIA OBSTÉTRICA” NO ÂMBITO DO MUNICÍPIO DE UBERLÂNDIA E DÁ OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "03/11/2025",
+   "autores": "Prof. Conrado Augusto - MDB",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=236117",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "01/10/2026 13:53:40",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": {
+    "sgl_norma": "LEI",
+    "num_norma": 14868,
+    "ano_norma": 2026,
+    "cod_norma": 19055,
+    "tip_norma": 6,
+    "ind_publico": 1,
+    "pode_cadastrar_norma": false,
+    "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=19055"
+   },
+   "anexadoras": [
+    {
+     "identificacao": "Proposição de Lei n° 520/2026",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=269669",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 236114,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 754,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 754/2025",
+   "txt_ementa": "DISPÕE SOBRE A OBRIGATORIEDADE DE HOSPITAIS PÚBLICOS E PRIVADOS POSSUÍREM EQUIPAMENTOS E MOBILIÁRIOS ADAPTADOS AO ATENDIMENTO DE PESSOAS COM OBESIDADE GRAVE, E DÁ OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "03/11/2025",
+   "autores": "Prof. Conrado Augusto - MDB",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=236114",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "23/07/2026 09:16:26",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": {
+    "sgl_norma": "LEI",
+    "num_norma": 14807,
+    "ano_norma": 2026,
+    "cod_norma": 18967,
+    "tip_norma": 6,
+    "ind_publico": 1,
+    "pode_cadastrar_norma": false,
+    "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=18967"
+   },
+   "anexadoras": [
+    {
+     "identificacao": "Proposição de Lei n° 460/2026",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=262544",
+     "is_veto": false
+    },
+    {
+     "identificacao": "Requerimento n° 20804/2026",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=248651",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 236113,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 753,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 753/2025",
+   "txt_ementa": "DISPÕE SOBRE A ATUALIZAÇÃO E MODERNIZAÇÃO DOS MECANISMOS DE REGULAÇÃO, DIVULGAÇÃO E ACOMPANHAMENTO DAS FILAS DE CONSULTAS, EXAMES E CIRURGIAS NA REDE PÚBLICA MUNICIPAL DE SAÚDE DE UBERLÂNDIA, E DÁ OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "03/11/2025",
+   "autores": "Prof. Conrado Augusto - MDB",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=236113",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado - Art. 172, Regimento Interno",
+    "nom_unidade": "Seção de Controle de Processo Legislativo",
+    "dat_tramitacao": "20/02/2026 09:16:18",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 234165,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 704,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 704/2025",
+   "txt_ementa": "DISPÕE SOBRE A OBRIGATORIEDADE DA REALIZAÇÃO DE AFERIÇÃO ARTERIAL (“TESTE DO BRACINHO”) NAS CONSULTAS PEDIÁTRICAS EM CRIANÇAS A PARTIR DE 3 (TRÊS) ANOS DE IDADE, NO ÂMBITO DO MUNICÍPIO DE UBERLÂNDIA, E DÁ OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "08/10/2025",
+   "autores": "Prof. Conrado Augusto - MDB",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=234165",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado - Art. 172, Regimento Interno",
+    "nom_unidade": "Seção de Controle de Processo Legislativo",
+    "dat_tramitacao": "20/02/2026 08:31:43",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 234142,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 702,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 702/2025",
+   "txt_ementa": "INSTITUI O PROGRAMA MUNICIPAL DE EDUCAÇÃO FINANCEIRA NAS ESCOLAS DA REDE PÚBLICA MUNICIPAL DE UBERLÂNDIA E DÁ OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "08/10/2025",
+   "autores": "Prof. Conrado Augusto - MDB",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=234142",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado - Art. 172, Regimento Interno",
+    "nom_unidade": "Seção de Controle de Processo Legislativo",
+    "dat_tramitacao": "11/02/2026 14:13:26",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 234141,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 701,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 701/2025",
+   "txt_ementa": "DISPÕE SOBRE A OBRIGATORIEDADE DA CAPACITAÇÃO EM PRIMEIROS SOCORROS DE, NO MÍNIMO, UM SERVIDOR POR CADA UNIDADE ESCOLAR DA REDE MUNICIPAL DE ENSINO DE UBERLÂNDIA, CRIA O SELO MUNICIPAL DE ESCOLA SEGURA EM PRIMEIROS SOCORROS, E DÁ OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "08/10/2025",
+   "autores": "Prof. Conrado Augusto - MDB",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=234141",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado - Art. 172, Regimento Interno",
+    "nom_unidade": "Seção de Controle de Processo Legislativo",
+    "dat_tramitacao": "11/02/2026 14:12:32",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 234092,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 697,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 697/2025",
+   "txt_ementa": "INSTITUI A SEMANA MUNICIPAL DA ENFERMAGEM NO MUNICÍPIO DE UBERLÂNDIA, A SER REALIZADA ANUALMENTE, E DÁ OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "07/10/2025",
+   "autores": "Prof. Conrado Augusto - MDB",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=234092",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "29/12/2025 16:44:08",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": {
+    "sgl_norma": "LEI",
+    "num_norma": 14656,
+    "ano_norma": 2025,
+    "cod_norma": 18632,
+    "tip_norma": 6,
+    "ind_publico": 1,
+    "pode_cadastrar_norma": false,
+    "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=18632"
+   },
+   "anexadoras": [
+    {
+     "identificacao": "Proposição de Lei n° 298/2025",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=240670",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 234075,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 696,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 696/2025",
+   "txt_ementa": "DISPÕE SOBRE A VEDAÇÃO DA EXIGÊNCIA DE APRESENTAÇÃO DO CPF OU CADASTRO PRÉVIO PARA A CONCESSÃO DE DESCONTOS EM FARMÁCIAS, DROGARIAS, SUPERMERCADOS E CONGÊNERES NO MUNICÍPIO DE UBERLÂNDIA, E DÁ OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "07/10/2025",
+   "autores": "Prof. Conrado Augusto - MDB",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=234075",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado - Art. 172, Regimento Interno",
+    "nom_unidade": "Seção de Controle de Processo Legislativo",
+    "dat_tramitacao": "11/02/2026 13:56:07",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 228938,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 555,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 555/2025",
+   "txt_ementa": "ALTERA A REDAÇÃO DO ART. 8º DA LEI N. 14.462/2025.",
+   "dat_apresentacao": "13/08/2025",
+   "autores": "Prof. Conrado Augusto - MDB",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=228938",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "09/10/2025 12:38:04",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 228896,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 554,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 554/2025",
+   "txt_ementa": "ACRESCENTA O INCISO IX AO ART. 11 DA LEI N. 14.462/2025.",
+   "dat_apresentacao": "13/08/2025",
+   "autores": "Prof. Conrado Augusto - MDB",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=228896",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "09/10/2025 12:37:23",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 228895,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 553,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 553/2025",
+   "txt_ementa": "ESTABELECE A NECESSIDADE DE INSTALAÇÃO DE BOTÃO DE SEGURANÇA NAS UNIDADES DE SAÚDE PÚBLICAS DO MUNICÍPIO DE UBERLÂNDIA E DÁ OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "13/08/2025",
+   "autores": "Prof. Conrado Augusto - MDB",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=228895",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "09/10/2025 12:36:55",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 228658,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 532,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 532/2025",
+   "txt_ementa": "DISPÕE SOBRE O ESTABELECIMENTO DE MEDIDAS PROTETIVAS E PROCEDIMENTOS PARA OS CASOS DE VIOLÊNCIAS CONTRA PROFISSIONAIS DE SAÚDE NO ÂMBITO DO MUNICÍPIO DE UBERLÂNDIA E ESTABELECE OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "11/08/2025",
+   "autores": "Prof. Conrado Augusto - MDB",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=228658",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado - Art. 172, Regimento Interno",
+    "nom_unidade": "Seção de Controle de Processo Legislativo",
+    "dat_tramitacao": "15/10/2025 10:32:52",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 222802,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 428,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 428/2025",
+   "txt_ementa": "INSTITUI A POLÍTICA MUNICIPAL DE PRIMEIRO EMPREGO PARA ENFERMEIROS, TÉCNICOS E AUXILIARES DE ENFERMAGEM NO MUNICÍPIO DE UBERLÂNDIA E DÁ OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "12/06/2025",
+   "autores": "Prof. Conrado Augusto - MDB",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=222802",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Requerimento Parecer Contrário Apresentado - Art. 172, RI",
+    "nom_unidade": "Seção de Apoio às Comissões",
+    "dat_tramitacao": "13/08/2025 11:44:41",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": [
+    {
+     "identificacao": "Requerimento n° 20297/2025",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=228801",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 222801,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 427,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 427/2025",
+   "txt_ementa": "DISPÕE SOBRE A OBRIGATORIEDADE DE INSERÇÃO DO LOGOTIPO DO SISTEMA ÚNICO DE SAÚDE (SUS) SEMPRE QUE FOR UTILIZADO O LOGOTIPO DA PREFEITURA DE UBERLÂNDIA E/OU O LOGOTIPO DE ORGANIZAÇÕES SOCIAIS OU EMPRESAS TERCEIRIZADAS EM MATERIAIS DE DIVULGAÇÃO, PUBLICIDADE, DOCUMENTOS E UNIFORMES RELACIONADOS À SAÚDE PÚBLICA NO MUNICÍPIO DE UBERLÂNDIA.",
+   "dat_apresentacao": "12/06/2025",
+   "autores": "Prof. Conrado Augusto - MDB",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=222801",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Requerimento Parecer Contrário Apresentado - Art. 172, RI",
+    "nom_unidade": "Seção de Apoio às Comissões",
+    "dat_tramitacao": "13/08/2025 11:42:15",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": [
+    {
+     "identificacao": "Requerimento n° 20296/2025",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=228800",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 222420,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 424,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 424/2025",
+   "txt_ementa": "ESTABELECE QUE O LAUDO MÉDICO QUE ATESTA A DIABETES MELLITUS TIPO 1 (DM1) TENHA PRAZO DE VALIDADE INDETERMINADO NO ÂMBITO DO MUNICÍPIO DE UBERLÂNDIA.",
+   "dat_apresentacao": "11/06/2025",
+   "autores": "Prof. Conrado Augusto - MDB",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=222420",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Requerimento Parecer Contrário Apresentado - Art. 172, RI",
+    "nom_unidade": "Seção de Apoio às Comissões",
+    "dat_tramitacao": "13/08/2025 11:40:42",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": [
+    {
+     "identificacao": "Requerimento n° 20295/2025",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=228799",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 222287,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 418,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 418/2025",
+   "txt_ementa": "ASSEGURA O DIREITO À DIETA ISENTA DE GLÚTEN A PESSOA COM DOENÇA CELÍACA INTERNADA EM HOSPITAL LOCALIZADO NO MUNICÍPIO.",
+   "dat_apresentacao": "10/06/2025",
+   "autores": "Prof. Conrado Augusto - MDB",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=222287",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Encaminhado à Comissão",
+    "nom_unidade": "Seção de Apoio às Comissões",
+    "dat_tramitacao": "11/06/2025 09:29:50",
+    "dat_fim_prazo": "27/06/2025",
+    "txt_tramitacao": "<p>Comiss&atilde;o de Legisla&ccedil;&atilde;o, Justi&ccedil;a e Reda&ccedil;&atilde;o</p>"
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 222286,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 417,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 417/2025",
+   "txt_ementa": "DISPÕE SOBRE O RESSARCIMENTO AO SISTEMA ÚNICO DE SAÚDE (SUS) PELOS AGRESSORES NOS CASOS DE VIOLÊNCIA DOMÉSTICA E FAMILIAR CONTRA A MULHER NO ÂMBITO DO MUNICÍPIO DE UBERLÂNDIA/MG E DÁ OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "10/06/2025",
+   "autores": "Prof. Conrado Augusto - MDB",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=222286",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado - Art. 172, Regimento Interno",
+    "nom_unidade": "Seção de Controle de Processo Legislativo",
+    "dat_tramitacao": "20/08/2025 09:18:10",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 222101,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 416,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 416/2025",
+   "txt_ementa": "AUTORIZA O EXECUTIVO A CRIAR A GRATIFICAÇÃO ESPECIAL TEMPORÁRIA (GAGES) PARA MÉDICOS, ENFERMEIROS, FISIOTERAPEUTAS E DEMAIS PROFISSIONAIS DE SAÚDE QUE INTEGRAM AS EQUIPES QUE ATUAM NAS UNIDADES PÚBLICAS DE SAÚDE NO MUNICÍPIO DE UBERLÂNDIA ENQUANTO PERDURAR ESTADOS DE CALAMIDADE PÚBLICA OU SITUAÇÕES DE  EMERGÊNCIAS EM SAÚDE PÚBLICA.",
+   "dat_apresentacao": "09/06/2025",
+   "autores": "Prof. Conrado Augusto - MDB",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=222101",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Requerimento Parecer Contrário Apresentado - Art. 172, RI",
+    "nom_unidade": "Seção de Apoio às Comissões",
+    "dat_tramitacao": "13/08/2025 11:37:34",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": [
+    {
+     "identificacao": "Requerimento n° 20294/2025",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=228798",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 218408,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 336,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 336/2025",
+   "txt_ementa": "DISPÕE SOBRE A CONCESSÃO DE UM DIA DE FOLGA ANUAL AOS SERVIDORES PÚBLICOS MUNICIPAIS QUE COMPROVAREM A PRÁTICA REGULAR DE ATIVIDADE FÍSICA, E DÁ OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "09/05/2025",
+   "autores": "Prof. Conrado Augusto - MDB, Elinho Da Academia - MOBILIZA",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=218408",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Requerimento Parecer Contrário Apresentado - Art. 172, RI",
+    "nom_unidade": "Seção de Apoio às Comissões",
+    "dat_tramitacao": "13/08/2025 11:29:58",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": [
+    {
+     "identificacao": "Requerimento n° 20293/2025",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=228796",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 207321,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 181,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 181/2025",
+   "txt_ementa": "DETERMINA, NO MUNICÍPIO DE UBERLÂNDIA, QUE AS UNIDADES DE SAÚDE CREDENCIADAS NO SISTEMA ÚNICO DE SAÚDE – SUS, BEM COMO AS DA REDE PRIVADA OFEREÇAM LEITO SEPARADO PARA AS MÃES DE NATIMORTO E MÃES COM ÓBITO FETAL.",
+   "dat_apresentacao": "10/02/2025",
+   "autores": "Prof. Conrado Augusto - MDB",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=207321",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "04/04/2025 13:53:22",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 205939,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 107,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 107/2025",
+   "txt_ementa": "INSTITUI, NO ÂMBITO DO MUNICÍPIO DE UBERLÂNDIA, A OBRIGATORIEDADE DE AS EMPRESAS PRESTADORAS DE SERVIÇOS E CONCESSIONÁRIAS DE ÁGUA, LUZ, TELEFONE E INTERNET, INSERIREM, NAS FATURAS DE CONSUMO, DOS ÓRGÃOS DO PODER EXECUTIVO, NO ÂMBITO DE SUA PUBLICIDADE INSTITUCIONAL, AS FOTOS DE FORAGIDOS DA JUSTIÇA, CONDENADOS DEFINITIVAMENTE, POR CRIMES DE VIOLÊNCIA CONTRA A MULHER.",
+   "dat_apresentacao": "30/01/2025",
+   "autores": "Prof. Conrado Augusto - MDB, Sargento Ednaldo - PP, Zezinho Mendonça - PP",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=205939",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "12/03/2025 08:25:39",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 204774,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 67,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 67/2025",
+   "txt_ementa": "INSTITUI, NO ÂMBITO DO MUNICÍPIO DE UBERLÂNDIA, A OBRIGATORIEDADE DE AS EMPRESAS PRESTADORAS DE SERVIÇOS E CONCESSIONÁRIAS DE ÁGUA, LUZ, TELEFONE E INTERNET, INSERIREM, NAS FATURAS DE CONSUMO, DOS ÓRGÃOS DO PODER EXECUTIVO, NO ÂMBITO DE SUA PUBLICIDADE INSTITUCIONAL, AS FOTOS DE FORAGIDOS DA JUSTIÇA, CONDENADOS DEFINITIVAMENTE, POR CRIMES DE VIOLÊNCIA CONTRA A MULHER.",
+   "dat_apresentacao": "23/01/2025",
+   "autores": "Prof. Conrado Augusto - MDB",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=204774",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "30/01/2025 10:05:51",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 204671,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 66,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 66/2025",
+   "txt_ementa": "DISPÕE SOBRE A INSTITUIÇÃO DO DIREITO À MEIA-ENTRADA PARA PROFISSIONAIS DA SAÚDE DO SISTEMA PÚBLICO E PRIVADO DE SAÚDE DO MUNICÍPIO DE UBERLÂNDIA, EM EVENTOS CULTURAIS, DE LAZER E ENTRETENIMENTO, E DÁ OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "23/01/2025",
+   "autores": "Prof. Conrado Augusto - MDB",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=204671",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado - Art. 172, Regimento Interno",
+    "nom_unidade": "Seção de Controle de Processo Legislativo",
+    "dat_tramitacao": "28/03/2025 09:08:59",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  }
+ ]
+}

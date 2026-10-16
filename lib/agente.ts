@@ -3,7 +3,7 @@ import { Agent, type AgentMessage, type AgentTool, type StreamFn } from "@earend
 import { builtinModels } from "@earendil-works/pi-ai/providers/all";
 import { Type } from "typebox";
 import type { Dados } from "./dados.js";
-import { buscarParlamentar, buscarVotacoes, contas, governoMG, metricasDisponiveis, perfil, projetosCamara, ranking, rankingMetrica, votacaoPorPartido, votacoesDe } from "./consultas.js";
+import { buscarParlamentar, buscarVotacoes, contas, governoMG, metricasDisponiveis, perfil, projetosCamara, projetosDoVereador, ranking, rankingMetrica, votacaoPorPartido, votacoesDe } from "./consultas.js";
 
 export type Mensagem = { papel: "usuario" | "assistente"; texto: string };
 
@@ -37,7 +37,8 @@ Regras:
 - Se a ferramenta não devolver link, não escreva link nenhum.
 - Não faça contas: não some, não tire média, não conte itens nem calcule diferenças com os números das ferramentas; use só os totais que elas devolverem. Se o número pronto não vier, diga que o placar ainda não calcula isso.
 - Para deputados federais e estaduais, o placar só sabe quantos projetos viraram lei, não quantos foram votados.
-- Em taxa de aprovação de projetos, sempre diga 'X de Y projetos'.`;
+- Em taxa de aprovação de projetos, sempre diga 'X de Y projetos'.
+- Ao listar projetos, ponha na linha de cada projeto o link oficial que a ferramenta devolveu, no formato [Fonte oficial](fonte).`;
 
 const Casa = Type.Union([Type.Literal("vereador"), Type.Literal("estadual"), Type.Literal("federal")], {
   description: "vereador (Uberlândia), estadual (ALMG) ou federal (Câmara dos Deputados)",
@@ -58,7 +59,7 @@ export function criarFerramentas(d: Dados): AgentTool<any>[] {
   const perfilT: AgentTool<any> = {
     name: "perfil",
     label: "Perfil",
-    description: "Perfil de uma pessoa (casa e id vindos de buscar_parlamentar). Vereador: presença, votações nominais, proposições, projetos de lei votados (contagens de votados, aprovados, rejeitados, em tramitação e vetados (veto mantido, total ou parcial) e os 5 mais recentes; só votação nominal; mais quantos projetos propôs na legislatura e quantos chegaram à votação nominal, com percentual e nota sobre coautoria), comissões, votos e situação na eleição de 2024, patrimônio. Deputado federal: presença no plenário e nas comissões, votou com o governo, proposições, cota parlamentar, votos em 2022 (total e em Uberlândia), patrimônio. Deputado estadual: proposições, verba indenizatória, votos em 2022 (total e em Uberlândia), patrimônio; sem presença nem votos (a ALMG não publica). Inclui link do placar e link oficial.",
+    description: "Perfil de uma pessoa (casa e id vindos de buscar_parlamentar). Vereador: presença, votações nominais, proposições, projetos de lei votados (contagens de votados, aprovados, rejeitados, em tramitação e vetados (veto mantido, total ou parcial) e os 5 mais recentes; só votação nominal; mais quantos projetos de autoria principal propôs na legislatura, quantos chegaram à votação nominal (com percentual), quantos desses foram aprovados e quantos foram aprovados sem votação nominal; para a lista desses projetos use projetos_do_vereador), comissões, votos e situação na eleição de 2024, patrimônio. Deputado federal: presença no plenário e nas comissões, votou com o governo, proposições, cota parlamentar, votos em 2022 (total e em Uberlândia), patrimônio. Deputado estadual: proposições, verba indenizatória, votos em 2022 (total e em Uberlândia), patrimônio; sem presença nem votos (a ALMG não publica). Inclui link do placar e link oficial.",
     parameters: Type.Object({ casa: Casa, id: Type.String() }),
     execute: async (_id, p: any) => resposta(perfil(d, p.casa, p.id)),
   };
@@ -121,6 +122,19 @@ export function criarFerramentas(d: Dados): AgentTool<any>[] {
     parameters: Type.Object({ ano: Type.Optional(Type.Integer()) }),
     execute: async (_id, p: any) => resposta(projetosCamara(d, p.ano)),
   };
+  const projVer: AgentTool<any> = {
+    name: "projetos_do_vereador",
+    label: "Projetos do vereador",
+    description: "Lista os projetos de lei (ordinária, complementar e emenda à Lei Orgânica) de autoria principal de um vereador, apresentados desde 2025 (fonte: e-processos da Câmara; coautoria não entra). Use `id` (de buscar_parlamentar) ou `consulta` (nome); se o nome servir para mais de um vereador, devolve ambiguo e as opcoes para perguntar qual. `filtro`: todos (padrão), aprovados (aprovado em votação nominal ou, sem ela, pela tramitação/lei gerada), votados (com votação nominal) ou nao_votados (sem votação nominal; pode incluir aprovados em votação simbólica). `ano` = ano de apresentação (no número do projeto). `limite` padrão 10. Devolve a pessoa (link do placar e link oficial), os totais do escopo (propostos, votados, aprovados, aprovadosEmVotacaoNominal, aprovadosSemVotoNominal, naoVotados), totalNoFiltro e os itens mais recentes primeiro: identificação, ementa, data de apresentação, situação da última tramitação, votado, status (aprovado, rejeitado, em_tramitacao, vetado ou nao_votado), norma (lei gerada, quando houver) e o link oficial do projeto (fonte).",
+    parameters: Type.Object({
+      id: Type.Optional(Type.String()),
+      consulta: Type.Optional(Type.String({ description: "nome do vereador, se não tiver o id" })),
+      filtro: Type.Optional(Type.Union([Type.Literal("todos"), Type.Literal("aprovados"), Type.Literal("votados"), Type.Literal("nao_votados")])),
+      ano: Type.Optional(Type.Integer()),
+      limite: Type.Optional(Type.Integer({ minimum: 1, maximum: 50 })),
+    }),
+    execute: async (_id, p: any) => resposta(projetosDoVereador(d, p)),
+  };
   const contasT: AgentTool<any> = {
     name: "contas",
     label: "Contas públicas",
@@ -138,7 +152,7 @@ export function criarFerramentas(d: Dados): AgentTool<any>[] {
     parameters: Type.Object({}),
     execute: async () => resposta(governoMG(d)),
   };
-  return [buscar, perfilT, votacoes, rank, metricasT, buscarVot, votPartido, projetosT, contasT, governo];
+  return [buscar, perfilT, votacoes, rank, metricasT, buscarVot, votPartido, projetosT, projVer, contasT, governo];
 }
 
 export function validarPedido(corpo: unknown): { mensagens: Mensagem[] } {

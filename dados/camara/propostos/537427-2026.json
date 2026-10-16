@@ -1,0 +1,119 @@
+{
+ "id": "537427",
+ "codAutor": "537427",
+ "ano": 2026,
+ "total": 4,
+ "coletadoEm": "2026-10-16T18:25",
+ "itens": [
+  {
+   "cod_materia": 268767,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 1333,
+   "ano_ident_basica": 2026,
+   "identificacao": "Projeto de Lei Ordinária n° 1333/2026",
+   "txt_ementa": "INSTITUI O PROGRAMA DE COMBATE À CRISTOFOBIA NO MUNICÍPIO DE UBERLÂNDIA.",
+   "dat_apresentacao": "27/08/2026",
+   "autores": "Anderson Lima - PL",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=268767",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Encaminhado à Comissão",
+    "nom_unidade": "Seção de Apoio às Comissões",
+    "dat_tramitacao": "01/09/2026 09:56:46",
+    "dat_fim_prazo": "16/09/2026",
+    "txt_tramitacao": "<p>Comissão de Legislação, Justiça e Redação</p> <p></p>"
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 248646,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 979,
+   "ano_ident_basica": 2026,
+   "identificacao": "Projeto de Lei Ordinária n° 979/2026",
+   "txt_ementa": "ACRESCENTA O PARÁGRAFO ÚNICO AO ARTIGO 2º DA LEI Nº 11.282, DE 20 DE DEZEMBRO DE 2012, E DÁ OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "12/02/2026",
+   "autores": "Anderson Lima - PL",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=248646",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Requerimento Parecer Contrário Apresentado - Art. 172, RI",
+    "nom_unidade": "Seção de Apoio às Comissões",
+    "dat_tramitacao": "12/05/2026 13:53:00",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": [
+    {
+     "identificacao": "Requerimento n° 20999/2026",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=259634",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 248633,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 977,
+   "ano_ident_basica": 2026,
+   "identificacao": "Projeto de Lei Ordinária n° 977/2026",
+   "txt_ementa": "DECLARA DE UTILIDADE PÚBLICA A ASSOCIAÇÃO VEM VIVER.",
+   "dat_apresentacao": "12/02/2026",
+   "autores": "Anderson Lima - PL",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=248633",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Aprovado - Art. 102-A, RI",
+    "nom_unidade": "Seção de Controle de Processo Legislativo",
+    "dat_tramitacao": "05/10/2026 08:49:12",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": [
+    {
+     "identificacao": "Proposição de Lei n° 543/2026",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=271127",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 246536,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 937,
+   "ano_ident_basica": 2026,
+   "identificacao": "Projeto de Lei Ordinária n° 937/2026",
+   "txt_ementa": "REGULAMENTA A INSTALAÇÃO DE COMITÊS DE PREVENÇÃO E SOLUÇÃO DE DISPUTAS EM CONTRATOS ADMINISTRATIVOS CONTINUADOS CELEBRADOS PELO MUNICÍPIO DE UBERLÂNDIA.",
+   "dat_apresentacao": "03/02/2026",
+   "autores": "Anderson Lima - PL",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=246536",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Requerimento Parecer Contrário Apresentado - Art. 172, RI",
+    "nom_unidade": "Seção de Apoio às Comissões",
+    "dat_tramitacao": "09/04/2026 13:15:23",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": [
+    {
+     "identificacao": "Requerimento n° 20947/2026",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=256558",
+     "is_veto": false
+    }
+   ]
+  }
+ ]
+}

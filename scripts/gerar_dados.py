@@ -17,6 +17,8 @@ from comum import DADOS, PUBLIC, LEGISLATURA_INICIO, ler_json, log, salvar_json
 
 CAMARA = os.path.join(DADOS, 'camara')
 SAIDA = os.path.join(PUBLIC, 'data.json')
+# Lista de projetos de autoria principal por vereador (grande demais para o data.json; ver README).
+SAIDA_PROJETOS = os.path.join(PUBLIC, 'projetos.json')
 
 
 def limpar(h):
@@ -156,24 +158,107 @@ def projetos_votados(votacoes, vereadores, nomes):
     return por_ver, dict(ressalva=RESSALVA_PROJETOS, porAno=dict(sorted(por_ano.items())), total=total)
 
 
-NOTA_AUTORIA = ('Os propostos vêm da lista de proposições do vereador no site da Câmara, que pode incluir coautoria '
-                'e não permite separar a autoria principal; os que chegaram à votação contam só autoria principal.')
+# Situação da última tramitação no e-processos que indica projeto aprovado (pela Câmara, em votação
+# nominal ou simbólica), sancionado ou promulgado. Também conta como aprovado o projeto com norma
+# jurídica derivada (lei), mesmo que a última tramitação seja só "Arquivado" (o que é o mais comum).
+# Lista completa em .../consultas/materia/status_tramitacao_json; ver README.
+SITUACOES_APROVADO = (
+    'Aprovado', 'Aprovado - Art. 102-A, RI', 'Aprovado em 2ª Discussão', 'Aprovado em Discussão Única',
+    'Aguardando Sanção/Veto Executivo', 'Redação Final', 'Promulgação', 'Juntada - Norma Promulgada',
+    'Veto Rejeitado',
+)
+FONTE_PROPOSTOS = 'e-processos da Câmara (autoria principal: PL, PLC e PELO)'
+CAMPOS_PROPOSTOS = ('propostos', 'propostosVotados', 'propostosAprovados', 'aprovadosSemVotoNominal', 'pctChegouVotacao')
 
 
-def ano_da_materia(nome):
-    m = re.search(r'/(\d{4})$', nome)
-    return int(m.group(1)) if m else None
+def data_iso(br):
+    m = re.match(r'(\d{2})/(\d{2})/(\d{4})', br or '')
+    return f'{m.group(3)}-{m.group(2)}-{m.group(1)}' if m else ''
 
 
-def com_propostos(resumo, props):
-    """Acrescenta ao resumo de projetos votados: quantos dos propostos na legislatura chegaram à votação nominal."""
-    propostos = sum(n for t, n in props.items() if t.startswith(PREFIXOS_PROJETO))
-    apresentados = [x for x in resumo['lista'] if (ano_da_materia(x['materia']) or 0) >= LEGISLATURA_INICIO]
-    votados = len(apresentados)
-    return dict(resumo, propostos=propostos, propostosVotados=votados,
-                propostosAprovados=sum(1 for x in apresentados if x['status'] == 'aprovado'),
-                pctChegouVotacao=round(100 * votados / propostos, 1) if propostos else None,
-                notaAutoria=NOTA_AUTORIA)
+def carregar_propostos(vid, hoje):
+    """Projetos de autoria principal do vereador na legislatura (cache do e-processos), ou None se faltar algum ano."""
+    itens = []
+    for ano in range(LEGISLATURA_INICIO, hoje.year + 1):
+        c = ler_json(os.path.join(CAMARA, 'propostos', f'{vid}-{ano}.json'))
+        if c is None:
+            return None
+        itens += c['itens']
+    return itens
+
+
+def aprovado_por_tramitacao(m):
+    return bool(m.get('norma_derivada')) or (m.get('ult_tramitacao') or {}).get('des_status') in SITUACOES_APROVADO
+
+
+def propostos_do_vereador(itens, grupos):
+    """Lista (mais recentes primeiro) e contagens dos projetos de autoria principal.
+
+    votado = a matéria tem votação nominal; status = status_projeto das votações nominais (em_tramitacao
+    vira aprovado se a tramitação já indica aprovação); sem votação nominal, aprovado se a tramitação
+    indica aprovação, senão nao_votado."""
+    lista = []
+    for m in itens:
+        mid = str(m['cod_materia'])
+        vots = grupos.get(mid)
+        apr = aprovado_por_tramitacao(m)
+        if vots:
+            status = status_projeto(vots)
+            if status == 'em_tramitacao' and apr:
+                status = 'aprovado'
+        else:
+            status = 'aprovado' if apr else 'nao_votado'
+        n = m.get('norma_derivada') or {}
+        lista.append(dict(
+            identificacao=(m.get('identificacao') or '').replace('n°', 'nº'), ementa=cortar(m.get('txt_ementa')),
+            data=data_iso(m.get('dat_apresentacao')), situacao=(m.get('ult_tramitacao') or {}).get('des_status') or '',
+            votado=bool(vots), status=status, aprovadoPorTramitacao=apr,
+            **({'norma': f"{n.get('sgl_norma')} {n.get('num_norma')}/{n.get('ano_norma')}"} if n else {}),
+            fonte=m.get('detail_url') or ''))
+    lista.sort(key=lambda x: (x['data'], x['identificacao']), reverse=True)
+    votados = [x for x in lista if x['votado']]
+    contagens = dict(
+        propostos=len(lista), propostosVotados=len(votados),
+        propostosAprovados=sum(1 for x in votados if x['status'] == 'aprovado'),
+        aprovadosSemVotoNominal=sum(1 for x in lista if not x['votado'] and x['aprovadoPorTramitacao']),
+        pctChegouVotacao=round(100 * len(votados) / len(lista), 1) if lista else None)
+    return contagens, lista
+
+
+def cortar(t, n=200):
+    t = re.sub(r'\s+', ' ', t or '').strip()
+    return t if len(t) <= n else t[:n - 1].rstrip() + '…'
+
+
+def grupos_votacoes(votacoes):
+    """Votações nominais de projetos de lei por matéria (id), em ordem de data."""
+    grupos = collections.defaultdict(list)
+    for v in sorted(votacoes, key=lambda v: (v['data'], v['id'])):
+        if v['materia'].startswith(PREFIXOS_PROJETO) and v.get('materiaId'):
+            grupos[str(v['materiaId'])].append(v)
+    return grupos
+
+
+def com_propostos(vereadores, votacoes, hoje, anterior, anterior_proj):
+    """Põe em cada vereador.projetos as contagens dos propostos e devolve {id: lista} para projetos.json.
+    Sem o cache do e-processos de algum ano, mantém os números e a lista anteriores."""
+    grupos = grupos_votacoes(votacoes)
+    ant = {str(v['id']): v.get('projetos') or {} for v in (anterior or {}).get('vereadores', [])}
+    ant_lista = (anterior_proj or {}).get('vereadores', {})
+    listas, faltando = {}, []
+    for v in vereadores:
+        itens = carregar_propostos(v['id'], hoje)
+        if itens is None:
+            faltando.append(v['nome'])
+            v['projetos'].update({k: ant.get(v['id'], {}).get(k) for k in CAMPOS_PROPOSTOS})
+            listas[v['id']] = ant_lista.get(v['id'], [])
+            continue
+        contagens, lista = propostos_do_vereador(itens, grupos)
+        v['projetos'].update(contagens)
+        listas[v['id']] = lista
+    if faltando:
+        log(f'  aviso: sem projetos do e-processos para {", ".join(faltando)}; mantidos os números anteriores')
+    return listas
 
 
 def montar_vereador(d, votacoes, tse, hoje):
@@ -266,7 +351,9 @@ def main():
                          for i in ids), key=lambda v: v['nome'])
     por_ver, camara_proj = projetos_votados(votacoes, vereadores, nomes)
     for v in vereadores:
-        v['projetos'] = com_propostos(por_ver[v['id']], v['props'])
+        v['projetos'] = por_ver[v['id']]
+    anterior = ler_json(SAIDA)
+    listas = com_propostos(vereadores, votacoes, hoje, anterior, ler_json(SAIDA_PROJETOS))
     pv = [v for v in votacoes if v['autorTipo'] == 'Prefeitura']
     pessoas = []
     for k, cargo in (('prefeito', 'Prefeito'), ('vice', 'Vice-prefeito')):
@@ -279,13 +366,15 @@ def main():
         vereadores=vereadores, votacoes=votacoes, nomes=nomes, camaraProjetos=camara_proj,
         prefeitura=dict(pessoas=pessoas, eleicao=tse_all.get('eleicaoPrefeito', []), fin=financas(), pop=pop,
                         votacoesPrefeitura=len(pv), aprovadasPrefeitura=sum(1 for v in pv if v['resultado'].startswith('Aprovado'))))
-    erros = validar(novo, ler_json(SAIDA))
+    erros = validar(novo, anterior)
     if erros and not forcar:
         log('  NÃO gravei o data.json: ' + '; '.join(erros))
         log('  O site continua com a versão anterior. Use --forcar se tiver certeza.')
         sys.exit(1)
     salvar_json(SAIDA, novo, compacto=True)
-    log(f'  ok: {len(vereadores)} vereadores, {len(votacoes)} votações, {os.path.getsize(SAIDA) // 1024} KB')
+    salvar_json(SAIDA_PROJETOS, dict(gerado=novo['gerado'], fonte=FONTE_PROPOSTOS, vereadores=listas), compacto=True)
+    log(f'  ok: {len(vereadores)} vereadores, {len(votacoes)} votações, {os.path.getsize(SAIDA) // 1024} KB '
+        f'(+ projetos.json {os.path.getsize(SAIDA_PROJETOS) // 1024} KB)')
 
 
 if __name__ == '__main__':

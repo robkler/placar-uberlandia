@@ -1,0 +1,1097 @@
+{
+ "id": "546914",
+ "codAutor": "546914",
+ "ano": 2025,
+ "total": 37,
+ "coletadoEm": "2026-10-16T18:25",
+ "itens": [
+  {
+   "cod_materia": 239674,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 822,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 822/2025",
+   "txt_ementa": "DISPÕE SOBRE A PRIORIDADE DA UTILIZAÇÃO DE MEIOS DIGITAIS E SIMPLIFICAÇÃO DE PROCEDIMENTOS NA PRESTAÇÃO DE SERVIÇOS PÚBLICOS MUNICIPAIS, E DÁ OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "28/11/2025",
+   "autores": "Abatenio Marquez - PP",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=239674",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Requerimento Parecer Contrário Apresentado - Art. 172, RI",
+    "nom_unidade": "Seção de Apoio às Comissões",
+    "dat_tramitacao": "24/02/2026 11:15:58",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": [
+    {
+     "identificacao": "Requerimento n° 20810/2026",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=248765",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 239673,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 821,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 821/2025",
+   "txt_ementa": "DISPÕE SOBRE A TRANSPARÊNCIA E O CONTROLE SOCIAL DOS REPASSES DE RECURSOS PÚBLICOS ÀS ORGANIZAÇÕES DA SOCIEDADE CIVIL (OSCS) NO ÂMBITO DO MUNICÍPIO DE UBERLÂNDIA E DÁ OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "28/11/2025",
+   "autores": "Abatenio Marquez - PP",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=239673",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Requerimento Parecer Contrário Apresentado - Art. 172, RI",
+    "nom_unidade": "Seção de Apoio às Comissões",
+    "dat_tramitacao": "24/02/2026 11:14:16",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": [
+    {
+     "identificacao": "Requerimento n° 20809/2026",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=248764",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 239672,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 820,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 820/2025",
+   "txt_ementa": "ALTERA À LEI Nº 10.741, DE 6 DE ABRIL DE 2011, QUE INSTITUI O CÓDIGO MUNICIPAL DE POSTURAS DE UBERLÂNDIA.",
+   "dat_apresentacao": "28/11/2025",
+   "autores": "Abatenio Marquez - PP",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=239672",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Requerimento Parecer Contrário Apresentado - Art. 172, RI",
+    "nom_unidade": "Seção de Apoio às Comissões",
+    "dat_tramitacao": "24/02/2026 11:07:04",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": [
+    {
+     "identificacao": "Requerimento n° 20808/2026",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=248763",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 236759,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 783,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 783/2025",
+   "txt_ementa": "ALTERA A LEI N.º 4.664, DE 05 DE ABRIL DE 1988 QUE “DÁ DENOMINAÇÃO A VIA PÚBLICA”",
+   "dat_apresentacao": "06/11/2025",
+   "autores": "Abatenio Marquez - PP",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=236759",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "09/01/2026 14:02:59",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": {
+    "sgl_norma": "LEI",
+    "num_norma": 14664,
+    "ano_norma": 2026,
+    "cod_norma": 18639,
+    "tip_norma": 6,
+    "ind_publico": 1,
+    "pode_cadastrar_norma": false,
+    "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=18639"
+   },
+   "anexadoras": [
+    {
+     "identificacao": "Proposição de Lei n° 319/2025",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=241832",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 231683,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 661,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 661/2025",
+   "txt_ementa": "DISPÕE SOBRE A PROIBIÇÃO DE COBRANÇA DE ESTACIONAMENTO EM ESPAÇOS PÚBLICOS MUNICIPAIS DESTINADOS AO USO COLETIVO, TAIS COMO HOSPITAIS, UNIDADES DE SAÚDE, TEATROS, PARQUES, PRAÇAS E DEMAIS EQUIPAMENTOS PÚBLICOS, E DÁ OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "11/09/2025",
+   "autores": "Abatenio Marquez - PP",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=231683",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Requerimento Parecer Contrário Apresentado - Art. 172, RI",
+    "nom_unidade": "Seção de Apoio às Comissões",
+    "dat_tramitacao": "24/02/2026 11:05:31",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": [
+    {
+     "identificacao": "Requerimento n° 20807/2026",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=248762",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 231163,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 645,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 645/2025",
+   "txt_ementa": "ALTERA A LEI N.º 5.998, DE 19 DE ABRIL DE 1994 QUE “DENOMINA DE ANTONIO GERALDO PEREIRA A VIA QUE ESPECIFICA.”",
+   "dat_apresentacao": "08/09/2025",
+   "autores": "Abatenio Marquez - PP",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=231163",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "14/10/2025 14:25:44",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": {
+    "sgl_norma": "LEI",
+    "num_norma": 14563,
+    "ano_norma": 2025,
+    "cod_norma": 18455,
+    "tip_norma": 6,
+    "ind_publico": 1,
+    "pode_cadastrar_norma": false,
+    "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=18455"
+   },
+   "anexadoras": [
+    {
+     "identificacao": "Proposição de Lei n° 214/2025",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=232671",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 231162,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 644,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 644/2025",
+   "txt_ementa": "ALTERA A LEI N.º 5.580, DE 17 DE JUNHO DE 1992 QUE “DÁ DENOMINAÇÃO A LOGRADOURO PÚBLICO NO BAIRRO TANCREDO NEVES - \"RUA ANTÔNIO RANGEL DE MENDONÇA.”",
+   "dat_apresentacao": "08/09/2025",
+   "autores": "Abatenio Marquez - PP",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=231162",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "14/10/2025 14:25:44",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": {
+    "sgl_norma": "LEI",
+    "num_norma": 14565,
+    "ano_norma": 2025,
+    "cod_norma": 18456,
+    "tip_norma": 6,
+    "ind_publico": 1,
+    "pode_cadastrar_norma": false,
+    "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=18456"
+   },
+   "anexadoras": [
+    {
+     "identificacao": "Proposição de Lei n° 216/2025",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=232687",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 229142,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 566,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 566/2025",
+   "txt_ementa": "ALTERA A LEI N.º 6.976, DE 16 DE SETEMBRO DE 1997, QUE “DENOMINA DE ‘AVENIDA LAERTE CAETANO DA SILVA’ O LOGRADOURO PÚBLICO QUE ESPECIFICA.”",
+   "dat_apresentacao": "18/08/2025",
+   "autores": "Abatenio Marquez - PP",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=229142",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "29/09/2025 12:10:58",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": {
+    "sgl_norma": "LEI",
+    "num_norma": 14516,
+    "ano_norma": 2025,
+    "cod_norma": 18393,
+    "tip_norma": 6,
+    "ind_publico": 1,
+    "pode_cadastrar_norma": false,
+    "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=18393"
+   },
+   "anexadoras": [
+    {
+     "identificacao": "Proposição de Lei n° 178/2025",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=231151",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 228764,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 540,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 540/2025",
+   "txt_ementa": "ALTERA A LEI N.º 4.733, DE 30 DE JUNHO DE 1988. QUE “ESTABELECE DESCONTINUIDADE DE VIAS PÚBLICAS E DÁ NOVA DENOMINAÇÃO.”",
+   "dat_apresentacao": "12/08/2025",
+   "autores": "Abatenio Marquez - PP",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=228764",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "29/09/2025 12:06:59",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": {
+    "sgl_norma": "LEI",
+    "num_norma": 14531,
+    "ano_norma": 2025,
+    "cod_norma": 18381,
+    "tip_norma": 6,
+    "ind_publico": 1,
+    "pode_cadastrar_norma": false,
+    "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=18381"
+   },
+   "anexadoras": [
+    {
+     "identificacao": "Proposição de Lei n° 186/2025",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=231205",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 224339,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 442,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 442/2025",
+   "txt_ementa": "DISPÕE SOBRE O DEVER DE TRANSPARÊNCIA DA PREFEITURA DE UBERLÂNDIA NA DIVULGAÇÃO DA ARRECADAÇÃO E APLICAÇÃO DAS MULTAS DE TRÂNSITO, E DÁ OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "27/06/2025",
+   "autores": "Abatenio Marquez - PP",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=224339",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado - Art. 172, Regimento Interno",
+    "nom_unidade": "Seção de Controle de Processo Legislativo",
+    "dat_tramitacao": "20/08/2025 09:17:00",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 222293,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 420,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 420/2025",
+   "txt_ementa": "DECLARA DE UTILIDADE PÚBLICA A ASSOCIAÇÃO TEMPLO ESCOLA UMBANDA SAGRADA CONVIVER.",
+   "dat_apresentacao": "10/06/2025",
+   "autores": "Abatenio Marquez - PP",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=222293",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "18/03/2026 13:27:18",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 218730,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 343,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 343/2025",
+   "txt_ementa": "ALTERA A LEI N.º 5.848, DE 21 DE OUTUBRO DE 1993 QUE “DENOMINA DE AMÂNCIO JORGE MONTEIRO, O LOGRADOURO PÚBLICO QUE ESPECIFICA”",
+   "dat_apresentacao": "13/05/2025",
+   "autores": "Abatenio Marquez - PP",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=218730",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "30/06/2025 16:10:49",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": {
+    "sgl_norma": "LEI",
+    "num_norma": 14427,
+    "ano_norma": 2025,
+    "cod_norma": 17995,
+    "tip_norma": 6,
+    "ind_publico": 1,
+    "pode_cadastrar_norma": false,
+    "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=17995"
+   },
+   "anexadoras": [
+    {
+     "identificacao": "Proposição de Lei n° 85/2025",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=221136",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 215440,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 311,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 311/2025",
+   "txt_ementa": "INSTITUI A SEMANA MUNICIPAL DE PREVENÇÃO A ACIDENTES DE TRABALHO NO MUNICÍPIO DE UBERLÂNDIA.",
+   "dat_apresentacao": "11/04/2025",
+   "autores": "Abatenio Marquez - PP",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=215440",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "29/07/2025 14:27:32",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": {
+    "sgl_norma": "LEI",
+    "num_norma": 14468,
+    "ano_norma": 2025,
+    "cod_norma": 18244,
+    "tip_norma": 6,
+    "ind_publico": 1,
+    "pode_cadastrar_norma": false,
+    "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=18244"
+   },
+   "anexadoras": [
+    {
+     "identificacao": "Proposição de Lei n° 115/2025",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=224875",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 212347,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 267,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 267/2025",
+   "txt_ementa": "DISPÕE SOBRE A PROIBIÇÃO DA INSTALAÇÃO DE PRAÇAS DE PEDÁGIO EM VIAS PÚBLICAS MUNICIPAIS NO TERRITÓRIO DE UBERLÂNDIA/MG.",
+   "dat_apresentacao": "24/03/2025",
+   "autores": "Abatenio Marquez - PP",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=212347",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Devolvido a(o) autor(a)",
+    "nom_unidade": "Seção de Apoio às Comissões",
+    "dat_tramitacao": "02/06/2025 09:55:45",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 210279,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 234,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 234/2025",
+   "txt_ementa": "ALTERA A LEI N.º 9.795, DE 31 DE MARÇO DE 2008 QUE “DENOMINA DE LULY ROCHA XAVIER O LOGRADOURO PÚBLICO QUE ESPECIFICA”",
+   "dat_apresentacao": "07/03/2025",
+   "autores": "Abatenio Marquez - PP",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=210279",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "15/04/2025 15:02:24",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": {
+    "sgl_norma": "LEI",
+    "num_norma": 14369,
+    "ano_norma": 2025,
+    "cod_norma": 17831,
+    "tip_norma": 6,
+    "ind_publico": 1,
+    "pode_cadastrar_norma": false,
+    "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=17831"
+   },
+   "anexadoras": [
+    {
+     "identificacao": "Proposição de Lei n° 29/2025",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=213379",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 209391,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 221,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 221/2025",
+   "txt_ementa": "ALTERA A LEI N.º 2.220, DE 02 DE ABRIL DE 1973 QUE “MODIFICA NOMENCLATURA DA VIA PÚBLICA”",
+   "dat_apresentacao": "24/02/2025",
+   "autores": "Abatenio Marquez - PP",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=209391",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "23/04/2025 14:58:31",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": {
+    "sgl_norma": "LEI",
+    "num_norma": 14371,
+    "ano_norma": 2025,
+    "cod_norma": 17837,
+    "tip_norma": 6,
+    "ind_publico": 1,
+    "pode_cadastrar_norma": false,
+    "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=17837"
+   },
+   "anexadoras": [
+    {
+     "identificacao": "Proposição de Lei n° 26/2025",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=213375",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 209390,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 220,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 220/2025",
+   "txt_ementa": "ALTERA A LEI N.º 2.512, DE 05 DE MAIO DE 1976 QUE “DÁ DENOMINAÇÃO DE ‘JOÃO CATANDUVA’ A VIA PÚBLICA”",
+   "dat_apresentacao": "24/02/2025",
+   "autores": "Abatenio Marquez - PP",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=209390",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "23/04/2025 14:58:31",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": {
+    "sgl_norma": "LEI",
+    "num_norma": 14370,
+    "ano_norma": 2025,
+    "cod_norma": 17838,
+    "tip_norma": 6,
+    "ind_publico": 1,
+    "pode_cadastrar_norma": false,
+    "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=17838"
+   },
+   "anexadoras": [
+    {
+     "identificacao": "Proposição de Lei n° 25/2025",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=213372",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 209389,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 219,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 219/2025",
+   "txt_ementa": "ALTERA A LEI N.º 3.814, DE 21 DE DEZEMBRO DE 1982 QUE “DÁ DENOMINAÇÃO À LOGRADOURO PÚBLICO”",
+   "dat_apresentacao": "24/02/2025",
+   "autores": "Abatenio Marquez - PP",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=209389",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "16/06/2025 17:38:59",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": {
+    "sgl_norma": "LEI",
+    "num_norma": 14421,
+    "ano_norma": 2025,
+    "cod_norma": 17978,
+    "tip_norma": 6,
+    "ind_publico": 1,
+    "pode_cadastrar_norma": false,
+    "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=17978"
+   },
+   "anexadoras": [
+    {
+     "identificacao": "Proposição de Lei n° 81/2025",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=219758",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 209388,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 218,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 218/2025",
+   "txt_ementa": "ALTERA A LEI N.º 11.829, DE 13 DE JUNHO DE 2014 QUE “DENOMINA DE RUA MARIA SILVA GARCIA O LOGRADOURO PÚBLICO QUE ESPECIFICA”",
+   "dat_apresentacao": "24/02/2025",
+   "autores": "Abatenio Marquez - PP",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=209388",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "16/06/2025 16:36:52",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": {
+    "sgl_norma": "LEI",
+    "num_norma": 14420,
+    "ano_norma": 2025,
+    "cod_norma": 17974,
+    "tip_norma": 6,
+    "ind_publico": 1,
+    "pode_cadastrar_norma": false,
+    "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=17974"
+   },
+   "anexadoras": [
+    {
+     "identificacao": "Proposição de Lei n° 80/2025",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=219757",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 209369,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 217,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 217/2025",
+   "txt_ementa": "PROÍBE A CONTRATAÇÃO DE SHOWS, ARTISTAS E EVENTOS ABERTOS AO PÚBLICO INFANTOJUVENIL QUE ENVOLVAM, NO DECORRER DA APRESENTAÇÃO, EXPRESSÃO DE APOLOGIA AO CRIME ORGANIZADO OU AO USO DE DROGAS E DÁ OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "24/02/2025",
+   "autores": "Abatenio Marquez - PP",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=209369",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Requerimento Parecer Contrário Apresentado - Art. 172, RI",
+    "nom_unidade": "Seção de Apoio às Comissões",
+    "dat_tramitacao": "24/02/2026 11:03:24",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": [
+    {
+     "identificacao": "Requerimento n° 20806/2026",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=248761",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 207354,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 183,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 183/2025",
+   "txt_ementa": "ALTERA A LEI Nº 10.741, DE 6 DE ABRIL DE 2011 E SUAS ALTERAÇÕES, QUE \"INSTITUI O CÓDIGO MUNICIPAL DE POSTURAS DE UBERLÂNDIA E REVOGA A LEI Nº 4.744, DE 05 DE JULHO DE 1988 E SUAS ALTERAÇÕES",
+   "dat_apresentacao": "10/02/2025",
+   "autores": "Abatenio Marquez - PP",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=207354",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Encaminhado à Comissão",
+    "nom_unidade": "Seção de Apoio às Comissões",
+    "dat_tramitacao": "02/06/2025 09:39:27",
+    "dat_fim_prazo": "09/06/2025",
+    "txt_tramitacao": "<p>Comiss&atilde;o de Ind&uacute;stria, Com&eacute;rcio, Turismo e Trabalho</p>"
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 204485,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 25,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 25/2025",
+   "txt_ementa": "ACRESCENTA E ALTERA DISPOSITIVOS DA LEI Nº 13.619, DE 5 DE NOVEMBRO DE 2021, QUE \"DISPÕE SOBRE O DIREITO DE PREFERÊNCIA NO ATENDIMENTO PSICOLÓGICO, NA MATRÍCULA E NA TRANSFERÊNCIA DOS DEPENDENTES DA MULHER VÍTIMA DE VIOLÊNCIA DOMÉSTICA E FAMILIAR EM INSTITUIÇÃO DE EDUCAÇÃO BÁSICA MAIS PRÓXIMA DE SEU DOMICÍLIO",
+   "dat_apresentacao": "15/01/2025",
+   "autores": "Abatenio Marquez - PP",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=204485",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "27/06/2025 10:24:00",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": [
+    {
+     "identificacao": "Requerimento n° 8935/2025",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=214198",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 204478,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 18,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 18/2025",
+   "txt_ementa": "ACRESCENTA DISPOSITIVOS À LEI Nº 10.741, DE 6 DE ABRIL DE 2011, QUE INSTITUI O CÓDIGO MUNICIPAL DE POSTURAS DE UBERLÂNDIA E REVOGA A LEI Nº 4744, DE 05 DE JULHO DE 1988 E SUAS ALTERAÇÕES.",
+   "dat_apresentacao": "15/01/2025",
+   "autores": "Abatenio Marquez - PP",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=204478",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "27/06/2025 10:23:23",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": [
+    {
+     "identificacao": "Requerimento n° 8926/2025",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=214189",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 204477,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 17,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 17/2025",
+   "txt_ementa": "PROÍBE A PESSOA JURÍDICA QUE TENHA SIDO CONDENADA PELA PRÁTICA DE TRABALHO ANÁLOGO À ESCRAVIDÃO DE CONTRATAR COM A ADMINISTRAÇÃO PÚBLICA MUNICIPAL E DÁ OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "15/01/2025",
+   "autores": "Abatenio Marquez - PP",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=204477",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado - Art. 172, Regimento Interno",
+    "nom_unidade": "Seção de Controle de Processo Legislativo",
+    "dat_tramitacao": "02/07/2025 10:52:08",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 204476,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 16,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 16/2025",
+   "txt_ementa": "ACRESCENTA DISPOSITIVOS À LEI Nº 10.715, DE 21 DE MARÇO DE 2011, QUE INSTITUI O CÓDIGO MUNICIPAL DE SAÚDE.",
+   "dat_apresentacao": "15/01/2025",
+   "autores": "Abatenio Marquez - PP",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=204476",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado - Art. 172, Regimento Interno",
+    "nom_unidade": "Seção de Controle de Processo Legislativo",
+    "dat_tramitacao": "02/07/2025 10:47:43",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 204475,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 15,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 15/2025",
+   "txt_ementa": "DISPÕE SOBRE A AUTORIZAÇÃO DA PRESENÇA DE PSICÓLOGOS(AS) OBSTETRAS DURANTE O TRABALHO DE PARTO, PARTO E PÓS-PARTO IMEDIATO, NAS MATERNIDADES, CASAS DE PARTO E ESTABELECIMENTOS HOSPITALARES CONGÊNERES DO MUNICÍPIO DE UBERLÂNDIA.",
+   "dat_apresentacao": "15/01/2025",
+   "autores": "Abatenio Marquez - PP",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=204475",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Ciência de Parecer Contrário - Art. 172, Regimento Interno",
+    "nom_unidade": "Seção de Apoio às Comissões",
+    "dat_tramitacao": "06/05/2025 08:30:26",
+    "dat_fim_prazo": "07/05/2025",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 204474,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 14,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 14/2025",
+   "txt_ementa": "ALTERA E ACRESCENTA DISPOSITIVOS À LEI Nº 10.715, DE 21 DE MARÇO DE 2011, QUE INSTITUIU O CÓDIGO MUNICIPAL DE SAÚDE.",
+   "dat_apresentacao": "15/01/2025",
+   "autores": "Abatenio Marquez - PP",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=204474",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Devolvido a(o) autor(a)",
+    "nom_unidade": "Seção de Apoio às Comissões",
+    "dat_tramitacao": "10/03/2025 10:37:36",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 204473,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 13,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 13/2025",
+   "txt_ementa": "INSTITUI A PRIORIDADE NO ATENDIMENTO E ACESSO ÀS POLÍTICAS PÚBLICAS PARA AS MÃES SOLO, NO ÂMBITO DO MUNICÍPIO DE UBERLÂNDIA.",
+   "dat_apresentacao": "15/01/2025",
+   "autores": "Abatenio Marquez - PP",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=204473",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "24/04/2025 12:26:50",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 204472,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 12,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 12/2025",
+   "txt_ementa": "ALTERA A LEI Nº 10.741, DE 6 DE ABRIL DE 2011, QUE \"INSTITUI O CÓDIGO MUNICIPAL DE POSTURAS DE UBERLÂNDIA E REVOGA A LEI Nº 4744, DE 05 DE JULHO DE 1988 E SUAS ALTERAÇÕES\".",
+   "dat_apresentacao": "15/01/2025",
+   "autores": "Abatenio Marquez - PP",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=204472",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "24/04/2025 12:26:15",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 204471,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 11,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 11/2025",
+   "txt_ementa": "DENOMINA DE ESPAÇO CULTURAL E ESPORTIVO GERSON DE OLIVEIRA ALVES, O IMÓVEL PÚBLICO QUE MENCIONA",
+   "dat_apresentacao": "15/01/2025",
+   "autores": "Abatenio Marquez - PP",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=204471",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Encaminhado à Comissão",
+    "nom_unidade": "Seção de Apoio às Comissões",
+    "dat_tramitacao": "03/02/2025 13:05:30",
+    "dat_fim_prazo": "21/02/2025",
+    "txt_tramitacao": "<p>&nbsp;Comiss&atilde;o de Legisla&ccedil;&atilde;o, Justi&ccedil;a e Reda&ccedil;&atilde;o</p>\r\n<p>Comiss&atilde;o de Pol&iacute;tica Urbana, Habita&ccedil;&atilde;o e Urbanismo</p>"
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 204470,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 10,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 10/2025",
+   "txt_ementa": "ESTABELECE ATENDIMENTO PRIORITÁRIO NOS PROGRAMAS MUNICIPAIS PARA MULHERES VÍTIMAS DE VIOLÊNCIA DOMÉSTICA E CONJUGAL.",
+   "dat_apresentacao": "15/01/2025",
+   "autores": "Abatenio Marquez - PP",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=204470",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "27/06/2025 10:22:53",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 204469,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 9,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 9/2025",
+   "txt_ementa": "ALTERA A LEI N.º 12.965, DE 3 DE JULHO DE 2018, PARA INCLUIR A ÊNFASE EM \"SAÚDE\" E REGULAMENTAR ATIVIDADES NO \"DIA MUNICIPAL DE SEGURANÇA E SAÚDE NAS ESCOLAS\", E DÁ OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "15/01/2025",
+   "autores": "Abatenio Marquez - PP",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=204469",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Encaminhado à Comissão",
+    "nom_unidade": "Seção de Apoio às Comissões",
+    "dat_tramitacao": "03/02/2025 13:03:35",
+    "dat_fim_prazo": "21/02/2025",
+    "txt_tramitacao": "<p>Comiss&atilde;o de Legisla&ccedil;&atilde;o, Justi&ccedil;a e Reda&ccedil;&atilde;o</p>"
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 204468,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 8,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 8/2025",
+   "txt_ementa": "ALTERA A LEI Nº 11.551, DE 23 DE OUTUBRO DE 2013, QUE DISPÕE SOBRE A CASA ABRIGO TRAVESSIA, CENTRO DE ACOLHIMENTO PARA MULHERES EM SITUAÇÃO DE VIOLÊNCIA DOMÉSTICA E FAMILIAR.",
+   "dat_apresentacao": "15/01/2025",
+   "autores": "Abatenio Marquez - PP",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=204468",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "02/04/2025 12:49:37",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 204467,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 7,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 7/2025",
+   "txt_ementa": "ALTERA O ARTIGO 2º DA LEI ORDINÁRIA Nº 13.311, DE 30 DE DEZEMBRO DE 2019, PARA INCLUIR O SÍMBOLO MUNDIAL DO TRANSTORNO DO ESPECTRO AUTISTA (TEA) NAS PLACAS DE ATENDIMENTO PRIORITÁRIO E DÁ OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "15/01/2025",
+   "autores": "Abatenio Marquez - PP",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=204467",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Encaminhado à Comissão",
+    "nom_unidade": "Seção de Apoio às Comissões",
+    "dat_tramitacao": "03/02/2025 13:03:35",
+    "dat_fim_prazo": "21/02/2025",
+    "txt_tramitacao": "<p>Comiss&atilde;o de Legisla&ccedil;&atilde;o, Justi&ccedil;a e Reda&ccedil;&atilde;o</p>"
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 204466,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 6,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 6/2025",
+   "txt_ementa": "ALTERA O PARÁGRAFO PRIMEIRO DO ART. 17 DA LEI Nº 9.571, DE 28 DE AGOSTO DE 2007, QUE DISPÕE SOBRE A POLÍTICA MUNICIPAL DE HABITAÇÃO DE INTERESSE SOCIAL, INSTITUI O FUNDO MUNICIPAL DE HABITAÇÃO DE INTERESSE SOCIAL - FMHIS, O CONSELHO MUNICIPAL DE HABITAÇÃO DE INTERESSE SOCIAL - CMHIS, REVOGA A LEGISLAÇÃO QUE MENCIONA E DÁ OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "15/01/2025",
+   "autores": "Abatenio Marquez - PP",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=204466",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "17/02/2025 12:08:25",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 204465,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 5,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 5/2025",
+   "txt_ementa": "ALTERA E ACRESCENTA DISPOSITIVOS À LEI Nº 7.324, DE 18 DE JUNHO DE 1999, QUE \"OBRIGA OS ESTABELECIMENTOS DENOMINADOS FERROS-VELHOS DEDICADOS À COMPRA E VENDA DE SUCATA E PEÇAS AVULSAS DE VEÍCULOS AUTOMOTORES A RELACIONAR TODAS AS PEÇAS ADQUIRIDAS E A REGISTRAR EM LIVRO SUA PROCEDÊNCIA PARA FINS DE EMISSÃO DE NOTA FISCAL\".",
+   "dat_apresentacao": "15/01/2025",
+   "autores": "Abatenio Marquez - PP",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=204465",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "05/09/2025 13:34:03",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": {
+    "sgl_norma": "LEI",
+    "num_norma": 14500,
+    "ano_norma": 2025,
+    "cod_norma": 18360,
+    "tip_norma": 6,
+    "ind_publico": 1,
+    "pode_cadastrar_norma": false,
+    "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=18360"
+   },
+   "anexadoras": [
+    {
+     "identificacao": "Proposição de Lei n° 139/2025",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=228776",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 204464,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 4,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 4/2025",
+   "txt_ementa": "ACRESCENTA AS ALÍNEAS \"A\" E \"B\" AO INCISO VII DO ARTIGO 39 DA LEI Nº 10.741, DE 6 DE ABRIL DE 2011, QUE INSTITUI O CÓDIGO MUNICIPAL DE POSTURAS, REVOGA A LEI Nº 4.744, DE 5 DE JULHO DE 1988 E DÁ OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "15/01/2025",
+   "autores": "Abatenio Marquez - PP",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=204464",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Despacho",
+    "nom_unidade": "Seção de Apoio às Comissões",
+    "dat_tramitacao": "18/03/2025 12:25:19",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": "<p>Retirado de pauta a pedido do autor.</p>"
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  }
+ ]
+}

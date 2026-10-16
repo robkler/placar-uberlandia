@@ -1,0 +1,682 @@
+{
+ "id": "556177",
+ "codAutor": "556182",
+ "ano": 2025,
+ "total": 23,
+ "coletadoEm": "2026-10-16T18:25",
+ "itens": [
+  {
+   "cod_materia": 241019,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 859,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 859/2025",
+   "txt_ementa": "DISPÕE SOBRE A POSSIBILIDADE DE PAGAMENTO VIA PIX DO PAGAMENTO DE MULTAS MUNICIPAIS NO MOMENTO DA APREENSÃO DO VEÍCULO E DÁ OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "09/12/2025",
+   "autores": "Delegada Lia Valechi - União Brasil",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=241019",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Requerimento Parecer Contrário Apresentado - Art. 172, RI",
+    "nom_unidade": "Seção de Apoio às Comissões",
+    "dat_tramitacao": "10/02/2026 14:28:04",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": [
+    {
+     "identificacao": "Requerimento n° 20788/2026",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=247908",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 240994,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 857,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 857/2025",
+   "txt_ementa": "ESTABELECE POLÍTICAS DE COMBATE AO PRECONCEITO E À DISCRIMINAÇÃO EM RELAÇÃO À SAÚDE MENTAL NO MUNICÍPIO DE UBERLÂNDIA – MG.",
+   "dat_apresentacao": "09/12/2025",
+   "autores": "Delegada Lia Valechi - União Brasil",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=240994",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado - Art. 172, Regimento Interno",
+    "nom_unidade": "Seção de Controle de Processo Legislativo",
+    "dat_tramitacao": "20/02/2026 11:59:01",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 240518,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 841,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 841/2025",
+   "txt_ementa": "ESTABELECE MEDIDAS PARA GARANTIR O ACESSO SEGURO E EFICAZ AO SPRAY DE EXTRATOS VEGETAIS, COMO INSTRUMENTO DE LEGÍTIMA DEFESA PARA AS MULHERES.",
+   "dat_apresentacao": "03/12/2025",
+   "autores": "Delegada Lia Valechi - União Brasil",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=240518",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Requerimento Parecer Contrário Apresentado - Art. 172, RI",
+    "nom_unidade": "Seção de Apoio às Comissões",
+    "dat_tramitacao": "10/02/2026 14:29:54",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": [
+    {
+     "identificacao": "Requerimento n° 20789/2026",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=247909",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 237665,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 808,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 808/2025",
+   "txt_ementa": "INSTITUI E INCLUI NO CALENDÁRIO OFICIAL DE EVENTOS DO MUNICÍPIO DE UBERLÂNDIA – MG, A SEMANA DE CONSCIENTIZAÇÃO E COMBATE CONTRA DOENÇAS TRANSMITIDAS POR ANIMAIS.",
+   "dat_apresentacao": "17/11/2025",
+   "autores": "Delegada Lia Valechi - União Brasil",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=237665",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "23/03/2026 13:43:07",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": {
+    "sgl_norma": "LEI",
+    "num_norma": 14727,
+    "ano_norma": 2026,
+    "cod_norma": 18709,
+    "tip_norma": 6,
+    "ind_publico": 1,
+    "pode_cadastrar_norma": false,
+    "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=18709"
+   },
+   "anexadoras": [
+    {
+     "identificacao": "Proposição de Lei n° 377/2026",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=252183",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 237664,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 807,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 807/2025",
+   "txt_ementa": "DISPÕE SOBRE A CRIAÇÃO DA SEMANA MUNICIPAL DE CONSCIENTIZAÇÃO, PREVENÇÃO E COMBATE À PRÁTICA DE QUEIMADAS URBANAS E A CRIAÇÃO DO PROGRAMA MUNICIPAL DE CONSCIENTIZAÇÃO E COMBATE ÀS QUEIMADAS URBANAS NO MUNICÍPIO DE UBERLÂNDIA – MG, E DÁ OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "17/11/2025",
+   "autores": "Delegada Lia Valechi - União Brasil",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=237664",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Devolvido a(o) autor(a)",
+    "nom_unidade": "Seção de Apoio às Comissões",
+    "dat_tramitacao": "04/02/2026 09:42:35",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 237663,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 806,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 806/2025",
+   "txt_ementa": "DISPÕE SOBRE A CRIAÇÃO DA CENTRAL VIRTUAL PARA A ADOÇÃO DE CÃES E GATOS JUNTO AO SITE OFICIAL E REDES SOCIAIS DO MUNICÍPIO DE UBERLÂNDIA – MG, E DÁ OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "17/11/2025",
+   "autores": "Delegada Lia Valechi - União Brasil",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=237663",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "19/02/2026 14:13:36",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": "<p>O Parecer da Comiss&atilde;o de Legisla&ccedil;&atilde;o, Justi&ccedil;a e Reda&ccedil;&atilde;o opinou pelo arquivamento , tendo em vista que no dite da Prefeitura Municipal j&aacute; existe o link previsto no Projeto</p>"
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 237643,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 805,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 805/2025",
+   "txt_ementa": "INSTITUI MEDIDAS DE PROTEÇÃO À CRIANÇA E AO ADOLESCENTE CONTRA A VIOLÊNCIA NOS ESTABELECIMENTOS EDUCACIONAIS OU SIMILARES, PREVÊ A POLÍTICA NACIONAL DE PREVENÇÃO E COMBATE AO ABUSO E EXPLORAÇÃO SEXUAL DA CRIANÇA E DO ADOLESCENTE.",
+   "dat_apresentacao": "17/11/2025",
+   "autores": "Delegada Lia Valechi - União Brasil",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=237643",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado - Art. 172, Regimento Interno",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "10/03/2026 07:57:06",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 233962,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 692,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 692/2025",
+   "txt_ementa": "DENOMINA DE RUA RÚBIA DE FÁTIMA SOUZA O LOGRADOURO PÚBLICO QUE ESPECIFICA.",
+   "dat_apresentacao": "06/10/2025",
+   "autores": "Delegada Lia Valechi - União Brasil",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=233962",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "18/11/2025 13:15:42",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": {
+    "sgl_norma": "LEI",
+    "num_norma": 14594,
+    "ano_norma": 2025,
+    "cod_norma": 18543,
+    "tip_norma": 6,
+    "ind_publico": 1,
+    "pode_cadastrar_norma": false,
+    "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=18543"
+   },
+   "anexadoras": [
+    {
+     "identificacao": "Proposição de Lei n° 258/2025",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=236175",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 230853,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 629,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 629/2025",
+   "txt_ementa": "DECLARA DE UTILIDADE PÚBLICA A AFAD - ASSOCIAÇÃO FAMÍLIA AUTO DEFESA DE UBERLÂNDIA – MG",
+   "dat_apresentacao": "03/09/2025",
+   "autores": "Delegada Lia Valechi - União Brasil",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=230853",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "14/10/2025 14:27:14",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": {
+    "sgl_norma": "LEI",
+    "num_norma": 14555,
+    "ano_norma": 2025,
+    "cod_norma": 18449,
+    "tip_norma": 6,
+    "ind_publico": 1,
+    "pode_cadastrar_norma": false,
+    "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=18449"
+   },
+   "anexadoras": [
+    {
+     "identificacao": "Proposição de Lei n° 220/2025",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=233261",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 225959,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 497,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 497/2025",
+   "txt_ementa": "INSTITUI O DIA MUNICIPAL DA AÇÃO PARAMAÇÔNICA JUVENIL – APJ NO CALENDÁRIO OFICIAL DE EVENTOS DO MUNICÍPIO DE UBERLÂNDIA E DÁ OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "15/07/2025",
+   "autores": "Delegada Lia Valechi - União Brasil",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=225959",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "14/10/2025 14:25:44",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": {
+    "sgl_norma": "LEI",
+    "num_norma": 14561,
+    "ano_norma": 2025,
+    "cod_norma": 18461,
+    "tip_norma": 6,
+    "ind_publico": 1,
+    "pode_cadastrar_norma": false,
+    "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=18461"
+   },
+   "anexadoras": [
+    {
+     "identificacao": "Proposição de Lei n° 228/2025",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=233847",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 225486,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 474,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 474/2025",
+   "txt_ementa": "DISPÕE SOBRE A UTILIZAÇÃO DA TECNOLOGIA DE BIOMETRIA FACIAL NAS CÂMERAS DE MONITORAMENTO DA CIDADE DE UBERLÂNDIA A FIM DE OTIMIZAR A LOCALIZAÇÃO E PRISÃO DE CRIMINOSOS.",
+   "dat_apresentacao": "09/07/2025",
+   "autores": "Delegada Lia Valechi - União Brasil",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=225486",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado - Art. 172, Regimento Interno",
+    "nom_unidade": "Seção de Controle de Processo Legislativo",
+    "dat_tramitacao": "09/09/2025 08:47:47",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 225483,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 473,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 473/2025",
+   "txt_ementa": "DISPÕE SOBRE A UTILIZAÇÃO DE CÂMERAS DE RADARES, CONTROLE DE TRÁFEGO E MONITORAMENTO DO MUNICÍPIO DE UBERLÂNDIA, PARA IDENTIFICAÇÃO DE VEÍCULOS OBJETO DE FURTO OU ROUBO, INTEGRANDO-OS AOS SISTEMAS DE SEGURANÇA PÚBLICA, E DÁ OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "09/07/2025",
+   "autores": "Delegada Lia Valechi - União Brasil",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=225483",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado - Art. 172, Regimento Interno",
+    "nom_unidade": "Seção de Controle de Processo Legislativo",
+    "dat_tramitacao": "22/09/2025 12:12:50",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 220598,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 379,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 379/2025",
+   "txt_ementa": "INSTITUI A CAMPANHA PERMANENTE DE FORMAÇÃO DE PROFISSIONAIS DA EDUCAÇÃO NO COMBATE À VIOLÊNCIA DOMÉSTICA CONTRA A MULHER E DÁ OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "27/05/2025",
+   "autores": "Delegada Lia Valechi - União Brasil",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=220598",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado - Art. 172, Regimento Interno",
+    "nom_unidade": "Seção de Controle de Processo Legislativo",
+    "dat_tramitacao": "20/08/2025 09:14:32",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 220597,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 378,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 378/2025",
+   "txt_ementa": "DISPÕE SOBRE A INCLUSÃO DE CONCEITOS DE EDUCAÇÃO FINANCEIRA NA REDE MUNICIPAL DE ENSINO DE UBERLÂNDIA - MG.",
+   "dat_apresentacao": "27/05/2025",
+   "autores": "Delegada Lia Valechi - União Brasil",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=220597",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado - Art. 172, Regimento Interno",
+    "nom_unidade": "Seção de Controle de Processo Legislativo",
+    "dat_tramitacao": "20/08/2025 09:13:59",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 220596,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 377,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 377/2025",
+   "txt_ementa": "INSTITUI NO CALENDÁRIO OFICIAL DO MUNICÍPIO DE UBERLÂNDIA, A SEMANA DE CONSCIENTIZAÇÃO E PREVENÇÃO À DEPENDÊNCIA EM APOSTAS E JOGOS DE AZAR, E DÁ OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "27/05/2025",
+   "autores": "Delegada Lia Valechi - União Brasil",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=220596",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "29/09/2025 12:13:47",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": {
+    "sgl_norma": "LEI",
+    "num_norma": 14513,
+    "ano_norma": 2025,
+    "cod_norma": 18391,
+    "tip_norma": 6,
+    "ind_publico": 1,
+    "pode_cadastrar_norma": false,
+    "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=18391"
+   },
+   "anexadoras": [
+    {
+     "identificacao": "Proposição de Lei n° 173/2025",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=230900",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 220201,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 368,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 368/2025",
+   "txt_ementa": "INSTITUI E INSERE NO CALENDÁRIO OFICIAL DE EVENTOS DO MUNICÍPIO DE UBERLÂNDIA – MG, A “SEMANA DO NAMORO LEGAL, E DÁ OUTRAS PROVIDÊNCIAS”.",
+   "dat_apresentacao": "23/05/2025",
+   "autores": "Delegada Lia Valechi - União Brasil",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=220201",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "02/03/2026 11:56:31",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": {
+    "sgl_norma": "LEI",
+    "num_norma": 14699,
+    "ano_norma": 2026,
+    "cod_norma": 18685,
+    "tip_norma": 6,
+    "ind_publico": 1,
+    "pode_cadastrar_norma": false,
+    "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=18685"
+   },
+   "anexadoras": [
+    {
+     "identificacao": "Proposição de Lei n° 339/2026",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=247024",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 217232,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 324,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 324/2025",
+   "txt_ementa": "INSTITUI E INSERE NO CALENDÁRIO OFICIAL DE EVENTOS DO MUNICÍPIO DE UBERLÂNDIA – MG, A “SEMANA MUNICIPAL DO LIXO ZERO”, E DÁ OUTRAS PROVIDÊNCIAS",
+   "dat_apresentacao": "30/04/2025",
+   "autores": "Delegada Lia Valechi - União Brasil",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=217232",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "07/08/2025 13:38:43",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": {
+    "sgl_norma": "LEI",
+    "num_norma": 14474,
+    "ano_norma": 2025,
+    "cod_norma": 18308,
+    "tip_norma": 6,
+    "ind_publico": 1,
+    "pode_cadastrar_norma": false,
+    "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=18308"
+   },
+   "anexadoras": [
+    {
+     "identificacao": "Proposição de Lei n° 136/2025",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=227996",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 207461,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 184,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 184/2025",
+   "txt_ementa": "ALTERA A LEI Nº 10.715, DE 21 DE MARÇO DE 2011, QUE \"INSTITUI O CÓDIGO MUNICIPAL DE SAÚDE\"",
+   "dat_apresentacao": "10/02/2025",
+   "autores": "Delegada Lia Valechi - União Brasil",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=207461",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Devolvido a(o) autor(a)",
+    "nom_unidade": "Seção de Apoio às Comissões",
+    "dat_tramitacao": "05/05/2025 09:54:24",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 206250,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 126,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 126/2025",
+   "txt_ementa": "INSTITUI NO CALENDÁRIO OFICIAL DE EVENTOS DO MUNICÍPIO DE UBERLÂNDIA - MG, A SEMANA MUNICIPAL DO LIXO ZERO, E DÁ OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "03/02/2025",
+   "autores": "Delegada Lia Valechi - União Brasil",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=206250",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "29/04/2025 09:02:39",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": [
+    {
+     "identificacao": "Requerimento n° 9189/2025",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=214462",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 206247,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 125,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 125/2025",
+   "txt_ementa": "DISPÕE SOBRE A ISENÇÃO DA TAXA DE INSCRIÇÃO EM CONCURSOS PÚBLICOS E/OU PROCESSOS SELETIVOS REALIZADOS PELO MUNICÍPIO DE UBERLÂNDIA ÀS MULHERES VÍTIMAS DE VIOLÊNCIA DOMÉSTICA E FAMILIAR QUE ESTEJAM EM SITUAÇÃO DE DESEMPREGO.",
+   "dat_apresentacao": "03/02/2025",
+   "autores": "Delegada Lia Valechi - União Brasil",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=206247",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Devolvido a(o) autor(a)",
+    "nom_unidade": "Seção de Apoio às Comissões",
+    "dat_tramitacao": "01/04/2025 10:03:47",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 206240,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 124,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 124/2025",
+   "txt_ementa": "DETERMINA A INCLUSÃO DE INFORMAÇÕES SOBRE SERVIÇOS DE PROTEÇÃO À MULHER E À CRIANÇA VÍTIMA DE VIOLÊNCIA E/OU VIOLAÇÃO DE DIREITOS NO SITE DA PREFEITURA E DA CÂMARA MUNICIPAL DE UBERLÂNDIA - MG.",
+   "dat_apresentacao": "03/02/2025",
+   "autores": "Delegada Lia Valechi - União Brasil",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=206240",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "29/04/2025 09:01:07",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": [
+    {
+     "identificacao": "Requerimento n° 9188/2025",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=214461",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 206114,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 114,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 114/2025",
+   "txt_ementa": "DISPÕE SOBRE A AFIXAÇÃO DE CARTAZES ADESIVOS PARA ALERTAR SOBRE O CÂNCER DE MAMA E RESSALTAR A IMPORTÂNCIA DO AUTOEXAME NAS UNIDADES DE SAÚDE, ESCOLAS, ESPAÇOS PÚBLICOS, CENTROS COMUNITÁRIOS E LOJAS QUE COMERCIALIZAM ARTIGOS FEMININOS NO MUNICÍPIO DE UBERLÂNDIA.",
+   "dat_apresentacao": "31/01/2025",
+   "autores": "Delegada Lia Valechi - União Brasil",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=206114",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado - Art. 172, Regimento Interno",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "03/04/2025 13:11:27",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 206030,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 111,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 111/2025",
+   "txt_ementa": "ALTERA A LEI Nº 10.715, DE 21 DE MARÇO DE 2011, QUE \"INSTITUI O CÓDIGO MUNICIPAL DE SAÚDE\"",
+   "dat_apresentacao": "30/01/2025",
+   "autores": "Delegada Lia Valechi - União Brasil, Antônio Augusto Queijinho - PSDB, Liza Prado - CIDADANIA",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=206030",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "09/05/2025 18:32:16",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": {
+    "sgl_norma": "LEI",
+    "num_norma": 14389,
+    "ano_norma": 2025,
+    "cod_norma": 17887,
+    "tip_norma": 6,
+    "ind_publico": 1,
+    "pode_cadastrar_norma": false,
+    "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=17887"
+   },
+   "anexadoras": [
+    {
+     "identificacao": "Proposição de Lei n° 46/2025",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=215692",
+     "is_veto": false
+    }
+   ]
+  }
+ ]
+}

@@ -7,9 +7,9 @@ beforeAll(async () => { d = await carregarDados(); });
 
 const ferramenta = (nome: string) => criarFerramentas(d).find(t => t.name === nome)!;
 
-test("criarFerramentas devolve os dez nomes", () => {
+test("criarFerramentas devolve os onze nomes", () => {
   expect(criarFerramentas(d).map(t => t.name).sort()).toEqual(
-    ["buscar_parlamentar", "buscar_votacao", "contas", "governo_mg", "metricas", "perfil", "projetos_camara", "ranking", "votacao_por_partido", "votacoes"]);
+    ["buscar_parlamentar", "buscar_votacao", "contas", "governo_mg", "metricas", "perfil", "projetos_camara", "projetos_do_vereador", "ranking", "votacao_por_partido", "votacoes"]);
 });
 
 test("buscar_parlamentar devolve texto JSON com o link do placar", async () => {
@@ -119,4 +119,25 @@ test("prompt: deputados só têm leis aprovadas, não projetos votados", () => {
 
 test("prompt: taxa de aprovação sempre em 'X de Y projetos'", () => {
   expect(PROMPT_SISTEMA).toContain("Em taxa de aprovação de projetos, sempre diga 'X de Y projetos'.");
+});
+
+test("projetos_do_vereador: por id ou nome, com filtro, ano e limite", async () => {
+  const txt = async (p: any) => JSON.parse(((await ferramenta("projetos_do_vereador").execute("1", p)).content[0] as { text: string }).text);
+  const r = await txt({ id: "399041", filtro: "aprovados", ano: 2026, limite: 3 });
+  expect(r).toMatchObject({ filtro: "aprovados", ano: 2026, totalNoFiltro: 14, mostrando: 3 });
+  expect(r.itens[0].fonte).toContain("cod_materia=");
+  const n = await txt({ consulta: "queijinho" });
+  expect(n.pessoa.id).toBe("537380");
+  const t = ferramenta("projetos_do_vereador");
+  expect(t.description).toContain("autoria principal");
+  expect(t.description).toContain("link oficial");
+});
+
+test("prompt: lista de projetos com o link oficial de cada um", () => {
+  expect(PROMPT_SISTEMA).toContain("Ao listar projetos, ponha na linha de cada projeto o link oficial que a ferramenta devolveu, no formato [Fonte oficial](fonte).");
+});
+
+test("perfil: descrição sem coautoria e aponta projetos_do_vereador", () => {
+  expect(ferramenta("perfil").description).not.toContain("coautoria");
+  expect(ferramenta("perfil").description).toContain("projetos_do_vereador");
 });

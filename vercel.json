@@ -6,7 +6,7 @@
   "functions": {
     "api/chat.ts": {
       "maxDuration": 60,
-      "includeFiles": "public/{data,mg,federal}.json"
+      "includeFiles": "public/{data,mg,federal,projetos}.json"
     }
   },
   "headers": [

@@ -1,0 +1,228 @@
+{
+ "id": "546914",
+ "codAutor": "546914",
+ "ano": 2026,
+ "total": 9,
+ "coletadoEm": "2026-10-16T18:25",
+ "itens": [
+  {
+   "cod_materia": 261716,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 1186,
+   "ano_ident_basica": 2026,
+   "identificacao": "Projeto de Lei Ordinária n° 1186/2026",
+   "txt_ementa": "INSTITUI O \"SELO CONDUTOR DIABÉTICO\" NO MUNICÍPIO DE UBERLÂNDIA, VOLTADO À IDENTIFICAÇÃO VEICULAR, SEGURANÇA E CONSCIENTIZAÇÃO NO TRÂNSITO, E DÁ OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "02/06/2026",
+   "autores": "Abatenio Marquez - PP",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=261716",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Aprovado em 2ª Discussão",
+    "nom_unidade": "Seção de Controle de Processo Legislativo",
+    "dat_tramitacao": "08/10/2026 11:53:46",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": [
+    {
+     "identificacao": "Proposição de Lei n° 549/2026",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=271746",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 250812,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 995,
+   "ano_ident_basica": 2026,
+   "identificacao": "Projeto de Lei Ordinária n° 995/2026",
+   "txt_ementa": "DECLARA ENTIDADE DE UTILIDADE PÚBLICA A ASSOCIAÇÃO STREET TRAÇÃO TRASEIRA CLUBE DE UBERLÂNDIA (STT)",
+   "dat_apresentacao": "02/03/2026",
+   "autores": "Abatenio Marquez - PP",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=250812",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Devolvido a(o) autor(a)",
+    "nom_unidade": "Seção de Apoio às Comissões",
+    "dat_tramitacao": "01/04/2026 11:44:44",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 247328,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 963,
+   "ano_ident_basica": 2026,
+   "identificacao": "Projeto de Lei Ordinária n° 963/2026",
+   "txt_ementa": "“ALTERA A LEI Nº 10.741, DE 11 DE ABRIL DE 2011, QUE INSTITUI O CÓDIGO DE POSTURAS DO MUNICÍPIO DE UBERLÂNDIA, PARA CRIAR O SELO ‘EMPRESA AMIGA DA MULHER UBERLANDENSE’ E INCENTIVAR A EQUIDADE NA ESCALA DE REPOUSO DOMINICAL.”",
+   "dat_apresentacao": "09/02/2026",
+   "autores": "Abatenio Marquez - PP",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=247328",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado - Art. 172, Regimento Interno",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "17/09/2026 13:04:51",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 247327,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 962,
+   "ano_ident_basica": 2026,
+   "identificacao": "Projeto de Lei Ordinária n° 962/2026",
+   "txt_ementa": "INSTITUI AS DIRETRIZES PARA A POLÍTICA MUNICIPAL DE EDUCAÇÃO DIGITAL E INCLUSÃO POR MEIO DOS ESPORTES ELETRÔNICOS (ESPORTS) NA REDE PÚBLICA MUNICIPAL DE ENSINO DE UBERLÂNDIA.",
+   "dat_apresentacao": "09/02/2026",
+   "autores": "Abatenio Marquez - PP",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=247327",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado - Art. 172, Regimento Interno",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "17/09/2026 13:04:51",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 246439,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 932,
+   "ano_ident_basica": 2026,
+   "identificacao": "Projeto de Lei Ordinária n° 932/2026",
+   "txt_ementa": "DISPÕE SOBRE A CONVERSÃO DE SANÇÕES PECUNIÁRIAS DECORRENTES DE INFRAÇÕES DE TRÂNSITO DE NATUREZA LEVE EM DOAÇÃO VOLUNTÁRIA DE SANGUE OU MEDULA ÓSSEA NO MUNICÍPIO DE UBERLÂNDIA, E DÁ OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "02/02/2026",
+   "autores": "Abatenio Marquez - PP",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=246439",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Devolvido a(o) autor(a)",
+    "nom_unidade": "Seção de Apoio às Comissões",
+    "dat_tramitacao": "03/03/2026 09:43:23",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 246438,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 931,
+   "ano_ident_basica": 2026,
+   "identificacao": "Projeto de Lei Ordinária n° 931/2026",
+   "txt_ementa": "ALTERA A LEI 10.715, DE 21 DE MARÇO DE 2011, QUE INSTITUI O CÓDIGO MUNICIPAL DE SAÚDE.",
+   "dat_apresentacao": "02/02/2026",
+   "autores": "Abatenio Marquez - PP",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=246438",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Parecer de Comissão apresentado",
+    "nom_unidade": "Seção de Apoio às Comissões",
+    "dat_tramitacao": "08/06/2026 11:29:12",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 264520,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PLC",
+   "des_tipo_materia": "Projeto de Lei Complementar",
+   "num_ident_basica": 83,
+   "ano_ident_basica": 2026,
+   "identificacao": "Projeto de Lei Complementar n° 83/2026",
+   "txt_ementa": "ALTERA A LEI COMPLEMENTAR Nº 775, DE 13 DE DEZEMBRO DE 2024 QUE DISPÕE SOBRE O IMPOSTO PREDIAL E TERRITORIAL URBANO - IPTU NOMUNICÍPIO DE UBERLÂNDIA, DEFINE CRITÉRIOS DA SUA BASE DE CÁLCULOE DÁ OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "06/07/2026",
+   "autores": "Abatenio Marquez - PP",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=264520",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Encaminhado à Comissão",
+    "nom_unidade": "Seção de Apoio às Comissões",
+    "dat_tramitacao": "14/07/2026 09:24:47",
+    "dat_fim_prazo": "30/07/2026",
+    "txt_tramitacao": "<p>Comissão de Legislação, Justiça e Redação</p> <p>c/ Substitutivo nº 1</p> <p></p>"
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 246448,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PLC",
+   "des_tipo_materia": "Projeto de Lei Complementar",
+   "num_ident_basica": 62,
+   "ano_ident_basica": 2026,
+   "identificacao": "Projeto de Lei Complementar n° 62/2026",
+   "txt_ementa": "ALTERA A LEI COMPLEMENTAR Nº 775, DE 13 DE DEZEMBRO DE 2024, DISPÕE SOBRE O IMPOSTO PREDIAL E TERRITORIAL URBANO - IPTU NO MUNICÍPIO DE UBERLÂNDIA, DEFINE CRITÉRIOS DA SUA BASE DE CÁLCULO E DÁ OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "02/02/2026",
+   "autores": "Abatenio Marquez - PP",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=246448",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Requerimento Parecer Contrário Apresentado - Art. 172, RI",
+    "nom_unidade": "Seção de Apoio às Comissões",
+    "dat_tramitacao": "15/04/2026 14:30:04",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": [
+    {
+     "identificacao": "Requerimento n° 20965/2026",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=257468",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 246441,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PLC",
+   "des_tipo_materia": "Projeto de Lei Complementar",
+   "num_ident_basica": 61,
+   "ano_ident_basica": 2026,
+   "identificacao": "Projeto de Lei Complementar n° 61/2026",
+   "txt_ementa": "ALTERA E ACRESCE DISPOSITIVOS À LEI COMPLEMENTAR Nº 524, DE 08 DE ABRIL DE 2011, QUE INSTITUI O CÓDIGO MUNICIPAL DE OBRAS DO MUNICÍPIO DE UBERLÂNDIA E DE SEUS DISTRITOS.",
+   "dat_apresentacao": "02/02/2026",
+   "autores": "Abatenio Marquez - PP",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=246441",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Encaminhado à Comissão",
+    "nom_unidade": "Seção de Apoio às Comissões",
+    "dat_tramitacao": "03/02/2026 09:30:12",
+    "dat_fim_prazo": "19/02/2026",
+    "txt_tramitacao": "<p>Comiss&atilde;o de Legisla&ccedil;&atilde;o, Justi&ccedil;a e Reda&ccedil;&atilde;o</p>"
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  }
+ ]
+}

@@ -1,0 +1,955 @@
+{
+ "id": "526697",
+ "codAutor": "526697",
+ "ano": 2026,
+ "total": 35,
+ "coletadoEm": "2026-10-16T18:25",
+ "itens": [
+  {
+   "cod_materia": 270751,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 1385,
+   "ano_ident_basica": 2026,
+   "identificacao": "Projeto de Lei Ordinária n° 1385/2026",
+   "txt_ementa": "ACRESCENTA DISPOSITIVO NA LEI Nº 14.850, DE 10 DE SETEMBRO DE 2026, QUE ESTABELECE AS DIRETRIZES DO SISTEMA VIÁRIO DO MUNICÍPIO DE UBERLÂNDIA.",
+   "dat_apresentacao": "30/09/2026",
+   "autores": "Sargento Ednaldo - PP",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=270751",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Encaminhado à Comissão",
+    "nom_unidade": "Seção de Apoio às Comissões",
+    "dat_tramitacao": "01/10/2026 10:34:56",
+    "dat_fim_prazo": "16/10/2026",
+    "txt_tramitacao": "<p>Comissão de Legislação, Justiça e Redação</p> <p></p>"
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 270562,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 1383,
+   "ano_ident_basica": 2026,
+   "identificacao": "Projeto de Lei Ordinária n° 1383/2026",
+   "txt_ementa": "DENOMINA DE RUA ERCIO DUARTE CARVALHO O LOGRADOURO PÚBLICO QUE ESPECIFICA.",
+   "dat_apresentacao": "25/09/2026",
+   "autores": "Sargento Ednaldo - PP",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=270562",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Encaminhado à Comissão",
+    "nom_unidade": "Seção de Apoio às Comissões",
+    "dat_tramitacao": "01/10/2026 10:21:03",
+    "dat_fim_prazo": "16/10/2026",
+    "txt_tramitacao": "<p>Comissão de Legislação, Justiça e Redação</p> <p>Comissão de Política Urbana, Habitação e Urbanismo</p> <p></p>"
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 270226,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 1379,
+   "ano_ident_basica": 2026,
+   "identificacao": "Projeto de Lei Ordinária n° 1379/2026",
+   "txt_ementa": "ALTERA A LEI 14.856, DE 16 DE SETEMBRO DE 2026 QUE “DENOMINA DE PRAÇA NANCI ROSA CAMARGO O LOGRADOURO PÚBLICO QUE ESPECIFICA”.",
+   "dat_apresentacao": "21/09/2026",
+   "autores": "Sargento Ednaldo - PP",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=270226",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Aprovado - Art. 102-A, RI",
+    "nom_unidade": "Seção de Controle de Processo Legislativo",
+    "dat_tramitacao": "05/10/2026 09:17:52",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": [
+    {
+     "identificacao": "Proposição de Lei n° 547/2026",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=271131",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 269894,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 1365,
+   "ano_ident_basica": 2026,
+   "identificacao": "Projeto de Lei Ordinária n° 1365/2026",
+   "txt_ementa": "ALTERA DISPOSITIVO DA LEI Nº 12.462, DE 11 DE JULHO DE 2016.",
+   "dat_apresentacao": "14/09/2026",
+   "autores": "Sargento Ednaldo - PP, Zezinho Mendonça - PP",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=269894",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Encaminhado à Comissão",
+    "nom_unidade": "Seção de Apoio às Comissões",
+    "dat_tramitacao": "15/09/2026 09:23:50",
+    "dat_fim_prazo": "29/09/2026",
+    "txt_tramitacao": "<p>Comissão de Legislação, Justiça e Redação</p> <p></p>"
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 268658,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 1332,
+   "ano_ident_basica": 2026,
+   "identificacao": "Projeto de Lei Ordinária n° 1332/2026",
+   "txt_ementa": "DISPÕE SOBRE AS SANÇÕES ADMINISTRATIVAS APLICADAS PELO MUNICÍPIO DE UBERLÂNDIA ÀS PESSOAS FLAGRADAS PORTANDO OU CONSUMINDO DROGAS ILÍCITAS EM AMBIENTE PÚBLICO E DÁ OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "26/08/2026",
+   "autores": "Sargento Ednaldo - PP",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=268658",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Encaminhado à Comissão",
+    "nom_unidade": "Seção de Apoio às Comissões",
+    "dat_tramitacao": "01/09/2026 09:56:46",
+    "dat_fim_prazo": "16/09/2026",
+    "txt_tramitacao": "<p>Comissão de Legislação, Justiça e Redação</p> <p></p>"
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 267952,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 1317,
+   "ano_ident_basica": 2026,
+   "identificacao": "Projeto de Lei Ordinária n° 1317/2026",
+   "txt_ementa": "INSTITUI O PROGRAMA MUNICIPAL \"CÂMBIO VERDE\" NO MUNICÍPIO DE UBERLÂNDIA, DESTINADO À TROCA DE MATERIAIS RECICLÁVEIS POR ALIMENTOS PROVENIENTES DA AGRICULTURA FAMILIAR E DÁ OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "14/08/2026",
+   "autores": "Sargento Ednaldo - PP",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=267952",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Encaminhado à Comissão",
+    "nom_unidade": "Seção de Apoio às Comissões",
+    "dat_tramitacao": "17/08/2026 09:26:10",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": "<p>Comissão de Legislação, Justiça e Redação</p> <p></p>"
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 267735,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 1312,
+   "ano_ident_basica": 2026,
+   "identificacao": "Projeto de Lei Ordinária n° 1312/2026",
+   "txt_ementa": "DENOMINA DE PRAÇA NANCI ROSA CAMARGO O LOGRADOURO PÚBLICO QUE ESPECIFICA.",
+   "dat_apresentacao": "12/08/2026",
+   "autores": "Sargento Ednaldo - PP",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=267735",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "17/09/2026 08:29:57",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": {
+    "sgl_norma": "LEI",
+    "num_norma": 14856,
+    "ano_norma": 2026,
+    "cod_norma": 19042,
+    "tip_norma": 6,
+    "ind_publico": 1,
+    "pode_cadastrar_norma": false,
+    "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=19042"
+   },
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 267097,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 1285,
+   "ano_ident_basica": 2026,
+   "identificacao": "Projeto de Lei Ordinária n° 1285/2026",
+   "txt_ementa": "DENOMINA DE PRAÇA “LEDA CECÍLIO MILKEM” O LOGRADOURO PÚBLICO QUE ESPECIFICA",
+   "dat_apresentacao": "06/08/2026",
+   "autores": "Sargento Ednaldo - PP",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=267097",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "18/08/2026 13:33:33",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": {
+    "sgl_norma": "LEI",
+    "num_norma": 14831,
+    "ano_norma": 2026,
+    "cod_norma": 18998,
+    "tip_norma": 6,
+    "ind_publico": 1,
+    "pode_cadastrar_norma": false,
+    "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=18998"
+   },
+   "anexadoras": [
+    {
+     "identificacao": "Proposição de Lei n° 497/2026",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=267255",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 266729,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 1283,
+   "ano_ident_basica": 2026,
+   "identificacao": "Projeto de Lei Ordinária n° 1283/2026",
+   "txt_ementa": "DENOMINA DE RUA SAULO MARTINS DOS REIS O LOGRADOURO PÚBLICO QUE ESPECIFICA.",
+   "dat_apresentacao": "03/08/2026",
+   "autores": "Sargento Ednaldo - PP",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=266729",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Aprovado - Art. 102-A, RI",
+    "nom_unidade": "Seção de Controle de Processo Legislativo",
+    "dat_tramitacao": "24/09/2026 15:59:36",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": [
+    {
+     "identificacao": "Proposição de Lei n° 539/2026",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=270437",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 265566,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 1263,
+   "ano_ident_basica": 2026,
+   "identificacao": "Projeto de Lei Ordinária n° 1263/2026",
+   "txt_ementa": "INSTITUI O PROGRAMA MUNICIPAL \"TERMINAL SAÚDE DIGITAL\", DESTINADO À IMPLANTAÇÃO DE PONTOS DE TELEMEDICINA NOS TERMINAIS DE TRANSPORTE COLETIVO DO MUNICÍPIO DE UBERLÂNDIA PARA REALIZAÇÃO DE CONSULTAS MÉDICAS E MULTIPROFISSIONAIS PELO SISTEMA ÚNICO DE SAÚDE – SUS, E DÁ OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "21/07/2026",
+   "autores": "Sargento Ednaldo - PP",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=265566",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado - Art. 172, Regimento Interno",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "06/10/2026 11:05:59",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 264777,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 1246,
+   "ano_ident_basica": 2026,
+   "identificacao": "Projeto de Lei Ordinária n° 1246/2026",
+   "txt_ementa": "FICA REVOGADA A LEI N.º 14.413, DE 30 DE MAIO DE 2025, QUE “DENOMINA DE RUA NANCI ROSA CAMARGO O LOGRADOURO PÚBLICO QUE ESPECIFICA\"",
+   "dat_apresentacao": "08/07/2026",
+   "autores": "Sargento Ednaldo - PP",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=264777",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "28/08/2026 11:34:45",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": {
+    "sgl_norma": "LEI",
+    "num_norma": 14845,
+    "ano_norma": 2026,
+    "cod_norma": 19014,
+    "tip_norma": 6,
+    "ind_publico": 1,
+    "pode_cadastrar_norma": false,
+    "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=19014"
+   },
+   "anexadoras": [
+    {
+     "identificacao": "Proposição de Lei n° 504/2026",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=267998",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 263934,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 1225,
+   "ano_ident_basica": 2026,
+   "identificacao": "Projeto de Lei Ordinária n° 1225/2026",
+   "txt_ementa": "INSTITUI E INSERE NO CALENDÁRIO OFICIAL DE EVENTOS DO MUNICÍPIO DE UBERLÂNDIA O DIA MUNICIPAL DOS AGENTES DE AUDITORIA, FISCALIZAÇÃO E PROTEÇÃO DO INTERESSE PÚBLICO E DÁ OUTRAS PROVIDÊNCIAS",
+   "dat_apresentacao": "01/07/2026",
+   "autores": "Sargento Ednaldo - PP",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=263934",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Encaminhado à Comissão",
+    "nom_unidade": "Seção de Apoio às Comissões",
+    "dat_tramitacao": "02/07/2026 09:44:29",
+    "dat_fim_prazo": "20/07/2026",
+    "txt_tramitacao": "Comissão de Legislação, Justiça e Redação<p></p> <p></p>"
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 263744,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 1220,
+   "ano_ident_basica": 2026,
+   "identificacao": "Projeto de Lei Ordinária n° 1220/2026",
+   "txt_ementa": "INSTITUI O DIA MUNICIPAL DO MÉDICO VETERINÁRIO E DÁ OUTRAS PROVIDÊNCIAS",
+   "dat_apresentacao": "29/06/2026",
+   "autores": "Sargento Ednaldo - PP",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=263744",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Aprovado em 2ª Discussão",
+    "nom_unidade": "Seção de Controle de Processo Legislativo",
+    "dat_tramitacao": "08/10/2026 11:54:29",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": [
+    {
+     "identificacao": "Proposição de Lei n° 550/2026",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=271747",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 262498,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 1206,
+   "ano_ident_basica": 2026,
+   "identificacao": "Projeto de Lei Ordinária n° 1206/2026",
+   "txt_ementa": "ACRESCENTA DISPOSITIVO NA LEI Nº 12.404 DE 18 DE ABRIL DE 2026, QUE “ESTABELECE, NO ÂMBITO DO MUNICÍPIO DE UBERLÂNDIA, SANÇÕES E PENALIDADES ADMINISTRATIVAS PARA AQUELES QUE PRATICAREM MAUS-TRATOS AOS ANIMAIS E DÁ OUTRAS PROVIDÊNCIAS”",
+   "dat_apresentacao": "11/06/2026",
+   "autores": "Sargento Ednaldo - PP",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=262498",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Encaminhado à Comissão",
+    "nom_unidade": "Seção de Apoio às Comissões",
+    "dat_tramitacao": "01/10/2026 10:18:02",
+    "dat_fim_prazo": "08/10/2026",
+    "txt_tramitacao": "Comissão de Meio Ambiente e Defesa Animal<p></p> <p></p>"
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 260594,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 1173,
+   "ano_ident_basica": 2026,
+   "identificacao": "Projeto de Lei Ordinária n° 1173/2026",
+   "txt_ementa": "DISPÕE SOBRE OS PROCEDIMENTOS PARA O TRATAMENTO DO USUÁRIO OU DEPENDENTE DE DROGAS EM UMA REDE DE ATENÇÃO À SAÚDE NO MUNICÍPIO E SOBRE A INTERNAÇÃO VOLUNTÁRIA E INVOLUNTÁRIA DE DEPENDENTE DE DROGAS, NOS TERMOS DA LEI FEDERAL Nº 11.343/06.",
+   "dat_apresentacao": "21/05/2026",
+   "autores": "Sargento Ednaldo - PP",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=260594",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado - Art. 172, Regimento Interno",
+    "nom_unidade": "Seção de Controle de Processo Legislativo",
+    "dat_tramitacao": "15/07/2026 13:22:47",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 260593,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 1172,
+   "ano_ident_basica": 2026,
+   "identificacao": "Projeto de Lei Ordinária n° 1172/2026",
+   "txt_ementa": "ACRESCENTA DISPOSITIVO NA LEI Nº 11.674, DE 27 DE DEZEMBRO DE 2013, QUE “INSTITUI O PROGRAMA MUNICIPAL DE ATENDIMENTO À POPULAÇÃO EM SITUAÇÃO DE RUA E O CENTRO DE REFERÊNCIA ESPECIALIZADO DE ASSISTÊNCIA SOCIAL PARA POPULAÇÃO EM SITUAÇÃO DE RUA CENTRO POP, ALTERA A LEI Nº 11.357, DE 30 DE ABRIL DE 2013 E SUAS ALTERAÇÕES E DÁ OUTRAS PROVIDÊNCIAS”.",
+   "dat_apresentacao": "21/05/2026",
+   "autores": "Sargento Ednaldo - PP",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=260593",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Parecer de Comissão apresentado",
+    "nom_unidade": "Seção de Apoio às Comissões",
+    "dat_tramitacao": "05/08/2026 10:13:45",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": "<p>Parecer CDHSC 25/2026 incorporado em 05/08/2026 às 10:13:45</p>"
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 259609,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 1150,
+   "ano_ident_basica": 2026,
+   "identificacao": "Projeto de Lei Ordinária n° 1150/2026",
+   "txt_ementa": "INSTITUI O PLANO MUNICIPAL DE ATENDIMENTO A INCIDENTES DE MÚLTIPLAS VÍTIMAS (PM-IMV) NO MUNICÍPIO DE UBERLÂNDIA, DEFINE COMPETÊNCIAS DOS ÓRGÃOS ENVOLVIDOS, ESTABELECE DIRETRIZES PARA SUA IMPLEMENTAÇÃO E DÁ OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "12/05/2026",
+   "autores": "Sargento Ednaldo - PP",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=259609",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "01/06/2026 18:58:45",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": {
+    "sgl_norma": "LEI",
+    "num_norma": 14783,
+    "ano_norma": 2026,
+    "cod_norma": 18811,
+    "tip_norma": 6,
+    "ind_publico": 1,
+    "pode_cadastrar_norma": false,
+    "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=18811"
+   },
+   "anexadoras": [
+    {
+     "identificacao": "Proposição de Lei n° 443/2026",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=260147",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 259378,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 1148,
+   "ano_ident_basica": 2026,
+   "identificacao": "Projeto de Lei Ordinária n° 1148/2026",
+   "txt_ementa": "ALTERA A LEI N.º 13.934, DE 06 DE MARÇO DE 2023 QUE “DENOMINA DE PRAÇA ROBLEDO MANOEL DOS SANTOS O LOGRADOURO PÚBLICO QUE ESPECIFICA”",
+   "dat_apresentacao": "11/05/2026",
+   "autores": "Sargento Ednaldo - PP",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=259378",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "25/08/2026 10:06:29",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": {
+    "sgl_norma": "LEI",
+    "num_norma": 14813,
+    "ano_norma": 2026,
+    "cod_norma": 18972,
+    "tip_norma": 6,
+    "ind_publico": 1,
+    "pode_cadastrar_norma": false,
+    "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=18972"
+   },
+   "anexadoras": [
+    {
+     "identificacao": "Proposição de Lei n° 476/2026",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=264140",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 259311,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 1144,
+   "ano_ident_basica": 2026,
+   "identificacao": "Projeto de Lei Ordinária n° 1144/2026",
+   "txt_ementa": "DISPÕE SOBRE A IMPLANTAÇÃO DE FAIXAS EXCLUSIVAS PARA A CIRCULAÇÃO DE MOTOCICLETAS, MOTONETAS E CICLOMOTORES, DENOMINADAS \"FAIXA AZUL\", NAS VIAS URBANAS DO MUNICÍPIO DE UBERLÂNDIA E DÁ OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "08/05/2026",
+   "autores": "Sargento Ednaldo - PP, Elinho Da Academia - MOBILIZA",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=259311",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado - Art. 172, Regimento Interno",
+    "nom_unidade": "Seção de Controle de Processo Legislativo",
+    "dat_tramitacao": "15/07/2026 13:08:10",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 259291,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 1142,
+   "ano_ident_basica": 2026,
+   "identificacao": "Projeto de Lei Ordinária n° 1142/2026",
+   "txt_ementa": "INSTITUI O DIA MUNICIPAL DO ZOOTECNISTA E DÁ OUTRAS PROVIDÊNCIAS",
+   "dat_apresentacao": "07/05/2026",
+   "autores": "Sargento Ednaldo - PP",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=259291",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "01/06/2026 18:58:45",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": {
+    "sgl_norma": "LEI",
+    "num_norma": 14782,
+    "ano_norma": 2026,
+    "cod_norma": 18807,
+    "tip_norma": 6,
+    "ind_publico": 1,
+    "pode_cadastrar_norma": false,
+    "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=18807"
+   },
+   "anexadoras": [
+    {
+     "identificacao": "Proposição de Lei n° 439/2026",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=260143",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 259148,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 1137,
+   "ano_ident_basica": 2026,
+   "identificacao": "Projeto de Lei Ordinária n° 1137/2026",
+   "txt_ementa": "ALTERA A LEI Nº 12.404, DE 18 DE ABRIL DE 2016, QUE “ESTABELECE, NO ÂMBITO DO MUNICÍPIO DE UBERLÂNDIA, SANÇÕES E PENALIDADES ADMINISTRATIVAS PARA AQUELES QUE PRATICAREM MAUS-TRATOS AOS ANIMAIS E DÁ OUTRAS PROVIDÊNCIAS”.",
+   "dat_apresentacao": "06/05/2026",
+   "autores": "Sargento Ednaldo - PP",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=259148",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Aprovado em 2ª Discussão",
+    "nom_unidade": "Seção de Controle de Processo Legislativo",
+    "dat_tramitacao": "07/10/2026 11:49:12",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": [
+    {
+     "identificacao": "Proposição de Lei n° 553/2026",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=271750",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 258714,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 1129,
+   "ano_ident_basica": 2026,
+   "identificacao": "Projeto de Lei Ordinária n° 1129/2026",
+   "txt_ementa": "ALTERA A LEI 10.741, DE 6 DE ABRIL DE 2011, QUE “INSTITUI O CÓDIGO MUNICIPAL DE POSTURAS DE UBERLÂNDIA E REVOGA A LEI Nº 4744, DE 05 DE JULHO DE 1988 E SUAS ALTERAÇÕES.”",
+   "dat_apresentacao": "30/04/2026",
+   "autores": "Sargento Ednaldo - PP, Ronaldo Tannús - PODEMOS",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=258714",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Emenda apresentada",
+    "nom_unidade": "Seção de Apoio às Comissões",
+    "dat_tramitacao": "07/05/2026 09:42:31",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": "<p>Emenda nº 1 incorporada em 07/05/2026 às 09:42:31</p>"
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 257219,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 1116,
+   "ano_ident_basica": 2026,
+   "identificacao": "Projeto de Lei Ordinária n° 1116/2026",
+   "txt_ementa": "DISPÕE SOBRE OS SERVIÇOS COMERCIAIS DE HOTEL PARA ANIMAIS DOMÉSTICOS NO MUNICÍPIO DE UBERLÂNDIA E DÁ OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "14/04/2026",
+   "autores": "Sargento Ednaldo - PP",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=257219",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado - Art. 172, Regimento Interno",
+    "nom_unidade": "Seção de Controle de Processo Legislativo",
+    "dat_tramitacao": "15/07/2026 13:06:26",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 256500,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 1102,
+   "ano_ident_basica": 2026,
+   "identificacao": "Projeto de Lei Ordinária n° 1102/2026",
+   "txt_ementa": "INSTITUI O PROGRAMA SAMUVET – SERVIÇO DE ATENDIMENTO MÓVEL DE URGÊNCIA VETERINÁRIA.",
+   "dat_apresentacao": "09/04/2026",
+   "autores": "Sargento Ednaldo - PP, Sérvio Túlio - PSDB",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=256500",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Devolvido a(o) autor(a)",
+    "nom_unidade": "Seção de Apoio às Comissões",
+    "dat_tramitacao": "02/06/2026 10:55:06",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 255007,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 1046,
+   "ano_ident_basica": 2026,
+   "identificacao": "Projeto de Lei Ordinária n° 1046/2026",
+   "txt_ementa": "IMPLEMENTA SISTEMA DE CÂMERAS DE RECONHECIMENTO FACIAL NAS UNIDADES DE ENSINO DA REDE PÚBLICA MUNICIPAL DE UBERLÂNDIA.",
+   "dat_apresentacao": "30/03/2026",
+   "autores": "Sargento Ednaldo - PP",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=255007",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Encaminhado à Comissão",
+    "nom_unidade": "Seção de Apoio às Comissões",
+    "dat_tramitacao": "01/04/2026 10:34:57",
+    "dat_fim_prazo": "17/04/2026",
+    "txt_tramitacao": "<p>Comiss&atilde;o de Legisla&ccedil;&atilde;o, Justi&ccedil;a e Reda&ccedil;&atilde;o</p>"
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 254520,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 1042,
+   "ano_ident_basica": 2026,
+   "identificacao": "Projeto de Lei Ordinária n° 1042/2026",
+   "txt_ementa": "ACRESCENTA DISPOSITIVO NA LEI Nº 10.741, DE 6 DE ABRIL DE 2011.",
+   "dat_apresentacao": "24/03/2026",
+   "autores": "Sargento Ednaldo - PP",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=254520",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado - Art. 172, Regimento Interno",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "21/05/2026 08:47:17",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 251617,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 1006,
+   "ano_ident_basica": 2026,
+   "identificacao": "Projeto de Lei Ordinária n° 1006/2026",
+   "txt_ementa": "CONSIDERA DE UTILIDADE PÚBLICA A “ASSOCIAÇÃO CULTURAL ESPORTIVA NIPO BRASILEIRA DE UBERLÂNDIA - ACENBU”.",
+   "dat_apresentacao": "06/03/2026",
+   "autores": "Sargento Ednaldo - PP",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=251617",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "05/05/2026 09:23:41",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": {
+    "sgl_norma": "LEI",
+    "num_norma": 14762,
+    "ano_norma": 2026,
+    "cod_norma": 18762,
+    "tip_norma": 6,
+    "ind_publico": 1,
+    "pode_cadastrar_norma": false,
+    "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=18762"
+   },
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 251616,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 1005,
+   "ano_ident_basica": 2026,
+   "identificacao": "Projeto de Lei Ordinária n° 1005/2026",
+   "txt_ementa": "ACRESCENTA DISPOSITIVO À LEI Nº 10.741, DE 06 DE ABRIL DE 2011, QUE \"INSTITUI O CÓDIGO MUNICIPAL DE POSTURAS DE UBERLÂNDIA E REVOGA A LEI Nº 4744, DE 05 DE JULHO DE 1988 E SUAS ALTERAÇÕES.",
+   "dat_apresentacao": "06/03/2026",
+   "autores": "Sargento Ednaldo - PP",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=251616",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado - Art. 172, Regimento Interno",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "21/05/2026 08:47:17",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 249196,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 982,
+   "ano_ident_basica": 2026,
+   "identificacao": "Projeto de Lei Ordinária n° 982/2026",
+   "txt_ementa": "ALTERA DISPOSITIVO DA LEI Nº 10.741, DE 06 DE ABRIL DE 2011, QUE \"INSTITUI O CÓDIGO MUNICIPAL DE POSTURAS DE UBERLÂNDIA E REVOGA A LEI Nº 4744, DE 05 DE JULHO DE 1988 E SUAS ALTERAÇÕES\".",
+   "dat_apresentacao": "19/02/2026",
+   "autores": "Sargento Ednaldo - PP",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=249196",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Parecer de Comissão apresentado",
+    "nom_unidade": "Seção de Apoio às Comissões",
+    "dat_tramitacao": "30/06/2026 12:43:15",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 248628,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 976,
+   "ano_ident_basica": 2026,
+   "identificacao": "Projeto de Lei Ordinária n° 976/2026",
+   "txt_ementa": "ALTERA A LEI 10.741, DE 6 DE ABRIL DE 2011, QUE “INSTITUI O CÓDIGO MUNICIPAL DE POSTURAS DE UBERLÂNDIA E REVOGA A LEI Nº 4744, DE 05 DE JULHO DE 1988 E SUAS ALTERAÇÕES.”",
+   "dat_apresentacao": "12/02/2026",
+   "autores": "Sargento Ednaldo - PP",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=248628",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado - Art. 172, Regimento Interno",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "21/05/2026 08:47:17",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 246427,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 930,
+   "ano_ident_basica": 2026,
+   "identificacao": "Projeto de Lei Ordinária n° 930/2026",
+   "txt_ementa": "REGULAMENTA O USO DE INSTRUMENTOS DE MENOR POTENCIAL OFENSIVO PELOS AGENTES DO DEPARTAMENTO MUNICIPAL DE TRÂNSITO E TRANSPORTE - SETTRAN, DO MUNICÍPIO DE UBERLÂNDIA E DÁ OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "02/02/2026",
+   "autores": "Sargento Ednaldo - PP",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=246427",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "14/04/2026 12:35:08",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": {
+    "sgl_norma": "LEI",
+    "num_norma": 14747,
+    "ano_norma": 2026,
+    "cod_norma": 18746,
+    "tip_norma": 6,
+    "ind_publico": 1,
+    "pode_cadastrar_norma": false,
+    "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=18746"
+   },
+   "anexadoras": [
+    {
+     "identificacao": "Proposição de Lei n° 411/2026",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=255952",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 271478,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PLC",
+   "des_tipo_materia": "Projeto de Lei Complementar",
+   "num_ident_basica": 98,
+   "ano_ident_basica": 2026,
+   "identificacao": "Projeto de Lei Complementar n° 98/2026",
+   "txt_ementa": "DISPÕE SOBRE A CRIAÇÃO DA GUARDA MUNICIPAL DO UBERLÂNDIA-MG E DÁ OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "08/10/2026",
+   "autores": "Sargento Ednaldo - PP",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=271478",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Encaminhado à Comissão",
+    "nom_unidade": "Seção de Apoio às Comissões",
+    "dat_tramitacao": "09/10/2026 09:33:33",
+    "dat_fim_prazo": "26/10/2026",
+    "txt_tramitacao": "<p>Comissão de Legislação, Justiça e Redação</p> <p></p>"
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 267170,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PLC",
+   "des_tipo_materia": "Projeto de Lei Complementar",
+   "num_ident_basica": 89,
+   "ano_ident_basica": 2026,
+   "identificacao": "Projeto de Lei Complementar n° 89/2026",
+   "txt_ementa": "DISPÕE SOBRE A CRIAÇÃO DA GUARDA MUNICIPAL DE UBERLÂNDIA-MG E DÁ OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "06/08/2026",
+   "autores": "Sargento Ednaldo - PP, Delegada Lia Valechi - União Brasil",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=267170",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado - Art. 172, Regimento Interno",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "06/10/2026 11:05:59",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 258294,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PLC",
+   "des_tipo_materia": "Projeto de Lei Complementar",
+   "num_ident_basica": 74,
+   "ano_ident_basica": 2026,
+   "identificacao": "Projeto de Lei Complementar n° 74/2026",
+   "txt_ementa": "ACRESCENTA DISPOSITIVO À LEI COMPLEMENTAR Nº 524, DE 08 DE ABRIL DE 2011.",
+   "dat_apresentacao": "27/04/2026",
+   "autores": "Sargento Ednaldo - PP",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=258294",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Parecer de Comissão apresentado",
+    "nom_unidade": "Seção de Apoio às Comissões",
+    "dat_tramitacao": "01/09/2026 13:19:33",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 262466,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PELO",
+   "des_tipo_materia": "Proposta de Emenda à Lei Orgânica",
+   "num_ident_basica": 8,
+   "ano_ident_basica": 2026,
+   "identificacao": "Proposta de Emenda à Lei Orgânica n° 8/2026",
+   "txt_ementa": "ALTERA A LEI ORGÂNICA DO MUNICÍPIO DE UBERLÂNDIA",
+   "dat_apresentacao": "11/06/2026",
+   "autores": "Sargento Ednaldo - PP, Abatenio Marquez - PP, Adriano Zago - AVANTE, Amanda Gondim - PSB, Ângela Do Postinho - Solidariedade, Antônio Carrijo - PP, Delegada Lia Valechi - União Brasil, Dr. Igino - PT, Edinho Combate Ao Câncer (in memoriam) - DEMOCRATA, Elinho Da Academia - MOBILIZA, Fabão - PV, Ivan Nunes - PP, Jair Ferraz - PP, Janaina Guimarães - PL, Liza Prado - CIDADANIA, Neemias Miquéias - PODEMOS, Nei Borges - Solidariedade, Prof. Conrado Augusto - MDB, Thais Andrade - União Brasil",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=262466",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "09/09/2026 11:42:43",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": {
+    "sgl_norma": "ELO",
+    "num_norma": 46,
+    "ano_norma": 2026,
+    "cod_norma": 19020,
+    "tip_norma": 10,
+    "ind_publico": 1,
+    "pode_cadastrar_norma": false,
+    "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=19020"
+   },
+   "anexadoras": []
+  }
+ ]
+}

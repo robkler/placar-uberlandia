@@ -1,0 +1,148 @@
+{
+ "id": "26097",
+ "codAutor": "26097",
+ "ano": 2026,
+ "total": 5,
+ "coletadoEm": "2026-10-16T18:25",
+ "itens": [
+  {
+   "cod_materia": 270181,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 1378,
+   "ano_ident_basica": 2026,
+   "identificacao": "Projeto de Lei Ordinária n° 1378/2026",
+   "txt_ementa": "DECLARA DE UTILIDADE PÚBLICA O TEMPLO NAVANO DO AMANHECER DO BAIRRO MORUMBI",
+   "dat_apresentacao": "18/09/2026",
+   "autores": "Zezinho Mendonça - PP",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=270181",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {},
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 268920,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 1339,
+   "ano_ident_basica": 2026,
+   "identificacao": "Projeto de Lei Ordinária n° 1339/2026",
+   "txt_ementa": "DECLARA DE UTILIDADE PÚBLICA O TEMPLO NAVARRO DO AMANHECER",
+   "dat_apresentacao": "01/09/2026",
+   "autores": "Zezinho Mendonça - PP",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=268920",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Aprovado - Art. 102-A, RI",
+    "nom_unidade": "Seção de Controle de Processo Legislativo",
+    "dat_tramitacao": "24/09/2026 16:19:20",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": [
+    {
+     "identificacao": "Proposição de Lei n° 541/2026",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=270464",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 257052,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 1115,
+   "ano_ident_basica": 2026,
+   "identificacao": "Projeto de Lei Ordinária n° 1115/2026",
+   "txt_ementa": "DISPÕE SOBRE NORMAS DE TRANSPARÊNCIA, EFICÁCIA E PROTEÇÃO AO USUÁRIO NOS PÁTIOS DE CUSTÓDIA DE VEÍCULOS APREENDIDOS NO MUNICÍPIO DE UBERLÂNDIA E DÁ OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "14/04/2026",
+   "autores": "Zezinho Mendonça - PP, Sargento Ednaldo - PP",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=257052",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "01/06/2026 18:58:44",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": {
+    "sgl_norma": "LEI",
+    "num_norma": 14764,
+    "ano_norma": 2026,
+    "cod_norma": 18769,
+    "tip_norma": 6,
+    "ind_publico": 1,
+    "pode_cadastrar_norma": false,
+    "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=18769"
+   },
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 247924,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 969,
+   "ano_ident_basica": 2026,
+   "identificacao": "Projeto de Lei Ordinária n° 969/2026",
+   "txt_ementa": "REVOGA A LEI N.º 14.523, DE 24 DE SETEMBRO DE 2025, QUE “DENOMINA DE JOSEFINA VILLAR NEVES O LOGRADOURO QUE ESPECIFICA.”",
+   "dat_apresentacao": "11/02/2026",
+   "autores": "Zezinho Mendonça - PP",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=247924",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "27/03/2026 14:54:43",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": {
+    "sgl_norma": "LEI",
+    "num_norma": 14732,
+    "ano_norma": 2026,
+    "cod_norma": 18728,
+    "tip_norma": 6,
+    "ind_publico": 1,
+    "pode_cadastrar_norma": false,
+    "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=18728"
+   },
+   "anexadoras": [
+    {
+     "identificacao": "Proposição de Lei n° 399/2026",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=252655",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 247174,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PLC",
+   "des_tipo_materia": "Projeto de Lei Complementar",
+   "num_ident_basica": 66,
+   "ano_ident_basica": 2026,
+   "identificacao": "Projeto de Lei Complementar n° 66/2026",
+   "txt_ementa": "ALTERA A LEI COMPLEMENTAR N.º 811, DE 09 DE JANEIRO DE 2026, QUE “DISPÕE SOBRE O PARCELAMENTO DO SOLO URBANO DO MUNICÍPIO DE UBERLÂNDIA E SEUS DISTRITOS E DÁ OUTRAS PROVIDÊNCIAS” ",
+   "dat_apresentacao": "06/02/2026",
+   "autores": "Zezinho Mendonça - PP",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=247174",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Parecer de Comissão apresentado",
+    "nom_unidade": "Seção de Apoio às Comissões",
+    "dat_tramitacao": "11/02/2026 13:25:39",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": "<p>Parecer CPUHU 11/2026 incorporado em 11/02/2026 as 13:25</p>"
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  }
+ ]
+}

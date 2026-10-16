@@ -1,0 +1,108 @@
+{
+ "id": "556176",
+ "codAutor": "556181",
+ "ano": 2025,
+ "total": 3,
+ "coletadoEm": "2026-10-16T18:25",
+ "itens": [
+  {
+   "cod_materia": 239107,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 818,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 818/2025",
+   "txt_ementa": "INSTITUI O PROGRAMA MUNICIPAL DE DIVULGAÇÃO, PREVENÇÃO E TRATAMENTO DO CERATOCONE",
+   "dat_apresentacao": "27/11/2025",
+   "autores": "Ângela Do Postinho - Solidariedade",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=239107",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado - Art. 172, Regimento Interno",
+    "nom_unidade": "Seção de Controle de Processo Legislativo",
+    "dat_tramitacao": "20/02/2026 11:36:17",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 238854,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 817,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 817/2025",
+   "txt_ementa": "INSTITUI, NO ÂMBITO DO MUNICÍPIO DE UBERLÂNDIA, A “SEMANA MUNICIPAL DA ATENÇÃO PRIMÁRIA À SAÚDE”, A SER REALIZADA ANUALMENTE NAS UNIDADES BÁSICAS DE SAÚDE (UBS) E NAS UNIDADES BÁSICAS DE SAÚDE DA FAMÍLIA (UBSF), E DÁ OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "26/11/2025",
+   "autores": "Ângela Do Postinho - Solidariedade",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=238854",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "23/03/2026 13:43:07",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": {
+    "sgl_norma": "LEI",
+    "num_norma": 14708,
+    "ano_norma": 2026,
+    "cod_norma": 18708,
+    "tip_norma": 6,
+    "ind_publico": 1,
+    "pode_cadastrar_norma": false,
+    "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=18708"
+   },
+   "anexadoras": [
+    {
+     "identificacao": "Proposição de Lei n° 378/2026",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=252188",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 229231,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 567,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 567/2025",
+   "txt_ementa": "DECLARA DE UTILIDADE PÚBLICA O INSTITUTO GARIMPEIROS DE CRISTO ",
+   "dat_apresentacao": "19/08/2025",
+   "autores": "Ângela Do Postinho - Solidariedade",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=229231",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "29/09/2025 12:03:43",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": {
+    "sgl_norma": "LEI",
+    "num_norma": 14527,
+    "ano_norma": 2025,
+    "cod_norma": 18383,
+    "tip_norma": 6,
+    "ind_publico": 1,
+    "pode_cadastrar_norma": false,
+    "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=18383"
+   },
+   "anexadoras": [
+    {
+     "identificacao": "Proposição de Lei n° 193/2025",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=231377",
+     "is_veto": false
+    }
+   ]
+  }
+ ]
+}

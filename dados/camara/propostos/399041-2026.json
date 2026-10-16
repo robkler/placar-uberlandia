@@ -1,0 +1,761 @@
+{
+ "id": "399041",
+ "codAutor": "399041",
+ "ano": 2026,
+ "total": 23,
+ "coletadoEm": "2026-10-16T18:25",
+ "itens": [
+  {
+   "cod_materia": 272003,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 1410,
+   "ano_ident_basica": 2026,
+   "identificacao": "Projeto de Lei Ordinária n° 1410/2026",
+   "txt_ementa": "ALTERA A LEI N.º 14.294, DE 6 DE DEZEMBRO DE 2024, QUE “DENOMINA COMO RUA DORVIRA DE ANDRADE SILVA O LOGRADOURO PÚBLICO QUE ESPECIFICA”",
+   "dat_apresentacao": "15/10/2026",
+   "autores": "Antônio Carrijo - PP",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272003",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {},
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 271978,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 1409,
+   "ano_ident_basica": 2026,
+   "identificacao": "Projeto de Lei Ordinária n° 1409/2026",
+   "txt_ementa": "ALTERA A LEI 10.741, DE 6 DE ABRIL DE 2011 QUE “INSTITUI O CÓDIGO MUNICIPAL DE POSTURAS DE UBERLÂNDIA E REVOGA A LEI Nº 4744, DE 05 DE JULHO DE 1988 E SUAS ALTERAÇÕES”",
+   "dat_apresentacao": "15/10/2026",
+   "autores": "Antônio Carrijo - PP",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=271978",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Encaminhado à Comissão",
+    "nom_unidade": "Seção de Apoio às Comissões",
+    "dat_tramitacao": "15/10/2026 09:40:48",
+    "dat_fim_prazo": "29/10/2026",
+    "txt_tramitacao": "<p>Comissão de Legislação, Justiça e Redação</p> <p>Comissão de Política Urbana, Habitação e Urbanismo</p> <p></p>"
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 268450,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 1324,
+   "ano_ident_basica": 2026,
+   "identificacao": "Projeto de Lei Ordinária n° 1324/2026",
+   "txt_ementa": "ALTERA A LEI Nº 13.734, DE 18 DE ABRIL DE 2022, QUE “DENOMINA DE RUA JORGE LUIZ CANTARELLI MACHADO O LOGRADOURO PÚBLICO QUE ESPECIFICA.”",
+   "dat_apresentacao": "21/08/2026",
+   "autores": "Antônio Carrijo - PP",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=268450",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "24/09/2026 14:56:55",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": {
+    "sgl_norma": "LEI",
+    "num_norma": 14864,
+    "ano_norma": 2026,
+    "cod_norma": 19051,
+    "tip_norma": 6,
+    "ind_publico": 1,
+    "pode_cadastrar_norma": false,
+    "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=19051"
+   },
+   "anexadoras": [
+    {
+     "identificacao": "Proposição de Lei n° 529/2026",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=269923",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 267734,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 1311,
+   "ano_ident_basica": 2026,
+   "identificacao": "Projeto de Lei Ordinária n° 1311/2026",
+   "txt_ementa": "ALTERA A LEI MUNICIPAL Nº 7.740, DE 28 DE DEZEMBRO DE 2000 QUE \" CRIA NO CENTRO ADMINISTRATIVO A GALERIA DOS EX-PREFEITOS TITULARES E VICES QUE, EVENTUALMENTE, OCUPARAM CARGO\"",
+   "dat_apresentacao": "12/08/2026",
+   "autores": "Antônio Carrijo - PP",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=267734",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Encaminhado à Comissão",
+    "nom_unidade": "Seção de Apoio às Comissões",
+    "dat_tramitacao": "13/08/2026 09:21:16",
+    "dat_fim_prazo": "27/08/2026",
+    "txt_tramitacao": "<p>Comissão de Legislação, Justiça e Redação</p> <p></p>"
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 267449,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 1293,
+   "ano_ident_basica": 2026,
+   "identificacao": "Projeto de Lei Ordinária n° 1293/2026",
+   "txt_ementa": "ALTERA A LEI ORDINÁRIA MUNICIPAL Nº 5.626, DE 13 DE AGOSTO DE 1992, QUE \"DISPÕE SOBRE A DENOMINAÇÃO DE PRÓPRIOS PÚBLICOS E DÁ OUTRAS PROVIDÊNCIAS\", PARA AUTORIZAR O USO DE ALCUNHA OU APELIDO DO HOMENAGEADO E DESVINCULAR SUA ÁREA DE ATUAÇÃO PROFISSIONAL DO TIPO DE PRÓPRIO PÚBLICO A SER DENOMINADO.",
+   "dat_apresentacao": "10/08/2026",
+   "autores": "Antônio Carrijo - PP",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=267449",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Encaminhado à Comissão",
+    "nom_unidade": "Seção de Apoio às Comissões",
+    "dat_tramitacao": "11/08/2026 09:57:31",
+    "dat_fim_prazo": "25/08/2026",
+    "txt_tramitacao": "<p>Comissão de Legislação, Justiça e Redação</p> <p></p>"
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 264929,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 1251,
+   "ano_ident_basica": 2026,
+   "identificacao": "Projeto de Lei Ordinária n° 1251/2026",
+   "txt_ementa": "ALTERA A LEI Nº 10700, DE 09 DE MARÇO DE 2011, QUE “DISPÕE SOBRE A POLÍTICA DE PROTEÇÃO, CONTROLE E CONSERVAÇÃO DO MEIO AMBIENTE, REVOGA A LEI COMPLEMENTAR Nº 17, DE 04 DE DEZEMBRO DE 1991 E SUAS ALTERAÇÕES, E DÁ OUTRAS PROVIDÊNCIAS”.",
+   "dat_apresentacao": "09/07/2026",
+   "autores": "Antônio Carrijo - PP, Abatenio Marquez - PP, Ângela Do Postinho - Solidariedade, Antônio Augusto Queijinho - PSDB, Delegada Lia Valechi - União Brasil, Edinho Combate Ao Câncer (in memoriam) - DEMOCRATA, Elinho Da Academia - MOBILIZA, Ivan Nunes - PP, Janaina Guimarães - PL, Nei Borges - Solidariedade, Zezinho Mendonça - PP",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=264929",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Encaminhado à Comissão",
+    "nom_unidade": "Seção de Apoio às Comissões",
+    "dat_tramitacao": "13/10/2026 10:22:52",
+    "dat_fim_prazo": "27/10/2026",
+    "txt_tramitacao": "<p>Comissão Especial:</p> <p>Presidente: Anderson Lima</p> <p>Relator: Jair Ferraz</p> <p>Membro: Thais Andrade</p> <p></p>"
+   },
+   "norma_derivada": null,
+   "anexadoras": [
+    {
+     "identificacao": "Veto n° 12/2026",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=271522",
+     "is_veto": true
+    },
+    {
+     "identificacao": "Proposição de Lei n° 537/2026",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=269938",
+     "is_veto": false
+    },
+    {
+     "identificacao": "Requerimento n° 21305/2026",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=269679",
+     "is_veto": false
+    },
+    {
+     "identificacao": "Requerimento n° 21313/2026",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=269909",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 264917,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 1250,
+   "ano_ident_basica": 2026,
+   "identificacao": "Projeto de Lei Ordinária n° 1250/2026",
+   "txt_ementa": "INSTITUI E INSERE NO CALENDÁRIO OFICIAL DO MUNICÍPIO A FESTA JUNINA DA AÇÃO MORADIA E O FESTIVAL DE QUADRILHAS JUNINAS DE UBERLÂNDIA.",
+   "dat_apresentacao": "09/07/2026",
+   "autores": "Antônio Carrijo - PP, Liza Prado - CIDADANIA",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=264917",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "31/07/2026 11:54:30",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": {
+    "sgl_norma": "LEI",
+    "num_norma": 14829,
+    "ano_norma": 2026,
+    "cod_norma": 18989,
+    "tip_norma": 6,
+    "ind_publico": 1,
+    "pode_cadastrar_norma": false,
+    "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=18989"
+   },
+   "anexadoras": [
+    {
+     "identificacao": "Proposição de Lei n° 486/2026",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=265428",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 262331,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 1201,
+   "ano_ident_basica": 2026,
+   "identificacao": "Projeto de Lei Ordinária n° 1201/2026",
+   "txt_ementa": "INSTITUI E INSERE NO CALENDÁRIO OFICIAL DO MUNICÍPIO DE UBERLÂNDIA O DIA MUNICIPAL DO AGENTE DA AUTORIDADE DE TRÂNSITO E DÁ OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "10/06/2026",
+   "autores": "Antônio Carrijo - PP",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=262331",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "23/07/2026 09:21:58",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": {
+    "sgl_norma": "LEI",
+    "num_norma": 14809,
+    "ano_norma": 2026,
+    "cod_norma": 18969,
+    "tip_norma": 6,
+    "ind_publico": 1,
+    "pode_cadastrar_norma": false,
+    "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=18969"
+   },
+   "anexadoras": [
+    {
+     "identificacao": "Proposição de Lei n° 470/2026",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=262747",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 259768,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 1158,
+   "ano_ident_basica": 2026,
+   "identificacao": "Projeto de Lei Ordinária n° 1158/2026",
+   "txt_ementa": "ALTERA A LEI N.º 8512, DE 08 DE JANEIRO DE 2004 QUE “TORNA OFICIAL A FEIRA DE VEÍCULOS QUE MENCIONA”",
+   "dat_apresentacao": "14/05/2026",
+   "autores": "Antônio Carrijo - PP, Janaina Guimarães - PL, Sargento Ednaldo - PP",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=259768",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "01/06/2026 18:58:45",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": {
+    "sgl_norma": "LEI",
+    "num_norma": 14787,
+    "ano_norma": 2026,
+    "cod_norma": 18815,
+    "tip_norma": 6,
+    "ind_publico": 1,
+    "pode_cadastrar_norma": false,
+    "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=18815"
+   },
+   "anexadoras": [
+    {
+     "identificacao": "Proposição de Lei n° 453/2026",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=260157",
+     "is_veto": false
+    },
+    {
+     "identificacao": "Requerimento n° 21008/2026",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=260138",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 259764,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 1154,
+   "ano_ident_basica": 2026,
+   "identificacao": "Projeto de Lei Ordinária n° 1154/2026",
+   "txt_ementa": "INSTITUI E INSERE NO CALENDÁRIO OFICIAL DO MUNICÍPIO DATA COMEMORATIVA AO EVENTO ESPORTIVO “MARATONA NILSON LIMA DE UBERLÂNDIA”. ",
+   "dat_apresentacao": "13/05/2026",
+   "autores": "Antônio Carrijo - PP",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=259764",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "01/06/2026 18:58:45",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": {
+    "sgl_norma": "LEI",
+    "num_norma": 14789,
+    "ano_norma": 2026,
+    "cod_norma": 18817,
+    "tip_norma": 6,
+    "ind_publico": 1,
+    "pode_cadastrar_norma": false,
+    "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=18817"
+   },
+   "anexadoras": [
+    {
+     "identificacao": "Proposição de Lei n° 449/2026",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=260153",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 256503,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 1103,
+   "ano_ident_basica": 2026,
+   "identificacao": "Projeto de Lei Ordinária n° 1103/2026",
+   "txt_ementa": "DISPÕE SOBRE CRITÉRIOS MÍNIMOS PARA A ORGANIZAÇÃO E REALIZAÇÃO DE CORRIDAS DE RUA NO MUNICÍPIO DE UBERLÂNDIA E DÁ OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "09/04/2026",
+   "autores": "Antônio Carrijo - PP",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=256503",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "16/04/2026 11:46:52",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 255005,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 1045,
+   "ano_ident_basica": 2026,
+   "identificacao": "Projeto de Lei Ordinária n° 1045/2026",
+   "txt_ementa": "DENOMINA DE ALAÔR CARLOS GARCIA, O POLIESPORTIVO EM CONSTRUÇÃO NO BAIRRO SHOPPING PARK",
+   "dat_apresentacao": "30/03/2026",
+   "autores": "Antônio Carrijo - PP",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=255005",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "19/06/2026 09:10:14",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": {
+    "sgl_norma": "LEI",
+    "num_norma": 14792,
+    "ano_norma": 2026,
+    "cod_norma": 18833,
+    "tip_norma": 6,
+    "ind_publico": 1,
+    "pode_cadastrar_norma": false,
+    "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=18833"
+   },
+   "anexadoras": [
+    {
+     "identificacao": "Proposição de Lei n° 458/2026",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=261745",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 248760,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 981,
+   "ano_ident_basica": 2026,
+   "identificacao": "Projeto de Lei Ordinária n° 981/2026",
+   "txt_ementa": "DENOMINA DE RUA ILACIR  GONÇALVES DO AMARAL O LOGRADOURO PÚBLICO QUE ESPECIFICA.",
+   "dat_apresentacao": "13/02/2026",
+   "autores": "Antônio Carrijo - PP",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=248760",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "14/04/2026 12:33:54",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": {
+    "sgl_norma": "LEI",
+    "num_norma": 14736,
+    "ano_norma": 2026,
+    "cod_norma": 18730,
+    "tip_norma": 6,
+    "ind_publico": 1,
+    "pode_cadastrar_norma": false,
+    "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=18730"
+   },
+   "anexadoras": [
+    {
+     "identificacao": "Proposição de Lei n° 398/2026",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=252654",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 247923,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 968,
+   "ano_ident_basica": 2026,
+   "identificacao": "Projeto de Lei Ordinária n° 968/2026",
+   "txt_ementa": "REVOGA A LEI N.º 14.519, DE 24 DE SETEMBRO DE 2025, QUE “DENOMINA DE RUA ANTÔNIO PINHEIRO MACHADO O LOGRADOURO PÚBLICO QUE ESPECIFICA.”",
+   "dat_apresentacao": "11/02/2026",
+   "autores": "Antônio Carrijo - PP",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=247923",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "27/03/2026 14:58:13",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": {
+    "sgl_norma": "LEI",
+    "num_norma": 14733,
+    "ano_norma": 2026,
+    "cod_norma": 18729,
+    "tip_norma": 6,
+    "ind_publico": 1,
+    "pode_cadastrar_norma": false,
+    "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=18729"
+   },
+   "anexadoras": [
+    {
+     "identificacao": "Proposição de Lei n° 400/2026",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=252656",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 247922,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 967,
+   "ano_ident_basica": 2026,
+   "identificacao": "Projeto de Lei Ordinária n° 967/2026",
+   "txt_ementa": "ALTERA A LEI N.º 14.518 DE 24 DE SETEMBRO DE 2025 QUE “DENOMINA DE RUA ELVANDO RODRIGUES FERREIRA (VANDÃO) O LOGRADOURO PÚBLICO QUE ESPECIFICA",
+   "dat_apresentacao": "11/02/2026",
+   "autores": "Antônio Carrijo - PP",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=247922",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "14/04/2026 12:26:02",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": {
+    "sgl_norma": "LEI",
+    "num_norma": 14737,
+    "ano_norma": 2026,
+    "cod_norma": 18731,
+    "tip_norma": 6,
+    "ind_publico": 1,
+    "pode_cadastrar_norma": false,
+    "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=18731"
+   },
+   "anexadoras": [
+    {
+     "identificacao": "Proposição de Lei n° 401/2026",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=252657",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 245506,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 920,
+   "ano_ident_basica": 2026,
+   "identificacao": "Projeto de Lei Ordinária n° 920/2026",
+   "txt_ementa": "ALTERA A LEI Nº 14.596, DE 13 DE NOVEMBRO DE 2025, QUE “DENOMINA DE RUA EDU DE FREITAS SANTOS O LOGRADOURO PÚBLICO QUE ESPECIFICA”",
+   "dat_apresentacao": "28/01/2026",
+   "autores": "Antônio Carrijo - PP",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=245506",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "02/03/2026 11:56:31",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": {
+    "sgl_norma": "LEI",
+    "num_norma": 14703,
+    "ano_norma": 2026,
+    "cod_norma": 18688,
+    "tip_norma": 6,
+    "ind_publico": 1,
+    "pode_cadastrar_norma": false,
+    "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=18688"
+   },
+   "anexadoras": [
+    {
+     "identificacao": "Proposição de Lei n° 368/2026",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=249876",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 245037,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 887,
+   "ano_ident_basica": 2026,
+   "identificacao": "Projeto de Lei Ordinária n° 887/2026",
+   "txt_ementa": "DENOMINA DE ROTATÓRIA JORGE GERALDO SIERVE O LOGRADOURO PÚBLICO QUE ESPECIFICA.",
+   "dat_apresentacao": "26/01/2026",
+   "autores": "Antônio Carrijo - PP",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=245037",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Encaminhado à Comissão",
+    "nom_unidade": "Seção de Apoio às Comissões",
+    "dat_tramitacao": "02/02/2026 10:50:04",
+    "dat_fim_prazo": "18/02/2026",
+    "txt_tramitacao": "<p>Comiss&atilde;o de Legisla&ccedil;&atilde;o, Justi&ccedil;a e Reda&ccedil;&atilde;o</p>\r\n<p>Comiss&atilde;o de Pol&iacute;tica Urbana, Habita&ccedil;&atilde;o e Urbanismo</p>"
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 245031,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 881,
+   "ano_ident_basica": 2026,
+   "identificacao": "Projeto de Lei Ordinária n° 881/2026",
+   "txt_ementa": "DENOMINA DE ROTATÓRIA SILVIO DA CUNHA VASCONCELOS O LOGRADOURO PÚBLICO QUE ESPECIFICA.",
+   "dat_apresentacao": "26/01/2026",
+   "autores": "Antônio Carrijo - PP",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=245031",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "25/03/2026 13:12:20",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": {
+    "sgl_norma": "LEI",
+    "num_norma": 14705,
+    "ano_norma": 2026,
+    "cod_norma": 18692,
+    "tip_norma": 6,
+    "ind_publico": 1,
+    "pode_cadastrar_norma": false,
+    "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=18692"
+   },
+   "anexadoras": [
+    {
+     "identificacao": "Proposição de Lei n° 369/2026",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=250100",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 241854,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 879,
+   "ano_ident_basica": 2026,
+   "identificacao": "Projeto de Lei Ordinária n° 879/2026",
+   "txt_ementa": "DENOMINA DE POLIESPORTIVO MARIA MATIAS FERREIRA O LOGRADOURO PÚBLICO QUE ESPECIFICA. ",
+   "dat_apresentacao": "07/01/2026",
+   "autores": "Antônio Carrijo - PP",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=241854",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Encaminhado à Comissão",
+    "nom_unidade": "Seção de Apoio às Comissões",
+    "dat_tramitacao": "02/02/2026 10:48:51",
+    "dat_fim_prazo": "18/02/2026",
+    "txt_tramitacao": "<p>Comiss&atilde;o de Legisla&ccedil;&atilde;o, Justi&ccedil;a e Reda&ccedil;&atilde;o</p>\r\n<p>Comiss&atilde;o de Pol&iacute;tica Urbana, Habita&ccedil;&atilde;o e Urbanismo</p>"
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 269625,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PLC",
+   "des_tipo_materia": "Projeto de Lei Complementar",
+   "num_ident_basica": 97,
+   "ano_ident_basica": 2026,
+   "identificacao": "Projeto de Lei Complementar n° 97/2026",
+   "txt_ementa": "DISPÕE SOBRE O REGIME DE ADAPTAÇÃO RAZOÁVEL E FLEXIBILIZAÇÃO TÉCNICA DE ACESSIBILIDADE EM REFORMAS DE EDIFICAÇÕES APROVADAS OU CONCLUÍDAS ATÉ A PUBLICAÇÃO DA NORMA BRASILEIRA ABNT NBR 9050:2020 E DECRETOS REGULAMENTADORES CORRELATOS, NO ÂMBITO DO MUNICÍPIO DE UBERLÂNDIA, E DÁ OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "10/09/2026",
+   "autores": "Antônio Carrijo - PP, Elinho Da Academia - MOBILIZA, Ivan Nunes - PP, Jair Ferraz - PP, Janaina Guimarães - PL, Nei Borges - Solidariedade, Pezão Do Esporte - DC, Sérvio Túlio - PSDB",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=269625",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Aprovado em 2ª Discussão",
+    "nom_unidade": "Seção de Controle de Processo Legislativo",
+    "dat_tramitacao": "15/09/2026 20:23:17",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": [
+    {
+     "identificacao": "Proposição de Lei Complementar n° 50/2026",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=269937",
+     "is_veto": false
+    },
+    {
+     "identificacao": "Requerimento n° 21317/2026",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=269922",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 267867,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PLC",
+   "des_tipo_materia": "Projeto de Lei Complementar",
+   "num_ident_basica": 94,
+   "ano_ident_basica": 2026,
+   "identificacao": "Projeto de Lei Complementar n° 94/2026",
+   "txt_ementa": "ALTERA A LEI COMPLEMENTAR Nº 745, DE 28 DE DEZEMBRO DE 2022 QUE “DISPÕE SOBRE O PROGRAMA DE REGULARIZAÇÃO DE EDIFICAÇÕES - PRED NO MUNICÍPIO DE UBERLÂNDIA E SEUS DISTRITOS, REVOGA A LEI COMPLEMENTAR Nº 622, DE 9 DE AGOSTO DE 2017 E SUAS ALTERAÇÕES E DÁ OUTRAS PROVIDÊNCIAS.”",
+   "dat_apresentacao": "13/08/2026",
+   "autores": "Antônio Carrijo - PP, Abatenio Marquez - PP, Ângela Do Postinho - Solidariedade, Antônio Augusto Queijinho - PSDB, Delegada Lia Valechi - União Brasil, Dr. Maciel Amorim - DEMOCRATA, Elinho Da Academia - MOBILIZA, Gláucia da Saúde - PL, Ivan Nunes - PP, Jair Ferraz - PP, Janaina Guimarães - PL, Liza Prado - CIDADANIA, Prof. Conrado Augusto - MDB, Prof. Ronaldo - PT, Sérvio Túlio - PSDB, Zezinho Mendonça - PP",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=267867",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Aprovado em 2ª Discussão",
+    "nom_unidade": "Seção de Controle de Processo Legislativo",
+    "dat_tramitacao": "15/09/2026 20:11:54",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": "<p>c/ Substitutivo nº 1</p>"
+   },
+   "norma_derivada": null,
+   "anexadoras": [
+    {
+     "identificacao": "Proposição de Lei Complementar n° 49/2026",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=269936",
+     "is_veto": false
+    },
+    {
+     "identificacao": "Requerimento n° 21299/2026",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=269585",
+     "is_veto": false
+    },
+    {
+     "identificacao": "Requerimento n° 21304/2026",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=269678",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 267865,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PLC",
+   "des_tipo_materia": "Projeto de Lei Complementar",
+   "num_ident_basica": 93,
+   "ano_ident_basica": 2026,
+   "identificacao": "Projeto de Lei Complementar n° 93/2026",
+   "txt_ementa": "ALTERA A LEI COMPLEMENTAR Nº 339, DE 08 DE JANEIRO DE 2004, QUE “AUTORIZA O EXECUTIVO MUNICIPAL A PROMOVER DESMEMBRAMENTO DE LOTES NA FORMA QUE ESPECIFICA”",
+   "dat_apresentacao": "13/08/2026",
+   "autores": "Antônio Carrijo - PP, Abatenio Marquez - PP, Ângela Do Postinho - Solidariedade, Antônio Augusto Queijinho - PSDB, Delegada Lia Valechi - União Brasil, Dr. Maciel Amorim - DEMOCRATA, Elinho Da Academia - MOBILIZA, Gláucia da Saúde - PL, Ivan Nunes - PP, Jair Ferraz - PP, Janaina Guimarães - PL, Prof. Conrado Augusto - MDB, Prof. Ronaldo - PT, Sérvio Túlio - PSDB, Zezinho Mendonça - PP",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=267865",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Encaminhado à Comissão",
+    "nom_unidade": "Seção de Apoio às Comissões",
+    "dat_tramitacao": "09/10/2026 11:24:41",
+    "dat_fim_prazo": "26/10/2026",
+    "txt_tramitacao": "VETO TOTAL<p> </p><p>Comissão Especial:</p> <p>Presidente: Anderson Lima</p> <p>Relator: Pezão do Esporte</p> <p>Membro: Thais Andrade</p> <p></p>"
+   },
+   "norma_derivada": null,
+   "anexadoras": [
+    {
+     "identificacao": "Veto n° 11/2026",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=271371",
+     "is_veto": true
+    },
+    {
+     "identificacao": "Proposição de Lei Complementar n° 48/2026",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=269925",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 261717,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PLC",
+   "des_tipo_materia": "Projeto de Lei Complementar",
+   "num_ident_basica": 78,
+   "ano_ident_basica": 2026,
+   "identificacao": "Projeto de Lei Complementar n° 78/2026",
+   "txt_ementa": "ALTERA A LEI COMPLEMENTAR Nº 40, DE 06 DE NOVEMBRO DE 1992, QUE “DISPÕE SOBRE O ESTATUTO DOS SERVIDORES PÚBLICOS DO MUNICÍPIO DE UBERLÂNDIA, SUAS AUTARQUIAS, FUNDAÇÕES PÚBLICAS E CÂMARA MUNICIPAL”.",
+   "dat_apresentacao": "02/06/2026",
+   "autores": "Antônio Carrijo - PP",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=261717",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado - Art. 172, Regimento Interno",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "17/09/2026 13:04:51",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  }
+ ]
+}

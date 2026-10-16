@@ -1,0 +1,341 @@
+{
+ "id": "556182",
+ "codAutor": "556187",
+ "ano": 2025,
+ "total": 10,
+ "coletadoEm": "2026-10-16T18:25",
+ "itens": [
+  {
+   "cod_materia": 241305,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 870,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 870/2025",
+   "txt_ementa": "DENOMINA DE PRAÇA FILOMENA SOARES DA SILVA O LOGRADOURO PÚBLICO QUE ESPECIFICA",
+   "dat_apresentacao": "11/12/2025",
+   "autores": "Pezão Do Esporte - DC",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=241305",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "09/01/2026 14:02:59",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": {
+    "sgl_norma": "LEI",
+    "num_norma": 14669,
+    "ano_norma": 2026,
+    "cod_norma": 18644,
+    "tip_norma": 6,
+    "ind_publico": 1,
+    "pode_cadastrar_norma": false,
+    "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=18644"
+   },
+   "anexadoras": [
+    {
+     "identificacao": "Proposição de Lei n° 333/2025",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=241849",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 241165,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 863,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 863/2025",
+   "txt_ementa": "DENOMINA DE PRAÇA JOÃO LEANDRO DA SILVA O LOGRADOURO PÚBLICO QUE ESPECIFICA",
+   "dat_apresentacao": "10/12/2025",
+   "autores": "Pezão Do Esporte - DC",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=241165",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "09/01/2026 14:02:59",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": {
+    "sgl_norma": "LEI",
+    "num_norma": 14665,
+    "ano_norma": 2026,
+    "cod_norma": 18640,
+    "tip_norma": 6,
+    "ind_publico": 1,
+    "pode_cadastrar_norma": false,
+    "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=18640"
+   },
+   "anexadoras": [
+    {
+     "identificacao": "Proposição de Lei n° 320/2025",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=241833",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 237084,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 789,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 789/2025",
+   "txt_ementa": "DECLARA DE UTILIDADE PÚBLICA A COMUNIDADE VERDE",
+   "dat_apresentacao": "10/11/2025",
+   "autores": "Pezão Do Esporte - DC",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=237084",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "25/03/2026 13:15:35",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": {
+    "sgl_norma": "LEI",
+    "num_norma": 14707,
+    "ano_norma": 2026,
+    "cod_norma": 18695,
+    "tip_norma": 6,
+    "ind_publico": 1,
+    "pode_cadastrar_norma": false,
+    "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=18695"
+   },
+   "anexadoras": [
+    {
+     "identificacao": "Proposição de Lei n° 371/2026",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=250871",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 236775,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 784,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 784/2025",
+   "txt_ementa": "DECLARA DE UTILIDADE PÚBLICA O INSTITUTO GILSON BATATA",
+   "dat_apresentacao": "07/11/2025",
+   "autores": "Pezão Do Esporte - DC",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=236775",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Encaminhado à Comissão",
+    "nom_unidade": "Seção de Apoio às Comissões",
+    "dat_tramitacao": "10/11/2025 09:43:30",
+    "dat_fim_prazo": "24/11/2025",
+    "txt_tramitacao": "<p>Comiss&atilde;o de Legisla&ccedil;&atilde;o, Justi&ccedil;a e Reda&ccedil;&atilde;o</p>\r\n<p>Comiss&atilde;o de Direitos Humanos, Sociais e do Consumidor</p>"
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 236112,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 752,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 752/2025",
+   "txt_ementa": "DECLARA DE UTILIDADE PÚBLICA A ENTIDADE TENDA DE UMBANDA MÃE ÚRSULA DE XANGÔ",
+   "dat_apresentacao": "03/11/2025",
+   "autores": "Pezão Do Esporte - DC",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=236112",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Devolvido a(o) autor(a)",
+    "nom_unidade": "Seção de Apoio às Comissões",
+    "dat_tramitacao": "09/09/2026 09:28:20",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 235922,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 749,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 749/2025",
+   "txt_ementa": "DECLARA DE UTILIDADE PÚBLICA A ENTIDADE IC - INSTITUTO COMUNHÃO",
+   "dat_apresentacao": "29/10/2025",
+   "autores": "Pezão Do Esporte - DC",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=235922",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "01/10/2026 11:36:27",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": {
+    "sgl_norma": "LEI",
+    "num_norma": 14866,
+    "ano_norma": 2026,
+    "cod_norma": 19053,
+    "tip_norma": 6,
+    "ind_publico": 1,
+    "pode_cadastrar_norma": false,
+    "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=19053"
+   },
+   "anexadoras": [
+    {
+     "identificacao": "Proposição de Lei n° 522/2026",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=269671",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 231120,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 640,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 640/2025",
+   "txt_ementa": "CONSIDERA DE UTILIDADE PÚBLICA A ENTIDADE COMUNIDADE ANIMAL",
+   "dat_apresentacao": "05/09/2025",
+   "autores": "Pezão Do Esporte - DC",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=231120",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "14/10/2025 14:25:44",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": {
+    "sgl_norma": "LEI",
+    "num_norma": 14552,
+    "ano_norma": 2025,
+    "cod_norma": 18446,
+    "tip_norma": 6,
+    "ind_publico": 1,
+    "pode_cadastrar_norma": false,
+    "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=18446"
+   },
+   "anexadoras": [
+    {
+     "identificacao": "Proposição de Lei n° 213/2025",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=232562",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 231119,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 639,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 639/2025",
+   "txt_ementa": "CONSIDERA DE UTILIDADE PÚBLICA A ENTIDADE LIGA DO ESPORTE",
+   "dat_apresentacao": "05/09/2025",
+   "autores": "Pezão Do Esporte - DC",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=231119",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "14/10/2025 14:25:44",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": {
+    "sgl_norma": "LEI",
+    "num_norma": 14551,
+    "ano_norma": 2025,
+    "cod_norma": 18447,
+    "tip_norma": 6,
+    "ind_publico": 1,
+    "pode_cadastrar_norma": false,
+    "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=18447"
+   },
+   "anexadoras": [
+    {
+     "identificacao": "Proposição de Lei n° 212/2025",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=232559",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 219349,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 363,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 363/2025",
+   "txt_ementa": "DISPÕE SOBRE O ACESSO GRATUITO PARA MENOR DE 12 (DOZE) ANOS, ACOMPANHADO DO PAI/MÃE OU RESPONSÁVEL LEGAL, EM EVENTOS ESPORTIVOS EM ESTÁDIOS E GINÁSIOS NO MUNICÍPIO.",
+   "dat_apresentacao": "15/05/2025",
+   "autores": "Pezão Do Esporte - DC, Antônio Augusto Queijinho - PSDB, Elinho Da Academia - MOBILIZA, Jair Ferraz - PP, Zezinho Mendonça - PP",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=219349",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Inclusão de Co-autoria",
+    "nom_unidade": "Seção de Apoio às Comissões",
+    "dat_tramitacao": "25/08/2026 11:18:38",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": [
+    {
+     "identificacao": "Requerimento n° 20303/2025",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=228936",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 219348,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 362,
+   "ano_ident_basica": 2025,
+   "identificacao": "Projeto de Lei Ordinária n° 362/2025",
+   "txt_ementa": "DISPÕE SOBRE O PROJETO MÃE CONFORTÁVEL",
+   "dat_apresentacao": "15/05/2025",
+   "autores": "Pezão Do Esporte - DC, Dr. Igino - PT, Edinho Combate Ao Câncer (in memoriam) - DEMOCRATA, Elinho Da Academia - MOBILIZA, Ivan Nunes - PP, Prof. Conrado Augusto - MDB, Prof. Ronaldo - PT, Thais Andrade - União Brasil",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=219348",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Requerimento Parecer Contrário Apresentado - Art. 172, RI",
+    "nom_unidade": "Seção de Apoio às Comissões",
+    "dat_tramitacao": "13/08/2025 12:43:41",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": [
+    {
+     "identificacao": "Requerimento n° 20304/2025",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=228937",
+     "is_veto": false
+    }
+   ]
+  }
+ ]
+}

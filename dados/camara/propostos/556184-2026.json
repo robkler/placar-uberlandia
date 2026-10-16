@@ -1,0 +1,388 @@
+{
+ "id": "556184",
+ "codAutor": "556189",
+ "ano": 2026,
+ "total": 14,
+ "coletadoEm": "2026-10-16T18:25",
+ "itens": [
+  {
+   "cod_materia": 269572,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 1356,
+   "ano_ident_basica": 2026,
+   "identificacao": "Projeto de Lei Ordinária n° 1356/2026",
+   "txt_ementa": "ALTERA A LEI Nº 11.967, DE 29 DE SETEMBRO DE 2014, QUE DISPÕE SOBRE O PLANO DE CARREIRA DOS SERVIDORES DO QUADRO DA EDUCAÇÃO DA REDE PÚBLICA MUNICIPAL DE ENSINO DE UBERLÂNDIA, E DÁ OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "09/09/2026",
+   "autores": "Prof. Ronaldo - PT",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=269572",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Encaminhado à Comissão",
+    "nom_unidade": "Seção de Apoio às Comissões",
+    "dat_tramitacao": "10/09/2026 10:35:44",
+    "dat_fim_prazo": "24/09/2026",
+    "txt_tramitacao": "<p>Comissão de Legislação, Justiça e Redação</p> <p></p>"
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 267450,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 1294,
+   "ano_ident_basica": 2026,
+   "identificacao": "Projeto de Lei Ordinária n° 1294/2026",
+   "txt_ementa": "CONSIDERA PATRIMÔNIO CULTURAL IMATERIAL PARA FINS DE REGISTRO A TRADIÇÃO ORAL, MEMÓRIA E IDENTIDADE DO POVO TUPINAMBÁ YBERABA, E DÁ OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "10/08/2026",
+   "autores": "Prof. Ronaldo - PT",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=267450",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Encaminhado à Comissão",
+    "nom_unidade": "Seção de Apoio às Comissões",
+    "dat_tramitacao": "11/08/2026 09:57:31",
+    "dat_fim_prazo": "25/08/2026",
+    "txt_tramitacao": "<p>Comissão de Legislação, Justiça e Redação</p> <p></p>"
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 267448,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 1292,
+   "ano_ident_basica": 2026,
+   "identificacao": "Projeto de Lei Ordinária n° 1292/2026",
+   "txt_ementa": "ALTERA A LEI Nº 11.967, DE 29 DE SETEMBRO DE 2014, QUE \"DISPÕE SOBRE O PLANO DE CARREIRA DOS SERVIDORES DO QUADRO DA EDUCAÇÃO DA REDE PÚBLICA MUNICIPAL DE ENSINO DE UBERLÂNDIA E DÁ OUTRAS PROVIDÊNCIAS.\", E DÁ OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "10/08/2026",
+   "autores": "Prof. Ronaldo - PT",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=267448",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado - Art. 172, Regimento Interno",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "06/10/2026 11:06:00",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 267447,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 1291,
+   "ano_ident_basica": 2026,
+   "identificacao": "Projeto de Lei Ordinária n° 1291/2026",
+   "txt_ementa": "INSTITUI O PROGRAMA MUNICIPAL DE APOIO NUTRICIONAL AO SERVIDOR PÚBLICO APOSENTADO E AO PENSIONISTA, E DÁ OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "10/08/2026",
+   "autores": "Prof. Ronaldo - PT",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=267447",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado - Art. 172, Regimento Interno",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "06/10/2026 11:06:00",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 265072,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 1259,
+   "ano_ident_basica": 2026,
+   "identificacao": "Projeto de Lei Ordinária n° 1259/2026",
+   "txt_ementa": "ESTABELECE MEDIDAS PROTETIVAS E PROCEDIMENTOS PARA OS CASOS DE VIOLÊNCIA CONTRA OS PROFISSIONAIS DA EDUCAÇÃO NO MUNICÍPIO DE UBERLÂNDIA, DENOMINADOS 'SOS EDUCAÇÃO', E DÁ OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "10/07/2026",
+   "autores": "Prof. Ronaldo - PT",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=265072",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado - Art. 172, Regimento Interno",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "06/10/2026 11:05:59",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 255831,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 1060,
+   "ano_ident_basica": 2026,
+   "identificacao": "Projeto de Lei Ordinária n° 1060/2026",
+   "txt_ementa": "DECLARA DE UTILIDADE PÚBLICA A ASSOCIAÇÃO CULTURAL MOÇAMBIQUE ROSAS BRANCAS.",
+   "dat_apresentacao": "07/04/2026",
+   "autores": "Prof. Ronaldo - PT",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=255831",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Devolvido a(o) autor(a)",
+    "nom_unidade": "Seção de Apoio às Comissões",
+    "dat_tramitacao": "01/06/2026 10:13:23",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
+  {
+   "cod_materia": 250066,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 991,
+   "ano_ident_basica": 2026,
+   "identificacao": "Projeto de Lei Ordinária n° 991/2026",
+   "txt_ementa": "ALTERA A LEI Nº 11.967, DE 29 DE SETEMBRO DE 2014, QUE \"DISPÕE SOBRE O PLANO DE CARREIRA DOS SERVIDORES DO QUADRO DA EDUCAÇÃO DA REDE PÚBLICA MUNICIPAL DE ENSINO DE UBERLÂNDIA E DÁ OUTRAS PROVIDÊNCIAS\"",
+   "dat_apresentacao": "25/02/2026",
+   "autores": "Prof. Ronaldo - PT",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=250066",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Requerimento Parecer Contrário Apresentado - Art. 172, RI",
+    "nom_unidade": "Seção de Apoio às Comissões",
+    "dat_tramitacao": "08/06/2026 11:03:30",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": [
+    {
+     "identificacao": "Requerimento n° 21045/2026",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=261966",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 248124,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 970,
+   "ano_ident_basica": 2026,
+   "identificacao": "Projeto de Lei Ordinária n° 970/2026",
+   "txt_ementa": "INSTITUI O DIA MUNICIPAL DE LUTO E DE MEMÓRIA ÀS MULHERES VÍTIMAS DE FEMINICÍDIO. ",
+   "dat_apresentacao": "11/02/2026",
+   "autores": "Prof. Ronaldo - PT, Delegada Lia Valechi - União Brasil",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=248124",
+   "ind_tramitacao": 0,
+   "ult_tramitacao": {
+    "des_status": "Arquivado",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "21/09/2026 09:32:59",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": {
+    "sgl_norma": "LEI",
+    "num_norma": 14859,
+    "ano_norma": 2026,
+    "cod_norma": 19045,
+    "tip_norma": 6,
+    "ind_publico": 1,
+    "pode_cadastrar_norma": false,
+    "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=19045"
+   },
+   "anexadoras": [
+    {
+     "identificacao": "Proposição de Lei n° 521/2026",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=269670",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 247624,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 964,
+   "ano_ident_basica": 2026,
+   "identificacao": "Projeto de Lei Ordinária n° 964/2026",
+   "txt_ementa": "ALTERA A LEI Nº 11.967, DE 29 DE SETEMBRO DE 2014. QUE \"DISPÕE SOBRE O PLANO DE CARREIRA DOS SERVIDORES DO QUADRO DA EDUCAÇÃO DA REDE PÚBLICA MUNICIPAL DE ENSINO DE UBERLÂNDIA E DÁ OUTRAS PROVIDÊNCIAS.\", E DÁ OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "09/02/2026",
+   "autores": "Prof. Ronaldo - PT",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=247624",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Requerimento Parecer Contrário Apresentado - Art. 172, RI",
+    "nom_unidade": "Seção de Apoio às Comissões",
+    "dat_tramitacao": "08/06/2026 11:01:49",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": [
+    {
+     "identificacao": "Requerimento n° 21044/2026",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=261965",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 259292,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PLC",
+   "des_tipo_materia": "Projeto de Lei Complementar",
+   "num_ident_basica": 76,
+   "ano_ident_basica": 2026,
+   "identificacao": "Projeto de Lei Complementar n° 76/2026",
+   "txt_ementa": "ALTERA A LEI COMPLEMENTAR Nº 748, DE 06 DE JANEIRO DE 2023, QUE \"DISPÕE SOBRE AS APOSENTADORIAS E PENSÕES DO REGIME PRÓPRIO DE PREVIDÊNCIA DOS SERVIDORES PÚBLICOS DO MUNICÍPIO DE UBERLÂNDIA, OCUPANTES DE CARGO DE PROVIMENTO EFETIVO, E DÁ OUTRAS PROVIDÊNCIAS.\"",
+   "dat_apresentacao": "07/05/2026",
+   "autores": "Prof. Ronaldo - PT",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=259292",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Requerimento Parecer Contrário Apresentado - Art. 172, RI",
+    "nom_unidade": "Seção de Apoio às Comissões",
+    "dat_tramitacao": "02/09/2026 13:51:32",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": [
+    {
+     "identificacao": "Requerimento n° 21266/2026",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=269098",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 256990,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PLC",
+   "des_tipo_materia": "Projeto de Lei Complementar",
+   "num_ident_basica": 73,
+   "ano_ident_basica": 2026,
+   "identificacao": "Projeto de Lei Complementar n° 73/2026",
+   "txt_ementa": "ALTERA A LEI COMPLEMENTAR Nº 40, DE 1992, QUE \"DISPÕE SOBRE O ESTATUTO DOS SERVIDORES PÚBLICOS DO MUNICÍPIO DE UBERLÂNDIA, SUAS AUTARQUIAS, FUNDAÇÕES PÚBLICAS E CÂMARA MUNICIPAL.\", E DÁ OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "13/04/2026",
+   "autores": "Prof. Ronaldo - PT",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=256990",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Requerimento Parecer Contrário Apresentado - Art. 172, RI",
+    "nom_unidade": "Seção de Apoio às Comissões",
+    "dat_tramitacao": "08/06/2026 11:05:07",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": [
+    {
+     "identificacao": "Requerimento n° 21046/2026",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=261967",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 256362,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PLC",
+   "des_tipo_materia": "Projeto de Lei Complementar",
+   "num_ident_basica": 72,
+   "ano_ident_basica": 2026,
+   "identificacao": "Projeto de Lei Complementar n° 72/2026",
+   "txt_ementa": "ALTERA A LEI COMPLEMENTAR Nº 40 DE 1992 QUE \"DISPÕE SOBRE O ESTATUTO DOS SERVIDORES PÚBLICOS DO MUNICÍPIO DE UBERLÂNDIA, SUAS AUTARQUIAS, FUNDAÇÕES PÚBLICAS E CÂMARA MUNICIPAL.\"",
+   "dat_apresentacao": "09/04/2026",
+   "autores": "Prof. Ronaldo - PT",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=256362",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Requerimento Parecer Contrário Apresentado - Art. 172, RI",
+    "nom_unidade": "Seção de Apoio às Comissões",
+    "dat_tramitacao": "08/06/2026 11:08:21",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": [
+    {
+     "identificacao": "Requerimento n° 21047/2026",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=261968",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 246976,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PLC",
+   "des_tipo_materia": "Projeto de Lei Complementar",
+   "num_ident_basica": 63,
+   "ano_ident_basica": 2026,
+   "identificacao": "Projeto de Lei Complementar n° 63/2026",
+   "txt_ementa": "ALTERA A LEI COMPLEMENTAR Nº 40 DE 30 DE DEZEMBRO DE 1992, QUE DISPÕE SOBRE O ESTATUTO DOS SERVIDORES PÚBLICOS DO MUNICÍPIO DE UBERLÂNDIA, SUAS AUTARQUIAS, FUNDAÇÕES PÚBLICAS E CÂMARA MUNICIPAL, E DÁ OUTRAS PROVIDÊNCIAS",
+   "dat_apresentacao": "05/02/2026",
+   "autores": "Prof. Ronaldo - PT, Fabão - PV",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=246976",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Requerimento Parecer Contrário Apresentado - Art. 172, RI",
+    "nom_unidade": "Seção de Apoio às Comissões",
+    "dat_tramitacao": "10/04/2026 12:12:46",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": [
+    {
+     "identificacao": "Requerimento n° 20950/2026",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=256791",
+     "is_veto": false
+    }
+   ]
+  },
+  {
+   "cod_materia": 245105,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PLC",
+   "des_tipo_materia": "Projeto de Lei Complementar",
+   "num_ident_basica": 59,
+   "ano_ident_basica": 2026,
+   "identificacao": "Projeto de Lei Complementar n° 59/2026",
+   "txt_ementa": "DISPÕE SOBRE A RECONTAGEM E O RECONHECIMENTO DO TEMPO DE SERVIÇO DOS SERVIDORES PÚBLICOS MUNICIPAIS, PARA FINS FUNCIONAIS, RELATIVAMENTE AO PERÍODO COMPREENDIDO ENTRE 27 DE MAIO DE 2020 E 31 DE DEZEMBRO DE 2021, NOS TERMOS DA LEI COMPLEMENTAR Nº 226/2026, E DÁ OUTRAS PROVIDÊNCIAS.",
+   "dat_apresentacao": "26/01/2026",
+   "autores": "Prof. Ronaldo - PT",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=245105",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Requerimento Parecer Contrário Apresentado - Art. 172, RI",
+    "nom_unidade": "Seção de Apoio às Comissões",
+    "dat_tramitacao": "10/04/2026 12:16:03",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
+   },
+   "norma_derivada": null,
+   "anexadoras": [
+    {
+     "identificacao": "Requerimento n° 20951/2026",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=256792",
+     "is_veto": false
+    }
+   ]
+  }
+ ]
+}
