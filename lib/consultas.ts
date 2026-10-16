@@ -122,9 +122,13 @@ function presencaFederal(plen: number[]) {
 
 const FONTE_MATERIA = "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=";
 
-/** Projetos de lei votados do vereador: contagens e até 5 itens mais recentes (sem a lista inteira). */
+const EXPLICACAO_PROPOSTOS = "Projetos de lei (ordinária, complementar e emenda à Lei Orgânica) de autoria principal do vereador apresentados desde 2025, pela tramitação no e-processos da Câmara: aprovados (com ou sem votação nominal), rejeitados, com veto mantido (total ou parcial), em votação no plenário (emTramitacaoPlenario) e os que não chegaram ao plenário; pctAprovados = aprovados ÷ propostos. Lista em projetos_do_vereador.";
+const DESCRICAO_NOMINAIS = "votações nominais (inclui projetos de antes de 2025)";
+
+/** Projetos do vereador: resumo dos propostos (autoria principal, desde 2025; ausente se o placar não tem a
+ * lista) e o bloco antigo das votações nominais, com até 5 itens mais recentes. */
 function resumoProjetos(pj: any, ressalva: string | undefined) {
-  const { lista, ...contagens } = pj ?? { votados: 0, aprovados: 0, rejeitados: 0, emTramitacao: 0, vetados: 0, lista: [] };
+  const { lista, propostos, notaAutoria: _n, ...contagens } = pj ?? { votados: 0, aprovados: 0, rejeitados: 0, emTramitacao: 0, vetados: 0, lista: [] };
   const recentes = [...((lista ?? []) as any[])]
     .sort((a, b) => b.data.localeCompare(a.data))
     .slice(0, 5)
@@ -132,7 +136,10 @@ function resumoProjetos(pj: any, ressalva: string | undefined) {
       materia: x.materia, status: x.status, data: x.data,
       ...(x.materiaId ? { fonte: `${FONTE_MATERIA}${encodeURIComponent(x.materiaId)}` } : {}),
     }));
-  return { ...contagens, recentes, ressalva, link: "#vot" };
+  return {
+    ...(propostos ? { propostos: { ...propostos, explicacao: EXPLICACAO_PROPOSTOS } } : {}),
+    votacoesNominais: { descricao: DESCRICAO_NOMINAIS, ...contagens, recentes, ressalva, link: "#vot" },
+  };
 }
 
 export function perfil(d: Dados, casa: Casa, id: string): object {
@@ -324,11 +331,14 @@ const CATALOGO: Record<Casa, Record<string, [Metrica, Extrator]>> = {
       "Taxa de aprovação: projetos aprovados ÷ projetos votados do vereador. Quem não teve projeto votado fica em semDado; quem teve menos de 3 projetos votados fica fora do ranking e vem em poucosProjetos (a taxa com 1 ou 2 projetos não é comparável). Os itens trazem num/den.",
       r => taxa(r.projetos?.aprovados, r.projetos?.votados), 3),
     projetos_propostos: def("valor", "qtd",
-      "Projetos de lei ordinária + complementar + propostas de emenda à Lei Orgânica de autoria principal do vereador, apresentados na legislatura (desde 2025). Fonte: e-processos da Câmara.",
-      r => r.projetos?.propostos),
-    taxa_chegou_votacao: def("taxa", "pct",
-      "Dos projetos de autoria principal apresentados na legislatura (desde 2025), quantos chegaram à votação nominal (ao menos uma) ÷ projetos propostos. Projetos aprovados em votação simbólica não contam como votados (o perfil traz aprovadosSemVotoNominal). Quem propôs menos de 3 projetos fica fora do ranking e vem em poucosProjetos. Os itens trazem num/den.",
-      r => taxa(r.projetos?.propostosVotados, r.projetos?.propostos), 3, "projetos propostos"),
+      "Projetos de lei ordinária + complementar + propostas de emenda à Lei Orgânica de autoria principal do vereador, apresentados na legislatura (desde 2025). Fonte: e-processos da Câmara. Quem o placar ainda não tem a lista fica em semDado.",
+      r => r.projetos?.propostos?.propostos),
+    projetos_aprovados_total: def("valor", "qtd",
+      "Projetos de autoria principal do vereador apresentados desde 2025 que foram aprovados, com ou sem votação nominal (pela tramitação e pela lei gerada no e-processos da Câmara).",
+      r => r.projetos?.propostos?.aprovados),
+    taxa_aprovacao_propostos: def("taxa", "pct",
+      "Taxa de aprovação dos propostos: projetos de autoria principal apresentados desde 2025 e aprovados (com ou sem votação nominal) ÷ projetos propostos. Quem propôs menos de 3 projetos fica fora do ranking e vem em poucosProjetos; quem não tem projeto ou lista fica em semDado. Os itens trazem num/den.",
+      r => taxa(r.projetos?.propostos?.aprovados, r.projetos?.propostos?.propostos), 3, "projetos propostos"),
     votos_eleicao: def("valor", "votos", "Votos recebidos na eleição de 2024.", r => r.tse?.votos2024 ?? r.votosEleicao),
     patrimonio: def("valor", "reais", "Patrimônio declarado ao TSE (2024).", r => r.tse?.patrimonio),
     gasto_campanha: def("valor", "reais", "Gasto de campanha declarado ao TSE (2024).", r => r.tse?.campanha),
@@ -620,9 +630,25 @@ const FILTROS: Record<FiltroProjetos, (x: any) => boolean> = {
   nao_votados: x => !x.votado,
 };
 
-const RESSALVA_PROPOSTOS = "votado = teve ao menos uma votação nominal em plenário; aprovação em votação simbólica não tem voto nominal, mas aparece como aprovado quando a tramitação ou a lei gerada mostram a aprovação (aprovadoPorTramitacao).";
+const LIMITE_PROJETOS = 25;
+const SEM_LISTA = "O placar ainda não tem a lista de projetos deste vereador.";
 
-/** Projetos de autoria principal de um vereador (e-processos), com filtro, ano de apresentação e limite. */
+/** Mesmo resumo que scripts/gerar_dados.py (resumo_propostos) grava no data.json. */
+function resumoPropostos(lista: any[]) {
+  const conta = (f: (x: any) => boolean) => lista.filter(f).length;
+  const aprovados = conta(x => x.status === "aprovado");
+  return {
+    propostos: lista.length, aprovados,
+    aprovadosNominal: conta(x => x.status === "aprovado" && x.votado),
+    aprovadosSemVotoNominal: conta(x => x.status === "aprovado" && !x.votado),
+    rejeitados: conta(x => x.status === "rejeitado"), vetoMantido: conta(x => x.status === "vetado"),
+    emTramitacaoPlenario: conta(x => x.status === "em_tramitacao"), naoChegaramAoPlenario: conta(x => x.status === "nao_votado"),
+    propostosVotacaoNominal: conta(x => x.votado),
+    pctAprovados: pctDe(aprovados, lista.length),
+  };
+}
+
+/** Projetos de autoria principal de um vereador (e-processos), com filtro, ano de apresentação e limite (máx. 25). */
 export function projetosDoVereador(
   d: Dados,
   opcoes: { id?: string; consulta?: string; filtro?: FiltroProjetos; ano?: number; limite?: number },
@@ -635,30 +661,22 @@ export function projetosDoVereador(
     id = achados[0]!.id;
   }
   const { p } = achar(d, "vereador", id);
-  const todos: any[] = d.proj?.vereadores?.[p.id];
-  if (!todos) throw new Error("O placar ainda não tem a lista de projetos deste vereador.");
+  const todos: any[] | undefined = d.proj?.vereadores?.[p.id];
+  if (!todos) throw new Error(SEM_LISTA);
   const filtro: FiltroProjetos = opcoes.filtro ?? "todos";
   const escopo = opcoes.ano == null ? todos : todos.filter(x => x.identificacao.endsWith(`/${opcoes.ano}`));
   const filtrados = escopo.filter(FILTROS[filtro]);
-  const n = Math.max(1, Math.floor(opcoes.limite ?? 10));
+  const n = Math.min(LIMITE_PROJETOS, Math.max(1, Math.floor(opcoes.limite ?? 10)));
   const itens = filtrados.slice(0, n).map(x => ({
     identificacao: x.identificacao, ementa: x.ementa, data: x.data, situacao: x.situacao,
     votado: x.votado, status: x.status, ...(x.norma ? { norma: x.norma } : {}), fonte: x.fonte,
   }));
-  const aprovados = escopo.filter(x => x.status === "aprovado");
   return {
     pessoa: p, filtro, ...(opcoes.ano == null ? {} : { ano: opcoes.ano }),
-    escopo: opcoes.ano == null ? `legislatura (desde 2025)` : `apresentados em ${opcoes.ano}`,
-    totais: {
-      propostos: escopo.length,
-      votados: escopo.filter(x => x.votado).length,
-      aprovados: aprovados.length,
-      aprovadosEmVotacaoNominal: aprovados.filter(x => x.votado).length,
-      aprovadosSemVotoNominal: aprovados.filter(x => !x.votado).length,
-      naoVotados: escopo.filter(x => !x.votado).length,
-    },
+    escopo: opcoes.ano == null ? "legislatura (desde 2025)" : `apresentados em ${opcoes.ano}`,
+    totais: resumoPropostos(escopo),
     totalNoFiltro: filtrados.length, mostrando: itens.length, itens,
-    ressalva: RESSALVA_PROPOSTOS,
+    explicacao: "votado = teve ao menos uma votação nominal; status: aprovado (com ou sem votação nominal, pela tramitação ou pela lei gerada), rejeitado, vetado (veto mantido, total ou parcial), em_tramitacao (votado no plenário, ainda sem decisão final) ou nao_votado (não chegou ao plenário).",
     origem: d.proj?.fonte,
   };
 }
@@ -677,7 +695,7 @@ export function projetosCamara(d: Dados, ano?: number): object {
     ...(ano == null ? {} : { ano }),
     anosDisponiveis: anos,
     ...alvo,
-    nota: "Cada projeto conta uma vez, pelo resultado da última votação. aprovados não inclui os projetos com veto mantido (campo vetados: veto mantido, total ou parcial; a fonte não informa qual, e num veto parcial o resto da lei entra em vigor; contam à parte); emTramitacao são projetos que seguem (aprovados só em 1ª discussão ou com parecer contrário rejeitado). Ano = ano da última votação do projeto. Autores: prefeitura, vereadores (inclui ex-vereadores) e comissoes.",
+    nota: "Só votações nominais: o total de projetos que viraram lei é maior, porque muitos são aprovados sem votação nominal (veja os projetos de cada vereador em perfil e projetos_do_vereador). Cada projeto conta uma vez, pelo resultado da última votação. aprovados não inclui os projetos com veto mantido (campo vetados: veto mantido, total ou parcial; a fonte não informa qual, e num veto parcial o resto da lei entra em vigor; contam à parte); emTramitacao são projetos que seguem (aprovados só em 1ª discussão ou com parecer contrário rejeitado). Ano = ano da última votação do projeto. Autores: prefeitura, vereadores (inclui ex-vereadores) e comissoes.",
     ressalva: c.ressalva,
     link: "#vot",
   };

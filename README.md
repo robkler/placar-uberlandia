@@ -93,9 +93,9 @@ proposições, contas da Prefeitura e do Estado, governo de Minas). Roda numa Ve
     estaduais entram nos rankings de proposições, verba indenizatória etc., mas não nos de votação;
   - projetos de lei votados e aprovados pela Câmara de Uberlândia: totais e por ano (ferramenta
     `projetos_camara`, "quantos projetos a Câmara votou e aprovou em 2025?", quantos eram da Prefeitura),
-    quantos projetos cada vereador propôs como autor principal e quantos chegaram à votação nominal (perfil e rankings `projetos_propostos` e `taxa_chegou_votacao`),
+    quantos projetos cada vereador propôs como autor principal e quantos foram aprovados, com ou sem votação nominal (perfil e rankings `projetos_propostos`, `projetos_aprovados_total` e `taxa_aprovacao_propostos`),
     a lista desses projetos com o link oficial de cada um (ferramenta `projetos_do_vereador`, filtros
-    todos, aprovados, votados e nao_votados, e por ano de apresentação),
+    todos, aprovados, votados e nao_votados, e por ano de apresentação; até 25 por vez),
     projetos votados no perfil de cada vereador e rankings por pessoa ou partido de projetos votados,
     projetos aprovados e taxa de aprovação (aprovados ÷ votados; quem teve menos de 3 projetos votados fica fora do
     ranking e da soma dos partidos, e vem listado à parte, pois a taxa com 1 ou 2 projetos não é
@@ -230,24 +230,37 @@ vercel.json             configuração da Vercel (pasta public, cache, função 
   entram só no total da Câmara; vereadores são ligados pelo nome (ex-vereadores contam só no total).
   **Taxa de aprovação** = aprovados ÷ votados, só para quem teve pelo menos 3 projetos votados. Ressalva: "Só entram projetos com votação nominal;
   aprovações em votação simbólica não aparecem."
-- **Projetos propostos e que chegaram à votação** (vereadores): *propostos* = projetos de lei ordinária
+- **Projetos propostos e aprovados** (vereadores): *propostos* = projetos de lei ordinária
   (PL), complementar (PLC) e propostas de emenda à Lei Orgânica (PELO) de **autoria principal** do
   vereador, apresentados desde 2025 (`LEGISLATURA_INICIO`), da consulta de matérias do e-processos
   (`chk_primeiro_autor=1`, um ano por consulta; coautoria não entra). O código de autor do e-processos
   nem sempre é o id do vereador no site (ex.: Ângela do Postinho é 556176 no site e 556181 no
-  e-processos), então o coletor casa os dois pelo nome, usando `autores_json`. Cache em
-  `dados/camara/propostos/<id>-<ano>.json`: anos passados não são baixados de novo, o ano atual sim.
+  e-processos), então o coletor casa os dois pelo nome, usando `autores_json`; e o `gerar_dados.py`
+  confere que o 1º autor de cada projeto é o vereador (senão descarta a lista e avisa).
+  Cache em `dados/camara/propostos/<id>-<ano>.json` (com `coletadoEm`): o ano atual é baixado todo dia,
+  os anos anteriores da legislatura quando o cache passa de 7 dias (projetos antigos mudam de situação).
   O e-processos recusa (403) User-Agent com "Python-urllib"; lá o coletor se identifica como
-  `Mozilla/5.0 (PlacarUberlandia; dados publicos)`. Se o e-processos falhar, a coleta segue com o cache;
-  se faltar o cache de um vereador, o `gerar_dados.py` mantém os números e a lista anteriores.
-  *Chegaram à votação* (`propostosVotados`) = desses projetos, os que têm pelo menos uma votação
-  nominal (ligados pelo código da matéria, `cod_materia` = `materiaId`). Status de cada projeto:
-  com votação nominal, o das regras acima (em tramitação vira aprovado se a tramitação já mostra a
-  aprovação); sem votação nominal, **aprovado** se a tramitação mostra aprovação
-  (`aprovadoPorTramitacao`), senão **nao_votado**. `propostosAprovados` = aprovados entre os que
-  chegaram à votação nominal; `aprovadosSemVotoNominal` = aprovados sem nenhuma votação nominal
-  (votação simbólica). `pctChegouVotacao` = chegaram à votação ÷ propostos (1 casa; nulo sem
-  propostos). Ranking `taxa_chegou_votacao`: só quem propôs 3 ou mais projetos.
+  `Mozilla/5.0 (PlacarUberlandia; dados publicos)`. Para não travar a atualização diária: 2 tentativas
+  com timeout de 20 s por requisição, para tudo depois de 3 falhas seguidas ou 5 minutos, e não baixa
+  nada se a lista de autores não vier (ou vier vazia); em todos os casos o cache anterior fica. Sem
+  cache de um vereador, o `gerar_dados.py` mantém o resumo e a lista anteriores; sem anteriores, o
+  vereador fica sem `projetos.propostos` (o site não mostra o bloco e o chat diz que ainda não tem a
+  lista), em vez de um "0 projetos" falso.
+  Status de cada projeto: com votação nominal (ligada pelo código da matéria, `cod_materia` =
+  `materiaId`), o das regras acima, e em tramitação vira aprovado se a tramitação já mostra a aprovação;
+  sem votação nominal, **aprovado** se a tramitação mostra aprovação (`aprovadoPorTramitacao`),
+  **rejeitado** se a última situação é "Rejeitado" ou "Parecer Contrário Mantido", **vetado** (veto
+  mantido) se é "Veto Mantido", senão **nao_votado** (não chegou ao plenário). Resumo em
+  `projetos.propostos`: `propostos`; `aprovados` (= `aprovadosNominal` + `aprovadosSemVotoNominal`;
+  "sem votação nominal" inclui votação simbólica e aprovações como as do Art. 102-A do Regimento
+  Interno); `rejeitados`; `vetoMantido` (veto mantido, total ou parcial); `emTramitacaoPlenario` (já
+  votado no plenário, sem decisão final); `naoChegaramAoPlenario` (em comissão, devolvido ou arquivado
+  sem votação nem aprovação); a soma desses cinco é `propostos`. `propostosVotacaoNominal` = com ao
+  menos uma votação nominal (detalhe). % principal: `pctAprovados` = aprovados ÷ propostos (1 casa;
+  nulo sem propostos). Rankings: `projetos_propostos`, `projetos_aprovados_total` e
+  `taxa_aprovacao_propostos` (aprovados ÷ propostos; só quem propôs 3 ou mais projetos). O bloco antigo
+  `projetos.votados`/`aprovados`/... (e `projetos_camara`) continua só com votações nominais, inclusive
+  de projetos de antes de 2025, e é o único com a ressalva da votação nominal.
   **Situações de tramitação** (última tramitação, `ult_tramitacao.des_status`; lista completa em
   `consultas/materia/status_tramitacao_json`, 61 situações). Contam como aprovação: "Aprovado",
   "Aprovado - Art. 102-A, RI", "Aprovado em 2ª Discussão", "Aprovado em Discussão Única",

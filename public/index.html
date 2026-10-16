@@ -214,7 +214,7 @@ img{max-width:100%}
       <option value="pres-desc">Maior presença</option>
       <option value="nome">Nome (A–Z)</option>
       <option value="contra-desc">Mais votos contra a maioria</option>
-      <option value="props-desc">Mais projetos de lei</option>
+      <option value="props-desc">Mais projetos de lei (inclui coautorias)</option>
       <option value="pat-desc">Maior patrimônio declarado</option>
       <option value="votos-desc">Mais votados em 2024</option>
     </select>
@@ -430,7 +430,7 @@ function card(v){
  <div class="pt">No mandato desde ${fdate(v.inicio)}</div>
  <div class="pres"><span class="pct num c-${c}">${pct(v.p)}</span><span class="lb num">${v.sessoesPres} de ${v.sessoes} reuniões</span></div>
  <div class="meter"><span class="bg-${c}" style="width:${(v.p||0)*100}%"></span></div>
- <div class="mini num"><span><b>${v.contraMaioria}</b> votos contra a maioria</span><span><b>${nint(v.pl)}</b> projetos de lei</span></div></div></button>`}
+ <div class="mini num"><span><b>${v.contraMaioria}</b> votos contra a maioria</span><span><b>${nint(v.pl)}</b> projetos de lei (inclui coautorias)</span></div></div></button>`}
 function renderVer(){
  const q=norm($('#q').value.trim()),p=$('#fp').value,so=$('#so').value;
  let L=VER.filter(v=>(!q||v.key.includes(q))&&(!p||v.partido===p));
@@ -460,6 +460,7 @@ $('#vlist').addEventListener('click',e=>{const c=e.target.closest('.vrow');if(c)
 /* sheet */
 const rows=(arr,fmt)=>{const mx=Math.max(...arr.map(a=>a[1]),1);return `<div class="rows">${arr.map(([k,v])=>`<span>${esc(k)}</span><span class="num">${fmt(v)}</span><div class="b"><span style="width:${v/mx*100}%"></span></div>`).join('')}</div>`};
 
+const pct1=x=>x==null?'—':x.toLocaleString('pt-BR',{minimumFractionDigits:1,maximumFractionDigits:1})+'%';
 const PSTAT={aprovado:'aprovado',rejeitado:'rejeitado',em_tramitacao:'em tramitação',vetado:'veto mantido (total ou parcial)'};
 function openVer(id){
  const v=byId[id]; if(!v)return false; try{history.replaceState(null,'','#v/'+id)}catch(e){}
@@ -468,7 +469,7 @@ function openVer(id){
  const info=[t.idade?t.idade+' anos':null,t.ocupacao,t.escolaridade].filter(Boolean).join(' · ');
  const prev=v.mandatosAnteriores.map(m=>`${m.ini}–${m.fim} (${(m.natureza||'').toLowerCase()}${m.votos?', '+nint(m.votos)+' votos':''})`).join('; ');
  const props=Object.entries(v.props);
- const pj=v.projetos||{votados:0,lista:[]};
+ const pj=v.projetos||{votados:0,lista:[]}, pp=pj.propostos;
  openSheet(`<div class="hd">${v.foto?`<img src="${v.foto}" alt="Foto de ${esc(v.nome)}">`:''}<div><h2>${esc(v.nome)}</h2>
   <div class="meta">${esc(v.partido)}${v.natureza==='Suplente'?' · suplente':''} · no mandato desde ${fdate(v.inicio)}<br>${esc(v.nomeCompleto)}${info?'<br>'+esc(info):''}<br>${nint(v.votosEleicao)} votos em 2024${t.numero?' · número '+esc(t.numero):''}</div></div></div>
   <div class="sec"><h3>Presença</h3><div class="kv num">
@@ -484,11 +485,12 @@ function openVer(id){
     <button aria-pressed="true" data-f="todas">Todas (${my.length})</button><button aria-pressed="false" data-f="div">Divididas</button><button aria-pressed="false" data-f="contra">Contra a maioria</button><button aria-pressed="false" data-f="Não">Votou não</button><button aria-pressed="false" data-f="Ausente">Ausente</button></div>
    <input id="vfq" type="search" placeholder="Buscar nas votações deste vereador…" style="width:100%;margin-bottom:6px">
    <div style="overflow-x:auto"><table class="vt" id="vtab"></table></div><p class="sub" id="vtmore"></p></div>
-  <div class="sec"><h3>Proposições apresentadas (2025–2026)</h3><p class="sub" style="margin:-4px 0 10px">${nint(v.pl)} projetos de lei e emendas à Lei Orgânica; ${nint(v.propsTotal)} proposições no total, incluindo indicações e requerimentos (pedidos à Prefeitura) e coautorias.</p>
+  <div class="sec"><h3>Proposições apresentadas (2025–2026)</h3><p class="sub" style="margin:-4px 0 10px">${nint(v.pl)} projetos de lei e emendas à Lei Orgânica (inclui coautorias); ${nint(v.propsTotal)} proposições no total, incluindo indicações e requerimentos (pedidos à Prefeitura) e coautorias.</p>
    ${props.length?rows(props,nint):'<p class="sub">Nenhuma proposição registrada.</p>'}
    <p class="sub">Também foi relator(a) em ${nint(v.relatorias)} matérias neste período.</p></div>
-  <div class="sec"><h3>Projetos de lei</h3>${pj.propostos?`<p style="font-size:15px;margin:0 0 4px">Propôs como autor(a) principal <b>${nint(pj.propostos)}</b> projetos de lei nesta legislatura; <b>${nint(pj.propostosVotados)}</b> chegaram à votação nominal (${pj.pctChegouVotacao==null?'—':pj.pctChegouVotacao.toLocaleString('pt-BR',{minimumFractionDigits:1,maximumFractionDigits:1})}%), <b>${nint(pj.propostosAprovados)}</b> aprovados.</p>
-   <p class="sub" style="margin:0 0 12px">${pj.aprovadosSemVotoNominal?`Outros ${nint(pj.aprovadosSemVotoNominal)} foram aprovados sem votação nominal (votação simbólica), segundo a tramitação no e-processos da Câmara. `:''}Projetos de lei ordinária, complementar e emendas à Lei Orgânica; coautorias não contam.</p>`:pj.propostos===0?'<p class="sub" style="margin:0 0 12px">Nenhum projeto de lei de autoria principal dele(a) nesta legislatura (coautorias não contam).</p>':''}${pj.votados?`<div class="kv num" style="grid-template-columns:repeat(auto-fit,minmax(96px,1fr))">
+  <div class="sec"><h3>Projetos de lei</h3>${pp?(pp.propostos?`<p style="font-size:15px;margin:0 0 4px">Propôs <b>${nint(pp.propostos)}</b> projetos de lei nesta legislatura (autor/a principal); <b>${nint(pp.aprovados)}</b> foram aprovados (${pct1(pp.pctAprovados)}) — ${nint(pp.aprovadosNominal)} em votação nominal e ${nint(pp.aprovadosSemVotoNominal)} sem votação nominal. ${nint(pp.rejeitados+pp.vetoMantido)} rejeitados ou com veto mantido; ${nint(pp.naoChegaramAoPlenario)} não chegaram ao plenário.${pp.emTramitacaoPlenario?` ${nint(pp.emTramitacaoPlenario)} ${pp.emTramitacaoPlenario===1?'segue':'seguem'} em votação no plenário.`:''}</p>
+   <p class="sub" style="margin:0 0 12px">Projetos de lei ordinária, complementar e emendas à Lei Orgânica apresentados desde 2025, segundo a tramitação no e-processos da Câmara; coautorias não contam.</p>`:'<p class="sub" style="margin:0 0 12px">Nenhum projeto de lei de autoria principal dele(a) nesta legislatura (coautorias não contam).</p>'):''}
+   <h4 style="margin:12px 0 6px;font-size:14px">Votações nominais (inclui projetos de antes de 2025)</h4>${pj.votados?`<div class="kv num" style="grid-template-columns:repeat(auto-fit,minmax(96px,1fr))">
    <div><div class="v">${nint(pj.votados)}</div><div class="k">votados</div></div>
    <div><div class="v" style="color:var(--sim)">${nint(pj.aprovados)}</div><div class="k">aprovados</div></div>
    <div><div class="v" style="color:var(--nao)">${nint(pj.rejeitados)}</div><div class="k">rejeitados</div></div>

@@ -123,21 +123,29 @@ test("prompt: taxa de aprovação sempre em 'X de Y projetos'", () => {
 
 test("projetos_do_vereador: por id ou nome, com filtro, ano e limite", async () => {
   const txt = async (p: any) => JSON.parse(((await ferramenta("projetos_do_vereador").execute("1", p)).content[0] as { text: string }).text);
-  const r = await txt({ id: "399041", filtro: "aprovados", ano: 2026, limite: 3 });
-  expect(r).toMatchObject({ filtro: "aprovados", ano: 2026, totalNoFiltro: 14, mostrando: 3 });
+  const r = await txt({ id: "399041", filtro: "aprovados", ano: 2025, limite: 3 });
+  expect(r).toMatchObject({ filtro: "aprovados", ano: 2025, mostrando: 3 });
+  expect(r.totalNoFiltro).toBe(r.totais.aprovados);
   expect(r.itens[0].fonte).toContain("cod_materia=");
   const n = await txt({ consulta: "queijinho" });
   expect(n.pessoa.id).toBe("537380");
   const t = ferramenta("projetos_do_vereador");
   expect(t.description).toContain("autoria principal");
   expect(t.description).toContain("link oficial");
+  expect(t.description).not.toContain("votação simbólica");
+  expect((t.parameters as any).properties.limite.maximum).toBe(25);
 });
 
 test("prompt: lista de projetos com o link oficial de cada um", () => {
   expect(PROMPT_SISTEMA).toContain("Ao listar projetos, ponha na linha de cada projeto o link oficial que a ferramenta devolveu, no formato [Fonte oficial](fonte).");
 });
 
-test("perfil: descrição sem coautoria e aponta projetos_do_vereador", () => {
-  expect(ferramenta("perfil").description).not.toContain("coautoria");
-  expect(ferramenta("perfil").description).toContain("projetos_do_vereador");
+test("perfil: descrição sem coautoria, com aprovados ÷ propostos e aponta projetos_do_vereador", () => {
+  const desc = ferramenta("perfil").description;
+  expect(desc).not.toContain("coautoria");
+  expect(desc).toContain("projetos_do_vereador");
+  expect(desc).toContain("aprovados ÷ propostos");
+  expect(desc).toContain("votações nominais (inclui projetos de antes de 2025)");
+  expect(ferramenta("ranking").description).toContain("taxa_aprovacao_propostos");
+  expect(ferramenta("ranking").description).not.toContain("taxa_chegou_votacao");
 });

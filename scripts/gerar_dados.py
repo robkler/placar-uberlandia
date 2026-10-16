@@ -8,6 +8,7 @@ import collections
 import datetime as dt
 import glob
 import html
+import math
 import os
 import re
 import sys
@@ -158,8 +159,8 @@ def projetos_votados(votacoes, vereadores, nomes):
     return por_ver, dict(ressalva=RESSALVA_PROJETOS, porAno=dict(sorted(por_ano.items())), total=total)
 
 
-# Situação da última tramitação no e-processos que indica projeto aprovado (pela Câmara, em votação
-# nominal ou simbólica), sancionado ou promulgado. Também conta como aprovado o projeto com norma
+# Situação da última tramitação no e-processos que indica projeto aprovado (pela Câmara,
+# com ou sem votação nominal), sancionado ou promulgado. Também conta como aprovado o projeto com norma
 # jurídica derivada (lei), mesmo que a última tramitação seja só "Arquivado" (o que é o mais comum).
 # Lista completa em .../consultas/materia/status_tramitacao_json; ver README.
 SITUACOES_APROVADO = (
@@ -168,7 +169,9 @@ SITUACOES_APROVADO = (
     'Veto Rejeitado',
 )
 FONTE_PROPOSTOS = 'e-processos da Câmara (autoria principal: PL, PLC e PELO)'
-CAMPOS_PROPOSTOS = ('propostos', 'propostosVotados', 'propostosAprovados', 'aprovadosSemVotoNominal', 'pctChegouVotacao')
+# Sem votação nominal, a tramitação também pode mostrar rejeição ou veto mantido.
+SITUACOES_REJEITADO = ('Rejeitado', 'Parecer Contrário Mantido')
+SITUACOES_VETO_MANTIDO = ('Veto Mantido',)
 
 
 def data_iso(br):
@@ -191,38 +194,58 @@ def aprovado_por_tramitacao(m):
     return bool(m.get('norma_derivada')) or (m.get('ult_tramitacao') or {}).get('des_status') in SITUACOES_APROVADO
 
 
-def propostos_do_vereador(itens, grupos):
-    """Lista (mais recentes primeiro) e contagens dos projetos de autoria principal.
+def status_proposto(m, vots):
+    """Status de um projeto de autoria principal. Com votação nominal, vale status_projeto (em_tramitacao
+    vira aprovado se a tramitação já mostra a aprovação). Sem votação nominal, vale a tramitação:
+    aprovado, rejeitado, vetado (veto mantido) ou nao_votado (não chegou ao plenário)."""
+    apr = aprovado_por_tramitacao(m)
+    if vots:
+        st = status_projeto(vots)
+        return 'aprovado' if st == 'em_tramitacao' and apr else st
+    sit = (m.get('ult_tramitacao') or {}).get('des_status')
+    if apr:
+        return 'aprovado'
+    if sit in SITUACOES_REJEITADO:
+        return 'rejeitado'
+    if sit in SITUACOES_VETO_MANTIDO:
+        return 'vetado'
+    return 'nao_votado'
 
-    votado = a matéria tem votação nominal; status = status_projeto das votações nominais (em_tramitacao
-    vira aprovado se a tramitação já indica aprovação); sem votação nominal, aprovado se a tramitação
-    indica aprovação, senão nao_votado."""
+
+def resumo_propostos(lista):
+    """Contagens dos projetos de autoria principal. propostos = aprovados + rejeitados + vetoMantido +
+    emTramitacaoPlenario + naoChegaramAoPlenario."""
+    c = collections.Counter(x['status'] for x in lista)
+    aprovados = [x for x in lista if x['status'] == 'aprovado']
+    n = len(lista)
+    return dict(
+        propostos=n, aprovados=len(aprovados),
+        aprovadosNominal=sum(1 for x in aprovados if x['votado']),
+        aprovadosSemVotoNominal=sum(1 for x in aprovados if not x['votado']),
+        rejeitados=c['rejeitado'], vetoMantido=c['vetado'],
+        emTramitacaoPlenario=c['em_tramitacao'], naoChegaramAoPlenario=c['nao_votado'],
+        propostosVotacaoNominal=sum(1 for x in lista if x['votado']),
+        pctAprovados=math.floor(len(aprovados) / n * 100 * 10 + 0.5) / 10 if n else None)  # como pctDe no chat
+
+
+def propostos_do_vereador(itens, grupos):
+    """Lista (mais recentes primeiro) e resumo dos projetos de autoria principal do vereador."""
     lista = []
     for m in itens:
-        mid = str(m['cod_materia'])
-        vots = grupos.get(mid)
-        apr = aprovado_por_tramitacao(m)
-        if vots:
-            status = status_projeto(vots)
-            if status == 'em_tramitacao' and apr:
-                status = 'aprovado'
-        else:
-            status = 'aprovado' if apr else 'nao_votado'
+        vots = grupos.get(str(m['cod_materia']))
         n = m.get('norma_derivada') or {}
         lista.append(dict(
             identificacao=(m.get('identificacao') or '').replace('n°', 'nº'), ementa=cortar(m.get('txt_ementa')),
             data=data_iso(m.get('dat_apresentacao')), situacao=(m.get('ult_tramitacao') or {}).get('des_status') or '',
-            votado=bool(vots), status=status, aprovadoPorTramitacao=apr,
+            votado=bool(vots), status=status_proposto(m, vots), aprovadoPorTramitacao=aprovado_por_tramitacao(m),
             **({'norma': f"{n.get('sgl_norma')} {n.get('num_norma')}/{n.get('ano_norma')}"} if n else {}),
             fonte=m.get('detail_url') or ''))
     lista.sort(key=lambda x: (x['data'], x['identificacao']), reverse=True)
-    votados = [x for x in lista if x['votado']]
-    contagens = dict(
-        propostos=len(lista), propostosVotados=len(votados),
-        propostosAprovados=sum(1 for x in votados if x['status'] == 'aprovado'),
-        aprovadosSemVotoNominal=sum(1 for x in lista if not x['votado'] and x['aprovadoPorTramitacao']),
-        pctChegouVotacao=round(100 * len(votados) / len(lista), 1) if lista else None)
-    return contagens, lista
+    return resumo_propostos(lista), lista
+
+
+def primeiro_autor(m):
+    return sem_acento((m.get('autores') or '').split(',')[0].rsplit(' - ', 1)[0])
 
 
 def cortar(t, n=200):
@@ -240,24 +263,31 @@ def grupos_votacoes(votacoes):
 
 
 def com_propostos(vereadores, votacoes, hoje, anterior, anterior_proj):
-    """Põe em cada vereador.projetos as contagens dos propostos e devolve {id: lista} para projetos.json.
-    Sem o cache do e-processos de algum ano, mantém os números e a lista anteriores."""
+    """Põe em cada vereador.projetos.propostos o resumo dos projetos de autoria principal e devolve
+    {id: lista} para projetos.json. Sem o cache do e-processos de algum ano, ou se o 1º autor da lista não
+    for o vereador, mantém o resumo e a lista anteriores; sem anteriores, o vereador fica sem `propostos`
+    (nada de "0 projetos" falso)."""
     grupos = grupos_votacoes(votacoes)
-    ant = {str(v['id']): v.get('projetos') or {} for v in (anterior or {}).get('vereadores', [])}
+    ant = {str(v['id']): (v.get('projetos') or {}).get('propostos') for v in (anterior or {}).get('vereadores', [])}
     ant_lista = (anterior_proj or {}).get('vereadores', {})
     listas, faltando = {}, []
     for v in vereadores:
         itens = carregar_propostos(v['id'], hoje)
+        nomes = {sem_acento(v.get('nome')), sem_acento(v.get('nomeCompleto'))}
+        if itens is not None:
+            outros = sorted({m.get('autores') for m in itens if primeiro_autor(m) not in nomes})
+            if outros:
+                log(f"  aviso: lista do e-processos de {v['nome']} tem outro 1º autor ({'; '.join(outros[:3])}); descartada")
+                itens = None
         if itens is None:
             faltando.append(v['nome'])
-            v['projetos'].update({k: ant.get(v['id'], {}).get(k) for k in CAMPOS_PROPOSTOS})
-            listas[v['id']] = ant_lista.get(v['id'], [])
+            if isinstance(ant.get(v['id']), dict) and v['id'] in ant_lista:
+                v['projetos']['propostos'] = ant[v['id']]
+                listas[v['id']] = ant_lista[v['id']]
             continue
-        contagens, lista = propostos_do_vereador(itens, grupos)
-        v['projetos'].update(contagens)
-        listas[v['id']] = lista
+        v['projetos']['propostos'], listas[v['id']] = propostos_do_vereador(itens, grupos)
     if faltando:
-        log(f'  aviso: sem projetos do e-processos para {", ".join(faltando)}; mantidos os números anteriores')
+        log(f'  aviso: sem projetos do e-processos para {", ".join(faltando)}; mantidos os anteriores (se houver)')
     return listas
 
 
