@@ -3,7 +3,7 @@ import { Agent, type AgentMessage, type AgentTool, type StreamFn } from "@earend
 import { builtinModels } from "@earendil-works/pi-ai/providers/all";
 import { Type } from "typebox";
 import type { Dados } from "./dados.js";
-import { buscarParlamentar, buscarVotacoes, contas, governoMG, metricasDisponiveis, perfil, ranking, rankingMetrica, votacaoPorPartido, votacoesDe } from "./consultas.js";
+import { buscarParlamentar, buscarVotacoes, contas, governoMG, metricasDisponiveis, perfil, projetosCamara, ranking, rankingMetrica, votacaoPorPartido, votacoesDe } from "./consultas.js";
 
 export type Mensagem = { papel: "usuario" | "assistente"; texto: string };
 
@@ -35,7 +35,8 @@ Regras:
 - Quando nenhuma ferramenta trouxer o que foi pedido, diga que o placar ainda não calcula isso.
 - Em rankings por partido, diga quantos parlamentares cada partido tem e avise quando forem poucos.
 - Se a ferramenta não devolver link, não escreva link nenhum.
-- Não faça contas: não some, não tire média, não conte itens nem calcule diferenças com os números das ferramentas; use só os totais que elas devolverem. Se o número pronto não vier, diga que o placar ainda não calcula isso.`;
+- Não faça contas: não some, não tire média, não conte itens nem calcule diferenças com os números das ferramentas; use só os totais que elas devolverem. Se o número pronto não vier, diga que o placar ainda não calcula isso.
+- Para deputados federais e estaduais, o placar só sabe quantos projetos viraram lei, não quantos foram votados.`;
 
 const Casa = Type.Union([Type.Literal("vereador"), Type.Literal("estadual"), Type.Literal("federal")], {
   description: "vereador (Uberlândia), estadual (ALMG) ou federal (Câmara dos Deputados)",
@@ -56,7 +57,7 @@ export function criarFerramentas(d: Dados): AgentTool<any>[] {
   const perfilT: AgentTool<any> = {
     name: "perfil",
     label: "Perfil",
-    description: "Perfil de uma pessoa (casa e id vindos de buscar_parlamentar). Vereador: presença, votações nominais, proposições, comissões, votos e situação na eleição de 2024, patrimônio. Deputado federal: presença no plenário e nas comissões, votou com o governo, proposições, cota parlamentar, votos em 2022 (total e em Uberlândia), patrimônio. Deputado estadual: proposições, verba indenizatória, votos em 2022 (total e em Uberlândia), patrimônio; sem presença nem votos (a ALMG não publica). Inclui link do placar e link oficial.",
+    description: "Perfil de uma pessoa (casa e id vindos de buscar_parlamentar). Vereador: presença, votações nominais, proposições, projetos de lei votados (contagens de votados, aprovados, rejeitados, em tramitação e vetados e os 5 mais recentes; só votação nominal), comissões, votos e situação na eleição de 2024, patrimônio. Deputado federal: presença no plenário e nas comissões, votou com o governo, proposições, cota parlamentar, votos em 2022 (total e em Uberlândia), patrimônio. Deputado estadual: proposições, verba indenizatória, votos em 2022 (total e em Uberlândia), patrimônio; sem presença nem votos (a ALMG não publica). Inclui link do placar e link oficial.",
     parameters: Type.Object({ casa: Casa, id: Type.String() }),
     execute: async (_id, p: any) => resposta(perfil(d, p.casa, p.id)),
   };
@@ -70,7 +71,7 @@ export function criarFerramentas(d: Dados): AgentTool<any>[] {
   const rank: AgentTool<any> = {
     name: "ranking",
     label: "Ranking",
-    description: "Ranking de parlamentares ou de partidos por uma métrica do catálogo (use `metricas` para ver os ids de cada casa): presença, faltas, votos contra a maioria, alinhamento ao governo, proposições, cota parlamentar, verba indenizatória, patrimônio, votos na eleição etc. Funciona para vereador, estadual e federal. `agrupar` = pessoa (padrão) ou partido; `ordem` = maior (padrão) ou menor; `ordenarPor` = total (padrão) ou media (por parlamentar; só em partido com métrica de valor, use quando a pergunta pedir média/médio); `uf` só para federal. Devolve a descrição da métrica e os itens: por pessoa, nome, partido, valor, link do placar e link oficial; por partido, partido, nº de parlamentares, valor (taxa somada ou, em métricas de valor, total) e, só em métricas de valor, média por parlamentar, com aviso quando há 1 ou 2 parlamentares. Quem tem poucas sessões (suplentes) fica fora e vem em poucasSessoes; semDado conta quem não tem o número.",
+    description: "Ranking de parlamentares ou de partidos por uma métrica do catálogo (use `metricas` para ver os ids de cada casa): presença, faltas, votos contra a maioria, alinhamento ao governo, proposições, projetos votados e aprovados e taxa de aprovação (vereadores), leis aprovadas (deputados), cota parlamentar, verba indenizatória, patrimônio, votos na eleição etc. Funciona para vereador, estadual e federal. `agrupar` = pessoa (padrão) ou partido; `ordem` = maior (padrão) ou menor; `ordenarPor` = total (padrão) ou media (por parlamentar; só em partido com métrica de valor, use quando a pergunta pedir média/médio); `uf` só para federal. Devolve a descrição da métrica e os itens: por pessoa, nome, partido, valor, link do placar e link oficial; por partido, partido, nº de parlamentares, valor (taxa somada ou, em métricas de valor, total) e, só em métricas de valor, média por parlamentar, com aviso quando há 1 ou 2 parlamentares. Quem tem poucas sessões (suplentes) fica fora e vem em poucasSessoes; semDado conta quem não tem o número.",
     parameters: Type.Object({
       casa: Casa,
       metrica: Type.String({ description: "id da métrica, ex.: faltas, presenca, contra_maioria, alinhamento_governo, verba_indenizatoria, patrimonio" }),
@@ -112,6 +113,13 @@ export function criarFerramentas(d: Dados): AgentTool<any>[] {
     parameters: Type.Object({ casa: Type.Union([Type.Literal("vereador"), Type.Literal("federal")]), id: Type.String() }),
     execute: async (_id, p: any) => resposta(votacaoPorPartido(d, p.casa, p.id)),
   };
+  const projetosT: AgentTool<any> = {
+    name: "projetos_camara",
+    label: "Projetos da Câmara",
+    description: "Projetos de lei (ordinária, complementar e emenda à Lei Orgânica) votados em plenário pela Câmara Municipal de Uberlândia, no total ou em um ano (ano da última votação do projeto; sem `ano`, o total). Devolve quantos foram votados, aprovados (sem os vetados), rejeitados, em tramitação e vetados, também por autor (prefeitura, vereadores, comissoes), os anos disponíveis, a ressalva (só votação nominal), link do placar e fonte oficial. Só vereadores e Câmara Municipal; para deputados estaduais e federais não existe (só leis aprovadas, no perfil/ranking). Para um vereador específico, use `perfil`.",
+    parameters: Type.Object({ ano: Type.Optional(Type.Integer()) }),
+    execute: async (_id, p: any) => resposta(projetosCamara(d, p.ano)),
+  };
   const contasT: AgentTool<any> = {
     name: "contas",
     label: "Contas públicas",
@@ -129,7 +137,7 @@ export function criarFerramentas(d: Dados): AgentTool<any>[] {
     parameters: Type.Object({}),
     execute: async () => resposta(governoMG(d)),
   };
-  return [buscar, perfilT, votacoes, rank, metricasT, buscarVot, votPartido, contasT, governo];
+  return [buscar, perfilT, votacoes, rank, metricasT, buscarVot, votPartido, projetosT, contasT, governo];
 }
 
 export function validarPedido(corpo: unknown): { mensagens: Mensagem[] } {

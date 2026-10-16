@@ -91,6 +91,12 @@ proposições, contas da Prefeitura e do Estado, governo de Minas). Roda numa Ve
     oficial), e votações sem voto individual (como a de autoridades) saem só com o total oficial;
   - deputados estaduais sem votos: a ALMG não publica presença nem voto individual, então os
     estaduais entram nos rankings de proposições, verba indenizatória etc., mas não nos de votação;
+  - projetos de lei votados e aprovados pela Câmara de Uberlândia: totais e por ano (ferramenta
+    `projetos_camara`, "quantos projetos a Câmara votou e aprovou em 2025?", quantos eram da Prefeitura),
+    projetos votados no perfil de cada vereador e rankings por pessoa ou partido de projetos votados,
+    projetos aprovados e taxa de aprovação (aprovados ÷ votados; sem corte de amostra pequena, então
+    o chat mostra "1 de 1" quando for o caso, e quem não teve projeto votado fica fora). Para deputados
+    federais e estaduais só existe "leis aprovadas", não projetos votados;
   - contas da Prefeitura e do Estado e o governo de Minas.
 
   Em rankings por partido de taxas (presença, faltas, alinhamento...), quem tem poucas sessões
@@ -203,6 +209,18 @@ vercel.json             configuração da Vercel (pasta public, cache, função 
   Reuniões sem votação nominal ficam fora da conta.
 - **Votou contra a maioria**: votou sim quando a maioria votou não, ou o contrário.
 - **Vetos e pareceres**: nessas votações "sim" e "não" se referem ao veto ou ao parecer, não ao projeto.
+- **Projetos de lei votados** (vereadores e Câmara): só entram matérias de nome "Projeto de Lei
+  Ordinária", "Projeto de Lei Complementar" ou "Proposta de Emenda à Lei Orgânica" com votação
+  nominal; cada projeto (`materiaId`) conta uma vez, pelo resultado da última votação (ordenadas por
+  data). Status: **aprovado** = "Aprovado em 2ª Discussão", "Aprovado" ou discussão única;
+  **em tramitação** = "Aprovado em 1ª Discussão" ou "Rejeitado Parecer Contrário …" (o projeto segue);
+  **rejeitado** = "Rejeitado" ou "Mantido Parecer Contrário …" (arquivado). Resultados fora dessas
+  regras (como "Aprovado Parecer da Comissão") não mudam o status. **Veto**: "Veto Mantido" tira o
+  projeto de aprovados e o conta em **vetados** (à parte, categoria exclusiva); "Veto Rejeitado" mantém
+  aprovado. O ano do projeto é o ano da última votação (inclui veto). Autor: Prefeitura e comissões
+  entram só no total da Câmara; vereadores são ligados pelo nome (ex-vereadores contam só no total).
+  **Taxa de aprovação** = aprovados ÷ votados. Ressalva: "Só entram projetos com votação nominal;
+  aprovações em votação simbólica não aparecem."
 - **Presença dos deputados federais**: é a contagem oficial da Câmara (presenças, ausências
   justificadas e não justificadas). A % conta ausência justificada como ausência.
 - **Principais votações federais**: votações do texto de PL, PLP, PEC, MP e PDL no plenário com

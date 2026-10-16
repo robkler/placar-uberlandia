@@ -120,6 +120,21 @@ function presencaFederal(plen: number[]) {
   };
 }
 
+const FONTE_MATERIA = "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=";
+
+/** Projetos de lei votados do vereador: contagens e até 5 itens mais recentes (sem a lista inteira). */
+function resumoProjetos(pj: any, ressalva: string | undefined) {
+  const { lista, ...contagens } = pj ?? { votados: 0, aprovados: 0, rejeitados: 0, emTramitacao: 0, vetados: 0, lista: [] };
+  const recentes = [...((lista ?? []) as any[])]
+    .sort((a, b) => b.data.localeCompare(a.data))
+    .slice(0, 5)
+    .map(x => ({
+      materia: x.materia, status: x.status, data: x.data,
+      ...(x.materiaId ? { fonte: `${FONTE_MATERIA}${encodeURIComponent(x.materiaId)}` } : {}),
+    }));
+  return { ...contagens, recentes, ressalva, link: "#vot" };
+}
+
 export function perfil(d: Dados, casa: Casa, id: string): object {
   const { p, raw: r } = achar(d, casa, id);
   if (casa === "vereador") {
@@ -135,6 +150,7 @@ export function perfil(d: Dados, casa: Casa, id: string): object {
         total: r.nVot, sim: r.sim, nao: r.nao, abstencoes: r.abst, ausencias: r.aus, contraMaioria: r.contraMaioria,
       },
       proposicoes: { total: r.propsTotal, porTipo: r.props, relatorias: r.relatorias },
+      projetos: resumoProjetos(r.projetos, d.udi?.camaraProjetos?.ressalva),
       comissoes: (r.comissoes ?? []).map((c: any) => `${c.nome} (${c.cargo})`),
       eleicao2024: { votos: r.votosEleicao, situacao: t.situacao },
       patrimonio2024: t.patrimonio ?? null,
@@ -264,6 +280,8 @@ interface Metrica {
   tipo: "taxa" | "valor";
   descricao: string;
   unidade?: Unidade;
+  /** Taxa sem corte de amostra pequena (quem não tem denominador já vai para semDado). */
+  semCorteAmostra?: boolean;
 }
 type Extrator = (r: any) => number | { num: number; den: number } | null | undefined;
 
@@ -276,8 +294,8 @@ const plenFed = (r: any) => (r.plen as number[] | undefined) ?? null;
 const propsValor = (r: any, k: string) => r.props?.[k];
 
 const def = (
-  tipo: "taxa" | "valor", unidade: Unidade, descricao: string, ext: Extrator,
-): [Metrica, Extrator] => [{ tipo, unidade, descricao }, ext];
+  tipo: "taxa" | "valor", unidade: Unidade, descricao: string, ext: Extrator, semCorteAmostra = false,
+): [Metrica, Extrator] => [{ tipo, unidade, descricao, ...(semCorteAmostra ? { semCorteAmostra } : {}) }, ext];
 
 const CATALOGO: Record<Casa, Record<string, [Metrica, Extrator]>> = {
   vereador: {
@@ -294,6 +312,15 @@ const CATALOGO: Record<Casa, Record<string, [Metrica, Extrator]>> = {
         propsValor(r, "Proposta de Emenda à Lei Orgânica") ?? 0,
       )),
     relatorias: def("valor", "qtd", "Relatorias (pareceres como relator).", r => r.relatorias),
+    projetos_votados: def("valor", "qtd",
+      "Projetos de lei de autoria do vereador que tiveram votação nominal em plenário (cada projeto conta uma vez). Só votações nominais.",
+      r => r.projetos?.votados),
+    projetos_aprovados: def("valor", "qtd",
+      "Projetos de lei de autoria do vereador que terminaram aprovados (não inclui os vetados, que contam à parte). Só votações nominais.",
+      r => r.projetos?.aprovados),
+    taxa_aprovacao_projetos: def("taxa", "pct",
+      "Taxa de aprovação: projetos aprovados ÷ projetos votados do vereador. Quem não teve projeto votado fica em semDado; não há corte de amostra pequena, então confira num/den (ex.: 1 de 1).",
+      r => taxa(r.projetos?.aprovados, r.projetos?.votados), true),
     votos_eleicao: def("valor", "votos", "Votos recebidos na eleição de 2024.", r => r.tse?.votos2024 ?? r.votosEleicao),
     patrimonio: def("valor", "reais", "Patrimônio declarado ao TSE (2024).", r => r.tse?.patrimonio),
     gasto_campanha: def("valor", "reais", "Gasto de campanha declarado ao TSE (2024).", r => r.tse?.campanha),
@@ -367,7 +394,8 @@ export function rankingMetrica(
   };
   const ehTaxa = def_.tipo === "taxa";
   // Amostra pequena: menos da metade da mediana dos denominadores da casa (antes do filtro de UF).
-  const dens = ehTaxa ? base.map(r => (extrair(r) as any)?.den ?? 0).filter(n => n > 0).sort((x, y) => x - y) : [];
+  // Métrica com semCorteAmostra (projetos) não tem corte: den = 0 já vira semDado em extrair().
+  const dens = ehTaxa && !def_.semCorteAmostra ? base.map(r => (extrair(r) as any)?.den ?? 0).filter(n => n > 0).sort((x, y) => x - y) : [];
   const mediana = dens.length ? (dens[(dens.length - 1) >> 1] + dens[dens.length >> 1]) / 2 : 0;
   const minimo = mediana / 2;
 
@@ -380,7 +408,7 @@ export function rankingMetrica(
     const x = extrair(r);
     if (!x) { semDado++; continue; }
     const { p } = achar(d, casa, r.id);
-    if (ehTaxa && (x as any).den < minimo) {
+    if (ehTaxa && !def_.semCorteAmostra && (x as any).den < minimo) {
       poucas.push({ nome: p.nome, total: (x as any).den, link: p.link, fonte: p.fonte });
       continue;
     }
@@ -566,6 +594,27 @@ export function contas(d: Dados, ente: "prefeitura" | "estado", ano?: number): o
     origem: ente === "prefeitura" ? "Tesouro Nacional (Siconfi)" : "Tesouro Nacional (Siconfi), Estado de Minas Gerais",
     link: ente === "prefeitura" ? "#pref" : "#gov",
     fonte: "https://siconfi.tesouro.gov.br",
+  };
+}
+
+/** Resumo dos projetos de lei votados pela Câmara de Uberlândia, no total ou em um ano (ano da última votação do projeto). */
+export function projetosCamara(d: Dados, ano?: number): object {
+  const c = d.udi?.camaraProjetos;
+  if (!c) throw new Error("O placar não tem dados de projetos votados.");
+  const anos = Object.keys(c.porAno ?? {}).map(Number).sort((a, b) => a - b);
+  const alvo = ano == null ? c.total : c.porAno?.[String(ano)];
+  if (!alvo) {
+    throw new Error(`Ano ${ano} sem dados de projetos votados. Anos disponíveis: ${anos.join(", ")}.`);
+  }
+  return {
+    escopo: ano == null ? "total" : "ano",
+    ...(ano == null ? {} : { ano }),
+    anosDisponiveis: anos,
+    ...alvo,
+    nota: "Cada projeto conta uma vez, pelo resultado da última votação. aprovados não inclui vetados (vetados contam à parte); emTramitacao são projetos que seguem (aprovados só em 1ª discussão ou com parecer contrário rejeitado). Ano = ano da última votação do projeto. Autores: prefeitura, vereadores (inclui ex-vereadores) e comissoes.",
+    ressalva: c.ressalva,
+    link: "#vot",
+    fonte: "https://www.camarauberlandia.mg.gov.br/vereadores",
   };
 }
 

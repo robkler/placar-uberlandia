@@ -7,9 +7,9 @@ beforeAll(async () => { d = await carregarDados(); });
 
 const ferramenta = (nome: string) => criarFerramentas(d).find(t => t.name === nome)!;
 
-test("criarFerramentas devolve os nove nomes", () => {
+test("criarFerramentas devolve os dez nomes", () => {
   expect(criarFerramentas(d).map(t => t.name).sort()).toEqual(
-    ["buscar_parlamentar", "buscar_votacao", "contas", "governo_mg", "metricas", "perfil", "ranking", "votacao_por_partido", "votacoes"]);
+    ["buscar_parlamentar", "buscar_votacao", "contas", "governo_mg", "metricas", "perfil", "projetos_camara", "ranking", "votacao_por_partido", "votacoes"]);
 });
 
 test("buscar_parlamentar devolve texto JSON com o link do placar", async () => {
@@ -103,4 +103,16 @@ test("prompt: sem link devolvido, sem link escrito", () => {
 
 test("prompt: o agente não faz contas", () => {
   expect(PROMPT_SISTEMA).toContain("Não faça contas: não some, não tire média, não conte itens nem calcule diferenças com os números das ferramentas; use só os totais que elas devolverem. Se o número pronto não vier, diga que o placar ainda não calcula isso.");
+});
+
+test("projetos_camara devolve o total e o ano da Câmara", async () => {
+  const t = JSON.parse(((await ferramenta("projetos_camara").execute("1", {})).content[0] as { text: string }).text);
+  expect(t).toMatchObject({ votados: 300, aprovados: 243, link: "#vot" });
+  const a = JSON.parse(((await ferramenta("projetos_camara").execute("1", { ano: 2025 })).content[0] as { text: string }).text);
+  expect(a).toMatchObject({ ano: 2025, votados: 181 });
+  await expect(ferramenta("projetos_camara").execute("1", { ano: 2019 })).rejects.toThrow(/Anos disponíveis/);
+});
+
+test("prompt: deputados só têm leis aprovadas, não projetos votados", () => {
+  expect(PROMPT_SISTEMA).toContain("Para deputados federais e estaduais, o placar só sabe quantos projetos viraram lei, não quantos foram votados.");
 });
