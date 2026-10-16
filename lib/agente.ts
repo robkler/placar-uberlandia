@@ -58,7 +58,7 @@ export function criarFerramentas(d: Dados): AgentTool<any>[] {
   const perfilT: AgentTool<any> = {
     name: "perfil",
     label: "Perfil",
-    description: "Perfil de uma pessoa (casa e id vindos de buscar_parlamentar). Vereador: presença, votações nominais, proposições, projetos de lei votados (contagens de votados, aprovados, rejeitados, em tramitação e vetados e os 5 mais recentes; só votação nominal), comissões, votos e situação na eleição de 2024, patrimônio. Deputado federal: presença no plenário e nas comissões, votou com o governo, proposições, cota parlamentar, votos em 2022 (total e em Uberlândia), patrimônio. Deputado estadual: proposições, verba indenizatória, votos em 2022 (total e em Uberlândia), patrimônio; sem presença nem votos (a ALMG não publica). Inclui link do placar e link oficial.",
+    description: "Perfil de uma pessoa (casa e id vindos de buscar_parlamentar). Vereador: presença, votações nominais, proposições, projetos de lei votados (contagens de votados, aprovados, rejeitados, em tramitação e vetados (veto mantido, total ou parcial) e os 5 mais recentes; só votação nominal), comissões, votos e situação na eleição de 2024, patrimônio. Deputado federal: presença no plenário e nas comissões, votou com o governo, proposições, cota parlamentar, votos em 2022 (total e em Uberlândia), patrimônio. Deputado estadual: proposições, verba indenizatória, votos em 2022 (total e em Uberlândia), patrimônio; sem presença nem votos (a ALMG não publica). Inclui link do placar e link oficial.",
     parameters: Type.Object({ casa: Casa, id: Type.String() }),
     execute: async (_id, p: any) => resposta(perfil(d, p.casa, p.id)),
   };
@@ -117,7 +117,7 @@ export function criarFerramentas(d: Dados): AgentTool<any>[] {
   const projetosT: AgentTool<any> = {
     name: "projetos_camara",
     label: "Projetos da Câmara",
-    description: "Projetos de lei (ordinária, complementar e emenda à Lei Orgânica) votados em plenário pela Câmara Municipal de Uberlândia, no total ou em um ano (ano da última votação do projeto; sem `ano`, o total). Devolve quantos foram votados, aprovados (sem os vetados), rejeitados, em tramitação e vetados, também por autor (prefeitura, vereadores, comissoes), os anos disponíveis, a ressalva (só votação nominal), link do placar e fonte oficial. Só vereadores e Câmara Municipal; para deputados estaduais e federais não existe (só leis aprovadas, no perfil/ranking). Para um vereador específico, use `perfil`.",
+    description: "Projetos de lei (ordinária, complementar e emenda à Lei Orgânica) votados em plenário pela Câmara Municipal de Uberlândia, no total ou em um ano (ano da última votação do projeto; sem `ano`, o total). Devolve quantos foram votados, aprovados (sem os vetados), rejeitados, em tramitação e vetados (veto mantido, total ou parcial: a fonte não diz qual, e num veto parcial o resto da lei entra em vigor), também por autor (prefeitura, vereadores, comissoes), os anos disponíveis, a ressalva (só votação nominal), link do placar (sem link oficial). Só vereadores e Câmara Municipal; para deputados estaduais e federais não existe (só leis aprovadas, no perfil/ranking). Para um vereador específico, use `perfil`.",
     parameters: Type.Object({ ano: Type.Optional(Type.Integer()) }),
     execute: async (_id, p: any) => resposta(projetosCamara(d, p.ano)),
   };

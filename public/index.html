@@ -460,7 +460,7 @@ $('#vlist').addEventListener('click',e=>{const c=e.target.closest('.vrow');if(c)
 /* sheet */
 const rows=(arr,fmt)=>{const mx=Math.max(...arr.map(a=>a[1]),1);return `<div class="rows">${arr.map(([k,v])=>`<span>${esc(k)}</span><span class="num">${fmt(v)}</span><div class="b"><span style="width:${v/mx*100}%"></span></div>`).join('')}</div>`};
 
-const PSTAT={aprovado:'aprovado',rejeitado:'rejeitado',em_tramitacao:'em tramitação',vetado:'vetado'};
+const PSTAT={aprovado:'aprovado',rejeitado:'rejeitado',em_tramitacao:'em tramitação',vetado:'veto mantido (total ou parcial)'};
 function openVer(id){
  const v=byId[id]; if(!v)return false; try{history.replaceState(null,'','#v/'+id)}catch(e){}
  const t=v.tse||{}; const c=cls(v.p);
@@ -492,9 +492,9 @@ function openVer(id){
    <div><div class="v" style="color:var(--sim)">${nint(pj.aprovados)}</div><div class="k">aprovados</div></div>
    <div><div class="v" style="color:var(--nao)">${nint(pj.rejeitados)}</div><div class="k">rejeitados</div></div>
    <div><div class="v">${nint(pj.emTramitacao)}</div><div class="k">em tramitação</div></div>
-   <div><div class="v">${nint(pj.vetados)}</div><div class="k">vetados</div></div></div>
+   <div><div class="v">${nint(pj.vetados)}</div><div class="k">veto mantido (total ou parcial)</div></div></div>
    <div class="rows" style="grid-template-columns:minmax(0,1fr) auto;margin-top:12px">${pj.lista.slice(0,5).map(x=>`<span><a href="https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=${encodeURIComponent(x.materiaId)}" target="_blank" rel="noopener">${esc(x.materia)} ↗</a></span><span class="pt">${esc(PSTAT[x.status]||x.status)} · ${fdate(x.data)}</span>`).join('')}</div>
-   ${pj.lista.length>5?`<p class="sub">Mostrando os 5 mais recentes de ${nint(pj.lista.length)}.</p>`:''}`:'<p class="sub">Nenhum projeto de lei de autoria dele(a) teve votação nominal nesta legislatura.</p>'}
+   ${pj.lista.length>5?`<p class="sub">Mostrando os 5 mais recentes de ${nint(pj.lista.length)}.</p>`:''}`:'<p class="sub">Nenhum projeto de lei de autoria principal dele(a) teve votação nominal nesta legislatura.</p>'}
    <p class="sub">${esc((D.camaraProjetos||{}).ressalva||'')}</p></div>
   ${v.comissoes.length?`<div class="sec"><h3>Comissões</h3><div class="rows" style="grid-template-columns:minmax(0,1fr) auto">${v.comissoes.map(c=>`<span>${esc(c.nome)}</span><span class="pt">${esc(c.cargo)}</span>`).join('')}</div></div>`:''}
   ${v.tse?`<div class="sec"><h3>Declarado ao TSE (eleição 2024)</h3>

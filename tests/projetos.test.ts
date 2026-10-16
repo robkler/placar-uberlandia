@@ -29,13 +29,14 @@ test("vereador sem projeto votado: zeros e lista vazia", () => {
   expect(p.projetos).toMatchObject({ votados: 0, aprovados: 0, recentes: [] });
 });
 
-test("projetosCamara: total, com ressalva, link e fonte", () => {
+test("projetosCamara: total, com ressalva e link", () => {
   const r: any = projetosCamara(d);
   expect(r).toMatchObject({ escopo: "total", votados: 300, aprovados: 243, rejeitados: 25, emTramitacao: 14, vetados: 18, ressalva: RESSALVA, link: "#vot" });
   expect(r.porAutor.prefeitura).toMatchObject({ votados: 238 });
   expect(r.porAutor.vereadores).toMatchObject({ votados: 56 });
   expect(r.porAutor.comissoes).toMatchObject({ votados: 6 });
-  expect(r.fonte).toMatch(/^https:\/\/www\.camarauberlandia\.mg\.gov\.br/);
+  expect(r.fonte).toBeUndefined(); // a página de pesquisa da matéria não é acessível; sem link oficial
+  expect(r.nota).toContain("veto mantido, total ou parcial");
   expect(r.anosDisponiveis).toEqual([2025, 2026]);
 });
 

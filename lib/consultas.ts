@@ -313,10 +313,10 @@ const CATALOGO: Record<Casa, Record<string, [Metrica, Extrator]>> = {
       )),
     relatorias: def("valor", "qtd", "Relatorias (pareceres como relator).", r => r.relatorias),
     projetos_votados: def("valor", "qtd",
-      "Projetos de lei de autoria do vereador que tiveram votação nominal em plenário (cada projeto conta uma vez). Só votações nominais.",
+      "Projetos de lei de autoria principal do vereador que tiveram votação nominal em plenário (cada projeto conta uma vez). Só votações nominais.",
       r => r.projetos?.votados),
     projetos_aprovados: def("valor", "qtd",
-      "Projetos de lei de autoria do vereador que terminaram aprovados (não inclui os vetados, que contam à parte). Só votações nominais.",
+      "Projetos de lei de autoria principal do vereador que terminaram aprovados (não inclui os com veto mantido, total ou parcial, que contam à parte). Só votações nominais.",
       r => r.projetos?.aprovados),
     taxa_aprovacao_projetos: def("taxa", "pct",
       "Taxa de aprovação: projetos aprovados ÷ projetos votados do vereador. Quem não teve projeto votado fica em semDado; quem teve menos de 3 projetos votados fica fora do ranking e vem em poucosProjetos (a taxa com 1 ou 2 projetos não é comparável). Os itens trazem num/den.",
@@ -617,10 +617,9 @@ export function projetosCamara(d: Dados, ano?: number): object {
     ...(ano == null ? {} : { ano }),
     anosDisponiveis: anos,
     ...alvo,
-    nota: "Cada projeto conta uma vez, pelo resultado da última votação. aprovados não inclui vetados (vetados contam à parte); emTramitacao são projetos que seguem (aprovados só em 1ª discussão ou com parecer contrário rejeitado). Ano = ano da última votação do projeto. Autores: prefeitura, vereadores (inclui ex-vereadores) e comissoes.",
+    nota: "Cada projeto conta uma vez, pelo resultado da última votação. aprovados não inclui os projetos com veto mantido (campo vetados: veto mantido, total ou parcial; a fonte não informa qual, e num veto parcial o resto da lei entra em vigor; contam à parte); emTramitacao são projetos que seguem (aprovados só em 1ª discussão ou com parecer contrário rejeitado). Ano = ano da última votação do projeto. Autores: prefeitura, vereadores (inclui ex-vereadores) e comissoes.",
     ressalva: c.ressalva,
     link: "#vot",
-    fonte: "https://www.camarauberlandia.mg.gov.br/vereadores",
   };
 }
 

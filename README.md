@@ -217,8 +217,11 @@ vercel.json             configuração da Vercel (pasta public, cache, função 
   **em tramitação** = "Aprovado em 1ª Discussão" ou "Rejeitado Parecer Contrário …" (o projeto segue);
   **rejeitado** = "Rejeitado" ou "Mantido Parecer Contrário …" (arquivado). Resultados fora dessas
   regras (como "Aprovado Parecer da Comissão") não mudam o status. **Veto**: "Veto Mantido" tira o
-  projeto de aprovados e o conta em **vetados** (à parte, categoria exclusiva); "Veto Rejeitado" mantém
-  aprovado. O ano do projeto é o ano da última votação (inclui veto). Autor: Prefeitura e comissões
+  projeto de aprovados e o conta em **vetados** (rótulo: "veto mantido (total ou parcial)"; à parte,
+  categoria exclusiva); "Veto Rejeitado" mantém aprovado. A fonte não informa se o veto foi total ou
+  parcial; num veto parcial, o resto da lei entra em vigor. O ano do projeto é o ano da última votação
+  (inclui veto); um projeto cuja única votação nominal nesta legislatura foi a do veto também conta
+  como votado, no ano dessa votação. Só a autoria principal é considerada (coautores não entram). Autor: Prefeitura e comissões
   entram só no total da Câmara; vereadores são ligados pelo nome (ex-vereadores contam só no total).
   **Taxa de aprovação** = aprovados ÷ votados, só para quem teve pelo menos 3 projetos votados. Ressalva: "Só entram projetos com votação nominal;
   aprovações em votação simbólica não aparecem."
