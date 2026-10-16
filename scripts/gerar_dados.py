@@ -214,18 +214,22 @@ def status_proposto(m, vots):
 
 def resumo_propostos(lista):
     """Contagens dos projetos de autoria principal. propostos = aprovados + rejeitados + vetoMantido +
-    emTramitacaoPlenario + naoChegaramAoPlenario."""
+    emTramitacaoPlenario + naoChegaramAoPlenario; chegaramAoPlenario = propostos − naoChegaramAoPlenario
+    (aprovados sem votação nominal também chegaram ao plenário)."""
     c = collections.Counter(x['status'] for x in lista)
     aprovados = [x for x in lista if x['status'] == 'aprovado']
     n = len(lista)
+    chegaram = n - c['nao_votado']
+    pct = lambda a: math.floor(a / n * 100 * 10 + 0.5) / 10 if n else None  # como pctDe no chat
     return dict(
         propostos=n, aprovados=len(aprovados),
         aprovadosNominal=sum(1 for x in aprovados if x['votado']),
         aprovadosSemVotoNominal=sum(1 for x in aprovados if not x['votado']),
         rejeitados=c['rejeitado'], vetoMantido=c['vetado'],
         emTramitacaoPlenario=c['em_tramitacao'], naoChegaramAoPlenario=c['nao_votado'],
+        chegaramAoPlenario=chegaram, pctChegaramAoPlenario=pct(chegaram),
         propostosVotacaoNominal=sum(1 for x in lista if x['votado']),
-        pctAprovados=math.floor(len(aprovados) / n * 100 * 10 + 0.5) / 10 if n else None)  # como pctDe no chat
+        pctAprovados=pct(len(aprovados)))
 
 
 def propostos_do_vereador(itens, grupos):

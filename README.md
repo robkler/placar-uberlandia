@@ -93,9 +93,9 @@ proposições, contas da Prefeitura e do Estado, governo de Minas). Roda numa Ve
     estaduais entram nos rankings de proposições, verba indenizatória etc., mas não nos de votação;
   - projetos de lei votados e aprovados pela Câmara de Uberlândia: totais e por ano (ferramenta
     `projetos_camara`, "quantos projetos a Câmara votou e aprovou em 2025?", quantos eram da Prefeitura),
-    quantos projetos cada vereador propôs como autor principal e quantos foram aprovados, com ou sem votação nominal (perfil e rankings `projetos_propostos`, `projetos_aprovados_total` e `taxa_aprovacao_propostos`),
+    quantos projetos cada vereador propôs como autor principal e quantos foram aprovados, com ou sem votação nominal (perfil e rankings `projetos_propostos`, `projetos_aprovados_total`, `taxa_chegou_plenario` e `taxa_aprovacao_propostos`),
     a lista desses projetos com o link oficial de cada um (ferramenta `projetos_do_vereador`, filtros
-    todos, aprovados, votados e nao_votados, e por ano de apresentação; até 25 por vez),
+    todos, aprovados, votados, nao_chegaram e votacao_nominal, e por ano de apresentação; até 25 por vez),
     projetos votados no perfil de cada vereador e rankings por pessoa ou partido de projetos votados,
     projetos aprovados e taxa de aprovação (aprovados ÷ votados; quem teve menos de 3 projetos votados fica fora do
     ranking e da soma dos partidos, e vem listado à parte, pois a taxa com 1 ou 2 projetos não é
@@ -255,10 +255,16 @@ vercel.json             configuração da Vercel (pasta public, cache, função 
   "sem votação nominal" inclui votação simbólica e aprovações como as do Art. 102-A do Regimento
   Interno); `rejeitados`; `vetoMantido` (veto mantido, total ou parcial); `emTramitacaoPlenario` (já
   votado no plenário, sem decisão final); `naoChegaramAoPlenario` (em comissão, devolvido ou arquivado
-  sem votação nem aprovação); a soma desses cinco é `propostos`. `propostosVotacaoNominal` = com ao
+  sem votação nem aprovação); a soma desses cinco é `propostos`. `chegaramAoPlenario` = propostos −
+  naoChegaramAoPlenario (aprovados, com ou sem votação nominal, + rejeitados + veto mantido + em votação
+  no plenário; os aprovados sem votação nominal também chegaram ao plenário) e `pctChegaramAoPlenario`
+  = chegaramAoPlenario ÷ propostos. `propostosVotacaoNominal` = com ao
   menos uma votação nominal (detalhe). % principal: `pctAprovados` = aprovados ÷ propostos (1 casa;
-  nulo sem propostos). Rankings: `projetos_propostos`, `projetos_aprovados_total` e
-  `taxa_aprovacao_propostos` (aprovados ÷ propostos; só quem propôs 3 ou mais projetos). O bloco antigo
+  nulo sem propostos). Rankings: `projetos_propostos`, `projetos_aprovados_total`,
+  `taxa_chegou_plenario` (chegaram ao plenário ÷ propostos) e `taxa_aprovacao_propostos` (aprovados ÷
+  propostos); nas duas taxas, só quem propôs 3 ou mais projetos. Filtros de `projetos_do_vereador`:
+  todos, aprovados, votados (chegaram ao plenário, qualquer resultado), nao_chegaram (nunca chegaram ao
+  plenário) e votacao_nominal (só com votação nominal). O bloco antigo
   `projetos.votados`/`aprovados`/... (e `projetos_camara`) continua só com votações nominais, inclusive
   de projetos de antes de 2025, e é o único com a ressalva da votação nominal.
   **Situações de tramitação** (última tramitação, `ult_tramitacao.des_status`; lista completa em

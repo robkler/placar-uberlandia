@@ -134,6 +134,9 @@ test("projetos_do_vereador: por id ou nome, com filtro, ano e limite", async () 
   expect(t.description).toContain("link oficial");
   expect(t.description).not.toContain("votação simbólica");
   expect((t.parameters as any).properties.limite.maximum).toBe(25);
+  const filtros = (t.parameters as any).properties.filtro.anyOf.map((x: any) => x.const).sort();
+  expect(filtros).toEqual(["aprovados", "nao_chegaram", "todos", "votacao_nominal", "votados"]);
+  expect(t.description).toContain("chegaramAoPlenario");
 });
 
 test("prompt: lista de projetos com o link oficial de cada um", () => {
@@ -145,6 +148,7 @@ test("perfil: descrição sem coautoria, com aprovados ÷ propostos e aponta pro
   expect(desc).not.toContain("coautoria");
   expect(desc).toContain("projetos_do_vereador");
   expect(desc).toContain("aprovados ÷ propostos");
+  expect(desc).toContain("chegaramAoPlenario");
   expect(desc).toContain("votações nominais (inclui projetos de antes de 2025)");
   expect(ferramenta("ranking").description).toContain("taxa_aprovacao_propostos");
   expect(ferramenta("ranking").description).not.toContain("taxa_chegou_votacao");

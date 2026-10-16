@@ -95,7 +95,10 @@ test("catálogo: propostos, aprovados (total) e taxa de aprovação dos proposto
 const somaConfere = (r: any) =>
   r.aprovados + r.rejeitados + r.vetoMantido + r.emTramitacaoPlenario + r.naoChegaramAoPlenario === r.propostos
   && r.aprovadosNominal + r.aprovadosSemVotoNominal === r.aprovados
-  && r.aprovadosNominal <= r.propostosVotacaoNominal;
+  && r.aprovadosNominal <= r.propostosVotacaoNominal
+  && r.chegaramAoPlenario === r.propostos - r.naoChegaramAoPlenario
+  && r.chegaramAoPlenario === r.aprovados + r.rejeitados + r.vetoMantido + r.emTramitacaoPlenario
+  && r.pctChegaramAoPlenario === (r.propostos ? Math.round((1000 * r.chegaramAoPlenario) / r.propostos) / 10 : null);
 
 test("perfil: propostos aninhados, com explicação, somas consistentes e % = aprovados ÷ propostos", () => {
   for (const v of d.udi.vereadores) {
@@ -104,6 +107,7 @@ test("perfil: propostos aninhados, com explicação, somas consistentes e % = ap
     expect(somaConfere(pr)).toBe(true);
     expect(pr.pctAprovados).toBe(pr.propostos ? Math.round((1000 * pr.aprovados) / pr.propostos) / 10 : null);
     expect(pr.explicacao).toContain("autoria principal");
+    expect(pr.explicacao).toContain("aprovados sem votação nominal também chegaram ao plenário");
     expect(pr.ressalva).toBeUndefined();
     expect(JSON.stringify(pr)).not.toContain("votação simbólica");
   }
@@ -111,6 +115,11 @@ test("perfil: propostos aninhados, com explicação, somas consistentes e % = ap
   expect(c.projetos.propostos.propostos).toBeGreaterThanOrEqual(26); // 26 apresentados em 2025 (fixo)
   expect(c.projetos.notaAutoria).toBeUndefined();
   expect(c.projetos.ressalva).toBeUndefined();
+  expect(Object.keys(c.projetos).sort()).toEqual(["propostos", "votacoesNominais"]);
+  expect(JSON.stringify(c.projetos.propostos)).not.toContain(RESSALVA);
+  expect(c.projetos.votacoesNominais.ressalva).toBe(RESSALVA);
+  // Carrijo: 49 propostos, 20 não chegaram -> 29 chegaram ao plenário (cache de 16/10/2026; invariante acima vale sempre)
+  expect(c.projetos.propostos.chegaramAoPlenario).toBe(c.projetos.propostos.propostos - c.projetos.propostos.naoChegaramAoPlenario);
 });
 
 test("perfil e lista concordam: resumo do data.json = contagem do projetos.json", () => {
@@ -123,6 +132,18 @@ test("perfil e lista concordam: resumo do data.json = contagem do projetos.json"
     expect(lista!.filter(x => !x.votado && x.status === "aprovado").length).toBe(pr.aprovadosSemVotoNominal);
     expect(lista!.filter(x => x.status === "nao_votado").length).toBe(pr.naoChegaramAoPlenario);
     expect(lista!.filter(x => x.votado).length).toBe(pr.propostosVotacaoNominal);
+    expect(lista!.filter(x => x.status !== "nao_votado").length).toBe(pr.chegaramAoPlenario);
+  }
+});
+
+test("catálogo: taxa_chegou_plenario = chegaram ao plenário ÷ propostos, mínimo 3; num/den = perfil", () => {
+  expect(METRICAS.vereador.taxa_chegou_plenario).toMatchObject({ tipo: "taxa", unidade: "pct", denMinimo: 3, denRotulo: "projetos propostos" });
+  expect(METRICAS.vereador.taxa_chegou_plenario!.descricao).toContain("sem votação nominal");
+  const r: any = rankingMetrica(d, "vereador", "taxa_chegou_plenario", { limite: 30 });
+  for (const i of r.itens) {
+    const v = d.udi.vereadores.find((x: any) => x.nome === i.nome);
+    expect([i.num, i.den]).toEqual([v.projetos.propostos.chegaramAoPlenario, v.projetos.propostos.propostos]);
+    expect(i.den).toBeGreaterThanOrEqual(3);
   }
 });
 
@@ -178,15 +199,23 @@ test("projetosDoVereador: todos, mais recentes primeiro, link oficial, totais ig
 test("projetosDoVereador: filtros são subconjuntos coerentes com os totais", () => {
   const t: any = projetosDoVereador(d, { id: "399041", limite: 25 });
   const v: any = projetosDoVereador(d, { id: "399041", filtro: "votados", limite: 25 });
-  expect(v.totalNoFiltro).toBe(t.totais.propostosVotacaoNominal);
-  expect(v.itens.every((x: any) => x.votado)).toBe(true);
-  expect(v.itens.map((x: any) => x.identificacao)).toContain("Proposta de Emenda à Lei Orgânica nº 7/2025");
+  expect(v.totalNoFiltro).toBe(t.totais.chegaramAoPlenario);
+  expect(v.itens.every((x: any) => x.chegouAoPlenario && x.status !== "nao_votado")).toBe(true);
+  const vn: any = projetosDoVereador(d, { id: "399041", filtro: "votacao_nominal", limite: 25 });
+  expect(vn.totalNoFiltro).toBe(t.totais.propostosVotacaoNominal);
+  expect(vn.itens.every((x: any) => x.votacaoNominal && x.chegouAoPlenario)).toBe(true);
+  expect(vn.itens.map((x: any) => x.identificacao)).toContain("Proposta de Emenda à Lei Orgânica nº 7/2025");
+  expect(vn.itens[0].votado).toBeUndefined();
   const a: any = projetosDoVereador(d, { id: "399041", filtro: "aprovados", limite: 25 });
   expect(a.totalNoFiltro).toBe(t.totais.aprovados);
   expect(a.itens.every((x: any) => x.status === "aprovado")).toBe(true);
-  const n: any = projetosDoVereador(d, { id: "537380", filtro: "nao_votados", ano: 2025 });
-  expect(n.totalNoFiltro).toBe(n.totais.propostos - n.totais.propostosVotacaoNominal);
-  expect(n.itens.every((x: any) => !x.votado && x.identificacao.endsWith("/2025"))).toBe(true);
+  const n: any = projetosDoVereador(d, { id: "399022", filtro: "nao_chegaram", ano: 2026, limite: 25 });
+  expect(n.totalNoFiltro).toBe(n.totais.naoChegaramAoPlenario);
+  expect(n.totalNoFiltro).toBe(n.totais.propostos - n.totais.chegaramAoPlenario);
+  expect(n.itens.every((x: any) => x.status === "nao_votado" && !x.chegouAoPlenario && x.identificacao.endsWith("/2026"))).toBe(true);
+  // aprovados sem votação nominal não entram em "não chegaram"
+  expect(n.itens.some((x: any) => x.status === "aprovado")).toBe(false);
+  expect(t.totais.naoChegaramAoPlenario + t.totais.chegaramAoPlenario).toBe(t.totais.propostos);
 });
 
 test("projetosDoVereador: limite acima de 25 vira 25", () => {
