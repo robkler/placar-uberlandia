@@ -1,0 +1,27 @@
+name: Dado incorreto
+description: Encontrou um número, voto ou informação errada no site
+title: "[Dado incorreto] "
+labels: ["dado-incorreto"]
+body:
+  - type: input
+    id: onde
+    attributes:
+      label: Vereador ou seção do site
+      placeholder: "Ex.: Fulano de Tal / Contas da Prefeitura"
+    validations:
+      required: true
+  - type: textarea
+    id: errado
+    attributes:
+      label: O que está errado
+      description: O que o site mostra e qual seria o valor certo.
+    validations:
+      required: true
+  - type: input
+    id: fonte
+    attributes:
+      label: Link da fonte oficial
+      description: Página da Câmara, TSE ou Tesouro que mostra o dado correto.
+      placeholder: https://
+    validations:
+      required: true

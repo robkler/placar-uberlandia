@@ -1,15 +1,23 @@
 # Placar de Uberlândia
 
+**No ar em: https://placar-uberlandia.vercel.app**
+
 Site estático que mostra os 27 vereadores de Uberlândia (presença, como votaram em cada
 projeto, proposições, patrimônio e campanha) e as contas da Prefeitura.
 
 A página (`public/index.html`) lê os dados de `public/data.json`. Esse arquivo é gerado
-pelos scripts em `scripts/` a partir de fontes públicas e é atualizado quando você roda
-o comando abaixo.
+pelos scripts em `scripts/` a partir de fontes públicas e é atualizado todo dia
+automaticamente (veja [Atualização automática](#atualização-automática)).
+
+> **Aviso:** projeto independente, sem vínculo com a Câmara Municipal, a Prefeitura de
+> Uberlândia ou qualquer partido. Os dados são copiados de fontes oficiais e podem conter
+> erros ou atrasos; na dúvida, confira na fonte. Achou algo errado?
+> [Abra uma issue](https://github.com/robkler/placar-uberlandia/issues/new?template=dado-incorreto.yml).
 
 ## Atualizar os dados
 
-Precisa só do `python3` (já vem no macOS). Na pasta do projeto:
+Precisa só do `python3` (já vem no macOS). Se você usa o [mise](https://mise.jdx.dev),
+`mise install` instala as versões do projeto (definidas em `mise.toml`). Na pasta do projeto:
 
 ```bash
 ./atualizar.sh              # baixa os dados novos e gera public/data.json (~1 a 3 min)
@@ -34,23 +42,23 @@ votações não diminuiu, finanças presentes). Se a API da Câmara estiver fora
 formato, ele **não** sobrescreve o `data.json`, o site continua com a última versão boa e o
 comando termina com erro explicando o motivo.
 
+## Atualização automática
+
+A GitHub Action `.github/workflows/atualizar-dados.yml` roda todo dia às 6h (horário de
+Brasília): executa `./atualizar.sh` e, se algum dado mudou, faz commit em `dados/` e
+`public/`. O histórico de commits desses arquivos serve de registro público de como os
+dados mudaram. Para rodar na hora: aba *Actions* → *Atualizar dados* → *Run workflow*.
+
 ## Publicar na Vercel
 
-**Primeira vez** (uma vez só):
+O projeto `placar-uberlandia` na Vercel está ligado a este repositório: todo push na `main`
+(inclusive os commits da atualização automática) publica o site.
 
-1. Instale a CLI: `npm i -g vercel` (ou use `npx vercel`, o script já faz isso se precisar).
-2. Na pasta do projeto, rode `vercel` e responda:
-   - *Set up and deploy?* → Yes
-   - *Link to existing project?* → No
-   - *Project name* → placar-uberlandia
-   - *In which directory is your code located?* → `./`
-   - Não altere as configurações sugeridas (o `vercel.json` já define a pasta `public`).
-3. Isso cria um link de teste. Para o endereço oficial: `vercel deploy --prod`.
+Para publicar direto do seu computador, sem passar pelo GitHub: `./atualizar.sh --publicar`
+(precisa da CLI, `npm i -g vercel`, e de `vercel link` uma vez).
 
-**Depois disso**, para atualizar o site: `./atualizar.sh --publicar`.
-
-O `.vercelignore` faz com que só a pasta `public/` seja enviada; scripts e dados brutos
-ficam só no seu computador.
+O `vercel.json` faz a Vercel servir só a pasta `public/`; o `.vercelignore` evita enviar
+scripts e dados brutos nos deploys pela CLI.
 
 ## Estrutura
 
@@ -105,3 +113,20 @@ vercel.json             configuração da Vercel (pasta public, cache)
   os certificados uma vez. Rode `/Applications/Python\ 3*/Install\ Certificates.command`.
 - **`NÃO gravei o data.json`**: a checagem de segurança encontrou algo estranho. Leia o motivo na
   mensagem; geralmente é a API da Câmara instável. Tente de novo mais tarde.
+
+## Contribuir
+
+- **Dado errado**: abra uma issue com o modelo
+  [Dado incorreto](https://github.com/robkler/placar-uberlandia/issues/new?template=dado-incorreto.yml),
+  com o link da fonte oficial.
+- **Código**: pull requests são bem-vindos. Rode `./atualizar.sh` e `./ver.sh` para conferir
+  a mudança antes de enviar.
+
+## Licença
+
+- **Código** (scripts, página, configuração): [MIT](LICENSE).
+- **Dados** (`dados/`, `public/data.json`): dados públicos da Câmara Municipal de Uberlândia,
+  do TSE, do Tesouro Nacional (SICONFI) e do IBGE. Pertencem a essas fontes e não estão
+  sob a licença MIT; ao reutilizar, cite a fonte original.
+- **Fotos** (`public/fotos/`): fotos oficiais de candidatura divulgadas pelo TSE; também não
+  estão sob a licença MIT.
