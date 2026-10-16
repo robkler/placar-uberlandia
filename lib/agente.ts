@@ -68,17 +68,18 @@ export function criarFerramentas(d: Dados): AgentTool<any>[] {
   const rank: AgentTool<any> = {
     name: "ranking",
     label: "Ranking",
-    description: "Ranking de parlamentares ou de partidos por uma métrica do catálogo (use `metricas` para ver os ids de cada casa): presença, faltas, votos contra a maioria, alinhamento ao governo, proposições, cota parlamentar, verba indenizatória, patrimônio, votos na eleição etc. Funciona para vereador, estadual e federal. `agrupar` = pessoa (padrão) ou partido; `ordem` = maior (padrão) ou menor; `uf` só para federal. Devolve a descrição da métrica e os itens: por pessoa, nome, partido, valor, link do placar e link oficial; por partido, partido, nº de parlamentares, valor (taxa somada ou total) e média, com aviso quando há 1 ou 2 parlamentares. Quem tem poucas sessões (suplentes) fica fora e vem em poucasSessoes; semDado conta quem não tem o número.",
+    description: "Ranking de parlamentares ou de partidos por uma métrica do catálogo (use `metricas` para ver os ids de cada casa): presença, faltas, votos contra a maioria, alinhamento ao governo, proposições, cota parlamentar, verba indenizatória, patrimônio, votos na eleição etc. Funciona para vereador, estadual e federal. `agrupar` = pessoa (padrão) ou partido; `ordem` = maior (padrão) ou menor; `ordenarPor` = total (padrão) ou media (por parlamentar; só em partido com métrica de valor, use quando a pergunta pedir média/médio); `uf` só para federal. Devolve a descrição da métrica e os itens: por pessoa, nome, partido, valor, link do placar e link oficial; por partido, partido, nº de parlamentares, valor (taxa somada ou total) e média, com aviso quando há 1 ou 2 parlamentares. Quem tem poucas sessões (suplentes) fica fora e vem em poucasSessoes; semDado conta quem não tem o número.",
     parameters: Type.Object({
       casa: Casa,
       metrica: Type.String({ description: "id da métrica, ex.: faltas, presenca, contra_maioria, alinhamento_governo, verba_indenizatoria, patrimonio" }),
       agrupar: Type.Optional(Type.Union([Type.Literal("pessoa"), Type.Literal("partido")])),
       ordem: Type.Optional(Type.Union([Type.Literal("maior"), Type.Literal("menor")])),
+      ordenarPor: Type.Optional(Type.Union([Type.Literal("total"), Type.Literal("media")], { description: "só com agrupar=partido em métricas de valor: total (padrão) ou media por parlamentar. Use media quando a pergunta falar em média, médio ou por parlamentar." })),
       uf: Type.Optional(Type.String()),
       limite: Type.Optional(Type.Integer({ minimum: 1, maximum: 20 })),
     }),
     execute: async (_id, p: any) => {
-      const opcoes = { agrupar: p.agrupar, ordem: p.ordem, uf: p.uf, limite: p.limite };
+      const opcoes = { agrupar: p.agrupar, ordem: p.ordem, ordenarPor: p.ordenarPor, uf: p.uf, limite: p.limite };
       const antigo = (p.casa === "vereador" || p.casa === "federal") && (p.metrica === "presenca" || p.metrica === "faltas")
         && (p.agrupar ?? "pessoa") === "pessoa" && (p.ordem ?? "maior") === "maior";
       return resposta(antigo ? ranking(d, p.casa, p.metrica, { uf: p.uf, limite: p.limite }) : rankingMetrica(d, p.casa, p.metrica, opcoes));

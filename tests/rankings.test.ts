@@ -71,3 +71,10 @@ test("poucasSessoes limitado a 10, com contagem total na nota", () => {
   const t = r.poucasSessoes.map((x: any) => x.total);
   expect(t).toEqual([...t].sort((a: number, b: number) => b - a));
 });
+
+test("patrimonio por partido ordenado pela média: PP, PSDB, AVANTE", () => {
+  const r: any = rankingMetrica(dados, "vereador", "patrimonio", { agrupar: "partido", ordenarPor: "media" });
+  expect(r.itens.slice(0, 3).map((i: any) => i.partido)).toEqual(["PP", "PSDB", "AVANTE"]);
+  const t: any = rankingMetrica(dados, "vereador", "patrimonio", { agrupar: "partido" });
+  expect(t.itens[0].valor).toBeGreaterThanOrEqual(t.itens[1].valor);
+});

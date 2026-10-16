@@ -343,7 +343,7 @@ export function rankingMetrica(
   d: Dados,
   casa: Casa,
   metrica: string,
-  opcoes: { agrupar?: "pessoa" | "partido"; ordem?: "maior" | "menor"; uf?: string; limite?: number } = {},
+  opcoes: { agrupar?: "pessoa" | "partido"; ordem?: "maior" | "menor"; ordenarPor?: "total" | "media"; uf?: string; limite?: number } = {},
 ): object {
   const entrada = CATALOGO[casa]?.[metrica];
   if (!entrada) {
@@ -390,7 +390,7 @@ export function rankingMetrica(
   const extras = {
     ...(poucas.length ? {
       poucasSessoes: poucas.slice(0, 10),
-      notaPoucasSessoes: `${poucas.length} parlamentares com menos da metade da mediana de sessões/votações da casa (ex.: suplentes) ficaram fora do ranking${agrupar === "partido" ? " e da soma dos partidos" : ""}, pois a taxa deles não é comparável${poucas.length > 10 ? "; mostrando 10" : ""}.`,
+      notaPoucasSessoes: `${poucas.length} ${poucas.length === 1 ? "parlamentar com" : "parlamentares com"} menos da metade da mediana de sessões/votações da casa (ex.: suplentes) ficaram fora do ranking${agrupar === "partido" ? " e da soma dos partidos" : ""}, pois a taxa deles não é comparável${poucas.length > 10 ? "; mostrando 10" : ""}.`,
       totalPoucasSessoes: poucas.length,
     } : {}),
     ...(semDado ? { semDado } : {}),
@@ -422,7 +422,7 @@ export function rankingMetrica(
     const total = ls.reduce((a, l) => a + l.valor, 0);
     return { partido, parlamentares: n, valor: duas(total), media: duas(total / n), ...aviso };
   }).sort((a, b) =>
-    sinal * (a.valor - b.valor) || ((b as any).den ?? 0) - ((a as any).den ?? 0) || a.partido.localeCompare(b.partido));
+    sinal * ((ehTaxa || opcoes.ordenarPor !== "media" ? a.valor - b.valor : a.media - b.media)) || ((b as any).den ?? 0) - ((a as any).den ?? 0) || a.partido.localeCompare(b.partido));
   return { ...cabecalho, itens: itens.slice(0, limite), ...extras };
 }
 
