@@ -5,7 +5,7 @@ import { criarAgente, validarPedido } from "./agente.js";
 export const LINHA_MUITAS_CONSULTAS =
   "\n\n[A pergunta precisou de muitas consultas. Tente perguntar de forma mais específica.]";
 export const LINHA_FALHA = "\n\n[Não consegui terminar a resposta. Tente de novo.]";
-const TEMPO_MAXIMO_MS = 60_000;
+const TEMPO_MAXIMO_MS = 50_000;
 
 const erro400 = (erro: string) =>
   Response.json({ erro }, { status: 400 });

@@ -85,7 +85,9 @@ proposições, contas da Prefeitura e do Estado, governo de Minas). Roda numa Ve
 - **O que não faz**: não opina, não adjetiva político, não recomenda voto e não responde sobre
   assuntos fora dos dados. A ALMG não publica presença nem voto individual, então para
   deputado estadual ele diz isso em vez de dar um número.
-- **Limites**: mensagem de até 500 caracteres, histórico de 10 mensagens, 60 s por pergunta.
+- **Limites**: mensagem de até 500 caracteres, histórico de 10 mensagens e até 4.000 caracteres no total
+  (o navegador descarta as mensagens mais antigas para caber), 50 s por pergunta (a função da Vercel
+  tem teto de 60 s).
   `/api/chat` tem limite por IP no firewall da Vercel (10 requisições por 60 s; acima disso,
   responde 429).
 
@@ -93,9 +95,13 @@ Variáveis de ambiente (na Vercel, em *Settings → Environment Variables*):
 
 | Variável | Padrão | Para quê |
 |---|---|---|
-| `DEEPSEEK_API_KEY` | (obrigatória) | chave da API da DeepSeek |
-| `CHAT_PROVEDOR` | `deepseek` | provedor do modelo |
-| `CHAT_MODELO` | `deepseek-flash` | modelo usado |
+| `DEEPSEEK_API_KEY` | (obrigatória com o provedor `deepseek`) | chave da API da DeepSeek |
+| `CHAT_PROVEDOR` | `deepseek` | qualquer provedor embutido do Pi (`deepseek`, `opencode-go`, ...) |
+| `CHAT_MODELO` | `deepseek-flash` | modelo do catálogo desse provedor |
+
+Outros provedores usam a variável de chave própria (por exemplo `OPENCODE_API_KEY`). Exemplo com
+o OpenCode Go: `CHAT_PROVEDOR=opencode-go`, `CHAT_MODELO=deepseek-v4.1-flash` e `OPENCODE_API_KEY=...`.
+Provedor ou modelo que não existe dá erro claro.
 
 Para rodar no seu computador:
 
@@ -107,6 +113,23 @@ pnpm typecheck
 echo 'DEEPSEEK_API_KEY=sua-chave' > .env.local   # .env* está no .gitignore
 vercel dev                     # site e /api/chat em http://localhost:3000
 ```
+
+Para perguntar ao mesmo agente pelo terminal, sem a Vercel (a resposta sai aos poucos no terminal):
+
+```bash
+pnpm chat "quais vereadores mais faltaram?"
+```
+
+O comando lê `.env` e `.env.local` (ambos fora do git). Exemplo com o OpenCode Go, em `.env.local`:
+
+```
+OPENCODE_API_KEY=sua-chave
+CHAT_PROVEDOR=opencode-go
+CHAT_MODELO=deepseek-v4.1-flash
+```
+
+Sem a chave do provedor, ele avisa em português e sai com erro. O código fica em `cli/`, que não vai
+para a Vercel.
 
 A lista de perguntas para conferir o chat antes de publicar está em
 [`tests/perguntas.md`](tests/perguntas.md).
@@ -137,6 +160,7 @@ scripts/
 api/
   chat.ts               Vercel Function do chat (POST /api/chat)
 lib/                    agente, consultas e leitura dos JSONs (usados por api/chat.ts)
+cli/                    `pnpm chat`: o agente no terminal (não vai para a Vercel)
 tests/                  testes (Vitest) e perguntas.md, a lista de conferência do chat
 dados/                  dados brutos e cache (não vão para o site)
 atualizar.sh            comando principal

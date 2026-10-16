@@ -177,7 +177,7 @@ img{max-width:100%}
 .chat .dica{color:var(--muted);font-size:13px;margin:0}
 .chat .aviso-ia{margin:0;padding:6px 16px 0;font-size:12px;color:var(--muted)}
 .chat form{display:flex;gap:8px;padding:10px 16px 14px}
-.chat form input{flex:1}
+.chat form input{flex:1;font-size:16px}
 .chat form button{font:inherit;font-weight:600;background:var(--accent);color:var(--surface);border:0;border-radius:8px;padding:8px 14px;cursor:pointer}
 .chat form button:disabled{opacity:.5;cursor:default}
 </style>
@@ -857,7 +857,9 @@ function renderGov(){
 const $=s=>document.querySelector(s),box=$('#chat'),log=$('#chat-log'),inp=$('#chat-in'),btn=$('#chat-send'),fab=$('#chat-fab');
 const hist=[];let busy=false;
 const esc=s=>s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;').replace(/'/g,'&#39;');
-const inline=s=>s.replace(/\[([^\]\n]+)\]\((#[ved]\/\d+|https:\/\/[^\s)*"]+)\)/g,(_,t,u)=>u[0]==='#'?'<a href="'+u+'">'+t+'</a>':'<a href="'+u+'" target="_blank" rel="noopener">'+t+'</a>').replace(/\*\*([^*\n]+)\*\*/g,'<b>$1</b>');
+const HOSTS=['www.camarauberlandia.mg.gov.br','camarauberlandia.mg.gov.br','www.almg.gov.br','almg.gov.br','www.camara.leg.br','camara.leg.br','siconfi.tesouro.gov.br','dadosabertos.tse.jus.br'];
+const okUrl=u=>{try{const x=new URL(u.replace(/&amp;/g,'&'));return x.protocol==='https:'&&HOSTS.includes(x.host)}catch(_){return false}};
+const inline=s=>s.replace(/\[([^\]\n]+)\]\((#(?:pref|gov|[ved]\/\d+)|https:\/\/[^\s)*"]+)\)/g,(m,t,u)=>u[0]==='#'?'<a href="'+u+'">'+t+'</a>':okUrl(u)?'<a href="'+u+'" target="_blank" rel="noopener">'+t+'</a>':m).replace(/\*\*([^*\n]+)\*\*/g,'<b>$1</b>');
 window.chatRender=function(txt){
   const out=[];let ul=false,p=[];
   const fp=()=>{if(p.length)out.push('<p>'+p.join('<br>')+'</p>');p=[]};
@@ -869,11 +871,22 @@ window.chatRender=function(txt){
     else{fu();p.push(inline(l))}}
   fp();fu();return out.join('')};
 const add=(cls,html,isText)=>{const d=document.createElement('div');d.className='m '+cls;if(isText)d.textContent=html;else d.innerHTML=html;log.appendChild(d);log.scrollTop=log.scrollHeight;return d};
-const abrir=()=>{box.hidden=false;fab.hidden=true;inp.focus()};
+const toque=()=>matchMedia('(pointer: coarse)').matches;
+const fechar0=()=>{box.hidden=true;fab.hidden=false};
+const abrir=()=>{box.hidden=false;fab.hidden=true;if(!toque())inp.focus()};
 const fechar=()=>{box.hidden=true;fab.hidden=false;fab.focus()};
 fab.addEventListener('click',abrir);$('#chat-x').addEventListener('click',fechar);
 document.addEventListener('keydown',e=>{if(e.key==='Escape'&&!box.hidden)fechar()});
-log.addEventListener('click',e=>{const a=e.target.closest('a[href^="#"]');if(!a)return;e.preventDefault();const m=/^#([ved])\/(\d+)$/.exec(a.getAttribute('href'));if(!m)return;box.hidden=true;fab.hidden=false;window.abrirPolitico(m[1],m[2])});
+log.addEventListener('click',async e=>{const a=e.target.closest('a[href^="#"]');if(!a)return;e.preventDefault();const h=a.getAttribute('href');
+  const m=/^#([ved])\/(\d+)$/.exec(h);
+  if(m){fechar0();window.abrirPolitico(m[1],m[2]);return}
+  if(h==='#pref'){fechar0();window.mostrarNivel('udi');await window.udiPronto;if(window.udiTab)window.udiTab('pref');try{history.replaceState(null,'','#pref')}catch(_){}}
+  else if(h==='#gov'){fechar0();window.mostrarNivel('mg','gov')}});
+/* histórico enviado: até 10 mensagens, 2000 caracteres cada e 4000 no total (como em lib/agente.ts); corta as mais antigas e sempre mantém a última */
+const janela=()=>{const l=hist.slice(-10).map(m=>({papel:m.papel,texto:m.texto.slice(0,2000)}));
+  const tot=()=>l.reduce((n,m)=>n+m.texto.length,0);
+  while(l.length>1&&(tot()>4000||l[0].papel==='assistente'))l.shift();return l};
+window.chatJanela=janela;window.chatHist=hist;
 $('#chat-form').addEventListener('submit',async e=>{
   e.preventDefault();const q=inp.value.trim();if(!q||busy)return;
   busy=true;btn.disabled=true;inp.value='';
@@ -881,7 +894,7 @@ $('#chat-form').addEventListener('submit',async e=>{
   const el=add('a','…');log.setAttribute('aria-busy','true');
   const falha=t=>{el.className='m a err';el.textContent=t;hist.pop();inp.value=q};
   try{
-    const r=await fetch('/api/chat',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({mensagens:hist.slice(-10).map(m=>({papel:m.papel,texto:m.texto.slice(0,2000)}))})});
+    const r=await fetch('/api/chat',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({mensagens:janela()})});
     if(r.status===429)falha('Muitas perguntas seguidas. Espere um minuto.');
     else if(r.status===400){let t='Pedido inválido.';try{t=(await r.json()).erro||t}catch(_){}falha(t)}
     else if(!r.ok||!r.body)falha('Não consegui responder agora. Tente de novo.');
@@ -891,7 +904,7 @@ $('#chat-form').addEventListener('submit',async e=>{
       txt+=dec.decode();
       if(txt.trim()){el.innerHTML=window.chatRender(txt);hist.push({papel:'assistente',texto:txt})}else falha('Não consegui responder agora. Tente de novo.')}
   }catch(_){falha('Não consegui responder agora. Tente de novo.')}
-  log.removeAttribute('aria-busy');busy=false;btn.disabled=false;if(!box.hidden)inp.focus()});
+  log.removeAttribute('aria-busy');busy=false;btn.disabled=false;if(!box.hidden&&!toque())inp.focus()});
 })();
 </script>
 </body>

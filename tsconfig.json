@@ -8,5 +8,5 @@
     "skipLibCheck": true,
     "types": ["node"]
   },
-  "include": ["lib", "tests", "api", "vitest.config.ts"]
+  "include": ["cli/chat.ts", "lib", "tests", "api", "vitest.config.ts"]
 }

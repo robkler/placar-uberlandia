@@ -1,6 +1,6 @@
 import { beforeAll, expect, test } from "vitest";
 import { carregarDados, type Dados } from "../lib/dados.js";
-import { PROMPT_SISTEMA, criarAgente, criarFerramentas } from "../lib/agente.js";
+import { PROMPT_SISTEMA, criarAgente, criarFerramentas, escolherModelo, validarPedido } from "../lib/agente.js";
 
 let d: Dados;
 beforeAll(async () => { d = await carregarDados(); });
@@ -48,4 +48,27 @@ test("governo_mg e contas devolvem link do placar e fonte oficial", async () => 
   expect(g).toMatchObject({ link: "#gov", fonte: "https://dadosabertos.tse.jus.br" });
   const c = JSON.parse(((await ferramenta("contas").execute("1", { ente: "prefeitura" })).content[0] as { text: string }).text);
   expect(c).toMatchObject({ link: "#pref", fonte: "https://siconfi.tesouro.gov.br" });
+});
+
+test("prompt: sem tabelas e sem anunciar consultas", () => {
+  expect(PROMPT_SISTEMA).toContain("Não use tabelas nem títulos; use listas com '- '.");
+  expect(PROMPT_SISTEMA).toContain("Não anuncie as consultas que vai fazer; responda direto.");
+});
+
+test("escolherModelo resolve opencode-go/deepseek-v4.1-flash e o padrão deepseek", () => {
+  expect(escolherModelo("opencode-go", "deepseek-v4.1-flash").model.id).toBe("deepseek-v4.1-flash");
+  expect(escolherModelo("deepseek", "deepseek-flash").model.provider).toBe("deepseek");
+});
+
+test("escolherModelo: provedor ou modelo desconhecido dá erro claro", () => {
+  expect(() => escolherModelo("nao-existe", "x")).toThrow(/Provedor de chat não encontrado: nao-existe/);
+  expect(() => escolherModelo("deepseek", "nao-existe")).toThrow(/Modelo de chat não encontrado: deepseek\/nao-existe/);
+});
+
+test("validarPedido limita o total do histórico a 4000 caracteres", () => {
+  const msg = (papel: "usuario" | "assistente", n: number) => ({ papel, texto: "a".repeat(n) });
+  const ok = [msg("assistente", 2000), msg("usuario", 500), msg("assistente", 1500)];
+  ok.push(msg("usuario", 1));
+  expect(() => validarPedido({ mensagens: ok })).toThrow(/4000 caracteres no total/);
+  expect(validarPedido({ mensagens: [msg("assistente", 2000), msg("assistente", 1500), msg("usuario", 500)] }).mensagens).toHaveLength(3);
 });
