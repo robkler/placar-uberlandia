@@ -235,8 +235,9 @@ export function ranking(
   // Amostra pequena (menos da metade do maior total da casa) não entra no ranking.
   const minimo = maiorTotal / 2;
   const itens = todos.filter(x => x.total >= minimo);
-  const poucasSessoes = todos.filter(x => x.total < minimo)
+  const poucasTodas = todos.filter(x => x.total < minimo).sort((a, b) => b.total - a.total)
     .map(x => ({ nome: x.nome, total: x.total, link: x.link, fonte: x.fonte }));
+  const poucasSessoes = poucasTodas.slice(0, 10);
   itens.sort((a, b) =>
     metrica === "presenca"
       ? b.presencaPct - a.presencaPct || b.total - a.total
@@ -248,8 +249,8 @@ export function ranking(
       : "presença no plenário = presenças ÷ (presenças + ausências justificadas + não justificadas); faltas incluem as justificadas",
     itens: itens.slice(0, limite),
     poucasSessoes,
-    ...(poucasSessoes.length
-      ? { notaPoucasSessoes: "Estas pessoas têm menos da metade do maior número de sessões da casa (ex.: suplentes); por isso ficam fora do ranking, pois a porcentagem delas não é comparável." }
+    ...(poucasTodas.length
+      ? { totalPoucasSessoes: poucasTodas.length, notaPoucasSessoes: "Estas pessoas têm menos da metade do maior número de sessões da casa (ex.: suplentes); por isso ficam fora do ranking, pois a porcentagem delas não é comparável." }
       : {}),
   };
 }
@@ -488,11 +489,13 @@ export function votacaoPorPartido(d: Dados, casa: "vereador" | "federal", id: st
   const alvo = String(id);
   const v = ((casa === "vereador" ? d.udi?.votacoes : d.fed?.votacoes) ?? []).find((x: any) => String(x.id) === alvo);
   if (!v) throw new Error(`Votação com id ${alvo} não encontrada.`);
-  type Conta = { partido: string; sim: number; nao: number; outros: number; ausentes: number; total: number };
+  type Conta = { partido: string; sim: number; nao: number; outros: number; total: number; [k: string]: string | number };
+  const ausente = casa === "vereador" ? "ausentes" : "semVotoRegistrado";
   const por = new Map<string, Conta>();
-  const contar = (partido: string, tipo: "sim" | "nao" | "outros" | "ausentes") => {
-    const c = por.get(partido) ?? { partido, sim: 0, nao: 0, outros: 0, ausentes: 0, total: 0 };
-    c[tipo]++; c.total++;
+  const contar = (partido: string, tipo: "sim" | "nao" | "outros" | "ausente") => {
+    const chave = tipo === "ausente" ? ausente : tipo;
+    const c = por.get(partido) ?? { partido, sim: 0, nao: 0, outros: 0, [ausente]: 0, total: 0 };
+    (c[chave] as number)++; c.total++;
     por.set(partido, c);
   };
   if (casa === "vereador") {
@@ -501,31 +504,44 @@ export function votacaoPorPartido(d: Dados, casa: "vereador" | "federal", id: st
     for (const r of d.udi.vereadores ?? []) partidoDe.set(String(r.id), r.partido);
     for (const [vid, voto] of Object.entries<string>(v.votos ?? {})) {
       contar(partidoDe.get(vid) ?? "Sem partido",
-        voto === "Sim" ? "sim" : voto === "Não" ? "nao" : voto === "Ausente" ? "ausentes" : "outros");
+        voto === "Sim" ? "sim" : voto === "Não" ? "nao" : voto === "Ausente" ? "ausente" : "outros");
     }
   } else {
     const partidoDe = new Map<string, string>((d.fed.deputados as any[]).map(r => [String(r.id), r.partido]));
     (d.fed.ordem as string[]).forEach((did, i) => {
       const c = v.v?.[i];
       contar(partidoDe.get(String(did)) ?? "Sem partido",
-        c === "S" ? "sim" : c === "N" ? "nao" : c === "-" ? "ausentes" : "outros");
+        c === "S" ? "sim" : c === "N" ? "nao" : c === "-" ? "ausente" : "outros");
     });
   }
   const partidos = [...por.values()].sort((a, b) => b.total - a.total || a.partido.localeCompare(b.partido));
-  return {
+  const soma = (k: "sim" | "nao" | "outros") => partidos.reduce((t, p) => t + p[k], 0);
+  const cabeca = {
     data: v.data, materia: casa === "vereador" ? v.materia : v.prop, ementa: cortar(v.ementa),
     resultado: casa === "vereador" ? v.resultado : v.res,
     ...linkVotacao(casa, v),
     referencia: casa === "vereador" ? { maioria: v.maioria } : { governo: v.gov || "Sem orientação" },
-    ...(casa === "federal"
-      ? { notaPartido: "Partido atual de cada deputado (federal.json), não necessariamente o da data da votação." }
-      : {}),
-    ...(casa === "federal"
-      ? {
-          totaisOficiais: { sim: v.sim, nao: v.nao, outros: v.outros },
-          notaTotais: "Os partidos somam os votos individuais registrados (S, N, abstenção/obstrução/Art. 17 em outros, '-' em ausentes); o total oficial da votação pode diferir um pouco (inclusive em votações simbólicas, sem voto individual).",
-        }
-      : {}),
+    notaPartido: casa === "federal"
+      ? "Partido atual de cada deputado (federal.json), não necessariamente o da data da votação."
+      : "Partido atual de cada vereador (o último registrado), não necessariamente o da data da votação.",
+  };
+  if (casa === "federal") {
+    const oficiais = { sim: v.sim as number, nao: v.nao as number, outros: v.outros as number };
+    if (soma("sim") + soma("nao") + soma("outros") === 0 && oficiais.sim + oficiais.nao + oficiais.outros > 0) {
+      return { ...cabeca, totaisOficiais: oficiais, nota: "A Câmara não publicou o voto individual desta votação." };
+    }
+    return {
+      ...cabeca,
+      totaisOficiais: oficiais,
+      votosNaoAtribuidos: { sim: oficiais.sim - soma("sim"), nao: oficiais.nao - soma("nao"), outros: oficiais.outros - soma("outros") },
+      notaTotais: "Os partidos contam só os deputados atuais, pelo partido atual: votos de quem já saiu da Câmara não aparecem (ficam em votosNaoAtribuidos, a diferença para o total oficial). 'semVotoRegistrado' inclui ausentes e quem ainda não tinha mandato na data. Abstenção, obstrução e Art. 17 estão em outros.",
+      resumo: { partidos: partidos.length, partidosComUmParlamentar: partidos.filter(p => p.total === 1).length },
+      partidos,
+    };
+  }
+  return {
+    ...cabeca,
+    resumo: { partidos: partidos.length, partidosComUmParlamentar: partidos.filter(p => p.total === 1).length },
     partidos,
   };
 }

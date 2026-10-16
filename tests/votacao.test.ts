@@ -34,6 +34,9 @@ test("votacaoPorPartido federal: soma bate e PL tem total da ordem", () => {
   expect(r.partidos.reduce((s: number, p: any) => s + p.nao, 0)).toBe(4);
   expect(r.partidos.reduce((s: number, p: any) => s + p.outros, 0)).toBe(1);
   expect(r.partidos.reduce((s: number, p: any) => s + p.total, 0)).toBe(d.fed.ordem.length);
+  expect(r.votosNaoAtribuidos).toEqual({ sim: 1, nao: 0, outros: 0 });
+  expect(r.partidos[0]).toHaveProperty("semVotoRegistrado");
+  expect(r.partidos[0]).not.toHaveProperty("ausentes");
   const pl = d.fed.deputados.filter((x: any) => x.partido === "PL" && d.fed.ordem.includes(x.id)).length;
   expect(r.partidos.find((p: any) => p.partido === "PL").total).toBe(pl);
   expect(r.notaPartido).toMatch(/[Pp]artido atual/);
@@ -68,4 +71,24 @@ test("votações trazem link e fonte oficial", () => {
   expect(v.link).toBe("#vot");
   expect(v.fonte).toMatch(/materia_mostrar_proc\?cod_materia=\d+$/);
   expect((votacaoPorPartido(d, "vereador", v.id) as any).fonte).toBe(v.fonte);
+});
+
+test("federal sem voto individual (PDL 995): só totais oficiais e nota", () => {
+  const r: any = votacaoPorPartido(d, "federal", "2645346-18");
+  expect(r.partidos).toBeUndefined();
+  expect(r.totaisOficiais.sim).toBe(404);
+  expect(r.nota).toBe("A Câmara não publicou o voto individual desta votação.");
+});
+test("federal antiga tem votos não atribuídos (ex-deputados)", () => {
+  const v = d.fed.votacoes.find((x: any) => x.data.startsWith("2024"));
+  const r: any = votacaoPorPartido(d, "federal", v.id);
+  const n = r.votosNaoAtribuidos;
+  expect(n.sim + n.nao + n.outros).toBeGreaterThan(0);
+});
+test("resumo conta partidos e partidos de 1 parlamentar; vereador tem notaPartido", () => {
+  const r: any = votacaoPorPartido(d, "vereador", d.udi.votacoes[0].id);
+  expect(r.resumo).toEqual({ partidos: r.partidos.length, partidosComUmParlamentar: r.partidos.filter((p: any) => p.total === 1).length });
+  expect(r.notaPartido).toMatch(/[Pp]artido atual/);
+  const f: any = votacaoPorPartido(d, "federal", (buscarVotacoes(d, "federal", "PLP 186") as any[])[0].id);
+  expect(f.resumo.partidos).toBe(f.partidos.length);
 });

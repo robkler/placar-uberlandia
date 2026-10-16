@@ -100,3 +100,7 @@ test("prompt: avisa quando nada serve e pede contagem em rankings por partido", 
 test("prompt: sem link devolvido, sem link escrito", () => {
   expect(PROMPT_SISTEMA).toContain("Se a ferramenta não devolver link, não escreva link nenhum.");
 });
+
+test("prompt: o agente não faz contas", () => {
+  expect(PROMPT_SISTEMA).toContain("Não faça contas: não some, não tire média, não conte itens nem calcule diferenças com os números das ferramentas; use só os totais que elas devolverem. Se o número pronto não vier, diga que o placar ainda não calcula isso.");
+});

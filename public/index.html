@@ -881,6 +881,8 @@ log.addEventListener('click',async e=>{const a=e.target.closest('a[href^="#"]');
   const m=/^#([ved])\/(\d+)$/.exec(h);
   if(m){fechar0();window.abrirPolitico(m[1],m[2]);return}
   if(h==='#pref'){fechar0();window.mostrarNivel('udi');await window.udiPronto;if(window.udiTab)window.udiTab('pref');try{history.replaceState(null,'','#pref')}catch(_){}}
+  else if(h==='#vot'){fechar0();window.mostrarNivel('udi');await window.udiPronto;if(window.udiTab)window.udiTab('vot');try{history.replaceState(null,'','#vot')}catch(_){}}
+  else if(h==='#fvot'){fechar0();window.mostrarNivel('fed','fvot')}
   else if(h==='#gov'){fechar0();window.mostrarNivel('mg','gov')}});
 /* histórico enviado: até 10 mensagens, 2000 caracteres cada e 4000 no total (como em lib/agente.ts); corta as mais antigas e sempre mantém a última */
 const janela=()=>{const l=hist.slice(-10).map(m=>({papel:m.papel,texto:m.texto.slice(0,2000)}));

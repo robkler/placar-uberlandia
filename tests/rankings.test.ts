@@ -85,3 +85,9 @@ test("item de partido: média só em métricas de valor", () => {
   const valor: any = rankingMetrica(dados, "vereador", "patrimonio", { agrupar: "partido" });
   expect(valor.itens[0]).toHaveProperty("media");
 });
+
+test("ranking() antigo limita poucasSessoes a 10 e informa o total", () => {
+  const r: any = ranking(dados, "federal", "presenca");
+  expect(r.poucasSessoes.length).toBeLessThanOrEqual(10);
+  expect(r.totalPoucasSessoes).toBeGreaterThanOrEqual(r.poucasSessoes.length);
+});
