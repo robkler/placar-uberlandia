@@ -11,6 +11,7 @@ import html
 import os
 import re
 import sys
+import unicodedata
 
 from comum import DADOS, PUBLIC, LEGISLATURA_INICIO, ler_json, log, salvar_json
 
@@ -63,6 +64,96 @@ def carregar_votacoes():
                 votos=votos, maioria='Sim' if c['Sim'] >= c['Não'] else 'Não',
                 disputada=min(c['Sim'], c['Não']) >= 3))
     return sessoes, votacoes, nomes
+
+
+PREFIXOS_PROJETO = ('Projeto de Lei Ordinária', 'Projeto de Lei Complementar', 'Proposta de Emenda à Lei Orgânica')
+RESSALVA_PROJETOS = 'Só entram projetos com votação nominal; aprovações em votação simbólica não aparecem.'
+STATUS_PROJETO = ('aprovado', 'rejeitado', 'em_tramitacao', 'vetado')
+
+
+def sem_acento(t):
+    t = unicodedata.normalize('NFD', t or '')
+    return re.sub(r'\s+', ' ', ''.join(c for c in t if not unicodedata.combining(c)).casefold()).strip()
+
+
+def status_projeto(vots):
+    """Status de um projeto a partir das suas votações nominais (já ordenadas por data e id).
+
+    Vale a última votação que não é de veto: "Aprovado em 2ª Discussão", "Aprovado" ou discussão
+    única aprovada = aprovado; "Aprovado em 1ª Discussão" ou "Rejeitado Parecer Contrário" (o
+    projeto segue) = em_tramitacao; "Rejeitado" ou "Mantido Parecer Contrário" (arquivado) =
+    rejeitado. Veto Mantido = vetado; Veto Rejeitado (veto derrubado) mantém aprovado.
+    Qualquer outro resultado (ex.: "Aprovado Parecer da Comissão") é só parecer: não muda o
+    status; sem votação decisiva o projeto fica em_tramitacao."""
+    vetos = [v for v in vots if v['turno'] == 'Apreciar veto' or v['resultado'].startswith('Veto')]
+    if vetos:
+        return 'vetado' if vetos[-1]['resultado'].startswith('Veto Mantido') else 'aprovado'
+    for v in reversed(vots):
+        r = v['resultado']
+        if r.startswith(('Aprovado em 2ª', 'Aprovado em Discussão Única')) or r == 'Aprovado':
+            return 'aprovado'
+        if r.startswith(('Aprovado em 1ª', 'Rejeitado Parecer Contrário')):
+            return 'em_tramitacao'
+        if r == 'Rejeitado' or r.startswith('Mantido Parecer Contrário'):
+            return 'rejeitado'
+    return 'em_tramitacao'
+
+
+def resumo_vazio():
+    return dict(votados=0, aprovados=0, rejeitados=0, emTramitacao=0, vetados=0)
+
+
+def somar_resumo(r, status):
+    r['votados'] += 1
+    r[{'aprovado': 'aprovados', 'rejeitado': 'rejeitados', 'em_tramitacao': 'emTramitacao', 'vetado': 'vetados'}[status]] += 1
+
+
+def projetos_votados(votacoes, vereadores, nomes):
+    """Projetos de lei com votação nominal, por vereador (autoria) e no total da Câmara."""
+    por_nome = {}
+    for v in vereadores:
+        por_nome[sem_acento(v['nome'])] = v['id']
+    for i, n in nomes.items():
+        por_nome.setdefault(sem_acento(n['nome']), i)
+    ids_perfil = {v['id'] for v in vereadores}
+    grupos = collections.defaultdict(list)
+    for v in sorted(votacoes, key=lambda v: (v['data'], v['id'])):
+        if v['materia'].startswith(PREFIXOS_PROJETO):
+            grupos[v['materiaId']].append(v)
+    por_ver = {v['id']: dict(**resumo_vazio(), lista=[]) for v in vereadores}
+    novo_resumo = lambda: dict(**resumo_vazio(), porAutor={k: resumo_vazio() for k in ('prefeitura', 'vereadores', 'comissoes')})
+    total, por_ano = novo_resumo(), collections.defaultdict(novo_resumo)
+    sem_match = set()
+    for mid, vots in grupos.items():
+        ult = vots[-1]
+        status = status_projeto(vots)
+        if ult['autorTipo'] == 'Prefeitura':
+            tipo, dono = 'prefeitura', None
+        elif ult['autorTipo'] == 'Vereador':
+            aut = ult['autor']
+            if sem_acento(aut).startswith(('comissao', 'mesa diretora')):
+                tipo, dono = 'comissoes', None
+            else:
+                tipo, dono = 'vereadores', por_nome.get(sem_acento(aut))
+                if dono is None:
+                    sem_match.add(aut)
+                elif dono not in ids_perfil:
+                    sem_match.add(f'{aut} (sem perfil, só no total)')
+        else:
+            tipo, dono = 'vereadores', None
+            sem_match.add(f'{ult["materia"]} (sem autor)')
+        for r in (total, por_ano[ult['data'][:4]]):
+            somar_resumo(r, status)
+            somar_resumo(r['porAutor'][tipo], status)
+        if dono in por_ver:
+            r = por_ver[dono]
+            somar_resumo(r, status)
+            r['lista'].append(dict(materia=ult['materia'], materiaId=mid, status=status, data=ult['data']))
+    for r in por_ver.values():
+        r['lista'].sort(key=lambda x: x['data'], reverse=True)
+    if sem_match:
+        log(f'  aviso: autores sem vereador com perfil: {"; ".join(sorted(sem_match))}')
+    return por_ver, dict(ressalva=RESSALVA_PROJETOS, porAno=dict(sorted(por_ano.items())), total=total)
 
 
 def montar_vereador(d, votacoes, tse, hoje):
@@ -153,6 +244,9 @@ def main():
     sessoes, votacoes, nomes = carregar_votacoes()
     vereadores = sorted((montar_vereador(ler_json(os.path.join(CAMARA, 'vereadores', f'{i}.json')), votacoes, tse, hoje)
                          for i in ids), key=lambda v: v['nome'])
+    por_ver, camara_proj = projetos_votados(votacoes, vereadores, nomes)
+    for v in vereadores:
+        v['projetos'] = por_ver[v['id']]
     pv = [v for v in votacoes if v['autorTipo'] == 'Prefeitura']
     pessoas = []
     for k, cargo in (('prefeito', 'Prefeito'), ('vice', 'Vice-prefeito')):
@@ -162,7 +256,7 @@ def main():
     novo = dict(
         gerado=dt.datetime.now().isoformat(timespec='minutes'),
         coletadoCamara=ler_json(os.path.join(CAMARA, 'coletado_em.json')),
-        vereadores=vereadores, votacoes=votacoes, nomes=nomes,
+        vereadores=vereadores, votacoes=votacoes, nomes=nomes, camaraProjetos=camara_proj,
         prefeitura=dict(pessoas=pessoas, eleicao=tse_all.get('eleicaoPrefeito', []), fin=financas(), pop=pop,
                         votacoesPrefeitura=len(pv), aprovadasPrefeitura=sum(1 for v in pv if v['resultado'].startswith('Aprovado'))))
     erros = validar(novo, ler_json(SAIDA))
