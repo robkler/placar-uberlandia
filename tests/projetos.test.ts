@@ -59,20 +59,22 @@ test("ranking por pessoa de projetos_aprovados: Antônio Carrijo (4) primeiro", 
   expect(r.itens[0]).toMatchObject({ nome: expect.stringMatching(/Carrijo/), valor: 4 });
 });
 
-test("taxa_aprovacao_projetos: sem votados vai a semDado; sem corte de amostra; den visível", () => {
+test("taxa_aprovacao_projetos: menos de 3 votados fora do ranking, em poucosProjetos; num/den nos itens", () => {
   const r: any = rankingMetrica(d, "vereador", "taxa_aprovacao_projetos", { limite: 30 });
   expect(r.semDado).toBe(13);
   expect(r.poucasSessoes).toBeUndefined();
-  expect(r.totalPoucasSessoes).toBeUndefined();
-  const [a] = r.itens;
-  expect(a).toMatchObject({ valor: 100, num: 1, den: 1 });
-  const carrijo = r.itens.find((i: any) => /Carrijo/.test(i.nome));
-  expect(carrijo).toMatchObject({ valor: 80, num: 4, den: 5 });
-  expect(r.itens.length).toBe(14); // todos com pelo menos 1 projeto votado entram, mesmo com 1 (27 vereadores − 13 sem projeto)
+  expect(r.itens[0]).toMatchObject({ valor: 80, num: 4, den: 5 });
+  expect(r.itens[0].nome).toMatch(/Carrijo/);
+  expect(r.itens.every((i: any) => i.den >= 3)).toBe(true);
+  expect(r.totalPoucosProjetos).toBe(r.poucosProjetos.length);
+  expect(r.poucosProjetos.map((x: any) => x.nome)).toContain("Zezinho Mendonça");
+  expect(r.poucosProjetos.every((x: any) => x.total < 3)).toBe(true);
+  expect(r.notaPoucosProjetos).toContain("menos de 3 projetos votados ficaram fora: a taxa com 1 ou 2 projetos não é comparável.");
 });
 
-test("taxa_aprovacao_projetos por partido soma num e den", () => {
+test("taxa_aprovacao_projetos por partido: só quem tem 3+ votados entra na soma", () => {
   const r: any = rankingMetrica(d, "vereador", "taxa_aprovacao_projetos", { agrupar: "partido" });
-  const pp = r.itens.find((i: any) => i.partido === "PP");
-  expect(pp).toMatchObject({ num: 6, den: 9, valor: 66.7, parlamentares: 4 });
+  expect(r.itens[0]).toMatchObject({ partido: "PP", num: 4, den: 5, valor: 80, parlamentares: 1, aviso: "poucos parlamentares" });
+  expect(r.itens).toHaveLength(5);
+  expect(r.notaPoucosProjetos).toContain("do ranking e da soma dos partidos");
 });

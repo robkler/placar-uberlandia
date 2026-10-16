@@ -280,8 +280,8 @@ interface Metrica {
   tipo: "taxa" | "valor";
   descricao: string;
   unidade?: Unidade;
-  /** Taxa sem corte de amostra pequena (quem não tem denominador já vai para semDado). */
-  semCorteAmostra?: boolean;
+  /** Corte fixo: denominador menor que isto fica fora do ranking (em vez da metade da mediana). */
+  denMinimo?: number;
 }
 type Extrator = (r: any) => number | { num: number; den: number } | null | undefined;
 
@@ -294,8 +294,8 @@ const plenFed = (r: any) => (r.plen as number[] | undefined) ?? null;
 const propsValor = (r: any, k: string) => r.props?.[k];
 
 const def = (
-  tipo: "taxa" | "valor", unidade: Unidade, descricao: string, ext: Extrator, semCorteAmostra = false,
-): [Metrica, Extrator] => [{ tipo, unidade, descricao, ...(semCorteAmostra ? { semCorteAmostra } : {}) }, ext];
+  tipo: "taxa" | "valor", unidade: Unidade, descricao: string, ext: Extrator, denMinimo?: number,
+): [Metrica, Extrator] => [{ tipo, unidade, descricao, ...(denMinimo ? { denMinimo } : {}) }, ext];
 
 const CATALOGO: Record<Casa, Record<string, [Metrica, Extrator]>> = {
   vereador: {
@@ -319,8 +319,8 @@ const CATALOGO: Record<Casa, Record<string, [Metrica, Extrator]>> = {
       "Projetos de lei de autoria do vereador que terminaram aprovados (não inclui os vetados, que contam à parte). Só votações nominais.",
       r => r.projetos?.aprovados),
     taxa_aprovacao_projetos: def("taxa", "pct",
-      "Taxa de aprovação: projetos aprovados ÷ projetos votados do vereador. Quem não teve projeto votado fica em semDado; não há corte de amostra pequena, então confira num/den (ex.: 1 de 1).",
-      r => taxa(r.projetos?.aprovados, r.projetos?.votados), true),
+      "Taxa de aprovação: projetos aprovados ÷ projetos votados do vereador. Quem não teve projeto votado fica em semDado; quem teve menos de 3 projetos votados fica fora do ranking e vem em poucosProjetos (a taxa com 1 ou 2 projetos não é comparável). Os itens trazem num/den.",
+      r => taxa(r.projetos?.aprovados, r.projetos?.votados), 3),
     votos_eleicao: def("valor", "votos", "Votos recebidos na eleição de 2024.", r => r.tse?.votos2024 ?? r.votosEleicao),
     patrimonio: def("valor", "reais", "Patrimônio declarado ao TSE (2024).", r => r.tse?.patrimonio),
     gasto_campanha: def("valor", "reais", "Gasto de campanha declarado ao TSE (2024).", r => r.tse?.campanha),
@@ -394,10 +394,10 @@ export function rankingMetrica(
   };
   const ehTaxa = def_.tipo === "taxa";
   // Amostra pequena: menos da metade da mediana dos denominadores da casa (antes do filtro de UF).
-  // Métrica com semCorteAmostra (projetos) não tem corte: den = 0 já vira semDado em extrair().
-  const dens = ehTaxa && !def_.semCorteAmostra ? base.map(r => (extrair(r) as any)?.den ?? 0).filter(n => n > 0).sort((x, y) => x - y) : [];
+  // Métrica com denMinimo (projetos) usa corte fixo; den = 0 já vira semDado em extrair().
+  const dens = ehTaxa && !def_.denMinimo ? base.map(r => (extrair(r) as any)?.den ?? 0).filter(n => n > 0).sort((x, y) => x - y) : [];
   const mediana = dens.length ? (dens[(dens.length - 1) >> 1] + dens[dens.length >> 1]) / 2 : 0;
-  const minimo = mediana / 2;
+  const minimo = def_.denMinimo ?? mediana / 2;
 
   type Linha = { p: Pessoa; num?: number; den?: number; valor: number };
   const consideradas: Linha[] = [];
@@ -408,7 +408,7 @@ export function rankingMetrica(
     const x = extrair(r);
     if (!x) { semDado++; continue; }
     const { p } = achar(d, casa, r.id);
-    if (ehTaxa && !def_.semCorteAmostra && (x as any).den < minimo) {
+    if (ehTaxa && (x as any).den < minimo) {
       poucas.push({ nome: p.nome, total: (x as any).den, link: p.link, fonte: p.fonte });
       continue;
     }
@@ -416,8 +416,14 @@ export function rankingMetrica(
   }
   const sinal = ordem === "maior" ? -1 : 1;
   poucas.sort((x, y) => y.total - x.total);
+  const fixo = def_.denMinimo != null;
   const extras = {
-    ...(poucas.length ? {
+    ...(poucas.length && fixo ? {
+      poucosProjetos: poucas.slice(0, 10),
+      totalPoucosProjetos: poucas.length,
+      notaPoucosProjetos: `${poucas.length} ${poucas.length === 1 ? "vereador com" : "vereadores com"} menos de ${def_.denMinimo} projetos votados ficaram fora${agrupar === "partido" ? " do ranking e da soma dos partidos" : ""}: a taxa com 1 ou 2 projetos não é comparável.${poucas.length > 10 ? " Mostrando 10." : ""}`,
+    } : {}),
+    ...(poucas.length && !fixo ? {
       poucasSessoes: poucas.slice(0, 10),
       notaPoucasSessoes: `${poucas.length} ${poucas.length === 1 ? "parlamentar com" : "parlamentares com"} menos da metade da mediana de sessões/votações da casa (ex.: suplentes) ficaram fora do ranking${agrupar === "partido" ? " e da soma dos partidos" : ""}, pois a taxa deles não é comparável${poucas.length > 10 ? "; mostrando 10" : ""}.`,
       totalPoucasSessoes: poucas.length,

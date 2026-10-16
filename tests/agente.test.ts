@@ -116,3 +116,7 @@ test("projetos_camara devolve o total e o ano da Câmara", async () => {
 test("prompt: deputados só têm leis aprovadas, não projetos votados", () => {
   expect(PROMPT_SISTEMA).toContain("Para deputados federais e estaduais, o placar só sabe quantos projetos viraram lei, não quantos foram votados.");
 });
+
+test("prompt: taxa de aprovação sempre em 'X de Y projetos'", () => {
+  expect(PROMPT_SISTEMA).toContain("Em taxa de aprovação de projetos, sempre diga 'X de Y projetos'.");
+});

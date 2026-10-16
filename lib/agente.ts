@@ -36,7 +36,8 @@ Regras:
 - Em rankings por partido, diga quantos parlamentares cada partido tem e avise quando forem poucos.
 - Se a ferramenta não devolver link, não escreva link nenhum.
 - Não faça contas: não some, não tire média, não conte itens nem calcule diferenças com os números das ferramentas; use só os totais que elas devolverem. Se o número pronto não vier, diga que o placar ainda não calcula isso.
-- Para deputados federais e estaduais, o placar só sabe quantos projetos viraram lei, não quantos foram votados.`;
+- Para deputados federais e estaduais, o placar só sabe quantos projetos viraram lei, não quantos foram votados.
+- Em taxa de aprovação de projetos, sempre diga 'X de Y projetos'.`;
 
 const Casa = Type.Union([Type.Literal("vereador"), Type.Literal("estadual"), Type.Literal("federal")], {
   description: "vereador (Uberlândia), estadual (ALMG) ou federal (Câmara dos Deputados)",
@@ -71,7 +72,7 @@ export function criarFerramentas(d: Dados): AgentTool<any>[] {
   const rank: AgentTool<any> = {
     name: "ranking",
     label: "Ranking",
-    description: "Ranking de parlamentares ou de partidos por uma métrica do catálogo (use `metricas` para ver os ids de cada casa): presença, faltas, votos contra a maioria, alinhamento ao governo, proposições, projetos votados e aprovados e taxa de aprovação (vereadores), leis aprovadas (deputados), cota parlamentar, verba indenizatória, patrimônio, votos na eleição etc. Funciona para vereador, estadual e federal. `agrupar` = pessoa (padrão) ou partido; `ordem` = maior (padrão) ou menor; `ordenarPor` = total (padrão) ou media (por parlamentar; só em partido com métrica de valor, use quando a pergunta pedir média/médio); `uf` só para federal. Devolve a descrição da métrica e os itens: por pessoa, nome, partido, valor, link do placar e link oficial; por partido, partido, nº de parlamentares, valor (taxa somada ou, em métricas de valor, total) e, só em métricas de valor, média por parlamentar, com aviso quando há 1 ou 2 parlamentares. Quem tem poucas sessões (suplentes) fica fora e vem em poucasSessoes; semDado conta quem não tem o número.",
+    description: "Ranking de parlamentares ou de partidos por uma métrica do catálogo (use `metricas` para ver os ids de cada casa): presença, faltas, votos contra a maioria, alinhamento ao governo, proposições, projetos votados e aprovados e taxa de aprovação (vereadores), leis aprovadas (deputados), cota parlamentar, verba indenizatória, patrimônio, votos na eleição etc. Funciona para vereador, estadual e federal. `agrupar` = pessoa (padrão) ou partido; `ordem` = maior (padrão) ou menor; `ordenarPor` = total (padrão) ou media (por parlamentar; só em partido com métrica de valor, use quando a pergunta pedir média/médio); `uf` só para federal. Devolve a descrição da métrica e os itens: por pessoa, nome, partido, valor, link do placar e link oficial; por partido, partido, nº de parlamentares, valor (taxa somada ou, em métricas de valor, total) e, só em métricas de valor, média por parlamentar, com aviso quando há 1 ou 2 parlamentares. Quem tem poucas sessões (suplentes) fica fora e vem em poucasSessoes (na taxa de aprovação de projetos, quem teve menos de 3 projetos votados vem em poucosProjetos); semDado conta quem não tem o número.",
     parameters: Type.Object({
       casa: Casa,
       metrica: Type.String({ description: "id da métrica, ex.: faltas, presenca, contra_maioria, alinhamento_governo, verba_indenizatoria, patrimonio" }),

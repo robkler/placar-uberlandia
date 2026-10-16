@@ -94,8 +94,9 @@ proposições, contas da Prefeitura e do Estado, governo de Minas). Roda numa Ve
   - projetos de lei votados e aprovados pela Câmara de Uberlândia: totais e por ano (ferramenta
     `projetos_camara`, "quantos projetos a Câmara votou e aprovou em 2025?", quantos eram da Prefeitura),
     projetos votados no perfil de cada vereador e rankings por pessoa ou partido de projetos votados,
-    projetos aprovados e taxa de aprovação (aprovados ÷ votados; sem corte de amostra pequena, então
-    o chat mostra "1 de 1" quando for o caso, e quem não teve projeto votado fica fora). Para deputados
+    projetos aprovados e taxa de aprovação (aprovados ÷ votados; quem teve menos de 3 projetos votados fica fora do
+    ranking e da soma dos partidos, e vem listado à parte, pois a taxa com 1 ou 2 projetos não é
+    comparável; o chat sempre diz "X de Y projetos"; quem não teve projeto votado fica fora). Para deputados
     federais e estaduais só existe "leis aprovadas", não projetos votados;
   - contas da Prefeitura e do Estado e o governo de Minas.
 
@@ -219,7 +220,7 @@ vercel.json             configuração da Vercel (pasta public, cache, função 
   projeto de aprovados e o conta em **vetados** (à parte, categoria exclusiva); "Veto Rejeitado" mantém
   aprovado. O ano do projeto é o ano da última votação (inclui veto). Autor: Prefeitura e comissões
   entram só no total da Câmara; vereadores são ligados pelo nome (ex-vereadores contam só no total).
-  **Taxa de aprovação** = aprovados ÷ votados. Ressalva: "Só entram projetos com votação nominal;
+  **Taxa de aprovação** = aprovados ÷ votados, só para quem teve pelo menos 3 projetos votados. Ressalva: "Só entram projetos com votação nominal;
   aprovações em votação simbólica não aparecem."
 - **Presença dos deputados federais**: é a contagem oficial da Câmara (presenças, ausências
   justificadas e não justificadas). A % conta ausência justificada como ausência.
