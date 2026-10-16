@@ -1,0 +1,127 @@
+{
+ "@components": {
+  "actions": {
+   "@id": "https://www.camarauberlandia.mg.gov.br/atividade-legislativa/sessoes/1687/@actions"
+  },
+  "aliases": {
+   "@id": "https://www.camarauberlandia.mg.gov.br/atividade-legislativa/sessoes/1687/@aliases"
+  },
+  "breadcrumbs": {
+   "@id": "https://www.camarauberlandia.mg.gov.br/atividade-legislativa/sessoes/1687/@breadcrumbs"
+  },
+  "contextnavigation": {
+   "@id": "https://www.camarauberlandia.mg.gov.br/atividade-legislativa/sessoes/1687/@contextnavigation"
+  },
+  "navigation": {
+   "@id": "https://www.camarauberlandia.mg.gov.br/atividade-legislativa/sessoes/1687/@navigation"
+  },
+  "navroot": {
+   "@id": "https://www.camarauberlandia.mg.gov.br/atividade-legislativa/sessoes/1687/@navroot"
+  }
+ },
+ "@id": "https://www.camarauberlandia.mg.gov.br/atividade-legislativa/sessoes/1687",
+ "@type": "Sessao",
+ "ata": [
+  {
+   "content-type": "application/pdf",
+   "download": "https://e-processos.camarauberlandia.mg.gov.br/@@sapl_documentos_download?path=ata_sessao/1687_ata_sessao.pdf",
+   "filename": "1687_ata_sessao.pdf",
+   "size": ""
+  }
+ ],
+ "date": "2026-04-16",
+ "description": "5ª Reunião Extraordinária - 16/04/2026",
+ "endTime": "",
+ "id": "1687",
+ "parent": {
+  "@id": "https://www.camarauberlandia.mg.gov.br/atividade-legislativa/sessoes",
+  "title": "Pautas das Sessões"
+ },
+ "pauta": [],
+ "presenca": {
+  "@id": "https://www.camarauberlandia.mg.gov.br/atividade-legislativa/sessoes/1687/presenca",
+  "@type": "presencaSessao",
+  "chamadaRegimental": [
+   {
+    "ausentes": [],
+    "ausentes_qtde": "0",
+    "justificados": [],
+    "justificados_qtde": "0",
+    "presentes": [],
+    "presentes_qtde": "0"
+   }
+  ],
+  "description": "5ª Reunião Extraordinária - 16/04/2026",
+  "ordemDia": [
+   {
+    "ausentes": [],
+    "ausentes_qtde": "0",
+    "justificados": [],
+    "justificados_qtde": "0",
+    "presentes": [],
+    "presentes_qtde": "0"
+   }
+  ],
+  "title": "Listas de presença na reunião plenária"
+ },
+ "startTime": "11:30",
+ "title": "5ª Reunião Extraordinária",
+ "type": "Extraordinária",
+ "type_id": 2,
+ "votacao": {
+  "@id": "https://www.camarauberlandia.mg.gov.br/atividade-legislativa/sessoes/1687/votacao",
+  "@type": "votacaoNominal",
+  "description": "5ª Reunião Extraordinária – 16/04/2026",
+  "items": [
+   {
+    "abstencao": 0,
+    "apuracao": [
+     {
+      "resultado": "Aprovado em 2ª Discussão"
+     }
+    ],
+    "ausente": 0,
+    "contrario": 0,
+    "favoravel": 0,
+    "presidencia": 0,
+    "quorum": "Maioria simples",
+    "tipo_votacao": "Simbólica",
+    "turno": "2ª Discussão",
+    "votos": [
+     {
+      "abstencao": [],
+      "ausente": [],
+      "contrario": [],
+      "favoravel": [],
+      "presidencia": []
+     }
+    ]
+   },
+   {
+    "abstencao": 0,
+    "apuracao": [
+     {
+      "resultado": "Aprovado em 2ª Discussão"
+     }
+    ],
+    "ausente": 0,
+    "contrario": 0,
+    "favoravel": 0,
+    "presidencia": 0,
+    "quorum": "Maioria simples",
+    "tipo_votacao": "Simbólica",
+    "turno": "2ª Discussão",
+    "votos": [
+     {
+      "abstencao": [],
+      "ausente": [],
+      "contrario": [],
+      "favoravel": [],
+      "presidencia": []
+     }
+    ]
+   }
+  ],
+  "title": "Lista de votação nominal"
+ }
+}

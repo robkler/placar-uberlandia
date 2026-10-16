@@ -1,0 +1,242 @@
+{
+ "@components": {
+  "actions": {
+   "@id": "https://www.camarauberlandia.mg.gov.br/atividade-legislativa/sessoes/1537/@actions"
+  },
+  "aliases": {
+   "@id": "https://www.camarauberlandia.mg.gov.br/atividade-legislativa/sessoes/1537/@aliases"
+  },
+  "breadcrumbs": {
+   "@id": "https://www.camarauberlandia.mg.gov.br/atividade-legislativa/sessoes/1537/@breadcrumbs"
+  },
+  "contextnavigation": {
+   "@id": "https://www.camarauberlandia.mg.gov.br/atividade-legislativa/sessoes/1537/@contextnavigation"
+  },
+  "navigation": {
+   "@id": "https://www.camarauberlandia.mg.gov.br/atividade-legislativa/sessoes/1537/@navigation"
+  },
+  "navroot": {
+   "@id": "https://www.camarauberlandia.mg.gov.br/atividade-legislativa/sessoes/1537/@navroot"
+  }
+ },
+ "@id": "https://www.camarauberlandia.mg.gov.br/atividade-legislativa/sessoes/1537",
+ "@type": "Sessao",
+ "ata": [
+  {
+   "content-type": "application/pdf",
+   "download": "https://e-processos.camarauberlandia.mg.gov.br/@@sapl_documentos_download?path=ata_sessao/1537_ata_sessao.pdf",
+   "filename": "1537_ata_sessao.pdf",
+   "size": ""
+  }
+ ],
+ "date": "2025-05-06",
+ "description": "2ª Reunião Ordinária - 06/05/2025",
+ "endTime": "",
+ "id": "1537",
+ "parent": {
+  "@id": "https://www.camarauberlandia.mg.gov.br/atividade-legislativa/sessoes",
+  "title": "Pautas das Sessões"
+ },
+ "pauta": [
+  {
+   "content-type": "application/pdf",
+   "download": "https://e-processos.camarauberlandia.mg.gov.br/@@sapl_documentos_download?path=pauta_sessao/1537_pauta_sessao.pdf",
+   "filename": "1537_pauta_sessao.pdf",
+   "size": ""
+  }
+ ],
+ "presenca": {
+  "@id": "https://www.camarauberlandia.mg.gov.br/atividade-legislativa/sessoes/1537/presenca",
+  "@type": "presencaSessao",
+  "chamadaRegimental": [
+   {
+    "ausentes": [],
+    "ausentes_qtde": "0",
+    "justificados": [],
+    "justificados_qtde": "0",
+    "presentes": [],
+    "presentes_qtde": "0"
+   }
+  ],
+  "description": "2ª Reunião Ordinária - 06/05/2025",
+  "ordemDia": [
+   {
+    "ausentes": [],
+    "ausentes_qtde": "0",
+    "justificados": [],
+    "justificados_qtde": "0",
+    "presentes": [],
+    "presentes_qtde": "0"
+   }
+  ],
+  "title": "Listas de presença na reunião plenária"
+ },
+ "startTime": "09:00",
+ "title": "2ª Reunião Ordinária",
+ "type": "Ordinária",
+ "type_id": 1,
+ "votacao": {
+  "@id": "https://www.camarauberlandia.mg.gov.br/atividade-legislativa/sessoes/1537/votacao",
+  "@type": "votacaoNominal",
+  "description": "2ª Reunião Ordinária – 06/05/2025",
+  "items": [
+   {
+    "abstencao": 0,
+    "apuracao": [
+     {
+      "resultado": "Aprovado em 1ª Discussão"
+     }
+    ],
+    "ausente": 0,
+    "contrario": 0,
+    "favoravel": 0,
+    "presidencia": 0,
+    "quorum": "Maioria simples",
+    "tipo_votacao": "Simbólica",
+    "turno": "1ª Discussão",
+    "votos": [
+     {
+      "abstencao": [],
+      "ausente": [],
+      "contrario": [],
+      "favoravel": [],
+      "presidencia": []
+     }
+    ]
+   },
+   {
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@materias/206068",
+    "@type": "Materia",
+    "abstencao": 0,
+    "apuracao": [],
+    "ausente": 0,
+    "autoria": [
+     {
+      "description": "Parlamentar",
+      "id": "537428",
+      "primeiro_autor": true,
+      "title": "Amanda Gondim"
+     }
+    ],
+    "contrario": 0,
+    "description": "DISPÕE SOBRE A EFETIVAÇÃO DE AÇÕES DE SAÚDE QUE ASSEGUREM A PREVENÇÃO, A DETECÇÃO, O TRATAMENTO E O SEGUIMENTO DOS CÂNCERES DE COLO UTERINO, MAMA E COLORRETAL NO ÂMBITO DO SISTEMA ÚNICO DE SAÚDE (SUS)",
+    "favoravel": 0,
+    "id": "206068",
+    "presidencia": 0,
+    "quorum": "Maioria qualificada - 2/3",
+    "tipo_votacao": "Nominal",
+    "title": "Projeto de Lei Ordinária nº 112/2025",
+    "turno": "Apreciar parecer contrário",
+    "votos": [
+     {
+      "abstencao": [],
+      "ausente": [],
+      "contrario": [],
+      "favoravel": [],
+      "presidencia": []
+     }
+    ]
+   },
+   {
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@materias/206151",
+    "@type": "Materia",
+    "abstencao": 0,
+    "apuracao": [],
+    "ausente": 0,
+    "autoria": [
+     {
+      "description": "Parlamentar",
+      "id": "537427",
+      "primeiro_autor": true,
+      "title": "Anderson Lima"
+     }
+    ],
+    "contrario": 0,
+    "description": "VEDA A SUBVENÇÃO FINANCEIRA E O APOIO INSTITUCIONAL DO MUNICÍPIO DE UBERLÂNDIA A ENTIDADES ESPECÍFICAS DA SOCIEDADE CIVIL, NA FORMA QUE MENCIONA, E DÁ PROVIDÊNCIAS.",
+    "favoravel": 0,
+    "id": "206151",
+    "presidencia": 0,
+    "quorum": "Maioria qualificada - 2/3",
+    "tipo_votacao": "Nominal",
+    "title": "Projeto de Lei Ordinária nº 118/2025",
+    "turno": "Apreciar parecer contrário",
+    "votos": [
+     {
+      "abstencao": [],
+      "ausente": [],
+      "contrario": [],
+      "favoravel": [],
+      "presidencia": []
+     }
+    ]
+   },
+   {
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@materias/206341",
+    "@type": "Materia",
+    "abstencao": 0,
+    "apuracao": [],
+    "ausente": 0,
+    "autoria": [
+     {
+      "description": "Parlamentar",
+      "id": "537380",
+      "primeiro_autor": true,
+      "title": "Antônio Augusto Queijinho"
+     }
+    ],
+    "contrario": 0,
+    "description": "DISPÕE SOBRE A IMPLEMENTAÇÃO DE NOTIFICAÇÕES DE VACINAÇÃO NO APLICATIVO SAÚDE+ UBERLÂNDIA E DÁ OUTRAS PROVIDÊNCIAS.",
+    "favoravel": 0,
+    "id": "206341",
+    "presidencia": 0,
+    "quorum": "Maioria qualificada - 2/3",
+    "tipo_votacao": "Nominal",
+    "title": "Projeto de Lei Ordinária nº 127/2025",
+    "turno": "Apreciar parecer contrário",
+    "votos": [
+     {
+      "abstencao": [],
+      "ausente": [],
+      "contrario": [],
+      "favoravel": [],
+      "presidencia": []
+     }
+    ]
+   },
+   {
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@materias/206932",
+    "@type": "Materia",
+    "abstencao": 0,
+    "apuracao": [],
+    "ausente": 0,
+    "autoria": [
+     {
+      "description": "Parlamentar",
+      "id": "556189",
+      "primeiro_autor": true,
+      "title": "Prof. Ronaldo"
+     }
+    ],
+    "contrario": 0,
+    "description": "DISPÕE SOBRE A INSTITUIÇÃO DO DIREITO À MEIA-ENTRADA PARA PROFISSIONAIS DA EDUCAÇÃO, DO SISTEMA PÚBLICO E PRIVADO DO MUNICÍPIO DE UBERLÂNDIA, EM EVENTOS CULTURAIS, DE LAZER E ENTRETENIMENTO, E DÁ OUTRAS PROVIDÊNCIAS.",
+    "favoravel": 0,
+    "id": "206932",
+    "presidencia": 0,
+    "quorum": "Maioria qualificada - 2/3",
+    "tipo_votacao": "Nominal",
+    "title": "Projeto de Lei Ordinária nº 177/2025",
+    "turno": "Apreciar parecer contrário",
+    "votos": [
+     {
+      "abstencao": [],
+      "ausente": [],
+      "contrario": [],
+      "favoravel": [],
+      "presidencia": []
+     }
+    ]
+   }
+  ],
+  "title": "Lista de votação nominal"
+ }
+}

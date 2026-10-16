@@ -1,0 +1,252 @@
+{
+ "@components": {
+  "actions": {
+   "@id": "https://www.camarauberlandia.mg.gov.br/atividade-legislativa/sessoes/1658/@actions"
+  },
+  "aliases": {
+   "@id": "https://www.camarauberlandia.mg.gov.br/atividade-legislativa/sessoes/1658/@aliases"
+  },
+  "breadcrumbs": {
+   "@id": "https://www.camarauberlandia.mg.gov.br/atividade-legislativa/sessoes/1658/@breadcrumbs"
+  },
+  "contextnavigation": {
+   "@id": "https://www.camarauberlandia.mg.gov.br/atividade-legislativa/sessoes/1658/@contextnavigation"
+  },
+  "navigation": {
+   "@id": "https://www.camarauberlandia.mg.gov.br/atividade-legislativa/sessoes/1658/@navigation"
+  },
+  "navroot": {
+   "@id": "https://www.camarauberlandia.mg.gov.br/atividade-legislativa/sessoes/1658/@navroot"
+  }
+ },
+ "@id": "https://www.camarauberlandia.mg.gov.br/atividade-legislativa/sessoes/1658",
+ "@type": "Sessao",
+ "ata": [
+  {
+   "content-type": "application/pdf",
+   "download": "https://e-processos.camarauberlandia.mg.gov.br/@@sapl_documentos_download?path=ata_sessao/1658_ata_sessao.pdf",
+   "filename": "1658_ata_sessao.pdf",
+   "size": ""
+  }
+ ],
+ "date": "2026-03-03",
+ "description": "2ª Reunião Ordinária - 03/03/2026",
+ "endTime": "",
+ "id": "1658",
+ "parent": {
+  "@id": "https://www.camarauberlandia.mg.gov.br/atividade-legislativa/sessoes",
+  "title": "Pautas das Sessões"
+ },
+ "pauta": [
+  {
+   "content-type": "application/pdf",
+   "download": "https://e-processos.camarauberlandia.mg.gov.br/@@sapl_documentos_download?path=pauta_sessao/1658_pauta_sessao.pdf",
+   "filename": "1658_pauta_sessao.pdf",
+   "size": ""
+  }
+ ],
+ "presenca": {
+  "@id": "https://www.camarauberlandia.mg.gov.br/atividade-legislativa/sessoes/1658/presenca",
+  "@type": "presencaSessao",
+  "chamadaRegimental": [
+   {
+    "ausentes": [],
+    "ausentes_qtde": "0",
+    "justificados": [],
+    "justificados_qtde": "0",
+    "presentes": [],
+    "presentes_qtde": "0"
+   }
+  ],
+  "description": "2ª Reunião Ordinária - 03/03/2026",
+  "ordemDia": [
+   {
+    "ausentes": [],
+    "ausentes_qtde": "0",
+    "justificados": [],
+    "justificados_qtde": "0",
+    "presentes": [],
+    "presentes_qtde": "0"
+   }
+  ],
+  "title": "Listas de presença na reunião plenária"
+ },
+ "startTime": "09:00",
+ "title": "2ª Reunião Ordinária",
+ "type": "Ordinária",
+ "type_id": 1,
+ "votacao": {
+  "@id": "https://www.camarauberlandia.mg.gov.br/atividade-legislativa/sessoes/1658/votacao",
+  "@type": "votacaoNominal",
+  "description": "2ª Reunião Ordinária – 03/03/2026",
+  "items": [
+   {
+    "abstencao": 0,
+    "apuracao": [],
+    "ausente": 0,
+    "contrario": 0,
+    "favoravel": 0,
+    "presidencia": 0,
+    "quorum": "Maioria simples",
+    "tipo_votacao": "Simbólica",
+    "turno": "Devolução a(o) autor(a)",
+    "votos": [
+     {
+      "abstencao": [],
+      "ausente": [],
+      "contrario": [],
+      "favoravel": [],
+      "presidencia": []
+     }
+    ]
+   },
+   {
+    "abstencao": 0,
+    "apuracao": [],
+    "ausente": 0,
+    "contrario": 0,
+    "favoravel": 0,
+    "presidencia": 0,
+    "quorum": "Maioria simples",
+    "tipo_votacao": "Simbólica",
+    "turno": "Devolução a(o) autor(a)",
+    "votos": [
+     {
+      "abstencao": [],
+      "ausente": [],
+      "contrario": [],
+      "favoravel": [],
+      "presidencia": []
+     }
+    ]
+   },
+   {
+    "abstencao": 0,
+    "apuracao": [],
+    "ausente": 0,
+    "contrario": 0,
+    "favoravel": 0,
+    "presidencia": 0,
+    "quorum": "Maioria simples",
+    "tipo_votacao": "Simbólica",
+    "turno": "Devolução a(o) autor(a)",
+    "votos": [
+     {
+      "abstencao": [],
+      "ausente": [],
+      "contrario": [],
+      "favoravel": [],
+      "presidencia": []
+     }
+    ]
+   },
+   {
+    "abstencao": 0,
+    "apuracao": [],
+    "ausente": 0,
+    "contrario": 0,
+    "favoravel": 0,
+    "presidencia": 0,
+    "quorum": "Maioria simples",
+    "tipo_votacao": "Simbólica",
+    "turno": "Devolução a(o) autor(a)",
+    "votos": [
+     {
+      "abstencao": [],
+      "ausente": [],
+      "contrario": [],
+      "favoravel": [],
+      "presidencia": []
+     }
+    ]
+   },
+   {
+    "abstencao": 0,
+    "apuracao": [],
+    "ausente": 0,
+    "contrario": 0,
+    "favoravel": 0,
+    "presidencia": 0,
+    "quorum": "Maioria simples",
+    "tipo_votacao": "Simbólica",
+    "turno": "Devolução a(o) autor(a)",
+    "votos": [
+     {
+      "abstencao": [],
+      "ausente": [],
+      "contrario": [],
+      "favoravel": [],
+      "presidencia": []
+     }
+    ]
+   },
+   {
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@materias/250985",
+    "@type": "Materia",
+    "abstencao": 0,
+    "apuracao": [],
+    "ausente": 0,
+    "autoria": [
+     {
+      "description": "Mesa Diretora",
+      "id": "556176",
+      "primeiro_autor": true,
+      "title": "Mesa Diretora"
+     }
+    ],
+    "contrario": 0,
+    "description": "CONCEDE, A PARTIR DE 1º DE MARÇO DE 2026, REAJUSTE DE 7% (SETE POR CENTO) AOS SERVIDORES DO PODER LEGISLATIVO MUNICIPAL E DÁ OUTRAS PROVIDÊNCIAS.",
+    "favoravel": 0,
+    "id": "250985",
+    "presidencia": 0,
+    "quorum": "Maioria absoluta",
+    "tipo_votacao": "Nominal",
+    "title": "Projeto de Lei Ordinária nº 996/2026",
+    "turno": "1ª Discussão",
+    "votos": [
+     {
+      "abstencao": [],
+      "ausente": [],
+      "contrario": [],
+      "favoravel": [],
+      "presidencia": []
+     }
+    ]
+   },
+   {
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@materias/250986",
+    "@type": "Materia",
+    "abstencao": 0,
+    "apuracao": [],
+    "ausente": 0,
+    "autoria": [
+     {
+      "description": "Mesa Diretora",
+      "id": "556176",
+      "primeiro_autor": true,
+      "title": "Mesa Diretora"
+     }
+    ],
+    "contrario": 0,
+    "description": "ALTERA A LEI Nº 11.616, DE 13 DE DEZEMBRO DE 2013 E SUAS ALTERAÇÕES, QUE “INSTITUI O AUXÍLIO ALIMENTAÇÃO PARA OS SERVIDORES PÚBLICOS MUNICIPAIS DO PODER LEGISLATIVO, NA FORMA QUE MENCIONA, E DÁ OUTRAS PROVIDÊNCIAS\"",
+    "favoravel": 0,
+    "id": "250986",
+    "presidencia": 0,
+    "quorum": "Maioria absoluta",
+    "tipo_votacao": "Nominal",
+    "title": "Projeto de Lei Ordinária nº 997/2026",
+    "turno": "1ª Discussão",
+    "votos": [
+     {
+      "abstencao": [],
+      "ausente": [],
+      "contrario": [],
+      "favoravel": [],
+      "presidencia": []
+     }
+    ]
+   }
+  ],
+  "title": "Lista de votação nominal"
+ }
+}

@@ -1,0 +1,119 @@
+{
+ "@components": {
+  "actions": {
+   "@id": "https://www.camarauberlandia.mg.gov.br/atividade-legislativa/sessoes/1640/@actions"
+  },
+  "aliases": {
+   "@id": "https://www.camarauberlandia.mg.gov.br/atividade-legislativa/sessoes/1640/@aliases"
+  },
+  "breadcrumbs": {
+   "@id": "https://www.camarauberlandia.mg.gov.br/atividade-legislativa/sessoes/1640/@breadcrumbs"
+  },
+  "contextnavigation": {
+   "@id": "https://www.camarauberlandia.mg.gov.br/atividade-legislativa/sessoes/1640/@contextnavigation"
+  },
+  "navigation": {
+   "@id": "https://www.camarauberlandia.mg.gov.br/atividade-legislativa/sessoes/1640/@navigation"
+  },
+  "navroot": {
+   "@id": "https://www.camarauberlandia.mg.gov.br/atividade-legislativa/sessoes/1640/@navroot"
+  }
+ },
+ "@id": "https://www.camarauberlandia.mg.gov.br/atividade-legislativa/sessoes/1640",
+ "@type": "Sessao",
+ "ata": [
+  {
+   "content-type": "application/pdf",
+   "download": "https://e-processos.camarauberlandia.mg.gov.br/@@sapl_documentos_download?path=ata_sessao/1640_ata_sessao.pdf",
+   "filename": "1640_ata_sessao.pdf",
+   "size": ""
+  }
+ ],
+ "date": "2026-01-19",
+ "description": "2ª Reunião Extraordinária - 19/01/2026",
+ "endTime": "",
+ "id": "1640",
+ "parent": {
+  "@id": "https://www.camarauberlandia.mg.gov.br/atividade-legislativa/sessoes",
+  "title": "Pautas das Sessões"
+ },
+ "pauta": [
+  {
+   "content-type": "application/pdf",
+   "download": "https://e-processos.camarauberlandia.mg.gov.br/@@sapl_documentos_download?path=pauta_sessao/1640_pauta_sessao.pdf",
+   "filename": "1640_pauta_sessao.pdf",
+   "size": ""
+  }
+ ],
+ "presenca": {
+  "@id": "https://www.camarauberlandia.mg.gov.br/atividade-legislativa/sessoes/1640/presenca",
+  "@type": "presencaSessao",
+  "chamadaRegimental": [
+   {
+    "ausentes": [],
+    "ausentes_qtde": "0",
+    "justificados": [],
+    "justificados_qtde": "0",
+    "presentes": [],
+    "presentes_qtde": "0"
+   }
+  ],
+  "description": "2ª Reunião Extraordinária - 19/01/2026",
+  "ordemDia": [
+   {
+    "ausentes": [],
+    "ausentes_qtde": "0",
+    "justificados": [],
+    "justificados_qtde": "0",
+    "presentes": [],
+    "presentes_qtde": "0"
+   }
+  ],
+  "title": "Listas de presença na reunião plenária"
+ },
+ "startTime": "10:32",
+ "title": "2ª Reunião Extraordinária",
+ "type": "Extraordinária",
+ "type_id": 2,
+ "votacao": {
+  "@id": "https://www.camarauberlandia.mg.gov.br/atividade-legislativa/sessoes/1640/votacao",
+  "@type": "votacaoNominal",
+  "description": "2ª Reunião Extraordinária – 19/01/2026",
+  "items": [
+   {
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@materias/241857",
+    "@type": "Materia",
+    "abstencao": 0,
+    "apuracao": [],
+    "ausente": 0,
+    "autoria": [
+     {
+      "description": "Externo",
+      "id": "434780",
+      "primeiro_autor": true,
+      "title": "Prefeito Municipal"
+     }
+    ],
+    "contrario": 0,
+    "description": "ALTERA AS LEIS COMPLEMENTARES NºS 811, DE 9 DE JANEIRO DE 2026 E 812, DE 9 DE JANEIRO DE 2026",
+    "favoravel": 0,
+    "id": "241857",
+    "presidencia": 0,
+    "quorum": "Maioria absoluta",
+    "tipo_votacao": "Nominal",
+    "title": "Projeto de Lei Complementar nº 58/2026",
+    "turno": "2ª Discussão",
+    "votos": [
+     {
+      "abstencao": [],
+      "ausente": [],
+      "contrario": [],
+      "favoravel": [],
+      "presidencia": []
+     }
+    ]
+   }
+  ],
+  "title": "Lista de votação nominal"
+ }
+}

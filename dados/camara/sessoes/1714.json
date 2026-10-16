@@ -1,0 +1,185 @@
+{
+ "@components": {
+  "actions": {
+   "@id": "https://www.camarauberlandia.mg.gov.br/atividade-legislativa/sessoes/1714/@actions"
+  },
+  "aliases": {
+   "@id": "https://www.camarauberlandia.mg.gov.br/atividade-legislativa/sessoes/1714/@aliases"
+  },
+  "breadcrumbs": {
+   "@id": "https://www.camarauberlandia.mg.gov.br/atividade-legislativa/sessoes/1714/@breadcrumbs"
+  },
+  "contextnavigation": {
+   "@id": "https://www.camarauberlandia.mg.gov.br/atividade-legislativa/sessoes/1714/@contextnavigation"
+  },
+  "navigation": {
+   "@id": "https://www.camarauberlandia.mg.gov.br/atividade-legislativa/sessoes/1714/@navigation"
+  },
+  "navroot": {
+   "@id": "https://www.camarauberlandia.mg.gov.br/atividade-legislativa/sessoes/1714/@navroot"
+  }
+ },
+ "@id": "https://www.camarauberlandia.mg.gov.br/atividade-legislativa/sessoes/1714",
+ "@type": "Sessao",
+ "ata": [
+  {
+   "content-type": "application/pdf",
+   "download": "https://e-processos.camarauberlandia.mg.gov.br/@@sapl_documentos_download?path=ata_sessao/1714_ata_sessao.pdf",
+   "filename": "1714_ata_sessao.pdf",
+   "size": ""
+  }
+ ],
+ "date": "2026-07-03",
+ "description": "3ª Reunião Ordinária - 03/07/2026",
+ "endTime": "",
+ "id": "1714",
+ "parent": {
+  "@id": "https://www.camarauberlandia.mg.gov.br/atividade-legislativa/sessoes",
+  "title": "Pautas das Sessões"
+ },
+ "pauta": [
+  {
+   "content-type": "application/pdf",
+   "download": "https://e-processos.camarauberlandia.mg.gov.br/@@sapl_documentos_download?path=pauta_sessao/1714_pauta_sessao.pdf",
+   "filename": "1714_pauta_sessao.pdf",
+   "size": ""
+  }
+ ],
+ "presenca": {
+  "@id": "https://www.camarauberlandia.mg.gov.br/atividade-legislativa/sessoes/1714/presenca",
+  "@type": "presencaSessao",
+  "chamadaRegimental": [
+   {
+    "ausentes": [],
+    "ausentes_qtde": "0",
+    "justificados": [],
+    "justificados_qtde": "0",
+    "presentes": [],
+    "presentes_qtde": "0"
+   }
+  ],
+  "description": "3ª Reunião Ordinária - 03/07/2026",
+  "ordemDia": [
+   {
+    "ausentes": [],
+    "ausentes_qtde": "0",
+    "justificados": [],
+    "justificados_qtde": "0",
+    "presentes": [],
+    "presentes_qtde": "0"
+   }
+  ],
+  "title": "Listas de presença na reunião plenária"
+ },
+ "startTime": "09:00",
+ "title": "3ª Reunião Ordinária",
+ "type": "Ordinária",
+ "type_id": 1,
+ "votacao": {
+  "@id": "https://www.camarauberlandia.mg.gov.br/atividade-legislativa/sessoes/1714/votacao",
+  "@type": "votacaoNominal",
+  "description": "3ª Reunião Ordinária – 03/07/2026",
+  "items": [
+   {
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@materias/259748",
+    "@type": "Materia",
+    "abstencao": 0,
+    "apuracao": [],
+    "ausente": 0,
+    "autoria": [
+     {
+      "description": "Parlamentar",
+      "id": "25988",
+      "primeiro_autor": true,
+      "title": "Adriano Zago"
+     }
+    ],
+    "contrario": 0,
+    "description": "ALTERA O ANEXO V DA LEI COMPLEMENTAR Nº 812, DE 09 DE JANEIRO DE 2026, QUE “DISPÕE SOBRE O ZONEAMENTO DO USO E OCUPAÇÃO DO SOLO DO MUNICÍPIO DE UBERLÂNDIA E REVOGA A LEI COMPLEMENTAR Nº 525, DE 14 DE ABRIL DE 2011 E SUAS ALTERAÇÕES POSTERIORES”",
+    "favoravel": 0,
+    "id": "259748",
+    "presidencia": 0,
+    "quorum": "Maioria absoluta",
+    "tipo_votacao": "Nominal",
+    "title": "Projeto de Lei Complementar nº 77/2026",
+    "turno": "1ª Discussão",
+    "votos": [
+     {
+      "abstencao": [],
+      "ausente": [],
+      "contrario": [],
+      "favoravel": [],
+      "presidencia": []
+     }
+    ]
+   },
+   {
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@materias/262736",
+    "@type": "Materia",
+    "abstencao": 0,
+    "apuracao": [],
+    "ausente": 0,
+    "autoria": [
+     {
+      "description": "Externo",
+      "id": "434780",
+      "primeiro_autor": true,
+      "title": "Prefeito Municipal"
+     }
+    ],
+    "contrario": 0,
+    "description": "ALTERA AS LEIS COMPLEMENTARES NºS 811 E 812, AMBAS DE 9 DE JANEIRO DE 2026, E SUAS ALTERAÇÕES; E REVOGA O ANEXO V DA LEI COMPLEMENTAR Nº 800, DE 20 DE AGOSTO DE 2025, E SUAS ALTERAÇÕES.",
+    "favoravel": 0,
+    "id": "262736",
+    "presidencia": 0,
+    "quorum": "Maioria absoluta",
+    "tipo_votacao": "Nominal",
+    "title": "Projeto de Lei Complementar nº 81/2026",
+    "turno": "1ª Discussão",
+    "votos": [
+     {
+      "abstencao": [],
+      "ausente": [],
+      "contrario": [],
+      "favoravel": [],
+      "presidencia": []
+     }
+    ]
+   },
+   {
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@materias/260137",
+    "@type": "Materia",
+    "abstencao": 0,
+    "apuracao": [],
+    "ausente": 0,
+    "autoria": [
+     {
+      "description": "Externo",
+      "id": "434780",
+      "primeiro_autor": true,
+      "title": "Prefeito Municipal"
+     }
+    ],
+    "contrario": 0,
+    "description": "ESTABELECE AS DIRETRIZES A SEREM OBSERVADAS NA ELABORAÇÃO DA LEI ORÇAMENTÁRIA DO MUNICÍPIO DE UBERLÂNDIA PARA O EXERCÍCIO DE 2027 E DÁ OUTRAS PROVIDÊNCIAS.",
+    "favoravel": 0,
+    "id": "260137",
+    "presidencia": 0,
+    "quorum": "Maioria absoluta",
+    "tipo_votacao": "Nominal",
+    "title": "Projeto de Lei Ordinária nº 1161/2026",
+    "turno": "1ª Discussão",
+    "votos": [
+     {
+      "abstencao": [],
+      "ausente": [],
+      "contrario": [],
+      "favoravel": [],
+      "presidencia": []
+     }
+    ]
+   }
+  ],
+  "title": "Lista de votação nominal"
+ }
+}

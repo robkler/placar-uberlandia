@@ -1,0 +1,2595 @@
+{
+ "@components": {
+  "actions": {
+   "@id": "https://www.camarauberlandia.mg.gov.br/atividade-legislativa/sessoes/1758/@actions"
+  },
+  "aliases": {
+   "@id": "https://www.camarauberlandia.mg.gov.br/atividade-legislativa/sessoes/1758/@aliases"
+  },
+  "breadcrumbs": {
+   "@id": "https://www.camarauberlandia.mg.gov.br/atividade-legislativa/sessoes/1758/@breadcrumbs"
+  },
+  "contextnavigation": {
+   "@id": "https://www.camarauberlandia.mg.gov.br/atividade-legislativa/sessoes/1758/@contextnavigation"
+  },
+  "navigation": {
+   "@id": "https://www.camarauberlandia.mg.gov.br/atividade-legislativa/sessoes/1758/@navigation"
+  },
+  "navroot": {
+   "@id": "https://www.camarauberlandia.mg.gov.br/atividade-legislativa/sessoes/1758/@navroot"
+  }
+ },
+ "@id": "https://www.camarauberlandia.mg.gov.br/atividade-legislativa/sessoes/1758",
+ "@type": "Sessao",
+ "ata": [
+  {
+   "content-type": "application/pdf",
+   "download": "https://e-processos.camarauberlandia.mg.gov.br/@@sapl_documentos_download?path=ata_sessao/1758_ata_sessao.pdf",
+   "filename": "1758_ata_sessao.pdf",
+   "size": ""
+  }
+ ],
+ "date": "2026-10-09",
+ "description": "7ª Reunião Ordinária - 09/10/2026",
+ "endTime": "13:00",
+ "id": "1758",
+ "parent": {
+  "@id": "https://www.camarauberlandia.mg.gov.br/atividade-legislativa/sessoes",
+  "title": "Pautas das Sessões"
+ },
+ "pauta": [
+  {
+   "content-type": "application/pdf",
+   "download": "https://e-processos.camarauberlandia.mg.gov.br/@@sapl_documentos_download?path=pauta_sessao/1758_pauta_sessao.pdf",
+   "filename": "1758_pauta_sessao.pdf",
+   "size": ""
+  }
+ ],
+ "presenca": {
+  "@id": "https://www.camarauberlandia.mg.gov.br/atividade-legislativa/sessoes/1758/presenca",
+  "@type": "presencaSessao",
+  "chamadaRegimental": [
+   {
+    "ausentes": [],
+    "ausentes_qtde": "0",
+    "justificados": [],
+    "justificados_qtde": "0",
+    "presentes": [
+     {
+      "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/546914",
+      "@type": "Vereador",
+      "description": "Abatenio de Andrade Marquez Neto",
+      "id": "546914",
+      "partido": [
+       {
+        "title": "PROGRESSISTAS",
+        "token": "PP"
+       }
+      ],
+      "title": "Abatenio Marquez"
+     },
+     {
+      "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/25988",
+      "@type": "Vereador",
+      "description": "Adriano Zago",
+      "id": "25988",
+      "partido": [
+       {
+        "title": "AVANTE",
+        "token": "AVANTE"
+       }
+      ],
+      "title": "Adriano Zago"
+     },
+     {
+      "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/537428",
+      "@type": "Vereador",
+      "description": "Amanda Gondim",
+      "id": "537428",
+      "partido": [
+       {
+        "title": "PARTIDO SOCIALISTA BRASILEIRO",
+        "token": "PSB"
+       }
+      ],
+      "title": "Amanda Gondim"
+     },
+     {
+      "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/537427",
+      "@type": "Vereador",
+      "description": "Anderson Lima",
+      "id": "537427",
+      "partido": [
+       {
+        "title": "PARTIDO LIBERAL",
+        "token": "PL"
+       }
+      ],
+      "title": "Anderson Lima"
+     },
+     {
+      "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/556176",
+      "@type": "Vereador",
+      "description": "Ângela Aparecida Caetano Souza",
+      "id": "556176",
+      "partido": [
+       {
+        "title": "Solidariedade",
+        "token": "Solidariedade"
+       }
+      ],
+      "title": "Ângela Do Postinho"
+     },
+     {
+      "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/537380",
+      "@type": "Vereador",
+      "description": "Antônio Augusto Gonçalves Goulart",
+      "id": "537380",
+      "partido": [
+       {
+        "title": "PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA",
+        "token": "PSDB"
+       }
+      ],
+      "title": "Antônio Augusto Queijinho"
+     },
+     {
+      "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/399041",
+      "@type": "Vereador",
+      "description": "Antônio Carrijo",
+      "id": "399041",
+      "partido": [
+       {
+        "title": "PROGRESSISTAS",
+        "token": "PP"
+       }
+      ],
+      "title": "Antônio Carrijo"
+     },
+     {
+      "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/556182",
+      "@type": "Vereador",
+      "description": "Celisvaldo da Silva ",
+      "id": "556182",
+      "partido": [
+       {
+        "title": "DEMOCRACIA CRISTÃ",
+        "token": "DC"
+       }
+      ],
+      "title": "Pezão Do Esporte"
+     },
+     {
+      "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/556183",
+      "@type": "Vereador",
+      "description": "Conrado Augusto Ferreira de Oliveira",
+      "id": "556183",
+      "partido": [
+       {
+        "title": "MOVIMENTO DEMOCRÁTICO BRASILEIRO",
+        "token": "MDB"
+       }
+      ],
+      "title": "Prof. Conrado Augusto"
+     },
+     {
+      "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/526697",
+      "@type": "Vereador",
+      "description": "Ednaldo Régio de Lima",
+      "id": "526697",
+      "partido": [
+       {
+        "title": "PROGRESSISTAS",
+        "token": "PP"
+       }
+      ],
+      "title": "Sargento Ednaldo"
+     },
+     {
+      "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/556179",
+      "@type": "Vereador",
+      "description": "Eliusmarcio Alves de Carvalho (Elinho da Academia)",
+      "id": "556179",
+      "partido": [
+       {
+        "title": "PARTIDO DA MOBILIZAÇÃO NACIONAL",
+        "token": "MOBILIZA"
+       }
+      ],
+      "title": "Elinho Da Academia"
+     },
+     {
+      "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/537431",
+      "@type": "Vereador",
+      "description": "Fabio Dias Queiroz Zavitoski",
+      "id": "537431",
+      "partido": [
+       {
+        "title": "PARTIDO VERDE",
+        "token": "PV"
+       }
+      ],
+      "title": "Fabão"
+     },
+     {
+      "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/26010",
+      "@type": "Vereador",
+      "description": "Gláucia Galante Buíssa",
+      "id": "26010",
+      "partido": [
+       {
+        "title": "PARTIDO LIBERAL",
+        "token": "PL"
+       }
+      ],
+      "title": "Gláucia da Saúde"
+     },
+     {
+      "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/552091",
+      "@type": "Vereador",
+      "description": "Igino Marcos da Mata de Oliveira",
+      "id": "552091",
+      "partido": [
+       {
+        "title": "PARTIDO DOS TRABALHADORES",
+        "token": "PT"
+       }
+      ],
+      "title": "Dr. Igino"
+     },
+     {
+      "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/537433",
+      "@type": "Vereador",
+      "description": "Ivan da Silva Nunes",
+      "id": "537433",
+      "partido": [
+       {
+        "title": "PROGRESSISTAS",
+        "token": "PP"
+       }
+      ],
+      "title": "Ivan Nunes"
+     },
+     {
+      "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/556174",
+      "@type": "Vereador",
+      "description": "Jair Ferraz",
+      "id": "556174",
+      "partido": [
+       {
+        "title": "PROGRESSISTAS",
+        "token": "PP"
+       }
+      ],
+      "title": "Jair Ferraz"
+     },
+     {
+      "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/556180",
+      "@type": "Vereador",
+      "description": "Janaina Guimarães Parreira Rezende",
+      "id": "556180",
+      "partido": [
+       {
+        "title": "PARTIDO LIBERAL",
+        "token": "PL"
+       }
+      ],
+      "title": "Janaina Guimarães"
+     },
+     {
+      "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/556177",
+      "@type": "Vereador",
+      "description": "Lia Eunice Valechi da Silva",
+      "id": "556177",
+      "partido": [
+       {
+        "title": "Unão Brasil",
+        "token": "União Brasil"
+       }
+      ],
+      "title": "Delegada Lia Valechi"
+     },
+     {
+      "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/399022",
+      "@type": "Vereador",
+      "description": "Liza Fernandes Prado",
+      "id": "399022",
+      "partido": [
+       {
+        "title": "CIDADANIA",
+        "token": "CIDADANIA"
+       }
+      ],
+      "title": "Liza Prado"
+     },
+     {
+      "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/556185",
+      "@type": "Vereador",
+      "description": "Maciel Fernandes Rodrigues Amorim",
+      "id": "556185",
+      "partido": [
+       {
+        "title": "Democrata",
+        "token": "DEMOCRATA"
+       }
+      ],
+      "title": "Dr. Maciel Amorim"
+     },
+     {
+      "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/537434",
+      "@type": "Vereador",
+      "description": "Neemias Miquéias",
+      "id": "537434",
+      "partido": [
+       {
+        "title": "PODEMOS",
+        "token": "PODEMOS"
+       }
+      ],
+      "title": "Neemias Miquéias"
+     },
+     {
+      "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/556181",
+      "@type": "Vereador",
+      "description": "Nei Carlos Borges",
+      "id": "556181",
+      "partido": [
+       {
+        "title": "Solidariedade",
+        "token": "Solidariedade"
+       }
+      ],
+      "title": "Nei Borges"
+     },
+     {
+      "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/556184",
+      "@type": "Vereador",
+      "description": "Ronaldo Amélio Ferreira",
+      "id": "556184",
+      "partido": [
+       {
+        "title": "PARTIDO DOS TRABALHADORES",
+        "token": "PT"
+       }
+      ],
+      "title": "Prof. Ronaldo"
+     },
+     {
+      "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/528006",
+      "@type": "Vereador",
+      "description": "Ronaldo César Vilela Tannús",
+      "id": "528006",
+      "partido": [
+       {
+        "title": "PODEMOS",
+        "token": "PODEMOS"
+       }
+      ],
+      "title": "Ronaldo Tannús"
+     },
+     {
+      "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/26097",
+      "@type": "Vereador",
+      "description": "Rosenvaldo Correia de Mendonça",
+      "id": "26097",
+      "partido": [
+       {
+        "title": "PROGRESSISTAS",
+        "token": "PP"
+       }
+      ],
+      "title": "Zezinho Mendonça"
+     },
+     {
+      "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/543274",
+      "@type": "Vereador",
+      "description": "Sérvio Túlio",
+      "id": "543274",
+      "partido": [
+       {
+        "title": "PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA",
+        "token": "PSDB"
+       }
+      ],
+      "title": "Sérvio Túlio"
+     },
+     {
+      "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/537436",
+      "@type": "Vereador",
+      "description": "Thais Andrade",
+      "id": "537436",
+      "partido": [
+       {
+        "title": "Unão Brasil",
+        "token": "União Brasil"
+       }
+      ],
+      "title": "Thais Andrade"
+     }
+    ],
+    "presentes_qtde": "27"
+   }
+  ],
+  "description": "7ª Reunião Ordinária - 09/10/2026",
+  "ordemDia": [
+   {
+    "ausentes": [],
+    "ausentes_qtde": "0",
+    "justificados": [],
+    "justificados_qtde": "0",
+    "presentes": [
+     {
+      "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/546914",
+      "@type": "Vereador",
+      "description": "Abatenio de Andrade Marquez Neto",
+      "id": "546914",
+      "partido": [
+       {
+        "title": "PROGRESSISTAS",
+        "token": "PP"
+       }
+      ],
+      "title": "Abatenio Marquez"
+     },
+     {
+      "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/25988",
+      "@type": "Vereador",
+      "description": "Adriano Zago",
+      "id": "25988",
+      "partido": [
+       {
+        "title": "AVANTE",
+        "token": "AVANTE"
+       }
+      ],
+      "title": "Adriano Zago"
+     },
+     {
+      "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/537428",
+      "@type": "Vereador",
+      "description": "Amanda Gondim",
+      "id": "537428",
+      "partido": [
+       {
+        "title": "PARTIDO SOCIALISTA BRASILEIRO",
+        "token": "PSB"
+       }
+      ],
+      "title": "Amanda Gondim"
+     },
+     {
+      "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/537427",
+      "@type": "Vereador",
+      "description": "Anderson Lima",
+      "id": "537427",
+      "partido": [
+       {
+        "title": "PARTIDO LIBERAL",
+        "token": "PL"
+       }
+      ],
+      "title": "Anderson Lima"
+     },
+     {
+      "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/556176",
+      "@type": "Vereador",
+      "description": "Ângela Aparecida Caetano Souza",
+      "id": "556176",
+      "partido": [
+       {
+        "title": "Solidariedade",
+        "token": "Solidariedade"
+       }
+      ],
+      "title": "Ângela Do Postinho"
+     },
+     {
+      "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/537380",
+      "@type": "Vereador",
+      "description": "Antônio Augusto Gonçalves Goulart",
+      "id": "537380",
+      "partido": [
+       {
+        "title": "PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA",
+        "token": "PSDB"
+       }
+      ],
+      "title": "Antônio Augusto Queijinho"
+     },
+     {
+      "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/399041",
+      "@type": "Vereador",
+      "description": "Antônio Carrijo",
+      "id": "399041",
+      "partido": [
+       {
+        "title": "PROGRESSISTAS",
+        "token": "PP"
+       }
+      ],
+      "title": "Antônio Carrijo"
+     },
+     {
+      "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/556182",
+      "@type": "Vereador",
+      "description": "Celisvaldo da Silva ",
+      "id": "556182",
+      "partido": [
+       {
+        "title": "DEMOCRACIA CRISTÃ",
+        "token": "DC"
+       }
+      ],
+      "title": "Pezão Do Esporte"
+     },
+     {
+      "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/556183",
+      "@type": "Vereador",
+      "description": "Conrado Augusto Ferreira de Oliveira",
+      "id": "556183",
+      "partido": [
+       {
+        "title": "MOVIMENTO DEMOCRÁTICO BRASILEIRO",
+        "token": "MDB"
+       }
+      ],
+      "title": "Prof. Conrado Augusto"
+     },
+     {
+      "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/526697",
+      "@type": "Vereador",
+      "description": "Ednaldo Régio de Lima",
+      "id": "526697",
+      "partido": [
+       {
+        "title": "PROGRESSISTAS",
+        "token": "PP"
+       }
+      ],
+      "title": "Sargento Ednaldo"
+     },
+     {
+      "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/556179",
+      "@type": "Vereador",
+      "description": "Eliusmarcio Alves de Carvalho (Elinho da Academia)",
+      "id": "556179",
+      "partido": [
+       {
+        "title": "PARTIDO DA MOBILIZAÇÃO NACIONAL",
+        "token": "MOBILIZA"
+       }
+      ],
+      "title": "Elinho Da Academia"
+     },
+     {
+      "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/537431",
+      "@type": "Vereador",
+      "description": "Fabio Dias Queiroz Zavitoski",
+      "id": "537431",
+      "partido": [
+       {
+        "title": "PARTIDO VERDE",
+        "token": "PV"
+       }
+      ],
+      "title": "Fabão"
+     },
+     {
+      "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/26010",
+      "@type": "Vereador",
+      "description": "Gláucia Galante Buíssa",
+      "id": "26010",
+      "partido": [
+       {
+        "title": "PARTIDO LIBERAL",
+        "token": "PL"
+       }
+      ],
+      "title": "Gláucia da Saúde"
+     },
+     {
+      "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/552091",
+      "@type": "Vereador",
+      "description": "Igino Marcos da Mata de Oliveira",
+      "id": "552091",
+      "partido": [
+       {
+        "title": "PARTIDO DOS TRABALHADORES",
+        "token": "PT"
+       }
+      ],
+      "title": "Dr. Igino"
+     },
+     {
+      "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/537433",
+      "@type": "Vereador",
+      "description": "Ivan da Silva Nunes",
+      "id": "537433",
+      "partido": [
+       {
+        "title": "PROGRESSISTAS",
+        "token": "PP"
+       }
+      ],
+      "title": "Ivan Nunes"
+     },
+     {
+      "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/556174",
+      "@type": "Vereador",
+      "description": "Jair Ferraz",
+      "id": "556174",
+      "partido": [
+       {
+        "title": "PROGRESSISTAS",
+        "token": "PP"
+       }
+      ],
+      "title": "Jair Ferraz"
+     },
+     {
+      "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/556180",
+      "@type": "Vereador",
+      "description": "Janaina Guimarães Parreira Rezende",
+      "id": "556180",
+      "partido": [
+       {
+        "title": "PARTIDO LIBERAL",
+        "token": "PL"
+       }
+      ],
+      "title": "Janaina Guimarães"
+     },
+     {
+      "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/556177",
+      "@type": "Vereador",
+      "description": "Lia Eunice Valechi da Silva",
+      "id": "556177",
+      "partido": [
+       {
+        "title": "Unão Brasil",
+        "token": "União Brasil"
+       }
+      ],
+      "title": "Delegada Lia Valechi"
+     },
+     {
+      "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/399022",
+      "@type": "Vereador",
+      "description": "Liza Fernandes Prado",
+      "id": "399022",
+      "partido": [
+       {
+        "title": "CIDADANIA",
+        "token": "CIDADANIA"
+       }
+      ],
+      "title": "Liza Prado"
+     },
+     {
+      "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/556185",
+      "@type": "Vereador",
+      "description": "Maciel Fernandes Rodrigues Amorim",
+      "id": "556185",
+      "partido": [
+       {
+        "title": "Democrata",
+        "token": "DEMOCRATA"
+       }
+      ],
+      "title": "Dr. Maciel Amorim"
+     },
+     {
+      "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/537434",
+      "@type": "Vereador",
+      "description": "Neemias Miquéias",
+      "id": "537434",
+      "partido": [
+       {
+        "title": "PODEMOS",
+        "token": "PODEMOS"
+       }
+      ],
+      "title": "Neemias Miquéias"
+     },
+     {
+      "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/556181",
+      "@type": "Vereador",
+      "description": "Nei Carlos Borges",
+      "id": "556181",
+      "partido": [
+       {
+        "title": "Solidariedade",
+        "token": "Solidariedade"
+       }
+      ],
+      "title": "Nei Borges"
+     },
+     {
+      "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/556184",
+      "@type": "Vereador",
+      "description": "Ronaldo Amélio Ferreira",
+      "id": "556184",
+      "partido": [
+       {
+        "title": "PARTIDO DOS TRABALHADORES",
+        "token": "PT"
+       }
+      ],
+      "title": "Prof. Ronaldo"
+     },
+     {
+      "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/528006",
+      "@type": "Vereador",
+      "description": "Ronaldo César Vilela Tannús",
+      "id": "528006",
+      "partido": [
+       {
+        "title": "PODEMOS",
+        "token": "PODEMOS"
+       }
+      ],
+      "title": "Ronaldo Tannús"
+     },
+     {
+      "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/26097",
+      "@type": "Vereador",
+      "description": "Rosenvaldo Correia de Mendonça",
+      "id": "26097",
+      "partido": [
+       {
+        "title": "PROGRESSISTAS",
+        "token": "PP"
+       }
+      ],
+      "title": "Zezinho Mendonça"
+     },
+     {
+      "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/543274",
+      "@type": "Vereador",
+      "description": "Sérvio Túlio",
+      "id": "543274",
+      "partido": [
+       {
+        "title": "PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA",
+        "token": "PSDB"
+       }
+      ],
+      "title": "Sérvio Túlio"
+     },
+     {
+      "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/537436",
+      "@type": "Vereador",
+      "description": "Thais Andrade",
+      "id": "537436",
+      "partido": [
+       {
+        "title": "Unão Brasil",
+        "token": "União Brasil"
+       }
+      ],
+      "title": "Thais Andrade"
+     }
+    ],
+    "presentes_qtde": "27"
+   }
+  ],
+  "title": "Listas de presença na reunião plenária"
+ },
+ "startTime": "09:00",
+ "title": "7ª Reunião Ordinária",
+ "type": "Ordinária",
+ "type_id": 1,
+ "votacao": {
+  "@id": "https://www.camarauberlandia.mg.gov.br/atividade-legislativa/sessoes/1758/votacao",
+  "@type": "votacaoNominal",
+  "description": "7ª Reunião Ordinária – 09/10/2026",
+  "items": [
+   {
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@materias/271354",
+    "@type": "Materia",
+    "abstencao": 0,
+    "apuracao": [
+     {
+      "resultado": "Aprovado em 1ª Discussão"
+     }
+    ],
+    "ausente": 5,
+    "autoria": [
+     {
+      "description": "Externo",
+      "id": "434780",
+      "primeiro_autor": true,
+      "title": "Prefeito Municipal"
+     }
+    ],
+    "contrario": 0,
+    "description": "AUTORIZA A ABERTURA DE CRÉDITO ESPECIAL NO ORÇAMENTO DO DEPARTAMENTO MUNICIPAL DE ÁGUA E ESGOTO – DMAE, NO VALOR DE R$ 160.000,00 (CENTO E SESSENTA MIL REAIS) E A TRANSFERÊNCIA DE RECURSOS NO VALOR DE R$ 140.000,00 (CENTO E QUARENTA MIL REAIS) ÀS ENTIDADES QUE MENCIONA.",
+    "favoravel": 21,
+    "id": "271354",
+    "presidencia": 1,
+    "quorum": "Maioria absoluta",
+    "tipo_votacao": "Nominal",
+    "title": "Projeto de Lei Ordinária nº 1393/2026",
+    "turno": "1ª Discussão",
+    "votos": [
+     {
+      "abstencao": [],
+      "ausente": [
+       {
+        "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/25988",
+        "@type": "Vereador",
+        "description": "Adriano Zago",
+        "id": "25988",
+        "partido": [
+         {
+          "title": "AVANTE",
+          "token": "AVANTE"
+         }
+        ],
+        "title": "Adriano Zago",
+        "votacao_id": "144019",
+        "voto": "Ausente"
+       },
+       {
+        "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/26097",
+        "@type": "Vereador",
+        "description": "Rosenvaldo Correia de Mendonça",
+        "id": "26097",
+        "partido": [
+         {
+          "title": "PROGRESSISTAS",
+          "token": "PP"
+         }
+        ],
+        "title": "Zezinho Mendonça",
+        "votacao_id": "144019",
+        "voto": "Ausente"
+       },
+       {
+        "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/537427",
+        "@type": "Vereador",
+        "description": "Anderson Lima",
+        "id": "537427",
+        "partido": [
+         {
+          "title": "PARTIDO LIBERAL",
+          "token": "PL"
+         }
+        ],
+        "title": "Anderson Lima",
+        "votacao_id": "144019",
+        "voto": "Ausente"
+       },
+       {
+        "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/556180",
+        "@type": "Vereador",
+        "description": "Janaina Guimarães Parreira Rezende",
+        "id": "556180",
+        "partido": [
+         {
+          "title": "PARTIDO LIBERAL",
+          "token": "PL"
+         }
+        ],
+        "title": "Janaina Guimarães",
+        "votacao_id": "144019",
+        "voto": "Ausente"
+       },
+       {
+        "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/556181",
+        "@type": "Vereador",
+        "description": "Nei Carlos Borges",
+        "id": "556181",
+        "partido": [
+         {
+          "title": "Solidariedade",
+          "token": "Solidariedade"
+         }
+        ],
+        "title": "Nei Borges",
+        "votacao_id": "144019",
+        "voto": "Ausente"
+       }
+      ],
+      "contrario": [],
+      "favoravel": [
+       {
+        "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/26010",
+        "@type": "Vereador",
+        "description": "Gláucia Galante Buíssa",
+        "id": "26010",
+        "partido": [
+         {
+          "title": "PARTIDO LIBERAL",
+          "token": "PL"
+         }
+        ],
+        "title": "Gláucia da Saúde",
+        "votacao_id": "144019",
+        "voto": "Sim"
+       },
+       {
+        "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/399022",
+        "@type": "Vereador",
+        "description": "Liza Fernandes Prado",
+        "id": "399022",
+        "partido": [
+         {
+          "title": "CIDADANIA",
+          "token": "CIDADANIA"
+         }
+        ],
+        "title": "Liza Prado",
+        "votacao_id": "144019",
+        "voto": "Sim"
+       },
+       {
+        "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/399041",
+        "@type": "Vereador",
+        "description": "Antônio Carrijo",
+        "id": "399041",
+        "partido": [
+         {
+          "title": "PROGRESSISTAS",
+          "token": "PP"
+         }
+        ],
+        "title": "Antônio Carrijo",
+        "votacao_id": "144019",
+        "voto": "Sim"
+       },
+       {
+        "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/528006",
+        "@type": "Vereador",
+        "description": "Ronaldo César Vilela Tannús",
+        "id": "528006",
+        "partido": [
+         {
+          "title": "PODEMOS",
+          "token": "PODEMOS"
+         }
+        ],
+        "title": "Ronaldo Tannús",
+        "votacao_id": "144019",
+        "voto": "Sim"
+       },
+       {
+        "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/537380",
+        "@type": "Vereador",
+        "description": "Antônio Augusto Gonçalves Goulart",
+        "id": "537380",
+        "partido": [
+         {
+          "title": "PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA",
+          "token": "PSDB"
+         }
+        ],
+        "title": "Antônio Augusto Queijinho",
+        "votacao_id": "144019",
+        "voto": "Sim"
+       },
+       {
+        "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/537428",
+        "@type": "Vereador",
+        "description": "Amanda Gondim",
+        "id": "537428",
+        "partido": [
+         {
+          "title": "PARTIDO SOCIALISTA BRASILEIRO",
+          "token": "PSB"
+         }
+        ],
+        "title": "Amanda Gondim",
+        "votacao_id": "144019",
+        "voto": "Sim"
+       },
+       {
+        "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/537431",
+        "@type": "Vereador",
+        "description": "Fabio Dias Queiroz Zavitoski",
+        "id": "537431",
+        "partido": [
+         {
+          "title": "PARTIDO VERDE",
+          "token": "PV"
+         }
+        ],
+        "title": "Fabão",
+        "votacao_id": "144019",
+        "voto": "Sim"
+       },
+       {
+        "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/537433",
+        "@type": "Vereador",
+        "description": "Ivan da Silva Nunes",
+        "id": "537433",
+        "partido": [
+         {
+          "title": "PROGRESSISTAS",
+          "token": "PP"
+         }
+        ],
+        "title": "Ivan Nunes",
+        "votacao_id": "144019",
+        "voto": "Sim"
+       },
+       {
+        "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/537434",
+        "@type": "Vereador",
+        "description": "Neemias Miquéias",
+        "id": "537434",
+        "partido": [
+         {
+          "title": "PODEMOS",
+          "token": "PODEMOS"
+         }
+        ],
+        "title": "Neemias Miquéias",
+        "votacao_id": "144019",
+        "voto": "Sim"
+       },
+       {
+        "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/537436",
+        "@type": "Vereador",
+        "description": "Thais Andrade",
+        "id": "537436",
+        "partido": [
+         {
+          "title": "Unão Brasil",
+          "token": "União Brasil"
+         }
+        ],
+        "title": "Thais Andrade",
+        "votacao_id": "144019",
+        "voto": "Sim"
+       },
+       {
+        "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/543274",
+        "@type": "Vereador",
+        "description": "Sérvio Túlio",
+        "id": "543274",
+        "partido": [
+         {
+          "title": "PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA",
+          "token": "PSDB"
+         }
+        ],
+        "title": "Sérvio Túlio",
+        "votacao_id": "144019",
+        "voto": "Sim"
+       },
+       {
+        "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/546914",
+        "@type": "Vereador",
+        "description": "Abatenio de Andrade Marquez Neto",
+        "id": "546914",
+        "partido": [
+         {
+          "title": "PROGRESSISTAS",
+          "token": "PP"
+         }
+        ],
+        "title": "Abatenio Marquez",
+        "votacao_id": "144019",
+        "voto": "Sim"
+       },
+       {
+        "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/552091",
+        "@type": "Vereador",
+        "description": "Igino Marcos da Mata de Oliveira",
+        "id": "552091",
+        "partido": [
+         {
+          "title": "PARTIDO DOS TRABALHADORES",
+          "token": "PT"
+         }
+        ],
+        "title": "Dr. Igino",
+        "votacao_id": "144019",
+        "voto": "Sim"
+       },
+       {
+        "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/556174",
+        "@type": "Vereador",
+        "description": "Jair Ferraz",
+        "id": "556174",
+        "partido": [
+         {
+          "title": "PROGRESSISTAS",
+          "token": "PP"
+         }
+        ],
+        "title": "Jair Ferraz",
+        "votacao_id": "144019",
+        "voto": "Sim"
+       },
+       {
+        "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/556176",
+        "@type": "Vereador",
+        "description": "Ângela Aparecida Caetano Souza",
+        "id": "556176",
+        "partido": [
+         {
+          "title": "Solidariedade",
+          "token": "Solidariedade"
+         }
+        ],
+        "title": "Ângela Do Postinho",
+        "votacao_id": "144019",
+        "voto": "Sim"
+       },
+       {
+        "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/556177",
+        "@type": "Vereador",
+        "description": "Lia Eunice Valechi da Silva",
+        "id": "556177",
+        "partido": [
+         {
+          "title": "Unão Brasil",
+          "token": "União Brasil"
+         }
+        ],
+        "title": "Delegada Lia Valechi",
+        "votacao_id": "144019",
+        "voto": "Sim"
+       },
+       {
+        "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/556179",
+        "@type": "Vereador",
+        "description": "Eliusmarcio Alves de Carvalho (Elinho da Academia)",
+        "id": "556179",
+        "partido": [
+         {
+          "title": "PARTIDO DA MOBILIZAÇÃO NACIONAL",
+          "token": "MOBILIZA"
+         }
+        ],
+        "title": "Elinho Da Academia",
+        "votacao_id": "144019",
+        "voto": "Sim"
+       },
+       {
+        "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/556182",
+        "@type": "Vereador",
+        "description": "Celisvaldo da Silva ",
+        "id": "556182",
+        "partido": [
+         {
+          "title": "DEMOCRACIA CRISTÃ",
+          "token": "DC"
+         }
+        ],
+        "title": "Pezão Do Esporte",
+        "votacao_id": "144019",
+        "voto": "Sim"
+       },
+       {
+        "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/556183",
+        "@type": "Vereador",
+        "description": "Conrado Augusto Ferreira de Oliveira",
+        "id": "556183",
+        "partido": [
+         {
+          "title": "MOVIMENTO DEMOCRÁTICO BRASILEIRO",
+          "token": "MDB"
+         }
+        ],
+        "title": "Prof. Conrado Augusto",
+        "votacao_id": "144019",
+        "voto": "Sim"
+       },
+       {
+        "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/556184",
+        "@type": "Vereador",
+        "description": "Ronaldo Amélio Ferreira",
+        "id": "556184",
+        "partido": [
+         {
+          "title": "PARTIDO DOS TRABALHADORES",
+          "token": "PT"
+         }
+        ],
+        "title": "Prof. Ronaldo",
+        "votacao_id": "144019",
+        "voto": "Sim"
+       },
+       {
+        "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/556185",
+        "@type": "Vereador",
+        "description": "Maciel Fernandes Rodrigues Amorim",
+        "id": "556185",
+        "partido": [
+         {
+          "title": "Democrata",
+          "token": "DEMOCRATA"
+         }
+        ],
+        "title": "Dr. Maciel Amorim",
+        "votacao_id": "144019",
+        "voto": "Sim"
+       }
+      ],
+      "presidencia": [
+       {
+        "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/526697",
+        "@type": "Vereador",
+        "description": "Ednaldo Régio de Lima",
+        "id": "526697",
+        "partido": [
+         {
+          "title": "PROGRESSISTAS",
+          "token": "PP"
+         }
+        ],
+        "title": "Sargento Ednaldo",
+        "votacao_id": "144019",
+        "voto": "Na Presidência"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "abstencao": 0,
+    "apuracao": [
+     {
+      "resultado": "Aprovado em 1ª Discussão"
+     }
+    ],
+    "ausente": 0,
+    "contrario": 0,
+    "favoravel": 0,
+    "presidencia": 0,
+    "quorum": "Maioria simples",
+    "tipo_votacao": "Simbólica",
+    "turno": "1ª Discussão",
+    "votos": [
+     {
+      "abstencao": [],
+      "ausente": [],
+      "contrario": [],
+      "favoravel": [],
+      "presidencia": []
+     }
+    ]
+   },
+   {
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@materias/271356",
+    "@type": "Materia",
+    "abstencao": 0,
+    "apuracao": [
+     {
+      "resultado": "Aprovado em 1ª Discussão"
+     }
+    ],
+    "ausente": 6,
+    "autoria": [
+     {
+      "description": "Externo",
+      "id": "434780",
+      "primeiro_autor": true,
+      "title": "Prefeito Municipal"
+     }
+    ],
+    "contrario": 0,
+    "description": "AUTORIZA A ABERTURA DE CRÉDITO ESPECIAL NO ORÇAMENTO DA SECRETARIA MUNICIPAL DE HABITAÇÃO, NO VALOR R$ 200.000,00 (DUZENTOS MIL REAIS) E DÁ OUTRAS PROVIDÊNCIAS.",
+    "favoravel": 20,
+    "id": "271356",
+    "presidencia": 1,
+    "quorum": "Maioria absoluta",
+    "tipo_votacao": "Nominal",
+    "title": "Projeto de Lei Ordinária nº 1395/2026",
+    "turno": "1ª Discussão",
+    "votos": [
+     {
+      "abstencao": [],
+      "ausente": [
+       {
+        "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/25988",
+        "@type": "Vereador",
+        "description": "Adriano Zago",
+        "id": "25988",
+        "partido": [
+         {
+          "title": "AVANTE",
+          "token": "AVANTE"
+         }
+        ],
+        "title": "Adriano Zago",
+        "votacao_id": "144023",
+        "voto": "Ausente"
+       },
+       {
+        "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/537427",
+        "@type": "Vereador",
+        "description": "Anderson Lima",
+        "id": "537427",
+        "partido": [
+         {
+          "title": "PARTIDO LIBERAL",
+          "token": "PL"
+         }
+        ],
+        "title": "Anderson Lima",
+        "votacao_id": "144023",
+        "voto": "Ausente"
+       },
+       {
+        "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/543274",
+        "@type": "Vereador",
+        "description": "Sérvio Túlio",
+        "id": "543274",
+        "partido": [
+         {
+          "title": "PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA",
+          "token": "PSDB"
+         }
+        ],
+        "title": "Sérvio Túlio",
+        "votacao_id": "144023",
+        "voto": "Ausente"
+       },
+       {
+        "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/556180",
+        "@type": "Vereador",
+        "description": "Janaina Guimarães Parreira Rezende",
+        "id": "556180",
+        "partido": [
+         {
+          "title": "PARTIDO LIBERAL",
+          "token": "PL"
+         }
+        ],
+        "title": "Janaina Guimarães",
+        "votacao_id": "144023",
+        "voto": "Ausente"
+       },
+       {
+        "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/556182",
+        "@type": "Vereador",
+        "description": "Celisvaldo da Silva ",
+        "id": "556182",
+        "partido": [
+         {
+          "title": "DEMOCRACIA CRISTÃ",
+          "token": "DC"
+         }
+        ],
+        "title": "Pezão Do Esporte",
+        "votacao_id": "144023",
+        "voto": "Ausente"
+       },
+       {
+        "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/556183",
+        "@type": "Vereador",
+        "description": "Conrado Augusto Ferreira de Oliveira",
+        "id": "556183",
+        "partido": [
+         {
+          "title": "MOVIMENTO DEMOCRÁTICO BRASILEIRO",
+          "token": "MDB"
+         }
+        ],
+        "title": "Prof. Conrado Augusto",
+        "votacao_id": "144023",
+        "voto": "Ausente"
+       }
+      ],
+      "contrario": [],
+      "favoravel": [
+       {
+        "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/26010",
+        "@type": "Vereador",
+        "description": "Gláucia Galante Buíssa",
+        "id": "26010",
+        "partido": [
+         {
+          "title": "PARTIDO LIBERAL",
+          "token": "PL"
+         }
+        ],
+        "title": "Gláucia da Saúde",
+        "votacao_id": "144023",
+        "voto": "Sim"
+       },
+       {
+        "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/399022",
+        "@type": "Vereador",
+        "description": "Liza Fernandes Prado",
+        "id": "399022",
+        "partido": [
+         {
+          "title": "CIDADANIA",
+          "token": "CIDADANIA"
+         }
+        ],
+        "title": "Liza Prado",
+        "votacao_id": "144023",
+        "voto": "Sim"
+       },
+       {
+        "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/399041",
+        "@type": "Vereador",
+        "description": "Antônio Carrijo",
+        "id": "399041",
+        "partido": [
+         {
+          "title": "PROGRESSISTAS",
+          "token": "PP"
+         }
+        ],
+        "title": "Antônio Carrijo",
+        "votacao_id": "144023",
+        "voto": "Sim"
+       },
+       {
+        "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/526697",
+        "@type": "Vereador",
+        "description": "Ednaldo Régio de Lima",
+        "id": "526697",
+        "partido": [
+         {
+          "title": "PROGRESSISTAS",
+          "token": "PP"
+         }
+        ],
+        "title": "Sargento Ednaldo",
+        "votacao_id": "144023",
+        "voto": "Sim"
+       },
+       {
+        "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/528006",
+        "@type": "Vereador",
+        "description": "Ronaldo César Vilela Tannús",
+        "id": "528006",
+        "partido": [
+         {
+          "title": "PODEMOS",
+          "token": "PODEMOS"
+         }
+        ],
+        "title": "Ronaldo Tannús",
+        "votacao_id": "144023",
+        "voto": "Sim"
+       },
+       {
+        "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/537380",
+        "@type": "Vereador",
+        "description": "Antônio Augusto Gonçalves Goulart",
+        "id": "537380",
+        "partido": [
+         {
+          "title": "PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA",
+          "token": "PSDB"
+         }
+        ],
+        "title": "Antônio Augusto Queijinho",
+        "votacao_id": "144023",
+        "voto": "Sim"
+       },
+       {
+        "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/537428",
+        "@type": "Vereador",
+        "description": "Amanda Gondim",
+        "id": "537428",
+        "partido": [
+         {
+          "title": "PARTIDO SOCIALISTA BRASILEIRO",
+          "token": "PSB"
+         }
+        ],
+        "title": "Amanda Gondim",
+        "votacao_id": "144023",
+        "voto": "Sim"
+       },
+       {
+        "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/537431",
+        "@type": "Vereador",
+        "description": "Fabio Dias Queiroz Zavitoski",
+        "id": "537431",
+        "partido": [
+         {
+          "title": "PARTIDO VERDE",
+          "token": "PV"
+         }
+        ],
+        "title": "Fabão",
+        "votacao_id": "144023",
+        "voto": "Sim"
+       },
+       {
+        "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/537433",
+        "@type": "Vereador",
+        "description": "Ivan da Silva Nunes",
+        "id": "537433",
+        "partido": [
+         {
+          "title": "PROGRESSISTAS",
+          "token": "PP"
+         }
+        ],
+        "title": "Ivan Nunes",
+        "votacao_id": "144023",
+        "voto": "Sim"
+       },
+       {
+        "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/537434",
+        "@type": "Vereador",
+        "description": "Neemias Miquéias",
+        "id": "537434",
+        "partido": [
+         {
+          "title": "PODEMOS",
+          "token": "PODEMOS"
+         }
+        ],
+        "title": "Neemias Miquéias",
+        "votacao_id": "144023",
+        "voto": "Sim"
+       },
+       {
+        "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/537436",
+        "@type": "Vereador",
+        "description": "Thais Andrade",
+        "id": "537436",
+        "partido": [
+         {
+          "title": "Unão Brasil",
+          "token": "União Brasil"
+         }
+        ],
+        "title": "Thais Andrade",
+        "votacao_id": "144023",
+        "voto": "Sim"
+       },
+       {
+        "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/546914",
+        "@type": "Vereador",
+        "description": "Abatenio de Andrade Marquez Neto",
+        "id": "546914",
+        "partido": [
+         {
+          "title": "PROGRESSISTAS",
+          "token": "PP"
+         }
+        ],
+        "title": "Abatenio Marquez",
+        "votacao_id": "144023",
+        "voto": "Sim"
+       },
+       {
+        "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/552091",
+        "@type": "Vereador",
+        "description": "Igino Marcos da Mata de Oliveira",
+        "id": "552091",
+        "partido": [
+         {
+          "title": "PARTIDO DOS TRABALHADORES",
+          "token": "PT"
+         }
+        ],
+        "title": "Dr. Igino",
+        "votacao_id": "144023",
+        "voto": "Sim"
+       },
+       {
+        "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/556174",
+        "@type": "Vereador",
+        "description": "Jair Ferraz",
+        "id": "556174",
+        "partido": [
+         {
+          "title": "PROGRESSISTAS",
+          "token": "PP"
+         }
+        ],
+        "title": "Jair Ferraz",
+        "votacao_id": "144023",
+        "voto": "Sim"
+       },
+       {
+        "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/556176",
+        "@type": "Vereador",
+        "description": "Ângela Aparecida Caetano Souza",
+        "id": "556176",
+        "partido": [
+         {
+          "title": "Solidariedade",
+          "token": "Solidariedade"
+         }
+        ],
+        "title": "Ângela Do Postinho",
+        "votacao_id": "144023",
+        "voto": "Sim"
+       },
+       {
+        "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/556177",
+        "@type": "Vereador",
+        "description": "Lia Eunice Valechi da Silva",
+        "id": "556177",
+        "partido": [
+         {
+          "title": "Unão Brasil",
+          "token": "União Brasil"
+         }
+        ],
+        "title": "Delegada Lia Valechi",
+        "votacao_id": "144023",
+        "voto": "Sim"
+       },
+       {
+        "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/556179",
+        "@type": "Vereador",
+        "description": "Eliusmarcio Alves de Carvalho (Elinho da Academia)",
+        "id": "556179",
+        "partido": [
+         {
+          "title": "PARTIDO DA MOBILIZAÇÃO NACIONAL",
+          "token": "MOBILIZA"
+         }
+        ],
+        "title": "Elinho Da Academia",
+        "votacao_id": "144023",
+        "voto": "Sim"
+       },
+       {
+        "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/556181",
+        "@type": "Vereador",
+        "description": "Nei Carlos Borges",
+        "id": "556181",
+        "partido": [
+         {
+          "title": "Solidariedade",
+          "token": "Solidariedade"
+         }
+        ],
+        "title": "Nei Borges",
+        "votacao_id": "144023",
+        "voto": "Sim"
+       },
+       {
+        "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/556184",
+        "@type": "Vereador",
+        "description": "Ronaldo Amélio Ferreira",
+        "id": "556184",
+        "partido": [
+         {
+          "title": "PARTIDO DOS TRABALHADORES",
+          "token": "PT"
+         }
+        ],
+        "title": "Prof. Ronaldo",
+        "votacao_id": "144023",
+        "voto": "Sim"
+       },
+       {
+        "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/556185",
+        "@type": "Vereador",
+        "description": "Maciel Fernandes Rodrigues Amorim",
+        "id": "556185",
+        "partido": [
+         {
+          "title": "Democrata",
+          "token": "DEMOCRATA"
+         }
+        ],
+        "title": "Dr. Maciel Amorim",
+        "votacao_id": "144023",
+        "voto": "Sim"
+       }
+      ],
+      "presidencia": [
+       {
+        "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/26097",
+        "@type": "Vereador",
+        "description": "Rosenvaldo Correia de Mendonça",
+        "id": "26097",
+        "partido": [
+         {
+          "title": "PROGRESSISTAS",
+          "token": "PP"
+         }
+        ],
+        "title": "Zezinho Mendonça",
+        "votacao_id": "144023",
+        "voto": "Na Presidência"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@materias/271357",
+    "@type": "Materia",
+    "abstencao": 0,
+    "apuracao": [
+     {
+      "resultado": "Aprovado em 1ª Discussão"
+     }
+    ],
+    "ausente": 6,
+    "autoria": [
+     {
+      "description": "Externo",
+      "id": "434780",
+      "primeiro_autor": true,
+      "title": "Prefeito Municipal"
+     }
+    ],
+    "contrario": 4,
+    "description": "AUTORIZA ABERTURA DE CRÉDITO ESPECIAL NO ORÇAMENTO DA SECRETARIA MUNICIPAL DE GESTÃO ESTRATÉGICA NO VALOR DE R$ 500.000,00 (QUINHENTOS MIL REAIS).",
+    "favoravel": 16,
+    "id": "271357",
+    "presidencia": 1,
+    "quorum": "Maioria absoluta",
+    "tipo_votacao": "Nominal",
+    "title": "Projeto de Lei Ordinária nº 1396/2026",
+    "turno": "1ª Discussão",
+    "votos": [
+     {
+      "abstencao": [],
+      "ausente": [
+       {
+        "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/25988",
+        "@type": "Vereador",
+        "description": "Adriano Zago",
+        "id": "25988",
+        "partido": [
+         {
+          "title": "AVANTE",
+          "token": "AVANTE"
+         }
+        ],
+        "title": "Adriano Zago",
+        "votacao_id": "144025",
+        "voto": "Ausente"
+       },
+       {
+        "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/26010",
+        "@type": "Vereador",
+        "description": "Gláucia Galante Buíssa",
+        "id": "26010",
+        "partido": [
+         {
+          "title": "PARTIDO LIBERAL",
+          "token": "PL"
+         }
+        ],
+        "title": "Gláucia da Saúde",
+        "votacao_id": "144025",
+        "voto": "Ausente"
+       },
+       {
+        "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/26097",
+        "@type": "Vereador",
+        "description": "Rosenvaldo Correia de Mendonça",
+        "id": "26097",
+        "partido": [
+         {
+          "title": "PROGRESSISTAS",
+          "token": "PP"
+         }
+        ],
+        "title": "Zezinho Mendonça",
+        "votacao_id": "144025",
+        "voto": "Ausente"
+       },
+       {
+        "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/537427",
+        "@type": "Vereador",
+        "description": "Anderson Lima",
+        "id": "537427",
+        "partido": [
+         {
+          "title": "PARTIDO LIBERAL",
+          "token": "PL"
+         }
+        ],
+        "title": "Anderson Lima",
+        "votacao_id": "144025",
+        "voto": "Ausente"
+       },
+       {
+        "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/546914",
+        "@type": "Vereador",
+        "description": "Abatenio de Andrade Marquez Neto",
+        "id": "546914",
+        "partido": [
+         {
+          "title": "PROGRESSISTAS",
+          "token": "PP"
+         }
+        ],
+        "title": "Abatenio Marquez",
+        "votacao_id": "144025",
+        "voto": "Ausente"
+       },
+       {
+        "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/556180",
+        "@type": "Vereador",
+        "description": "Janaina Guimarães Parreira Rezende",
+        "id": "556180",
+        "partido": [
+         {
+          "title": "PARTIDO LIBERAL",
+          "token": "PL"
+         }
+        ],
+        "title": "Janaina Guimarães",
+        "votacao_id": "144025",
+        "voto": "Ausente"
+       }
+      ],
+      "contrario": [
+       {
+        "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/537428",
+        "@type": "Vereador",
+        "description": "Amanda Gondim",
+        "id": "537428",
+        "partido": [
+         {
+          "title": "PARTIDO SOCIALISTA BRASILEIRO",
+          "token": "PSB"
+         }
+        ],
+        "title": "Amanda Gondim",
+        "votacao_id": "144025",
+        "voto": "Não"
+       },
+       {
+        "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/537431",
+        "@type": "Vereador",
+        "description": "Fabio Dias Queiroz Zavitoski",
+        "id": "537431",
+        "partido": [
+         {
+          "title": "PARTIDO VERDE",
+          "token": "PV"
+         }
+        ],
+        "title": "Fabão",
+        "votacao_id": "144025",
+        "voto": "Não"
+       },
+       {
+        "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/552091",
+        "@type": "Vereador",
+        "description": "Igino Marcos da Mata de Oliveira",
+        "id": "552091",
+        "partido": [
+         {
+          "title": "PARTIDO DOS TRABALHADORES",
+          "token": "PT"
+         }
+        ],
+        "title": "Dr. Igino",
+        "votacao_id": "144025",
+        "voto": "Não"
+       },
+       {
+        "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/556184",
+        "@type": "Vereador",
+        "description": "Ronaldo Amélio Ferreira",
+        "id": "556184",
+        "partido": [
+         {
+          "title": "PARTIDO DOS TRABALHADORES",
+          "token": "PT"
+         }
+        ],
+        "title": "Prof. Ronaldo",
+        "votacao_id": "144025",
+        "voto": "Não"
+       }
+      ],
+      "favoravel": [
+       {
+        "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/399022",
+        "@type": "Vereador",
+        "description": "Liza Fernandes Prado",
+        "id": "399022",
+        "partido": [
+         {
+          "title": "CIDADANIA",
+          "token": "CIDADANIA"
+         }
+        ],
+        "title": "Liza Prado",
+        "votacao_id": "144025",
+        "voto": "Sim"
+       },
+       {
+        "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/399041",
+        "@type": "Vereador",
+        "description": "Antônio Carrijo",
+        "id": "399041",
+        "partido": [
+         {
+          "title": "PROGRESSISTAS",
+          "token": "PP"
+         }
+        ],
+        "title": "Antônio Carrijo",
+        "votacao_id": "144025",
+        "voto": "Sim"
+       },
+       {
+        "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/528006",
+        "@type": "Vereador",
+        "description": "Ronaldo César Vilela Tannús",
+        "id": "528006",
+        "partido": [
+         {
+          "title": "PODEMOS",
+          "token": "PODEMOS"
+         }
+        ],
+        "title": "Ronaldo Tannús",
+        "votacao_id": "144025",
+        "voto": "Sim"
+       },
+       {
+        "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/537380",
+        "@type": "Vereador",
+        "description": "Antônio Augusto Gonçalves Goulart",
+        "id": "537380",
+        "partido": [
+         {
+          "title": "PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA",
+          "token": "PSDB"
+         }
+        ],
+        "title": "Antônio Augusto Queijinho",
+        "votacao_id": "144025",
+        "voto": "Sim"
+       },
+       {
+        "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/537433",
+        "@type": "Vereador",
+        "description": "Ivan da Silva Nunes",
+        "id": "537433",
+        "partido": [
+         {
+          "title": "PROGRESSISTAS",
+          "token": "PP"
+         }
+        ],
+        "title": "Ivan Nunes",
+        "votacao_id": "144025",
+        "voto": "Sim"
+       },
+       {
+        "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/537434",
+        "@type": "Vereador",
+        "description": "Neemias Miquéias",
+        "id": "537434",
+        "partido": [
+         {
+          "title": "PODEMOS",
+          "token": "PODEMOS"
+         }
+        ],
+        "title": "Neemias Miquéias",
+        "votacao_id": "144025",
+        "voto": "Sim"
+       },
+       {
+        "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/537436",
+        "@type": "Vereador",
+        "description": "Thais Andrade",
+        "id": "537436",
+        "partido": [
+         {
+          "title": "Unão Brasil",
+          "token": "União Brasil"
+         }
+        ],
+        "title": "Thais Andrade",
+        "votacao_id": "144025",
+        "voto": "Sim"
+       },
+       {
+        "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/543274",
+        "@type": "Vereador",
+        "description": "Sérvio Túlio",
+        "id": "543274",
+        "partido": [
+         {
+          "title": "PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA",
+          "token": "PSDB"
+         }
+        ],
+        "title": "Sérvio Túlio",
+        "votacao_id": "144025",
+        "voto": "Sim"
+       },
+       {
+        "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/556174",
+        "@type": "Vereador",
+        "description": "Jair Ferraz",
+        "id": "556174",
+        "partido": [
+         {
+          "title": "PROGRESSISTAS",
+          "token": "PP"
+         }
+        ],
+        "title": "Jair Ferraz",
+        "votacao_id": "144025",
+        "voto": "Sim"
+       },
+       {
+        "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/556176",
+        "@type": "Vereador",
+        "description": "Ângela Aparecida Caetano Souza",
+        "id": "556176",
+        "partido": [
+         {
+          "title": "Solidariedade",
+          "token": "Solidariedade"
+         }
+        ],
+        "title": "Ângela Do Postinho",
+        "votacao_id": "144025",
+        "voto": "Sim"
+       },
+       {
+        "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/556177",
+        "@type": "Vereador",
+        "description": "Lia Eunice Valechi da Silva",
+        "id": "556177",
+        "partido": [
+         {
+          "title": "Unão Brasil",
+          "token": "União Brasil"
+         }
+        ],
+        "title": "Delegada Lia Valechi",
+        "votacao_id": "144025",
+        "voto": "Sim"
+       },
+       {
+        "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/556179",
+        "@type": "Vereador",
+        "description": "Eliusmarcio Alves de Carvalho (Elinho da Academia)",
+        "id": "556179",
+        "partido": [
+         {
+          "title": "PARTIDO DA MOBILIZAÇÃO NACIONAL",
+          "token": "MOBILIZA"
+         }
+        ],
+        "title": "Elinho Da Academia",
+        "votacao_id": "144025",
+        "voto": "Sim"
+       },
+       {
+        "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/556181",
+        "@type": "Vereador",
+        "description": "Nei Carlos Borges",
+        "id": "556181",
+        "partido": [
+         {
+          "title": "Solidariedade",
+          "token": "Solidariedade"
+         }
+        ],
+        "title": "Nei Borges",
+        "votacao_id": "144025",
+        "voto": "Sim"
+       },
+       {
+        "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/556182",
+        "@type": "Vereador",
+        "description": "Celisvaldo da Silva ",
+        "id": "556182",
+        "partido": [
+         {
+          "title": "DEMOCRACIA CRISTÃ",
+          "token": "DC"
+         }
+        ],
+        "title": "Pezão Do Esporte",
+        "votacao_id": "144025",
+        "voto": "Sim"
+       },
+       {
+        "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/556183",
+        "@type": "Vereador",
+        "description": "Conrado Augusto Ferreira de Oliveira",
+        "id": "556183",
+        "partido": [
+         {
+          "title": "MOVIMENTO DEMOCRÁTICO BRASILEIRO",
+          "token": "MDB"
+         }
+        ],
+        "title": "Prof. Conrado Augusto",
+        "votacao_id": "144025",
+        "voto": "Sim"
+       },
+       {
+        "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/556185",
+        "@type": "Vereador",
+        "description": "Maciel Fernandes Rodrigues Amorim",
+        "id": "556185",
+        "partido": [
+         {
+          "title": "Democrata",
+          "token": "DEMOCRATA"
+         }
+        ],
+        "title": "Dr. Maciel Amorim",
+        "votacao_id": "144025",
+        "voto": "Sim"
+       }
+      ],
+      "presidencia": [
+       {
+        "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/526697",
+        "@type": "Vereador",
+        "description": "Ednaldo Régio de Lima",
+        "id": "526697",
+        "partido": [
+         {
+          "title": "PROGRESSISTAS",
+          "token": "PP"
+         }
+        ],
+        "title": "Sargento Ednaldo",
+        "votacao_id": "144025",
+        "voto": "Na Presidência"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@materias/271301",
+    "@type": "Materia",
+    "abstencao": 0,
+    "apuracao": [
+     {
+      "resultado": "Aprovado em 2ª Discussão"
+     }
+    ],
+    "ausente": 7,
+    "autoria": [
+     {
+      "description": "Externo",
+      "id": "434780",
+      "primeiro_autor": true,
+      "title": "Prefeito Municipal"
+     }
+    ],
+    "contrario": 0,
+    "description": "ALTERA O ANEXO I DA LEI Nº 14.358, DE 18 DE MARÇO DE 2025 E SUAS ALTERAÇÕES, QUE “DISPÕE SOBRE O ESTATUTO E DEFINE A ESTRUTURA ADMINISTRATIVA DA EMPRESA MUNICIPAL DE APOIO E MANUTENÇÃO - EMAM, ATUALIZA OS QUADROS DE EMPREGOS PÚBLICOS PERMANENTES E CARGOS EM COMISSÃO DA EMPRESA, REVOGA A LEI Nº 12.615, DE 16 DE JANEIRO DE 2017, O DECRETO Nº 12.048, DE 22 DE DEZEMBRO DE 2009, A LEI Nº 12.081, DE 19 DE FEVEREIRO DE 2015, E DÁ OUTRAS PROVIDÊNCIAS”.",
+    "favoravel": 19,
+    "id": "271301",
+    "presidencia": 1,
+    "quorum": "Maioria absoluta",
+    "tipo_votacao": "Nominal",
+    "title": "Projeto de Lei Ordinária nº 1390/2026",
+    "turno": "2ª Discussão",
+    "votos": [
+     {
+      "abstencao": [],
+      "ausente": [
+       {
+        "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/25988",
+        "@type": "Vereador",
+        "description": "Adriano Zago",
+        "id": "25988",
+        "partido": [
+         {
+          "title": "AVANTE",
+          "token": "AVANTE"
+         }
+        ],
+        "title": "Adriano Zago",
+        "votacao_id": "144027",
+        "voto": "Ausente"
+       },
+       {
+        "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/26010",
+        "@type": "Vereador",
+        "description": "Gláucia Galante Buíssa",
+        "id": "26010",
+        "partido": [
+         {
+          "title": "PARTIDO LIBERAL",
+          "token": "PL"
+         }
+        ],
+        "title": "Gláucia da Saúde",
+        "votacao_id": "144027",
+        "voto": "Ausente"
+       },
+       {
+        "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/26097",
+        "@type": "Vereador",
+        "description": "Rosenvaldo Correia de Mendonça",
+        "id": "26097",
+        "partido": [
+         {
+          "title": "PROGRESSISTAS",
+          "token": "PP"
+         }
+        ],
+        "title": "Zezinho Mendonça",
+        "votacao_id": "144027",
+        "voto": "Ausente"
+       },
+       {
+        "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/537427",
+        "@type": "Vereador",
+        "description": "Anderson Lima",
+        "id": "537427",
+        "partido": [
+         {
+          "title": "PARTIDO LIBERAL",
+          "token": "PL"
+         }
+        ],
+        "title": "Anderson Lima",
+        "votacao_id": "144027",
+        "voto": "Ausente"
+       },
+       {
+        "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/543274",
+        "@type": "Vereador",
+        "description": "Sérvio Túlio",
+        "id": "543274",
+        "partido": [
+         {
+          "title": "PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA",
+          "token": "PSDB"
+         }
+        ],
+        "title": "Sérvio Túlio",
+        "votacao_id": "144027",
+        "voto": "Ausente"
+       },
+       {
+        "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/546914",
+        "@type": "Vereador",
+        "description": "Abatenio de Andrade Marquez Neto",
+        "id": "546914",
+        "partido": [
+         {
+          "title": "PROGRESSISTAS",
+          "token": "PP"
+         }
+        ],
+        "title": "Abatenio Marquez",
+        "votacao_id": "144027",
+        "voto": "Ausente"
+       },
+       {
+        "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/556180",
+        "@type": "Vereador",
+        "description": "Janaina Guimarães Parreira Rezende",
+        "id": "556180",
+        "partido": [
+         {
+          "title": "PARTIDO LIBERAL",
+          "token": "PL"
+         }
+        ],
+        "title": "Janaina Guimarães",
+        "votacao_id": "144027",
+        "voto": "Ausente"
+       }
+      ],
+      "contrario": [],
+      "favoravel": [
+       {
+        "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/399022",
+        "@type": "Vereador",
+        "description": "Liza Fernandes Prado",
+        "id": "399022",
+        "partido": [
+         {
+          "title": "CIDADANIA",
+          "token": "CIDADANIA"
+         }
+        ],
+        "title": "Liza Prado",
+        "votacao_id": "144027",
+        "voto": "Sim"
+       },
+       {
+        "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/399041",
+        "@type": "Vereador",
+        "description": "Antônio Carrijo",
+        "id": "399041",
+        "partido": [
+         {
+          "title": "PROGRESSISTAS",
+          "token": "PP"
+         }
+        ],
+        "title": "Antônio Carrijo",
+        "votacao_id": "144027",
+        "voto": "Sim"
+       },
+       {
+        "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/528006",
+        "@type": "Vereador",
+        "description": "Ronaldo César Vilela Tannús",
+        "id": "528006",
+        "partido": [
+         {
+          "title": "PODEMOS",
+          "token": "PODEMOS"
+         }
+        ],
+        "title": "Ronaldo Tannús",
+        "votacao_id": "144027",
+        "voto": "Sim"
+       },
+       {
+        "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/537380",
+        "@type": "Vereador",
+        "description": "Antônio Augusto Gonçalves Goulart",
+        "id": "537380",
+        "partido": [
+         {
+          "title": "PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA",
+          "token": "PSDB"
+         }
+        ],
+        "title": "Antônio Augusto Queijinho",
+        "votacao_id": "144027",
+        "voto": "Sim"
+       },
+       {
+        "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/537428",
+        "@type": "Vereador",
+        "description": "Amanda Gondim",
+        "id": "537428",
+        "partido": [
+         {
+          "title": "PARTIDO SOCIALISTA BRASILEIRO",
+          "token": "PSB"
+         }
+        ],
+        "title": "Amanda Gondim",
+        "votacao_id": "144027",
+        "voto": "Sim"
+       },
+       {
+        "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/537431",
+        "@type": "Vereador",
+        "description": "Fabio Dias Queiroz Zavitoski",
+        "id": "537431",
+        "partido": [
+         {
+          "title": "PARTIDO VERDE",
+          "token": "PV"
+         }
+        ],
+        "title": "Fabão",
+        "votacao_id": "144027",
+        "voto": "Sim"
+       },
+       {
+        "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/537433",
+        "@type": "Vereador",
+        "description": "Ivan da Silva Nunes",
+        "id": "537433",
+        "partido": [
+         {
+          "title": "PROGRESSISTAS",
+          "token": "PP"
+         }
+        ],
+        "title": "Ivan Nunes",
+        "votacao_id": "144027",
+        "voto": "Sim"
+       },
+       {
+        "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/537434",
+        "@type": "Vereador",
+        "description": "Neemias Miquéias",
+        "id": "537434",
+        "partido": [
+         {
+          "title": "PODEMOS",
+          "token": "PODEMOS"
+         }
+        ],
+        "title": "Neemias Miquéias",
+        "votacao_id": "144027",
+        "voto": "Sim"
+       },
+       {
+        "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/537436",
+        "@type": "Vereador",
+        "description": "Thais Andrade",
+        "id": "537436",
+        "partido": [
+         {
+          "title": "Unão Brasil",
+          "token": "União Brasil"
+         }
+        ],
+        "title": "Thais Andrade",
+        "votacao_id": "144027",
+        "voto": "Sim"
+       },
+       {
+        "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/552091",
+        "@type": "Vereador",
+        "description": "Igino Marcos da Mata de Oliveira",
+        "id": "552091",
+        "partido": [
+         {
+          "title": "PARTIDO DOS TRABALHADORES",
+          "token": "PT"
+         }
+        ],
+        "title": "Dr. Igino",
+        "votacao_id": "144027",
+        "voto": "Sim"
+       },
+       {
+        "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/556174",
+        "@type": "Vereador",
+        "description": "Jair Ferraz",
+        "id": "556174",
+        "partido": [
+         {
+          "title": "PROGRESSISTAS",
+          "token": "PP"
+         }
+        ],
+        "title": "Jair Ferraz",
+        "votacao_id": "144027",
+        "voto": "Sim"
+       },
+       {
+        "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/556176",
+        "@type": "Vereador",
+        "description": "Ângela Aparecida Caetano Souza",
+        "id": "556176",
+        "partido": [
+         {
+          "title": "Solidariedade",
+          "token": "Solidariedade"
+         }
+        ],
+        "title": "Ângela Do Postinho",
+        "votacao_id": "144027",
+        "voto": "Sim"
+       },
+       {
+        "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/556177",
+        "@type": "Vereador",
+        "description": "Lia Eunice Valechi da Silva",
+        "id": "556177",
+        "partido": [
+         {
+          "title": "Unão Brasil",
+          "token": "União Brasil"
+         }
+        ],
+        "title": "Delegada Lia Valechi",
+        "votacao_id": "144027",
+        "voto": "Sim"
+       },
+       {
+        "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/556179",
+        "@type": "Vereador",
+        "description": "Eliusmarcio Alves de Carvalho (Elinho da Academia)",
+        "id": "556179",
+        "partido": [
+         {
+          "title": "PARTIDO DA MOBILIZAÇÃO NACIONAL",
+          "token": "MOBILIZA"
+         }
+        ],
+        "title": "Elinho Da Academia",
+        "votacao_id": "144027",
+        "voto": "Sim"
+       },
+       {
+        "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/556181",
+        "@type": "Vereador",
+        "description": "Nei Carlos Borges",
+        "id": "556181",
+        "partido": [
+         {
+          "title": "Solidariedade",
+          "token": "Solidariedade"
+         }
+        ],
+        "title": "Nei Borges",
+        "votacao_id": "144027",
+        "voto": "Sim"
+       },
+       {
+        "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/556182",
+        "@type": "Vereador",
+        "description": "Celisvaldo da Silva ",
+        "id": "556182",
+        "partido": [
+         {
+          "title": "DEMOCRACIA CRISTÃ",
+          "token": "DC"
+         }
+        ],
+        "title": "Pezão Do Esporte",
+        "votacao_id": "144027",
+        "voto": "Sim"
+       },
+       {
+        "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/556183",
+        "@type": "Vereador",
+        "description": "Conrado Augusto Ferreira de Oliveira",
+        "id": "556183",
+        "partido": [
+         {
+          "title": "MOVIMENTO DEMOCRÁTICO BRASILEIRO",
+          "token": "MDB"
+         }
+        ],
+        "title": "Prof. Conrado Augusto",
+        "votacao_id": "144027",
+        "voto": "Sim"
+       },
+       {
+        "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/556184",
+        "@type": "Vereador",
+        "description": "Ronaldo Amélio Ferreira",
+        "id": "556184",
+        "partido": [
+         {
+          "title": "PARTIDO DOS TRABALHADORES",
+          "token": "PT"
+         }
+        ],
+        "title": "Prof. Ronaldo",
+        "votacao_id": "144027",
+        "voto": "Sim"
+       },
+       {
+        "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/556185",
+        "@type": "Vereador",
+        "description": "Maciel Fernandes Rodrigues Amorim",
+        "id": "556185",
+        "partido": [
+         {
+          "title": "Democrata",
+          "token": "DEMOCRATA"
+         }
+        ],
+        "title": "Dr. Maciel Amorim",
+        "votacao_id": "144027",
+        "voto": "Sim"
+       }
+      ],
+      "presidencia": [
+       {
+        "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@vereadores/526697",
+        "@type": "Vereador",
+        "description": "Ednaldo Régio de Lima",
+        "id": "526697",
+        "partido": [
+         {
+          "title": "PROGRESSISTAS",
+          "token": "PP"
+         }
+        ],
+        "title": "Sargento Ednaldo",
+        "votacao_id": "144027",
+        "voto": "Na Presidência"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "title": "Lista de votação nominal"
+ }
+}

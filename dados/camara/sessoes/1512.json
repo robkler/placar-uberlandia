@@ -1,0 +1,211 @@
+{
+ "@components": {
+  "actions": {
+   "@id": "https://www.camarauberlandia.mg.gov.br/atividade-legislativa/sessoes/1512/@actions"
+  },
+  "aliases": {
+   "@id": "https://www.camarauberlandia.mg.gov.br/atividade-legislativa/sessoes/1512/@aliases"
+  },
+  "breadcrumbs": {
+   "@id": "https://www.camarauberlandia.mg.gov.br/atividade-legislativa/sessoes/1512/@breadcrumbs"
+  },
+  "contextnavigation": {
+   "@id": "https://www.camarauberlandia.mg.gov.br/atividade-legislativa/sessoes/1512/@contextnavigation"
+  },
+  "navigation": {
+   "@id": "https://www.camarauberlandia.mg.gov.br/atividade-legislativa/sessoes/1512/@navigation"
+  },
+  "navroot": {
+   "@id": "https://www.camarauberlandia.mg.gov.br/atividade-legislativa/sessoes/1512/@navroot"
+  }
+ },
+ "@id": "https://www.camarauberlandia.mg.gov.br/atividade-legislativa/sessoes/1512",
+ "@type": "Sessao",
+ "ata": [
+  {
+   "content-type": "application/pdf",
+   "download": "https://e-processos.camarauberlandia.mg.gov.br/@@sapl_documentos_download?path=ata_sessao/1512_ata_sessao.pdf",
+   "filename": "1512_ata_sessao.pdf",
+   "size": ""
+  }
+ ],
+ "date": "2025-03-10",
+ "description": "1ª Reunião Ordinária - 10/03/2025",
+ "endTime": "",
+ "id": "1512",
+ "parent": {
+  "@id": "https://www.camarauberlandia.mg.gov.br/atividade-legislativa/sessoes",
+  "title": "Pautas das Sessões"
+ },
+ "pauta": [
+  {
+   "content-type": "application/pdf",
+   "download": "https://e-processos.camarauberlandia.mg.gov.br/@@sapl_documentos_download?path=pauta_sessao/1512_pauta_sessao.pdf",
+   "filename": "1512_pauta_sessao.pdf",
+   "size": ""
+  }
+ ],
+ "presenca": {
+  "@id": "https://www.camarauberlandia.mg.gov.br/atividade-legislativa/sessoes/1512/presenca",
+  "@type": "presencaSessao",
+  "chamadaRegimental": [
+   {
+    "ausentes": [],
+    "ausentes_qtde": "0",
+    "justificados": [],
+    "justificados_qtde": "0",
+    "presentes": [],
+    "presentes_qtde": "0"
+   }
+  ],
+  "description": "1ª Reunião Ordinária - 10/03/2025",
+  "ordemDia": [
+   {
+    "ausentes": [],
+    "ausentes_qtde": "0",
+    "justificados": [],
+    "justificados_qtde": "0",
+    "presentes": [],
+    "presentes_qtde": "0"
+   }
+  ],
+  "title": "Listas de presença na reunião plenária"
+ },
+ "startTime": "09:00",
+ "title": "1ª Reunião Ordinária",
+ "type": "Ordinária",
+ "type_id": 1,
+ "votacao": {
+  "@id": "https://www.camarauberlandia.mg.gov.br/atividade-legislativa/sessoes/1512/votacao",
+  "@type": "votacaoNominal",
+  "description": "1ª Reunião Ordinária – 10/03/2025",
+  "items": [
+   {
+    "abstencao": 0,
+    "apuracao": [],
+    "ausente": 0,
+    "contrario": 0,
+    "favoravel": 0,
+    "presidencia": 0,
+    "quorum": "Maioria simples",
+    "tipo_votacao": "Simbólica",
+    "turno": "Devolução a(o) autor(a)",
+    "votos": [
+     {
+      "abstencao": [],
+      "ausente": [],
+      "contrario": [],
+      "favoravel": [],
+      "presidencia": []
+     }
+    ]
+   },
+   {
+    "abstencao": 0,
+    "apuracao": [],
+    "ausente": 0,
+    "contrario": 0,
+    "favoravel": 0,
+    "presidencia": 0,
+    "quorum": "Maioria simples",
+    "tipo_votacao": "Simbólica",
+    "turno": "Devolução a(o) autor(a)",
+    "votos": [
+     {
+      "abstencao": [],
+      "ausente": [],
+      "contrario": [],
+      "favoravel": [],
+      "presidencia": []
+     }
+    ]
+   },
+   {
+    "abstencao": 0,
+    "apuracao": [],
+    "ausente": 0,
+    "contrario": 0,
+    "favoravel": 0,
+    "presidencia": 0,
+    "quorum": "Maioria simples",
+    "tipo_votacao": "Simbólica",
+    "turno": "Devolução a(o) autor(a)",
+    "votos": [
+     {
+      "abstencao": [],
+      "ausente": [],
+      "contrario": [],
+      "favoravel": [],
+      "presidencia": []
+     }
+    ]
+   },
+   {
+    "abstencao": 0,
+    "apuracao": [],
+    "ausente": 0,
+    "contrario": 0,
+    "favoravel": 0,
+    "presidencia": 0,
+    "quorum": "Maioria simples",
+    "tipo_votacao": "Simbólica",
+    "turno": "Devolução a(o) autor(a)",
+    "votos": [
+     {
+      "abstencao": [],
+      "ausente": [],
+      "contrario": [],
+      "favoravel": [],
+      "presidencia": []
+     }
+    ]
+   },
+   {
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@materias/205939",
+    "@type": "Materia",
+    "abstencao": 0,
+    "apuracao": [],
+    "ausente": 0,
+    "autoria": [
+     {
+      "description": "Parlamentar",
+      "id": "556188",
+      "primeiro_autor": true,
+      "title": "Prof. Conrado Augusto"
+     },
+     {
+      "description": "Parlamentar",
+      "id": "526697",
+      "primeiro_autor": false,
+      "title": "Sargento Ednaldo"
+     },
+     {
+      "description": "Parlamentar",
+      "id": "26097",
+      "primeiro_autor": false,
+      "title": "Zezinho Mendonça"
+     }
+    ],
+    "contrario": 0,
+    "description": "INSTITUI, NO ÂMBITO DO MUNICÍPIO DE UBERLÂNDIA, A OBRIGATORIEDADE DE AS EMPRESAS PRESTADORAS DE SERVIÇOS E CONCESSIONÁRIAS DE ÁGUA, LUZ, TELEFONE E INTERNET, INSERIREM, NAS FATURAS DE CONSUMO, DOS ÓRGÃOS DO PODER EXECUTIVO, NO ÂMBITO DE SUA PUBLICIDADE INSTITUCIONAL, AS FOTOS DE FORAGIDOS DA JUSTIÇA, CONDENADOS DEFINITIVAMENTE, POR CRIMES DE VIOLÊNCIA CONTRA A MULHER.",
+    "favoravel": 0,
+    "id": "205939",
+    "presidencia": 0,
+    "quorum": "Maioria qualificada - 2/3",
+    "tipo_votacao": "Nominal",
+    "title": "Projeto de Lei Ordinária nº 107/2025",
+    "turno": "Apreciar parecer contrário",
+    "votos": [
+     {
+      "abstencao": [],
+      "ausente": [],
+      "contrario": [],
+      "favoravel": [],
+      "presidencia": []
+     }
+    ]
+   }
+  ],
+  "title": "Lista de votação nominal"
+ }
+}

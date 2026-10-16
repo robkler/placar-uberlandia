@@ -1,0 +1,1360 @@
+{
+ "ano": 2024,
+ "gerado": "2026-10-16",
+ "pessoas": {
+  "546914": {
+   "sq": "130002278037",
+   "nomeUrna": "ABATENIO",
+   "partido": "PP",
+   "ocupacao": "Advogado",
+   "escolaridade": "Superior completo",
+   "nascimento": "18/01/1975",
+   "idade": 51,
+   "genero": "MASCULINO",
+   "numero": "11911",
+   "situacao": "ELEITO POR QP",
+   "votos2024": 4542,
+   "patrimonio": 5328890.75,
+   "bensN": 24,
+   "bensTipo": [
+    [
+     "Prédio comercial",
+     2066127.93
+    ],
+    [
+     "Apartamento",
+     985000.0
+    ],
+    [
+     "Terreno",
+     756362.41
+    ],
+    [
+     "Casa",
+     707371.18
+    ],
+    [
+     "Aplicação de renda fixa (CDB, RDB e outros)",
+     519427.06
+    ]
+   ],
+   "campanha": 119881.79,
+   "campanhaFonte": [
+    [
+     "Recursos do próprio candidato",
+     65000.0
+    ],
+    [
+     "Doações de pessoas físicas",
+     49925.0
+    ],
+    [
+     "Outros candidatos",
+     3088.0
+    ],
+    [
+     "Fundo Eleitoral (público)",
+     1868.79
+    ]
+   ],
+   "foto": "fotos/546914.jpg"
+  },
+  "25988": {
+   "sq": "130002167334",
+   "nomeUrna": "ADRIANO ZAGO",
+   "partido": "AVANTE",
+   "ocupacao": "Advogado",
+   "escolaridade": "Superior completo",
+   "nascimento": "14/04/1973",
+   "idade": 53,
+   "genero": "MASCULINO",
+   "numero": "70000",
+   "situacao": "ELEITO POR MÉDIA",
+   "votos2024": 4486,
+   "patrimonio": 913320.92,
+   "bensN": 4,
+   "bensTipo": [
+    [
+     "Apartamento",
+     661948.59
+    ],
+    [
+     "Outros créditos e poupança vinculados",
+     239039.0
+    ],
+    [
+     "Prédio comercial",
+     12333.33
+    ]
+   ],
+   "campanha": 157050.0,
+   "campanhaFonte": [
+    [
+     "Fundo Eleitoral (público)",
+     156560.0
+    ],
+    [
+     "Outros candidatos",
+     490.0
+    ]
+   ],
+   "foto": "fotos/25988.jpg"
+  },
+  "537428": {
+   "sq": "130002090230",
+   "nomeUrna": "AMANDA GONDIM",
+   "partido": "PSB",
+   "ocupacao": "Advogado",
+   "escolaridade": "Superior completo",
+   "nascimento": "01/03/1989",
+   "idade": 37,
+   "genero": "FEMININO",
+   "numero": "40000",
+   "situacao": "ELEITO POR MÉDIA",
+   "votos2024": 4177,
+   "patrimonio": 20000.0,
+   "bensN": 1,
+   "bensTipo": [
+    [
+     "Dinheiro em espécie - moeda nacional",
+     20000.0
+    ]
+   ],
+   "campanha": 15756.23,
+   "campanhaFonte": [
+    [
+     "Recursos do próprio candidato",
+     10776.23
+    ],
+    [
+     "Fundo Eleitoral (público)",
+     2170.0
+    ],
+    [
+     "Doações de pessoas físicas",
+     1300.0
+    ],
+    [
+     "Vaquinha online",
+     1020.0
+    ],
+    [
+     "Outros candidatos",
+     490.0
+    ]
+   ],
+   "foto": "fotos/537428.jpg"
+  },
+  "537427": {
+   "sq": "130002095045",
+   "nomeUrna": "ANDERSON LIMA",
+   "partido": "PODE",
+   "ocupacao": "Vereador",
+   "escolaridade": "Superior completo",
+   "nascimento": "06/01/1978",
+   "idade": 48,
+   "genero": "MASCULINO",
+   "numero": "20123",
+   "situacao": "ELEITO POR MÉDIA",
+   "votos2024": 5543,
+   "patrimonio": 579796.94,
+   "bensN": 6,
+   "bensTipo": [
+    [
+     "Terreno",
+     246801.73
+    ],
+    [
+     "Casa",
+     132495.21
+    ],
+    [
+     "Apartamento",
+     105000.0
+    ],
+    [
+     "Veículo automotor terrestre: caminhão, automóvel, moto, etc.",
+     90500.0
+    ],
+    [
+     "Depósito bancário em conta corrente no País",
+     5000.0
+    ]
+   ],
+   "campanha": 149108.27,
+   "campanhaFonte": [
+    [
+     "Doações de pessoas físicas",
+     118400.0
+    ],
+    [
+     "Recursos do próprio candidato",
+     28500.0
+    ],
+    [
+     "Outros candidatos",
+     2208.27
+    ]
+   ],
+   "foto": "fotos/537427.jpg"
+  },
+  "556176": {
+   "sq": "130001983980",
+   "nomeUrna": "ANGELA DO POSTINHO",
+   "partido": "SOLIDARIEDADE",
+   "ocupacao": "Outros",
+   "escolaridade": "Ensino médio completo",
+   "nascimento": "08/11/1972",
+   "idade": 53,
+   "genero": "FEMININO",
+   "numero": "77700",
+   "situacao": "ELEITO POR QP",
+   "votos2024": 3135,
+   "patrimonio": 305000.0,
+   "bensN": 3,
+   "bensTipo": [
+    [
+     "Casa",
+     250000.0
+    ],
+    [
+     "Veículo automotor terrestre: caminhão, automóvel, moto, etc.",
+     55000.0
+    ]
+   ],
+   "campanha": 77008.54,
+   "campanhaFonte": [
+    [
+     "Fundo Eleitoral (público)",
+     76058.54
+    ],
+    [
+     "Doações de pessoas físicas",
+     950.0
+    ]
+   ],
+   "foto": "fotos/556176.jpg"
+  },
+  "537380": {
+   "sq": "130002202927",
+   "nomeUrna": "ANTÔNIO AUGUSTO QUEIJINHO",
+   "partido": "PSDB",
+   "ocupacao": "Advogado",
+   "escolaridade": "Superior completo",
+   "nascimento": "13/06/1977",
+   "idade": 49,
+   "genero": "MASCULINO",
+   "numero": "45045",
+   "situacao": "ELEITO POR MÉDIA",
+   "votos2024": 4744,
+   "patrimonio": 2245706.74,
+   "bensN": 13,
+   "bensTipo": [
+    [
+     "Apartamento",
+     566000.0
+    ],
+    [
+     "Terreno",
+     408625.26
+    ],
+    [
+     "Aplicação de renda fixa (CDB, RDB e outros)",
+     271497.62
+    ],
+    [
+     "Casa",
+     222304.63
+    ],
+    [
+     "Outros bens imóveis",
+     200000.0
+    ]
+   ],
+   "campanha": 45291.5,
+   "campanhaFonte": [
+    [
+     "Doações de pessoas físicas",
+     23137.8
+    ],
+    [
+     "Recursos do próprio candidato",
+     21663.7
+    ],
+    [
+     "Outros candidatos",
+     490.0
+    ]
+   ],
+   "foto": "fotos/537380.jpg"
+  },
+  "399041": {
+   "sq": "130002278033",
+   "nomeUrna": "CARRIJO",
+   "partido": "PP",
+   "ocupacao": "Vereador",
+   "escolaridade": "Superior completo",
+   "nascimento": "22/09/1962",
+   "idade": 64,
+   "genero": "MASCULINO",
+   "numero": "11690",
+   "situacao": "ELEITO POR QP",
+   "votos2024": 6998,
+   "patrimonio": 3191103.76,
+   "bensN": 19,
+   "bensTipo": [
+    [
+     "OUTROS BENS E DIREITOS",
+     2109881.56
+    ],
+    [
+     "Quotas ou quinhões de capital",
+     706162.0
+    ],
+    [
+     "Veículo automotor terrestre: caminhão, automóvel, moto, etc.",
+     181400.0
+    ],
+    [
+     "Aplicação de renda fixa (CDB, RDB e outros)",
+     125491.64
+    ],
+    [
+     "Prédio residencial",
+     50000.0
+    ]
+   ],
+   "campanha": 159268.79,
+   "campanhaFonte": [
+    [
+     "Fundo Eleitoral (público)",
+     70000.0
+    ],
+    [
+     "Doações de pessoas físicas",
+     67400.0
+    ],
+    [
+     "Recursos do próprio candidato",
+     20000.0
+    ],
+    [
+     "Fundo Partidário (público)",
+     1868.79
+    ]
+   ],
+   "foto": "fotos/399041.jpg"
+  },
+  "556182": {
+   "sq": "130002055679",
+   "nomeUrna": "PEZÃO DO ESPORTE",
+   "partido": "DC",
+   "ocupacao": "Atleta profissional e técnico em desportos",
+   "escolaridade": "Ensino fundamental completo",
+   "nascimento": "17/03/1972",
+   "idade": 54,
+   "genero": "MASCULINO",
+   "numero": "27444",
+   "situacao": "ELEITO POR QP",
+   "votos2024": 2331,
+   "patrimonio": 482000.0,
+   "bensN": 3,
+   "bensTipo": [
+    [
+     "Casa",
+     250000.0
+    ],
+    [
+     "Outros bens imóveis",
+     200000.0
+    ],
+    [
+     "Veículo automotor terrestre: caminhão, automóvel, moto, etc.",
+     32000.0
+    ]
+   ],
+   "campanha": 76509.02,
+   "campanhaFonte": [
+    [
+     "Doações de pessoas físicas",
+     71770.0
+    ],
+    [
+     "Recursos do próprio candidato",
+     2500.0
+    ],
+    [
+     "Outros candidatos",
+     2239.02
+    ]
+   ],
+   "foto": "fotos/556182.jpg"
+  },
+  "556183": {
+   "sq": "130002267067",
+   "nomeUrna": "PROFESSOR CONRADO AUGUSTO",
+   "partido": "MDB",
+   "ocupacao": "Enfermeiro",
+   "escolaridade": "Superior completo",
+   "nascimento": "15/04/1989",
+   "idade": 37,
+   "genero": "MASCULINO",
+   "numero": "15015",
+   "situacao": "ELEITO POR QP",
+   "votos2024": 3585,
+   "patrimonio": 207996.97,
+   "bensN": 2,
+   "bensTipo": [
+    [
+     "Veículo automotor terrestre: caminhão, automóvel, moto, etc.",
+     118620.18
+    ],
+    [
+     "Apartamento",
+     89376.79
+    ]
+   ],
+   "campanha": 4994.63,
+   "campanhaFonte": [
+    [
+     "Recursos do próprio candidato",
+     3004.63
+    ],
+    [
+     "Doações de pessoas físicas",
+     1300.0
+    ],
+    [
+     "Outros candidatos",
+     490.0
+    ],
+    [
+     "Outros",
+     200.0
+    ]
+   ],
+   "foto": "fotos/556183.jpg"
+  },
+  "526697": {
+   "sq": "130002278017",
+   "nomeUrna": "SGT EDNALDO",
+   "partido": "PP",
+   "ocupacao": "Vereador",
+   "escolaridade": "Superior completo",
+   "nascimento": "19/04/1975",
+   "idade": 51,
+   "genero": "MASCULINO",
+   "numero": "11000",
+   "situacao": "ELEITO POR QP",
+   "votos2024": 5856,
+   "patrimonio": 878826.78,
+   "bensN": 13,
+   "bensTipo": [
+    [
+     "Terreno",
+     520000.0
+    ],
+    [
+     "Apartamento",
+     180000.0
+    ],
+    [
+     "Veículo automotor terrestre: caminhão, automóvel, moto, etc.",
+     87000.0
+    ],
+    [
+     "Caderneta de poupança",
+     47299.78
+    ],
+    [
+     "Ações (inclusive as provenientes de linha telefônica)",
+     27500.0
+    ]
+   ],
+   "campanha": 121168.79,
+   "campanhaFonte": [
+    [
+     "Fundo Eleitoral (público)",
+     70086.4
+    ],
+    [
+     "Doações de pessoas físicas",
+     39300.0
+    ],
+    [
+     "Recursos do próprio candidato",
+     10000.0
+    ],
+    [
+     "Fundo Partidário (público)",
+     1782.39
+    ]
+   ],
+   "foto": "fotos/526697.jpg"
+  },
+  "556179": {
+   "sq": "130001920622",
+   "nomeUrna": "ELINHO DA ACADEMIA",
+   "partido": "MOBILIZA",
+   "ocupacao": "Professor e instrutor de formação profissional",
+   "escolaridade": "Superior completo",
+   "nascimento": "13/02/1972",
+   "idade": 54,
+   "genero": "MASCULINO",
+   "numero": "33633",
+   "situacao": "ELEITO POR QP",
+   "votos2024": 2482,
+   "patrimonio": 367676.81,
+   "bensN": 3,
+   "bensTipo": [
+    [
+     "Caderneta de poupança",
+     271204.81
+    ],
+    [
+     "Veículo automotor terrestre: caminhão, automóvel, moto, etc.",
+     96472.0
+    ]
+   ],
+   "campanha": 35404.0,
+   "campanhaFonte": [
+    [
+     "Doações de pessoas físicas",
+     20800.0
+    ],
+    [
+     "Recursos do próprio candidato",
+     14604.0
+    ]
+   ],
+   "foto": "fotos/556179.jpg"
+  },
+  "537431": {
+   "sq": "130002087899",
+   "nomeUrna": "FABÃO",
+   "partido": "PV",
+   "ocupacao": "Vereador",
+   "escolaridade": "Superior completo",
+   "nascimento": "12/07/1980",
+   "idade": 46,
+   "genero": "MASCULINO",
+   "numero": "43123",
+   "situacao": "ELEITO POR QP",
+   "votos2024": 14596,
+   "patrimonio": 45000.0,
+   "bensN": 2,
+   "bensTipo": [
+    [
+     "Veículo automotor terrestre: caminhão, automóvel, moto, etc.",
+     45000.0
+    ]
+   ],
+   "campanha": 81400.0,
+   "campanhaFonte": [
+    [
+     "Fundo Eleitoral (público)",
+     65000.0
+    ],
+    [
+     "Doações de pessoas físicas",
+     16400.0
+    ]
+   ],
+   "foto": "fotos/537431.jpg"
+  },
+  "26010": {
+   "sq": "130002202106",
+   "nomeUrna": "GLÁUCIA DA SAÚDE",
+   "partido": "PL",
+   "ocupacao": "Vereador",
+   "escolaridade": "Superior completo",
+   "nascimento": "07/04/1964",
+   "idade": 62,
+   "genero": "FEMININO",
+   "numero": "22022",
+   "situacao": "ELEITO POR MÉDIA",
+   "votos2024": 2915,
+   "patrimonio": 563571.14,
+   "bensN": 17,
+   "bensTipo": [
+    [
+     "Outras aplicações e Investimentos",
+     175079.3
+    ],
+    [
+     "Apartamento",
+     158971.0
+    ],
+    [
+     "Terreno",
+     153661.0
+    ],
+    [
+     "Veículo automotor terrestre: caminhão, automóvel, moto, etc.",
+     65665.1
+    ],
+    [
+     "Depósito bancário em conta corrente no País",
+     10194.74
+    ]
+   ],
+   "campanha": 285620.0,
+   "campanhaFonte": [
+    [
+     "Fundo Eleitoral (público)",
+     200000.0
+    ],
+    [
+     "Doações de pessoas físicas",
+     50620.0
+    ],
+    [
+     "Fundo Partidário (público)",
+     30000.0
+    ],
+    [
+     "Recursos do próprio candidato",
+     5000.0
+    ]
+   ],
+   "foto": "fotos/26010.jpg"
+  },
+  "552091": {
+   "sq": "130002087904",
+   "nomeUrna": "DR IGINO",
+   "partido": "PT",
+   "ocupacao": "Vereador",
+   "escolaridade": "Superior completo",
+   "nascimento": "12/03/1972",
+   "idade": 54,
+   "genero": "MASCULINO",
+   "numero": "13023",
+   "situacao": "ELEITO POR QP",
+   "votos2024": 5189,
+   "patrimonio": 777119.37,
+   "bensN": 8,
+   "bensTipo": [
+    [
+     "Outros bens imóveis",
+     291886.04
+    ],
+    [
+     "Terreno",
+     262000.0
+    ],
+    [
+     "Apartamento",
+     180000.0
+    ],
+    [
+     "Outros bens móveis",
+     43233.33
+    ]
+   ],
+   "campanha": 151983.89,
+   "campanhaFonte": [
+    [
+     "Fundo Eleitoral (público)",
+     123220.66
+    ],
+    [
+     "Doações de pessoas físicas",
+     17763.23
+    ],
+    [
+     "Recursos do próprio candidato",
+     11000.0
+    ]
+   ],
+   "foto": "fotos/552091.jpg"
+  },
+  "537433": {
+   "sq": "130002278024",
+   "nomeUrna": "IVAN NUNES",
+   "partido": "PP",
+   "ocupacao": "Comerciante",
+   "escolaridade": "Superior completo",
+   "nascimento": "23/08/1975",
+   "idade": 51,
+   "genero": "MASCULINO",
+   "numero": "11111",
+   "situacao": "ELEITO POR MÉDIA",
+   "votos2024": 3952,
+   "patrimonio": 110197.82,
+   "bensN": 2,
+   "bensTipo": [
+    [
+     "Quotas ou quinhões de capital",
+     100000.0
+    ],
+    [
+     "Depósito bancário em conta corrente no País",
+     10197.82
+    ]
+   ],
+   "campanha": 108668.79,
+   "campanhaFonte": [
+    [
+     "Fundo Eleitoral (público)",
+     70000.0
+    ],
+    [
+     "Doações de pessoas físicas",
+     36800.0
+    ],
+    [
+     "Fundo Partidário (público)",
+     1868.79
+    ]
+   ],
+   "foto": "fotos/537433.jpg"
+  },
+  "556174": {
+   "sq": "130002278027",
+   "nomeUrna": "JAIR FERRAZ",
+   "partido": "PP",
+   "ocupacao": "Outros",
+   "escolaridade": "Superior completo",
+   "nascimento": "18/03/1988",
+   "idade": 38,
+   "genero": "MASCULINO",
+   "numero": "11622",
+   "situacao": "ELEITO POR MÉDIA",
+   "votos2024": 3345,
+   "patrimonio": 260975.3,
+   "bensN": 8,
+   "bensTipo": [
+    [
+     "Apartamento",
+     140000.0
+    ],
+    [
+     "Veículo automotor terrestre: caminhão, automóvel, moto, etc.",
+     77420.81
+    ],
+    [
+     "Casa",
+     28000.0
+    ],
+    [
+     "Caderneta de poupança",
+     13828.46
+    ],
+    [
+     "Outras aplicações e Investimentos",
+     1511.97
+    ]
+   ],
+   "campanha": 134327.15,
+   "campanhaFonte": [
+    [
+     "Fundo Eleitoral (público)",
+     71868.79
+    ],
+    [
+     "Doações de pessoas físicas",
+     53825.0
+    ],
+    [
+     "Recursos do próprio candidato",
+     7400.0
+    ],
+    [
+     "Outros candidatos",
+     1233.36
+    ]
+   ],
+   "foto": "fotos/556174.jpg"
+  },
+  "556180": {
+   "sq": "130002202114",
+   "nomeUrna": "JANAINA GUIMARÃES",
+   "partido": "PL",
+   "ocupacao": "Outros",
+   "escolaridade": "Superior completo",
+   "nascimento": "08/06/1975",
+   "idade": 51,
+   "genero": "FEMININO",
+   "numero": "22222",
+   "situacao": "ELEITO POR QP",
+   "votos2024": 5050,
+   "patrimonio": 7543.07,
+   "bensN": 2,
+   "bensTipo": [
+    [
+     "Caderneta de poupança",
+     7543.07
+    ]
+   ],
+   "campanha": 83796.0,
+   "campanhaFonte": [
+    [
+     "Doações de pessoas físicas",
+     43432.0
+    ],
+    [
+     "Fundo Eleitoral (público)",
+     33000.0
+    ],
+    [
+     "Vaquinha online",
+     7364.0
+    ]
+   ],
+   "foto": "fotos/556180.jpg"
+  },
+  "556177": {
+   "sq": "130002087727",
+   "nomeUrna": "DELEGADA LIA VALECHI",
+   "partido": "UNIÃO",
+   "ocupacao": "Outros",
+   "escolaridade": "Superior completo",
+   "nascimento": "26/03/1982",
+   "idade": 44,
+   "genero": "FEMININO",
+   "numero": "44123",
+   "situacao": "ELEITO POR MÉDIA",
+   "votos2024": 3766,
+   "patrimonio": 606693.49,
+   "bensN": 4,
+   "bensTipo": [
+    [
+     "Casa",
+     292973.49
+    ],
+    [
+     "Terreno",
+     168720.0
+    ],
+    [
+     "Veículo automotor terrestre: caminhão, automóvel, moto, etc.",
+     145000.0
+    ]
+   ],
+   "campanha": 34883.77,
+   "campanhaFonte": [
+    [
+     "Doações de pessoas físicas",
+     23341.99
+    ],
+    [
+     "Recursos do próprio candidato",
+     9423.0
+    ],
+    [
+     "Outros candidatos",
+     2118.78
+    ]
+   ],
+   "foto": "fotos/556177.jpg"
+  },
+  "399022": {
+   "sq": "130002202941",
+   "nomeUrna": "LIZA PRADO",
+   "partido": "CIDADANIA",
+   "ocupacao": "Vereador",
+   "escolaridade": "Superior completo",
+   "nascimento": "17/09/1963",
+   "idade": 63,
+   "genero": "FEMININO",
+   "numero": "23123",
+   "situacao": "ELEITO POR MÉDIA",
+   "votos2024": 2898,
+   "patrimonio": 443696.97,
+   "bensN": 4,
+   "bensTipo": [
+    [
+     "Casa",
+     394360.92
+    ],
+    [
+     "Veículo automotor terrestre: caminhão, automóvel, moto, etc.",
+     40980.9
+    ],
+    [
+     "Caderneta de poupança",
+     8355.15
+    ]
+   ],
+   "campanha": 242618.98,
+   "campanhaFonte": [
+    [
+     "Fundo Eleitoral (público)",
+     165500.0
+    ],
+    [
+     "Doações de pessoas físicas",
+     72093.98
+    ],
+    [
+     "Recursos do próprio candidato",
+     5025.0
+    ]
+   ],
+   "foto": "fotos/399022.jpg"
+  },
+  "556185": {
+   "sq": "130002171537",
+   "nomeUrna": "MACIEL AMORIM",
+   "partido": "PMB",
+   "ocupacao": "Advogado",
+   "escolaridade": "Superior completo",
+   "nascimento": "05/07/1983",
+   "idade": 43,
+   "genero": "MASCULINO",
+   "numero": "35500",
+   "situacao": "SUPLENTE",
+   "votos2024": 1042,
+   "patrimonio": 20000.0,
+   "bensN": 3,
+   "bensTipo": [
+    [
+     "Quotas ou quinhões de capital",
+     15000.0
+    ],
+    [
+     "Dinheiro em espécie - moeda nacional",
+     5000.0
+    ]
+   ],
+   "campanha": 13910.0,
+   "campanhaFonte": [
+    [
+     "Doações de pessoas físicas",
+     13610.0
+    ],
+    [
+     "Recursos do próprio candidato",
+     300.0
+    ]
+   ],
+   "foto": "fotos/556185.jpg"
+  },
+  "537434": {
+   "sq": "130002095052",
+   "nomeUrna": "NEEMIAS MIQUEIAS",
+   "partido": "PODE",
+   "ocupacao": "Vereador",
+   "escolaridade": "Superior completo",
+   "nascimento": "18/08/1989",
+   "idade": 37,
+   "genero": "MASCULINO",
+   "numero": "20200",
+   "situacao": "ELEITO POR QP",
+   "votos2024": 5997,
+   "patrimonio": 0,
+   "bensN": 0,
+   "bensTipo": [],
+   "campanha": 34618.79,
+   "campanhaFonte": [
+    [
+     "Doações de pessoas físicas",
+     32500.0
+    ],
+    [
+     "Outros candidatos",
+     2118.79
+    ]
+   ],
+   "foto": "fotos/537434.jpg"
+  },
+  "556181": {
+   "sq": "130001983998",
+   "nomeUrna": "NEI BORGES",
+   "partido": "SOLIDARIEDADE",
+   "ocupacao": "Outros",
+   "escolaridade": "Ensino médio completo",
+   "nascimento": "06/07/1969",
+   "idade": 57,
+   "genero": "MASCULINO",
+   "numero": "77111",
+   "situacao": "ELEITO POR QP",
+   "votos2024": 2896,
+   "patrimonio": 250000.0,
+   "bensN": 3,
+   "bensTipo": [
+    [
+     "Casa",
+     170000.0
+    ],
+    [
+     "Terreno",
+     70000.0
+    ],
+    [
+     "Veículo automotor terrestre: caminhão, automóvel, moto, etc.",
+     10000.0
+    ]
+   ],
+   "campanha": 143252.04,
+   "campanhaFonte": [
+    [
+     "Fundo Eleitoral (público)",
+     136033.01
+    ],
+    [
+     "Doações de pessoas físicas",
+     5300.0
+    ],
+    [
+     "Outros candidatos",
+     1919.03
+    ]
+   ],
+   "foto": "fotos/556181.jpg"
+  },
+  "556184": {
+   "sq": "130002087909",
+   "nomeUrna": "PROFESSOR RONALDO",
+   "partido": "PT",
+   "ocupacao": "Professor de ensino médio",
+   "escolaridade": "Superior completo",
+   "nascimento": "12/05/1974",
+   "idade": 52,
+   "genero": "MASCULINO",
+   "numero": "13034",
+   "situacao": "ELEITO POR QP",
+   "votos2024": 3895,
+   "patrimonio": 200000.0,
+   "bensN": 1,
+   "bensTipo": [
+    [
+     "Casa",
+     200000.0
+    ]
+   ],
+   "campanha": 83155.44,
+   "campanhaFonte": [
+    [
+     "Fundo Eleitoral (público)",
+     69980.44
+    ],
+    [
+     "Recursos do próprio candidato",
+     8415.0
+    ],
+    [
+     "Doações de pessoas físicas",
+     4760.0
+    ]
+   ],
+   "foto": "fotos/556184.jpg"
+  },
+  "528006": {
+   "sq": "130002202925",
+   "nomeUrna": "RONALDO TANNUS",
+   "partido": "PSDB",
+   "ocupacao": "Vereador",
+   "escolaridade": "Superior completo",
+   "nascimento": "11/09/1982",
+   "idade": 44,
+   "genero": "MASCULINO",
+   "numero": "45999",
+   "situacao": "ELEITO POR QP",
+   "votos2024": 5342,
+   "patrimonio": 983257.74,
+   "bensN": 4,
+   "bensTipo": [
+    [
+     "Casa",
+     825000.0
+    ],
+    [
+     "Terreno",
+     108257.74
+    ],
+    [
+     "Dinheiro em espécie - moeda nacional",
+     50000.0
+    ]
+   ],
+   "campanha": 66664.0,
+   "campanhaFonte": [
+    [
+     "Recursos do próprio candidato",
+     34000.0
+    ],
+    [
+     "Fundo Eleitoral (público)",
+     20000.0
+    ],
+    [
+     "Doações de pessoas físicas",
+     12164.0
+    ],
+    [
+     "Outros candidatos",
+     500.0
+    ]
+   ],
+   "foto": "fotos/528006.jpg"
+  },
+  "26097": {
+   "sq": "130002278034",
+   "nomeUrna": "ZEZINHO MENDONÇA",
+   "partido": "PP",
+   "ocupacao": "Vereador",
+   "escolaridade": "Superior completo",
+   "nascimento": "12/07/1973",
+   "idade": 53,
+   "genero": "MASCULINO",
+   "numero": "11777",
+   "situacao": "ELEITO POR QP",
+   "votos2024": 5064,
+   "patrimonio": 1366123.8,
+   "bensN": 8,
+   "bensTipo": [
+    [
+     "Outros bens imóveis",
+     1250000.0
+    ],
+    [
+     "Veículo automotor terrestre: caminhão, automóvel, moto, etc.",
+     71500.0
+    ],
+    [
+     "Depósito bancário em conta corrente no País",
+     31086.98
+    ],
+    [
+     "Dinheiro em espécie - moeda nacional",
+     8000.0
+    ],
+    [
+     "Caderneta de poupança",
+     5536.82
+    ]
+   ],
+   "campanha": 173092.29,
+   "campanhaFonte": [
+    [
+     "Fundo Eleitoral (público)",
+     71868.79
+    ],
+    [
+     "Doações de pessoas físicas",
+     56103.08
+    ],
+    [
+     "Recursos do próprio candidato",
+     45120.42
+    ]
+   ],
+   "foto": "fotos/26097.jpg"
+  },
+  "543274": {
+   "sq": "130002202945",
+   "nomeUrna": "SÉRVIO TÚLIO",
+   "partido": "PSDB",
+   "ocupacao": "Vereador",
+   "escolaridade": "Ensino médio incompleto",
+   "nascimento": "22/03/1989",
+   "idade": 37,
+   "genero": "MASCULINO",
+   "numero": "45555",
+   "situacao": "ELEITO POR QP",
+   "votos2024": 4930,
+   "patrimonio": 1222000.0,
+   "bensN": 4,
+   "bensTipo": [
+    [
+     "Casa",
+     980000.0
+    ],
+    [
+     "Apartamento",
+     200000.0
+    ],
+    [
+     "Veículo automotor terrestre: caminhão, automóvel, moto, etc.",
+     32000.0
+    ],
+    [
+     "Dinheiro em espécie - moeda nacional",
+     10000.0
+    ]
+   ],
+   "campanha": 42430.0,
+   "campanhaFonte": [
+    [
+     "Fundo Eleitoral (público)",
+     20000.0
+    ],
+    [
+     "Doações de pessoas físicas",
+     17130.0
+    ],
+    [
+     "Recursos do próprio candidato",
+     4800.0
+    ],
+    [
+     "Outros candidatos",
+     500.0
+    ]
+   ],
+   "foto": "fotos/543274.jpg"
+  },
+  "537436": {
+   "sq": "130002087731",
+   "nomeUrna": "THAÍS ANDRADE",
+   "partido": "UNIÃO",
+   "ocupacao": "Vereador",
+   "escolaridade": "Superior completo",
+   "nascimento": "10/08/1978",
+   "idade": 48,
+   "genero": "FEMININO",
+   "numero": "44777",
+   "situacao": "SUPLENTE",
+   "votos2024": 2907,
+   "patrimonio": 474000.0,
+   "bensN": 2,
+   "bensTipo": [
+    [
+     "Casa",
+     450000.0
+    ],
+    [
+     "Veículo automotor terrestre: caminhão, automóvel, moto, etc.",
+     24000.0
+    ]
+   ],
+   "campanha": 178768.21,
+   "campanhaFonte": [
+    [
+     "Doações de pessoas físicas",
+     153692.63
+    ],
+    [
+     "Recursos do próprio candidato",
+     22500.0
+    ],
+    [
+     "Outros candidatos",
+     2575.58
+    ]
+   ],
+   "foto": "fotos/537436.jpg"
+  },
+  "prefeito": {
+   "sq": "130002203676",
+   "nomeUrna": "PAULO SÉRGIO",
+   "partido": "PP",
+   "ocupacao": "Engenheiro",
+   "escolaridade": "Superior completo",
+   "nascimento": "09/11/1964",
+   "idade": 61,
+   "genero": "MASCULINO",
+   "numero": "11",
+   "situacao": "ELEITO",
+   "votos2024": 184282,
+   "patrimonio": 22199652.03,
+   "bensN": 18,
+   "bensTipo": [
+    [
+     "Quotas ou quinhões de capital",
+     11631237.49
+    ],
+    [
+     "OUTROS BENS E DIREITOS",
+     9671692.87
+    ],
+    [
+     "Casa",
+     863258.72
+    ],
+    [
+     "Ações (inclusive as provenientes de linha telefônica)",
+     15000.0
+    ],
+    [
+     "Outros bens imóveis",
+     10284.63
+    ]
+   ],
+   "campanha": 3479715.0,
+   "campanhaFonte": [
+    [
+     "Fundo Eleitoral (público)",
+     2026150.0
+    ],
+    [
+     "Doações de pessoas físicas",
+     1423565.0
+    ],
+    [
+     "Fundo Partidário (público)",
+     30000.0
+    ]
+   ],
+   "foto": "fotos/prefeito.jpg"
+  },
+  "vice": {
+   "sq": "130002203677",
+   "nomeUrna": "PELIZER",
+   "partido": "PL",
+   "ocupacao": "Outros",
+   "escolaridade": "Superior incompleto",
+   "nascimento": "30/09/1965",
+   "idade": 61,
+   "genero": "MASCULINO",
+   "numero": "11",
+   "situacao": "ELEITO",
+   "votos2024": null,
+   "patrimonio": 484981.15,
+   "bensN": 11,
+   "bensTipo": [
+    [
+     "Casa",
+     394073.0
+    ],
+    [
+     "Terreno",
+     51202.64
+    ],
+    [
+     "Veículo automotor terrestre: caminhão, automóvel, moto, etc.",
+     13520.0
+    ],
+    [
+     "OUTROS BENS E DIREITOS",
+     13118.53
+    ],
+    [
+     "Consórcio não contemplado",
+     8604.17
+    ]
+   ],
+   "campanha": 0,
+   "campanhaFonte": [],
+   "foto": "fotos/vice.jpg"
+  }
+ },
+ "eleicaoPrefeito": [
+  {
+   "nome": "PAULO SÉRGIO",
+   "partido": "PP",
+   "votos": 184282
+  },
+  {
+   "nome": "DANDARA",
+   "partido": "PT",
+   "votos": 86755
+  },
+  {
+   "nome": "LEONIDIO BOUÇAS",
+   "partido": "PSDB",
+   "votos": 80470
+  },
+  {
+   "nome": "DAPHINY PRETA",
+   "partido": "PRTB",
+   "votos": 931
+  },
+  {
+   "nome": "GILBERTO CUNHA",
+   "partido": "PSTU",
+   "votos": 858
+  }
+ ]
+}

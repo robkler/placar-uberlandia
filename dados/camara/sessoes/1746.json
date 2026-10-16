@@ -1,0 +1,702 @@
+{
+ "@components": {
+  "actions": {
+   "@id": "https://www.camarauberlandia.mg.gov.br/atividade-legislativa/sessoes/1746/@actions"
+  },
+  "aliases": {
+   "@id": "https://www.camarauberlandia.mg.gov.br/atividade-legislativa/sessoes/1746/@aliases"
+  },
+  "breadcrumbs": {
+   "@id": "https://www.camarauberlandia.mg.gov.br/atividade-legislativa/sessoes/1746/@breadcrumbs"
+  },
+  "contextnavigation": {
+   "@id": "https://www.camarauberlandia.mg.gov.br/atividade-legislativa/sessoes/1746/@contextnavigation"
+  },
+  "navigation": {
+   "@id": "https://www.camarauberlandia.mg.gov.br/atividade-legislativa/sessoes/1746/@navigation"
+  },
+  "navroot": {
+   "@id": "https://www.camarauberlandia.mg.gov.br/atividade-legislativa/sessoes/1746/@navroot"
+  }
+ },
+ "@id": "https://www.camarauberlandia.mg.gov.br/atividade-legislativa/sessoes/1746",
+ "@type": "Sessao",
+ "ata": [
+  {
+   "content-type": "application/pdf",
+   "download": "https://e-processos.camarauberlandia.mg.gov.br/@@sapl_documentos_download?path=ata_sessao/1746_ata_sessao.pdf",
+   "filename": "1746_ata_sessao.pdf",
+   "size": ""
+  }
+ ],
+ "date": "2026-09-11",
+ "description": "8ª Reunião Ordinária - 11/09/2026",
+ "endTime": "13:00",
+ "id": "1746",
+ "parent": {
+  "@id": "https://www.camarauberlandia.mg.gov.br/atividade-legislativa/sessoes",
+  "title": "Pautas das Sessões"
+ },
+ "pauta": [
+  {
+   "content-type": "application/pdf",
+   "download": "https://e-processos.camarauberlandia.mg.gov.br/@@sapl_documentos_download?path=pauta_sessao/1746_pauta_sessao.pdf",
+   "filename": "1746_pauta_sessao.pdf",
+   "size": ""
+  }
+ ],
+ "presenca": {
+  "@id": "https://www.camarauberlandia.mg.gov.br/atividade-legislativa/sessoes/1746/presenca",
+  "@type": "presencaSessao",
+  "chamadaRegimental": [
+   {
+    "ausentes": [],
+    "ausentes_qtde": "0",
+    "justificados": [],
+    "justificados_qtde": "0",
+    "presentes": [],
+    "presentes_qtde": "0"
+   }
+  ],
+  "description": "8ª Reunião Ordinária - 11/09/2026",
+  "ordemDia": [
+   {
+    "ausentes": [],
+    "ausentes_qtde": "0",
+    "justificados": [],
+    "justificados_qtde": "0",
+    "presentes": [],
+    "presentes_qtde": "0"
+   }
+  ],
+  "title": "Listas de presença na reunião plenária"
+ },
+ "startTime": "09:00",
+ "title": "8ª Reunião Ordinária",
+ "type": "Ordinária",
+ "type_id": 1,
+ "votacao": {
+  "@id": "https://www.camarauberlandia.mg.gov.br/atividade-legislativa/sessoes/1746/votacao",
+  "@type": "votacaoNominal",
+  "description": "8ª Reunião Ordinária – 11/09/2026",
+  "items": [
+   {
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@materias/267865",
+    "@type": "Materia",
+    "abstencao": 0,
+    "apuracao": [
+     {
+      "kind": "desfecho",
+      "resultado": "Adiada"
+     }
+    ],
+    "ausente": 0,
+    "autoria": [
+     {
+      "description": "Parlamentar",
+      "id": "399041",
+      "primeiro_autor": true,
+      "title": "Antônio Carrijo"
+     },
+     {
+      "description": "Parlamentar",
+      "id": "546914",
+      "primeiro_autor": false,
+      "title": "Abatenio Marquez"
+     },
+     {
+      "description": "Parlamentar",
+      "id": "537380",
+      "primeiro_autor": false,
+      "title": "Antônio Augusto Queijinho"
+     },
+     {
+      "description": "Parlamentar",
+      "id": "556182",
+      "primeiro_autor": false,
+      "title": "Delegada Lia Valechi"
+     },
+     {
+      "description": "Parlamentar",
+      "id": "556195",
+      "primeiro_autor": false,
+      "title": "Dr. Maciel Amorim"
+     },
+     {
+      "description": "Parlamentar",
+      "id": "556184",
+      "primeiro_autor": false,
+      "title": "Elinho Da Academia"
+     },
+     {
+      "description": "Parlamentar",
+      "id": "26010",
+      "primeiro_autor": false,
+      "title": "Gláucia da Saúde"
+     },
+     {
+      "description": "Parlamentar",
+      "id": "537433",
+      "primeiro_autor": false,
+      "title": "Ivan Nunes"
+     },
+     {
+      "description": "Parlamentar",
+      "id": "556174",
+      "primeiro_autor": false,
+      "title": "Jair Ferraz"
+     },
+     {
+      "description": "Parlamentar",
+      "id": "556185",
+      "primeiro_autor": false,
+      "title": "Janaina Guimarães"
+     },
+     {
+      "description": "Parlamentar",
+      "id": "556188",
+      "primeiro_autor": false,
+      "title": "Prof. Conrado Augusto"
+     },
+     {
+      "description": "Parlamentar",
+      "id": "556189",
+      "primeiro_autor": false,
+      "title": "Prof. Ronaldo"
+     },
+     {
+      "description": "Parlamentar",
+      "id": "543274",
+      "primeiro_autor": false,
+      "title": "Sérvio Túlio"
+     },
+     {
+      "description": "Parlamentar",
+      "id": "26097",
+      "primeiro_autor": false,
+      "title": "Zezinho Mendonça"
+     },
+     {
+      "description": "Parlamentar",
+      "id": "556181",
+      "primeiro_autor": false,
+      "title": "Ângela Do Postinho"
+     }
+    ],
+    "contrario": 0,
+    "description": "ALTERA A LEI COMPLEMENTAR Nº 339, DE 08 DE JANEIRO DE 2004, QUE “AUTORIZA O EXECUTIVO MUNICIPAL A PROMOVER DESMEMBRAMENTO DE LOTES NA FORMA QUE ESPECIFICA”",
+    "favoravel": 0,
+    "id": "267865",
+    "presidencia": 0,
+    "quorum": "Maioria absoluta",
+    "tipo_votacao": "Nominal",
+    "title": "Projeto de Lei Complementar nº 93/2026",
+    "turno": "1ª Discussão",
+    "votos": [
+     {
+      "abstencao": [],
+      "ausente": [],
+      "contrario": [],
+      "favoravel": [],
+      "presidencia": []
+     }
+    ]
+   },
+   {
+    "abstencao": 0,
+    "apuracao": [
+     {
+      "kind": "desfecho",
+      "resultado": "Adiada"
+     }
+    ],
+    "ausente": 0,
+    "contrario": 0,
+    "favoravel": 0,
+    "presidencia": 0,
+    "quorum": "Maioria simples",
+    "tipo_votacao": "Simbólica",
+    "turno": "1ª Discussão",
+    "votos": [
+     {
+      "abstencao": [],
+      "ausente": [],
+      "contrario": [],
+      "favoravel": [],
+      "presidencia": []
+     }
+    ]
+   },
+   {
+    "abstencao": 0,
+    "apuracao": [
+     {
+      "kind": "desfecho",
+      "resultado": "Adiada"
+     }
+    ],
+    "ausente": 0,
+    "contrario": 0,
+    "favoravel": 0,
+    "presidencia": 0,
+    "quorum": "Maioria simples",
+    "tipo_votacao": "Simbólica",
+    "turno": "1ª Discussão",
+    "votos": [
+     {
+      "abstencao": [],
+      "ausente": [],
+      "contrario": [],
+      "favoravel": [],
+      "presidencia": []
+     }
+    ]
+   },
+   {
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@materias/269587",
+    "@type": "Materia",
+    "abstencao": 0,
+    "apuracao": [
+     {
+      "kind": "desfecho",
+      "resultado": "Adiada"
+     }
+    ],
+    "ausente": 0,
+    "autoria": [
+     {
+      "description": "Externo",
+      "id": "434780",
+      "primeiro_autor": true,
+      "title": "Prefeito Municipal"
+     }
+    ],
+    "contrario": 0,
+    "description": "AUTORIZA A TRANSFERÊNCIA DE RECURSOS DO ORÇAMENTO DA SECRETARIA MUNICIPAL DE EDUCAÇÃO NO VALOR DE R$ 500.000,00 (QUINHENTOS MIL REAIS), ÀS ENTIDADES QUE MENCIONA.",
+    "favoravel": 0,
+    "id": "269587",
+    "presidencia": 0,
+    "quorum": "Maioria absoluta",
+    "tipo_votacao": "Nominal",
+    "title": "Projeto de Lei Ordinária nº 1358/2026",
+    "turno": "1ª Discussão",
+    "votos": [
+     {
+      "abstencao": [],
+      "ausente": [],
+      "contrario": [],
+      "favoravel": [],
+      "presidencia": []
+     }
+    ]
+   },
+   {
+    "abstencao": 0,
+    "apuracao": [
+     {
+      "kind": "desfecho",
+      "resultado": "Adiada"
+     }
+    ],
+    "ausente": 0,
+    "contrario": 0,
+    "favoravel": 0,
+    "presidencia": 0,
+    "quorum": "Maioria simples",
+    "tipo_votacao": "Simbólica",
+    "turno": "1ª Discussão",
+    "votos": [
+     {
+      "abstencao": [],
+      "ausente": [],
+      "contrario": [],
+      "favoravel": [],
+      "presidencia": []
+     }
+    ]
+   },
+   {
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@materias/269589",
+    "@type": "Materia",
+    "abstencao": 0,
+    "apuracao": [
+     {
+      "kind": "desfecho",
+      "resultado": "Adiada"
+     }
+    ],
+    "ausente": 0,
+    "autoria": [
+     {
+      "description": "Externo",
+      "id": "434780",
+      "primeiro_autor": true,
+      "title": "Prefeito Municipal"
+     }
+    ],
+    "contrario": 0,
+    "description": "AUTORIZA A ABERTURA DE CRÉDITO ESPECIAL NO ORÇAMENTO DA SECRETARIA MUNICIPAL DE DESENVOLVIMENTO SOCIAL NO VALOR DE R$ 60.000,00 (SESSENTA MIL REAIS) E DÁ OUTRAS PROVIDÊNCIAS.",
+    "favoravel": 0,
+    "id": "269589",
+    "presidencia": 0,
+    "quorum": "Maioria absoluta",
+    "tipo_votacao": "Nominal",
+    "title": "Projeto de Lei Ordinária nº 1360/2026",
+    "turno": "1ª Discussão",
+    "votos": [
+     {
+      "abstencao": [],
+      "ausente": [],
+      "contrario": [],
+      "favoravel": [],
+      "presidencia": []
+     }
+    ]
+   },
+   {
+    "abstencao": 0,
+    "apuracao": [
+     {
+      "kind": "desfecho",
+      "resultado": "Adiada"
+     }
+    ],
+    "ausente": 0,
+    "contrario": 0,
+    "favoravel": 0,
+    "presidencia": 0,
+    "quorum": "Maioria simples",
+    "tipo_votacao": "Simbólica",
+    "turno": "1ª Discussão",
+    "votos": [
+     {
+      "abstencao": [],
+      "ausente": [],
+      "contrario": [],
+      "favoravel": [],
+      "presidencia": []
+     }
+    ]
+   },
+   {
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@materias/267867",
+    "@type": "Materia",
+    "abstencao": 0,
+    "apuracao": [
+     {
+      "kind": "desfecho",
+      "resultado": "Adiada"
+     }
+    ],
+    "ausente": 0,
+    "autoria": [
+     {
+      "description": "Parlamentar",
+      "id": "399041",
+      "primeiro_autor": true,
+      "title": "Antônio Carrijo"
+     },
+     {
+      "description": "Parlamentar",
+      "id": "546914",
+      "primeiro_autor": false,
+      "title": "Abatenio Marquez"
+     },
+     {
+      "description": "Parlamentar",
+      "id": "537380",
+      "primeiro_autor": false,
+      "title": "Antônio Augusto Queijinho"
+     },
+     {
+      "description": "Parlamentar",
+      "id": "556182",
+      "primeiro_autor": false,
+      "title": "Delegada Lia Valechi"
+     },
+     {
+      "description": "Parlamentar",
+      "id": "556195",
+      "primeiro_autor": false,
+      "title": "Dr. Maciel Amorim"
+     },
+     {
+      "description": "Parlamentar",
+      "id": "556184",
+      "primeiro_autor": false,
+      "title": "Elinho Da Academia"
+     },
+     {
+      "description": "Parlamentar",
+      "id": "26010",
+      "primeiro_autor": false,
+      "title": "Gláucia da Saúde"
+     },
+     {
+      "description": "Parlamentar",
+      "id": "537433",
+      "primeiro_autor": false,
+      "title": "Ivan Nunes"
+     },
+     {
+      "description": "Parlamentar",
+      "id": "556174",
+      "primeiro_autor": false,
+      "title": "Jair Ferraz"
+     },
+     {
+      "description": "Parlamentar",
+      "id": "556185",
+      "primeiro_autor": false,
+      "title": "Janaina Guimarães"
+     },
+     {
+      "description": "Parlamentar",
+      "id": "399022",
+      "primeiro_autor": false,
+      "title": "Liza Prado"
+     },
+     {
+      "description": "Parlamentar",
+      "id": "556188",
+      "primeiro_autor": false,
+      "title": "Prof. Conrado Augusto"
+     },
+     {
+      "description": "Parlamentar",
+      "id": "556189",
+      "primeiro_autor": false,
+      "title": "Prof. Ronaldo"
+     },
+     {
+      "description": "Parlamentar",
+      "id": "543274",
+      "primeiro_autor": false,
+      "title": "Sérvio Túlio"
+     },
+     {
+      "description": "Parlamentar",
+      "id": "26097",
+      "primeiro_autor": false,
+      "title": "Zezinho Mendonça"
+     },
+     {
+      "description": "Parlamentar",
+      "id": "556181",
+      "primeiro_autor": false,
+      "title": "Ângela Do Postinho"
+     }
+    ],
+    "contrario": 0,
+    "description": "ALTERA A LEI COMPLEMENTAR Nº 745, DE 28 DE DEZEMBRO DE 2022 QUE “DISPÕE SOBRE O PROGRAMA DE REGULARIZAÇÃO DE EDIFICAÇÕES - PRED NO MUNICÍPIO DE UBERLÂNDIA E SEUS DISTRITOS, REVOGA A LEI COMPLEMENTAR Nº 622, DE 9 DE AGOSTO DE 2017 E SUAS ALTERAÇÕES E DÁ OUTRAS PROVIDÊNCIAS.”",
+    "favoravel": 0,
+    "id": "267867",
+    "presidencia": 0,
+    "quorum": "Maioria simples",
+    "tipo_votacao": "Nominal",
+    "title": "Projeto de Lei Complementar nº 94/2026",
+    "turno": "Apreciar parecer contrário",
+    "votos": [
+     {
+      "abstencao": [],
+      "ausente": [],
+      "contrario": [],
+      "favoravel": [],
+      "presidencia": []
+     }
+    ]
+   },
+   {
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@materias/264929",
+    "@type": "Materia",
+    "abstencao": 0,
+    "apuracao": [
+     {
+      "kind": "desfecho",
+      "resultado": "Adiada"
+     }
+    ],
+    "ausente": 0,
+    "autoria": [
+     {
+      "description": "Parlamentar",
+      "id": "399041",
+      "primeiro_autor": true,
+      "title": "Antônio Carrijo"
+     },
+     {
+      "description": "Parlamentar",
+      "id": "546914",
+      "primeiro_autor": false,
+      "title": "Abatenio Marquez"
+     },
+     {
+      "description": "Parlamentar",
+      "id": "537380",
+      "primeiro_autor": false,
+      "title": "Antônio Augusto Queijinho"
+     },
+     {
+      "description": "Parlamentar",
+      "id": "556182",
+      "primeiro_autor": false,
+      "title": "Delegada Lia Valechi"
+     },
+     {
+      "description": "Parlamentar",
+      "id": "556183",
+      "primeiro_autor": false,
+      "title": "Edinho Combate Ao Câncer (in memoriam)"
+     },
+     {
+      "description": "Parlamentar",
+      "id": "556184",
+      "primeiro_autor": false,
+      "title": "Elinho Da Academia"
+     },
+     {
+      "description": "Parlamentar",
+      "id": "537433",
+      "primeiro_autor": false,
+      "title": "Ivan Nunes"
+     },
+     {
+      "description": "Parlamentar",
+      "id": "556185",
+      "primeiro_autor": false,
+      "title": "Janaina Guimarães"
+     },
+     {
+      "description": "Parlamentar",
+      "id": "556186",
+      "primeiro_autor": false,
+      "title": "Nei Borges"
+     },
+     {
+      "description": "Parlamentar",
+      "id": "26097",
+      "primeiro_autor": false,
+      "title": "Zezinho Mendonça"
+     },
+     {
+      "description": "Parlamentar",
+      "id": "556181",
+      "primeiro_autor": false,
+      "title": "Ângela Do Postinho"
+     }
+    ],
+    "contrario": 0,
+    "description": "ALTERA A LEI Nº 10700, DE 09 DE MARÇO DE 2011, QUE “DISPÕE SOBRE A POLÍTICA DE PROTEÇÃO, CONTROLE E CONSERVAÇÃO DO MEIO AMBIENTE, REVOGA A LEI COMPLEMENTAR Nº 17, DE 04 DE DEZEMBRO DE 1991 E SUAS ALTERAÇÕES, E DÁ OUTRAS PROVIDÊNCIAS”.",
+    "favoravel": 0,
+    "id": "264929",
+    "presidencia": 0,
+    "quorum": "Maioria simples",
+    "tipo_votacao": "Nominal",
+    "title": "Projeto de Lei Ordinária nº 1251/2026",
+    "turno": "Apreciar parecer contrário",
+    "votos": [
+     {
+      "abstencao": [],
+      "ausente": [],
+      "contrario": [],
+      "favoravel": [],
+      "presidencia": []
+     }
+    ]
+   },
+   {
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@materias/264930",
+    "@type": "Materia",
+    "abstencao": 0,
+    "apuracao": [
+     {
+      "kind": "desfecho",
+      "resultado": "Adiada"
+     }
+    ],
+    "ausente": 0,
+    "autoria": [
+     {
+      "description": "Parlamentar",
+      "id": "399022",
+      "primeiro_autor": true,
+      "title": "Liza Prado"
+     },
+     {
+      "description": "Parlamentar",
+      "id": "25988",
+      "primeiro_autor": false,
+      "title": "Adriano Zago"
+     },
+     {
+      "description": "Parlamentar",
+      "id": "399041",
+      "primeiro_autor": false,
+      "title": "Antônio Carrijo"
+     },
+     {
+      "description": "Parlamentar",
+      "id": "556182",
+      "primeiro_autor": false,
+      "title": "Delegada Lia Valechi"
+     },
+     {
+      "description": "Parlamentar",
+      "id": "556183",
+      "primeiro_autor": false,
+      "title": "Edinho Combate Ao Câncer (in memoriam)"
+     },
+     {
+      "description": "Parlamentar",
+      "id": "537433",
+      "primeiro_autor": false,
+      "title": "Ivan Nunes"
+     },
+     {
+      "description": "Parlamentar",
+      "id": "556185",
+      "primeiro_autor": false,
+      "title": "Janaina Guimarães"
+     },
+     {
+      "description": "Parlamentar",
+      "id": "556186",
+      "primeiro_autor": false,
+      "title": "Nei Borges"
+     },
+     {
+      "description": "Parlamentar",
+      "id": "556189",
+      "primeiro_autor": false,
+      "title": "Prof. Ronaldo"
+     },
+     {
+      "description": "Parlamentar",
+      "id": "556181",
+      "primeiro_autor": false,
+      "title": "Ângela Do Postinho"
+     }
+    ],
+    "contrario": 0,
+    "description": "ALTERA A LEI Nº 10.741, DE 6 DE ABRIL DE 2011, QUE “INSTITUI O CÓDIGO MUNICIPAL DE POSTURAS DE UBERLÂNDIA E REVOGA A LEI Nº 4744, DE 05 DE JULHO DE 1988 E SUAS ALTERAÇÕES”.",
+    "favoravel": 0,
+    "id": "264930",
+    "presidencia": 0,
+    "quorum": "Maioria simples",
+    "tipo_votacao": "Nominal",
+    "title": "Projeto de Lei Ordinária nº 1252/2026",
+    "turno": "Apreciar parecer contrário",
+    "votos": [
+     {
+      "abstencao": [],
+      "ausente": [],
+      "contrario": [],
+      "favoravel": [],
+      "presidencia": []
+     }
+    ]
+   }
+  ],
+  "title": "Lista de votação nominal"
+ }
+}

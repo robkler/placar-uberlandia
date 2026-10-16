@@ -1,0 +1,403 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="description" content="Vereadores e Prefeitura de Uberlândia: presença, como cada vereador votou, patrimônio e campanha declarados ao TSE, e as contas da cidade.">
+<title>Placar de Uberlândia</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,400..800&family=Public+Sans:wght@400;500;600&display=swap">
+<meta property="og:title" content="Placar de Uberlândia">
+<meta property="og:description" content="Como votam os vereadores de Uberlândia, quem aparece nas reuniões e como a Prefeitura arrecada e gasta.">
+<style>
+/* Layout: placar header + three tabs (Vereadores, Votações, Prefeitura); details open in a side sheet */
+:root{
+  --bg:#f2f4f3; --surface:#ffffff; --sunk:#e7ebe9; --ink:#14201c; --muted:#5b6964; --line:#d5dcd9;
+  --accent:#0d6b4f; --accent-soft:#d8ece4;
+  --ok:#1f8a5b; --warn:#b07d10; --bad:#c2412d;
+  --sim:#1a73b8; --nao:#c2412d; --abst:#6b7772; --aus:#c9d1ce; --presi:#0d6b4f;
+  --f-display:"Archivo","Arial Narrow",system-ui,sans-serif;
+  --f-body:"Public Sans",system-ui,-apple-system,"Segoe UI",sans-serif;
+}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
+  --bg:#0f1513; --surface:#171f1c; --sunk:#1f2925; --ink:#e6ece9; --muted:#9aa8a3; --line:#2b3632;
+  --accent:#4cc29a; --accent-soft:#183a2f; --ok:#45b884; --warn:#e0a83a; --bad:#ec6a55;
+  --sim:#5aa6e6; --nao:#ec6a55; --abst:#8a9792; --aus:#3a4641; --presi:#4cc29a; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#0f1513; --surface:#171f1c; --sunk:#1f2925; --ink:#e6ece9; --muted:#9aa8a3; --line:#2b3632;
+  --accent:#4cc29a; --accent-soft:#183a2f; --ok:#45b884; --warn:#e0a83a; --bad:#ec6a55;
+  --sim:#5aa6e6; --nao:#ec6a55; --abst:#8a9792; --aus:#3a4641; --presi:#4cc29a; color-scheme:dark}
+*{box-sizing:border-box}
+body{background:var(--bg);color:var(--ink);font-family:var(--f-body);font-size:15px;line-height:1.5}
+.wrap{max-width:1240px;margin:0 auto;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
+.num{font-variant-numeric:tabular-nums}
+a{color:var(--accent)}
+header.top{padding-block:36px 8px}
+.eyebrow{font-family:var(--f-display);font-stretch:85%;font-weight:600;letter-spacing:.12em;text-transform:uppercase;font-size:12px;color:var(--accent)}
+h1{font-family:var(--f-display);font-stretch:72%;font-weight:800;font-size:clamp(40px,7vw,72px);line-height:.95;margin:6px 0 10px;text-wrap:balance;letter-spacing:-.01em}
+.lede{max-width:64ch;color:var(--muted);margin:0}
+.board{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:1px;background:var(--line);border:1px solid var(--line);border-radius:10px;overflow:hidden;margin-top:22px}
+.board>div{background:var(--surface);padding:14px 16px}
+.board .k{font-size:12px;color:var(--muted)}
+.board .v{font-family:var(--f-display);font-stretch:80%;font-weight:700;font-size:30px;line-height:1.1}
+  .board:empty{display:none}
+@media (max-width:720px){.board{grid-template-columns:repeat(2,minmax(0,1fr))}}
+body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset-top,0px);z-index:10;background:var(--bg)}
+.tabs{display:flex;gap:4px;margin-top:22px;border-bottom:1px solid var(--line);overflow-x:auto}
+.tabs button{font:inherit;font-family:var(--f-display);font-stretch:85%;font-weight:700;font-size:15px;letter-spacing:.04em;background:none;border:0;border-bottom:3px solid transparent;color:var(--muted);padding:10px 14px;cursor:pointer;white-space:nowrap}
+.tabs button[aria-selected="true"]{color:var(--ink);border-bottom-color:var(--accent)}
+.bar{position:sticky;top:env(safe-area-inset-top,0px);z-index:5;background:color-mix(in srgb,var(--bg) 92%,transparent);backdrop-filter:blur(8px);border-bottom:1px solid var(--line)}
+.bar .wrap{display:flex;flex-wrap:wrap;gap:8px;padding-block:10px;align-items:center}
+input,select{font:inherit;font-size:14px;color:var(--ink);background:var(--surface);border:1px solid var(--line);border-radius:8px;padding:8px 10px;min-width:0}
+.bar input[type=search]{flex:1 1 220px}
+label.chk{display:flex;gap:6px;align-items:center;font-size:13px;color:var(--muted);cursor:pointer}
+input:focus-visible,select:focus-visible,button:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.count{font-size:13px;color:var(--muted);margin-left:auto}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:12px;padding-block:16px 40px}
+.card{display:grid;grid-template-columns:78px minmax(0,1fr);gap:12px;background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:12px;cursor:pointer;text-align:left;font:inherit;color:inherit;transition:border-color .15s,transform .15s}
+.card:hover{border-color:var(--accent);transform:translateY(-1px)}
+.card img,.ph{width:78px;height:104px;object-fit:cover;border-radius:6px;background:var(--sunk)}
+.nm{font-weight:600;line-height:1.25;margin:0}
+.pt{font-size:12px;color:var(--muted)}
+.tag{display:inline-block;font-size:10.5px;font-weight:600;letter-spacing:.04em;text-transform:uppercase;padding:1px 6px;border-radius:999px;background:var(--accent-soft);color:var(--accent);margin-left:4px;vertical-align:1px}
+.pres{display:flex;align-items:baseline;gap:6px;margin-top:8px}
+.pres .pct{font-family:var(--f-display);font-stretch:78%;font-weight:800;font-size:28px;line-height:1}
+.lb{font-size:12px;color:var(--muted)}
+.meter{height:6px;border-radius:3px;background:var(--sunk);overflow:hidden;margin-top:6px}
+.meter span{display:block;height:100%;background:var(--ok)}
+.mini{display:flex;gap:10px;font-size:12px;color:var(--muted);margin-top:8px;flex-wrap:wrap}
+.mini b{color:var(--ink);font-weight:600}
+.c-ok{color:var(--ok)}.c-warn{color:var(--warn)}.c-bad{color:var(--bad)}
+.bg-ok{background:var(--ok)!important}.bg-warn{background:var(--warn)!important}.bg-bad{background:var(--bad)!important}
+.empty{padding:40px 0;color:var(--muted)}
+.aviso{margin-top:18px;padding:14px 16px;border:1px dashed var(--line);border-radius:10px;color:var(--muted)}
+.aviso.erro{border-color:var(--bad);color:var(--bad)}
+/* votações list */
+.vlist{display:grid;gap:8px;padding-block:16px 40px}
+.vrow{display:grid;grid-template-columns:92px minmax(0,1fr) 220px;gap:14px;align-items:center;background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:12px 14px;cursor:pointer;text-align:left;font:inherit;color:inherit}
+.vrow:hover{border-color:var(--accent)}
+.vrow .d{font-size:12px;color:var(--muted)}
+.vrow .m{font-weight:600}
+.vrow .e{font-size:13px;color:var(--muted);display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.tally{display:flex;height:10px;border-radius:5px;overflow:hidden;gap:2px;background:transparent}
+.tally span{display:block;height:100%}
+.tl{display:flex;flex-wrap:wrap;gap:8px;font-size:12px;color:var(--muted);margin-top:5px}
+.tl b{color:var(--ink)}
+.res{display:inline-block;font-size:11.5px;font-weight:600;padding:1px 7px;border-radius:999px;background:var(--sunk);color:var(--ink)}
+.res.ap{background:var(--accent-soft);color:var(--accent)}
+@media (max-width:720px){.vrow{grid-template-columns:minmax(0,1fr)}}
+.more{display:block;margin:4px auto 40px;font:inherit;font-size:14px;padding:9px 16px;border-radius:8px;border:1px solid var(--line);background:var(--surface);color:var(--ink);cursor:pointer}
+/* sheet */
+.scrim{position:fixed;inset:0;background:rgba(10,16,14,.45);z-index:20}
+.sheet{position:fixed;top:0;right:0;bottom:0;width:min(620px,100%);background:var(--surface);z-index:21;overflow-y:auto;box-shadow:-8px 0 30px rgba(0,0,0,.2);padding:calc(18px + env(safe-area-inset-top,0px)) max(20px,env(safe-area-inset-right,0px)) calc(28px + env(safe-area-inset-bottom,0px)) 20px}
+.close{position:sticky;top:0;float:right;font:inherit;font-size:13px;border:1px solid var(--line);background:var(--surface);color:var(--ink);border-radius:8px;padding:6px 10px;cursor:pointer;z-index:2}
+.hd{display:grid;grid-template-columns:110px minmax(0,1fr);gap:16px;align-items:end;margin-bottom:8px}
+.hd img{width:110px;height:147px;object-fit:cover;border-radius:8px}
+h2{font-family:var(--f-display);font-stretch:80%;font-weight:800;font-size:30px;line-height:1.05;margin:0 0 4px;text-wrap:balance}
+.meta{font-size:13px;color:var(--muted)}
+.sec{border-top:1px solid var(--line);padding-top:14px;margin-top:18px}
+h3{font-family:var(--f-display);font-stretch:85%;font-weight:700;font-size:13px;letter-spacing:.1em;text-transform:uppercase;color:var(--muted);margin:0 0 10px}
+.kv{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:10px}
+.kv div{background:var(--sunk);border-radius:8px;padding:10px}
+.kv .v{font-family:var(--f-display);font-stretch:80%;font-weight:700;font-size:24px;line-height:1.1}
+.kv .k{font-size:12px;color:var(--muted)}
+.sub{font-size:12px;color:var(--muted);margin-top:6px}
+.rows{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:2px 12px;font-size:13px}
+.rows .b{grid-column:1/-1;height:6px;background:var(--sunk);border-radius:3px;overflow:hidden;margin-bottom:8px}
+.rows .b span{display:block;height:100%;background:var(--accent);border-radius:3px}
+.seg-btns{display:flex;flex-wrap:wrap;gap:6px;margin:4px 0 10px}
+.seg-btns button{font:inherit;font-size:12.5px;border:1px solid var(--line);background:var(--surface);color:var(--ink);border-radius:999px;padding:4px 10px;cursor:pointer}
+.seg-btns button[aria-pressed="true"]{background:var(--ink);color:var(--surface);border-color:var(--ink)}
+.vt{width:100%;border-collapse:collapse;font-size:13px}
+.vt td{padding:8px 4px;border-bottom:1px solid var(--line);vertical-align:top}
+.vt tr{cursor:pointer}
+.vt tr:hover td{background:var(--sunk)}
+.vt .p{font-weight:600}
+.vt .e{color:var(--muted);font-size:12px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.chip{display:inline-block;min-width:84px;text-align:center;font-family:var(--f-display);font-stretch:80%;font-weight:700;font-size:12px;letter-spacing:.06em;text-transform:uppercase;padding:3px 6px;border-radius:4px;color:#fff;white-space:nowrap}
+.v-Sim{background:var(--sim)}.v-Não{background:var(--nao)}.v-Abstenção{background:var(--abst)}
+.v-Ausente{background:transparent;color:var(--muted);border:1px dashed var(--muted)}
+.v-Pres{background:transparent;color:var(--presi);border:1px solid var(--presi)}
+.faces{display:grid;grid-template-columns:repeat(auto-fill,minmax(92px,1fr));gap:10px}
+.face{display:grid;justify-items:center;text-align:center;gap:4px;font-size:12px;cursor:pointer;background:none;border:0;color:inherit;font:inherit;padding:0}
+.face img,.face .ini{width:64px;height:85px;object-fit:cover;border-radius:6px;border:3px solid var(--line)}
+.face .ini{display:grid;place-items:center;background:var(--sunk);font-weight:700;color:var(--muted)}
+.face .fn{font-size:12px;line-height:1.2}
+.face .fp{font-size:11px;color:var(--muted)}
+.grp{margin-bottom:16px}
+.grp h4{margin:0 0 8px;font-size:14px;display:flex;gap:8px;align-items:center}
+/* prefeitura */
+.pp{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px;padding-top:16px}
+@media (max-width:720px){.pp{grid-template-columns:minmax(0,1fr)}}
+.pcard{display:grid;grid-template-columns:96px minmax(0,1fr);gap:14px;background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:14px}
+.pcard img{width:96px;height:128px;object-fit:cover;border-radius:6px}
+.panel{background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:16px;margin-top:12px}
+.panel h3{margin-bottom:12px}
+.cols{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px}
+@media (max-width:820px){.cols{grid-template-columns:minmax(0,1fr)}}
+.hbar{display:grid;grid-template-columns:minmax(110px,170px) minmax(0,1fr) auto;gap:6px 10px;align-items:center;font-size:13px}
+.hbar .t{height:14px;background:var(--sunk);border-radius:0 4px 4px 0;overflow:hidden}
+.hbar .t span{display:block;height:100%;background:var(--accent);border-radius:0 4px 4px 0}
+.hbar .t span.hl{background:var(--ink)}
+.hbar .val{text-align:right;color:var(--muted)}
+.hbar [data-tip]{position:relative}
+.cols-chart{display:flex;align-items:flex-end;gap:12px;height:180px;padding-top:20px}
+.cols-chart .c{flex:1;display:flex;flex-direction:column;align-items:center;gap:4px;height:100%;justify-content:flex-end;font-size:12px;color:var(--muted)}
+.cols-chart .c .bx{width:100%;max-width:56px;background:var(--accent);border-radius:4px 4px 0 0}
+.cols-chart .c .lbv{color:var(--ink);font-weight:600}
+.tip{position:fixed;z-index:30;pointer-events:none;background:var(--ink);color:var(--surface);font-size:12px;padding:6px 8px;border-radius:6px;max-width:260px}
+footer{border-top:1px solid var(--line);padding-block:20px 40px;font-size:13px;color:var(--muted)}
+footer p{max-width:85ch}
+@media (prefers-reduced-motion:reduce){.card{transition:none}.card:hover{transform:none}}
+@media (max-width:480px){.kv{grid-template-columns:repeat(2,minmax(0,1fr))}.hd{grid-template-columns:84px minmax(0,1fr)}.hd img{width:84px;height:112px}.pcard{grid-template-columns:72px minmax(0,1fr)}.pcard img{width:72px;height:96px}}
+
+:root{padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
+body{margin:0}
+img{max-width:100%}
+[hidden]{display:none!important}
+</style>
+</head>
+<body>
+<header class="top wrap">
+  <div class="eyebrow">Uberlândia · MG · Legislatura 2025–2028</div>
+  <h1>Placar de Uberlândia</h1>
+  <p class="lede">Os 27 vereadores da Câmara Municipal e a Prefeitura: quem aparece para votar, como cada um votou em cada projeto, o que declararam ao TSE e como a cidade arrecada e gasta. Dados públicos atualizados em <span id="dt">…</span>.</p>
+  <div class="aviso" id="carregando" role="status">Carregando dados…</div>
+  <div class="board" id="board"></div>
+  <nav class="tabs" role="tablist">
+    <button role="tab" id="t-ver" aria-selected="true" data-tab="ver">Vereadores</button>
+    <button role="tab" id="t-vot" aria-selected="false" data-tab="vot">Votações</button>
+    <button role="tab" id="t-pref" aria-selected="false" data-tab="pref">Prefeitura</button>
+  </nav>
+</header>
+
+<section id="p-ver">
+  <div class="bar"><div class="wrap">
+    <input id="q" type="search" placeholder="Buscar vereador(a)…" aria-label="Buscar vereador">
+    <select id="fp" aria-label="Partido"><option value="">Todos os partidos</option></select>
+    <select id="so" aria-label="Ordenar">
+      <option value="pres-asc">Menor presença</option>
+      <option value="pres-desc">Maior presença</option>
+      <option value="nome">Nome (A–Z)</option>
+      <option value="contra-desc">Mais votos contra a maioria</option>
+      <option value="props-desc">Mais projetos de lei</option>
+      <option value="pat-desc">Maior patrimônio declarado</option>
+      <option value="votos-desc">Mais votados em 2024</option>
+    </select>
+    <span class="count num" id="count"></span>
+  </div></div>
+  <main class="wrap"><div class="grid" id="grid"></div></main>
+</section>
+
+<section id="p-vot" hidden>
+  <div class="bar"><div class="wrap">
+    <input id="vq" type="search" placeholder="Buscar projeto, número ou assunto…" aria-label="Buscar votação">
+    <select id="va" aria-label="Autor"><option value="">Qualquer autor</option><option value="Prefeitura">Enviados pela Prefeitura</option><option value="Vereador">De vereadores</option></select>
+    <select id="vr" aria-label="Resultado"><option value="">Qualquer resultado</option><option value="ap">Aprovados</option><option value="nap">Rejeitados, vetos e pareceres</option></select>
+    <label class="chk"><input id="vd" type="checkbox"> Só votações divididas</label>
+    <span class="count num" id="vcount"></span>
+  </div></div>
+  <main class="wrap"><div class="vlist" id="vlist"></div><button class="more" id="vmore" hidden>Mostrar mais</button></main>
+</section>
+
+<section id="p-pref" hidden>
+  <main class="wrap" id="pref"></main>
+</section>
+
+<footer class="wrap">
+  <p><b>Como os números foram calculados.</b> Presença: a Câmara publica uma lista de frequência, mas ela não está sendo atualizada (vereadores que votaram aparecem com "falta"). Por isso a presença aqui é medida pelas votações nominais: o vereador conta como presente na reunião em que registrou pelo menos um voto (sim, não, abstenção ou presidindo a mesa). Reuniões sem nenhuma votação nominal ficam de fora. "Votou contra a maioria" = votou sim quando a maioria votou não, ou o contrário. Em votações de veto e de parecer contrário da Comissão de Legislação, Justiça e Redação (CLJR), "sim" e "não" se referem ao veto ou ao parecer, não ao projeto. Proposições: total apresentado em 2025 e 2026, de todos os tipos; indicações e requerimentos são pedidos formais à Prefeitura e costumam ser a maior parte. Patrimônio e campanha: declarações e prestação de contas entregues ao TSE na eleição de 2024. Finanças da Prefeitura: Declaração de Contas Anuais (DCA) entregue ao Tesouro Nacional; despesas liquidadas; população estimada pelo IBGE.</p>
+  <p>Fontes: <a href="https://www.camarauberlandia.mg.gov.br/vereadores" target="_blank" rel="noopener">Câmara Municipal de Uberlândia</a>, <a href="https://dadosabertos.tse.jus.br" target="_blank" rel="noopener">TSE Dados Abertos</a>, <a href="https://siconfi.tesouro.gov.br" target="_blank" rel="noopener">Tesouro Nacional (SICONFI)</a> e IBGE. Coletado em <span id="coleta">…</span>. Código e metodologia: scripts em /scripts deste projeto.</p>
+</footer>
+
+<div class="scrim" id="scrim" hidden></div>
+<aside class="sheet" id="sheet" hidden role="dialog" aria-modal="true" aria-label="Detalhes"></aside>
+<div class="tip" id="tip" hidden></div>
+
+<script>
+function iniciar(D){
+const VER=D.vereadores, VOT=D.votacoes.slice().sort((a,b)=>b.data.localeCompare(a.data)), P=D.prefeitura;
+const byId=Object.fromEntries(VER.map(v=>[v.id,v]));
+const $=s=>document.querySelector(s);
+const esc=s=>String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const pct=x=>x==null?'—':(x*100).toFixed(0)+'%';
+const fdate=s=>s?s.slice(0,10).split('-').reverse().join('/'):'—';
+const brl=v=>v==null?'—':v.toLocaleString('pt-BR',{style:'currency',currency:'BRL',maximumFractionDigits:0});
+const mi=v=>'R$ '+(v/1e6).toLocaleString('pt-BR',{maximumFractionDigits:v>=1e9?0:1})+' mi';
+const bi=v=>'R$ '+(v/1e9).toLocaleString('pt-BR',{minimumFractionDigits:2,maximumFractionDigits:2})+' bi';
+const nint=v=>v==null?'—':v.toLocaleString('pt-BR');
+const norm=s=>String(s||'').normalize('NFD').replace(/[̀-ͯ]/g,'').toLowerCase();
+const cls=p=>p==null?'':p>=.9?'ok':p>=.75?'warn':'bad';
+const cap=s=>s?s.toLowerCase().replace(/(^|\s)\S/g,m=>m.toUpperCase()):'';
+const sent=s=>{if(!s)return '';s=s.toLowerCase().replace(/r\$/g,'R$').replace(/\bmg\b/g,'MG');return s.charAt(0).toUpperCase()+s.slice(1)};
+VER.forEach(v=>{v.pl=(v.props['Projeto de Lei Ordinária']||0)+(v.props['Projeto de Lei Complementar']||0)+(v.props['Proposta de Emenda à Lei Orgânica']||0);v.p=v.sessoes?v.sessoesPres/v.sessoes:null;v.key=norm(v.nome+' '+v.nomeCompleto+' '+v.partido)});
+VOT.forEach(v=>{v.key=norm(v.materia+' '+v.ementa+' '+v.autor);v.ap=/^Aprovad/.test(v.resultado)});
+$('#dt').textContent=fdate(D.gerado)+(D.gerado.length>10?' às '+D.gerado.slice(11,16):'');$('#coleta').textContent=fdate(D.gerado);
+const med=a=>{a=a.filter(x=>x!=null).sort((x,y)=>x-y);return a[Math.floor(a.length/2)]};
+const last=P.fin[P.fin.length-1];
+$('#board').innerHTML=[
+ [pct(med(VER.map(v=>v.p))),'Presença mediana dos vereadores'],
+ [nint(VOT.length),'Votações nominais desde 2025'],
+ [nint(VOT.filter(v=>v.disputada).length),'Votações divididas (3+ votos de cada lado)'],
+ [bi(last.receita),'Receita da Prefeitura em '+last.ano]
+].map(([v,k])=>`<div><div class="v num">${v}</div><div class="k">${k}</div></div>`).join('');
+
+/* tabs */
+function showTab(t,push){document.querySelectorAll('.tabs button').forEach(b=>b.setAttribute('aria-selected',b.dataset.tab===t));
+ ['ver','vot','pref'].forEach(k=>$('#p-'+k).hidden=k!==t);
+ if(push){try{history.replaceState(null,'','#'+t)}catch(e){}}}
+document.querySelectorAll('.tabs button').forEach(b=>b.addEventListener('click',()=>showTab(b.dataset.tab,true)));
+const h0=(location.hash||'').slice(1); if(['ver','vot','pref'].includes(h0)) showTab(h0);
+
+/* face helper */
+const face=(id,size)=>{const v=byId[id];if(v&&v.foto)return `<img src="${v.foto}" alt="" loading="lazy">`;const n=(D.nomes[id]||{}).nome||'?';return `<div class="ini">${esc(n.split(' ').map(w=>w[0]).slice(0,2).join(''))}</div>`};
+const chip=v=>{if(!v)return '<span class="chip v-Ausente">Fora do cargo</span>';if(v==='Na Presidência')return '<span class="chip v-Pres">Presidindo</span>';return `<span class="chip v-${v}">${esc(v)}</span>`};
+const tally=v=>{const t=v.sim+v.nao+v.abst+v.aus||1;return `<div class="tally" role="img" aria-label="Sim ${v.sim}, Não ${v.nao}, Abstenção ${v.abst}, Ausentes ${v.aus}">${v.sim?`<span style="flex:${v.sim};background:var(--sim)"></span>`:''}${v.nao?`<span style="flex:${v.nao};background:var(--nao)"></span>`:''}${v.abst?`<span style="flex:${v.abst};background:var(--abst)"></span>`:''}${v.aus?`<span style="flex:${v.aus};background:var(--aus)"></span>`:''}</div>
+<div class="tl num"><span><b>${v.sim}</b> sim</span><span><b>${v.nao}</b> não</span>${v.abst?`<span><b>${v.abst}</b> abst.</span>`:''}<span><b>${v.aus}</b> ausentes</span></div>`};
+
+/* vereadores grid */
+[...new Set(VER.map(v=>v.partido))].sort().forEach(p=>$('#fp').insertAdjacentHTML('beforeend',`<option>${esc(p)}</option>`));
+function card(v){
+ const c=cls(v.p);
+ return `<button class="card" data-id="${v.id}">${v.foto?`<img src="${v.foto}" alt="" width="78" height="104">`:'<div class="ph"></div>'}
+ <div style="min-width:0"><p class="nm">${esc(v.nome)}</p>
+ <div class="pt">${esc(v.partido)}${v.natureza==='Suplente'?'<span class="tag">suplente</span>':''}</div>
+ <div class="pt">No mandato desde ${fdate(v.inicio)}</div>
+ <div class="pres"><span class="pct num c-${c}">${pct(v.p)}</span><span class="lb num">${v.sessoesPres} de ${v.sessoes} reuniões</span></div>
+ <div class="meter"><span class="bg-${c}" style="width:${(v.p||0)*100}%"></span></div>
+ <div class="mini num"><span><b>${v.contraMaioria}</b> votos contra a maioria</span><span><b>${nint(v.pl)}</b> projetos de lei</span></div></div></button>`}
+function renderVer(){
+ const q=norm($('#q').value.trim()),p=$('#fp').value,so=$('#so').value;
+ let L=VER.filter(v=>(!q||v.key.includes(q))&&(!p||v.partido===p));
+ const pv=v=>v.p??2;
+ const S={'pres-asc':(a,b)=>pv(a)-pv(b),'pres-desc':(a,b)=>(b.p??-1)-(a.p??-1),'nome':(a,b)=>a.nome.localeCompare(b.nome,'pt'),'contra-desc':(a,b)=>b.contraMaioria-a.contraMaioria,'props-desc':(a,b)=>b.pl-a.pl||b.propsTotal-a.propsTotal,'pat-desc':(a,b)=>((b.tse||{}).patrimonio||0)-((a.tse||{}).patrimonio||0),'votos-desc':(a,b)=>(b.votosEleicao||0)-(a.votosEleicao||0)};
+ L.sort(S[so]);
+ $('#count').textContent=L.length+(L.length===1?' vereador':' vereadores');
+ $('#grid').innerHTML=L.length?L.map(card).join(''):'<div class="empty">Nenhum vereador encontrado. Tente outro nome ou limpe o filtro de partido.</div>';
+}
+['q','fp','so'].forEach(k=>$('#'+k).addEventListener('input',renderVer));
+$('#grid').addEventListener('click',e=>{const c=e.target.closest('.card');if(c)openVer(c.dataset.id)});
+
+/* votações list */
+let vShown=40;
+function vfilter(){const q=norm($('#vq').value.trim()),a=$('#va').value,r=$('#vr').value,d=$('#vd').checked;
+ return VOT.filter(v=>(!q||v.key.includes(q))&&(!a||v.autorTipo===a)&&(!r||(r==='ap'?v.ap:!v.ap))&&(!d||v.disputada))}
+function vrow(v){return `<button class="vrow" data-v="${esc(v.id)}"><div><div class="d num">${fdate(v.data)}</div><div class="d">${esc(v.turno||'')}</div></div>
+ <div style="min-width:0"><div class="m">${esc(v.materia)} <span class="res ${v.ap?'ap':''}">${esc(v.resultado)}</span></div><div class="e">${esc(sent(v.ementa))}</div><div class="d">Autor: ${esc(v.autor||'—')}</div></div>
+ <div>${tally(v)}</div></button>`}
+function renderVot(reset){if(reset)vShown=40;const L=vfilter();$('#vcount').textContent=nint(L.length)+' votações';
+ $('#vlist').innerHTML=L.length?L.slice(0,vShown).map(vrow).join(''):'<div class="empty">Nenhuma votação com esses filtros. Tente outra palavra ou desmarque "Só votações divididas".</div>';
+ $('#vmore').hidden=L.length<=vShown}
+['vq','va','vr','vd'].forEach(k=>$('#'+k).addEventListener('input',()=>renderVot(true)));
+$('#vmore').addEventListener('click',()=>{vShown+=60;renderVot()});
+$('#vlist').addEventListener('click',e=>{const c=e.target.closest('.vrow');if(c)openVot(c.dataset.v)});
+
+/* sheet */
+let lastFocus=null;
+function openSheet(html){lastFocus=lastFocus||document.activeElement;$('#sheet').innerHTML='<button class="close" id="cl">Fechar</button>'+html;$('#sheet').hidden=false;$('#scrim').hidden=false;$('#sheet').scrollTop=0;document.body.style.overflow='hidden';$('#cl').addEventListener('click',closeSheet);$('#cl').focus()}
+function closeSheet(){$('#sheet').hidden=true;$('#scrim').hidden=true;document.body.style.overflow='';if(lastFocus)lastFocus.focus();lastFocus=null}
+$('#scrim').addEventListener('click',closeSheet);
+document.addEventListener('keydown',e=>{if(e.key==='Escape'&&!$('#sheet').hidden)closeSheet()});
+const rows=(arr,fmt)=>{const mx=Math.max(...arr.map(a=>a[1]),1);return `<div class="rows">${arr.map(([k,v])=>`<span>${esc(k)}</span><span class="num">${fmt(v)}</span><div class="b"><span style="width:${v/mx*100}%"></span></div>`).join('')}</div>`};
+
+function openVer(id){
+ const v=byId[id], t=v.tse||{}; const c=cls(v.p);
+ const my=VOT.filter(x=>x.votos[id]);
+ const info=[t.idade?t.idade+' anos':null,t.ocupacao,t.escolaridade].filter(Boolean).join(' · ');
+ const prev=v.mandatosAnteriores.map(m=>`${m.ini}–${m.fim} (${(m.natureza||'').toLowerCase()}${m.votos?', '+nint(m.votos)+' votos':''})`).join('; ');
+ const props=Object.entries(v.props);
+ openSheet(`<div class="hd">${v.foto?`<img src="${v.foto}" alt="Foto de ${esc(v.nome)}">`:''}<div><h2>${esc(v.nome)}</h2>
+  <div class="meta">${esc(v.partido)}${v.natureza==='Suplente'?' · suplente':''} · no mandato desde ${fdate(v.inicio)}<br>${esc(v.nomeCompleto)}${info?'<br>'+esc(info):''}<br>${nint(v.votosEleicao)} votos em 2024${t.numero?' · número '+esc(t.numero):''}</div></div></div>
+  <div class="sec"><h3>Presença</h3><div class="kv num">
+   <div><div class="v c-${c}">${pct(v.p)}</div><div class="k">das reuniões com votação (${v.sessoesPres} de ${v.sessoes})</div></div>
+   <div><div class="v">${pct(v.nVot?(v.votou+v.pres)/v.nVot:null)}</div><div class="k">das votações em que votou ou presidiu</div></div>
+   <div><div class="v">${nint(v.aus)}</div><div class="k">votações em que estava ausente</div></div></div></div>
+  <div class="sec"><h3>Como votou</h3><div class="kv num">
+   <div><div class="v" style="color:var(--sim)">${nint(v.sim)}</div><div class="k">votos sim</div></div>
+   <div><div class="v" style="color:var(--nao)">${nint(v.nao)}</div><div class="k">votos não</div></div>
+   <div><div class="v">${nint(v.contraMaioria)}</div><div class="k">votos contra a maioria</div></div></div>
+   ${v.pres?`<p class="sub">Presidiu a mesa em ${nint(v.pres)} votações (quem preside não vota).</p>`:''}
+   <div class="seg-btns" id="vf" role="group" aria-label="Filtrar votações">
+    <button aria-pressed="true" data-f="todas">Todas (${my.length})</button><button aria-pressed="false" data-f="div">Divididas</button><button aria-pressed="false" data-f="contra">Contra a maioria</button><button aria-pressed="false" data-f="Não">Votou não</button><button aria-pressed="false" data-f="Ausente">Ausente</button></div>
+   <input id="vfq" type="search" placeholder="Buscar nas votações deste vereador…" style="width:100%;margin-bottom:6px">
+   <div style="overflow-x:auto"><table class="vt" id="vtab"></table></div><p class="sub" id="vtmore"></p></div>
+  <div class="sec"><h3>Proposições apresentadas (2025–2026)</h3><p class="sub" style="margin:-4px 0 10px">${nint(v.pl)} projetos de lei e emendas à Lei Orgânica; ${nint(v.propsTotal)} proposições no total, incluindo indicações e requerimentos (pedidos à Prefeitura) e coautorias.</p>
+   ${props.length?rows(props,nint):'<p class="sub">Nenhuma proposição registrada.</p>'}
+   <p class="sub">Também foi relator(a) em ${nint(v.relatorias)} matérias neste período.</p></div>
+  ${v.comissoes.length?`<div class="sec"><h3>Comissões</h3><div class="rows" style="grid-template-columns:minmax(0,1fr) auto">${v.comissoes.map(c=>`<span>${esc(c.nome)}</span><span class="pt">${esc(c.cargo)}</span>`).join('')}</div></div>`:''}
+  ${v.tse?`<div class="sec"><h3>Declarado ao TSE (eleição 2024)</h3>
+   <div class="kv num" style="grid-template-columns:repeat(2,minmax(0,1fr))"><div><div class="v">${brl(t.patrimonio)}</div><div class="k">patrimônio declarado (${t.bensN} bens)</div></div><div><div class="v">${brl(t.campanha)}</div><div class="k">arrecadado na campanha</div></div></div>
+   ${t.bensTipo.length?`<p class="sub" style="margin-top:12px">Principais bens por tipo</p>${rows(t.bensTipo.map(([k,x])=>[cap(k),x]),brl)}`:''}
+   ${t.campanhaFonte.length?`<p class="sub" style="margin-top:12px">De onde veio o dinheiro da campanha</p>${rows(t.campanhaFonte,brl)}`:''}</div>`:''}
+  ${prev||v.filiacoes.length>1?`<div class="sec"><h3>Trajetória</h3>${prev?`<p class="sub">Mandatos anteriores: ${esc(prev)}</p>`:''}${v.filiacoes.length>1?`<p class="sub">Partidos: ${v.filiacoes.map(f=>esc(f.p)+' ('+fdate(f.ini)+(f.fim?' a '+fdate(f.fim):'')+')').join(' → ')}</p>`:''}</div>`:''}
+  ${v.bio?`<div class="sec"><h3>Biografia (site da Câmara)</h3><p style="font-size:14px;margin:0">${esc(v.bio)}${v.bio.length>=700?'…':''}</p></div>`:''}
+  <div class="sec"><h3>Contato do gabinete</h3><p class="sub" style="user-select:all">${esc(v.email||'')}${v.tel?' · '+esc(v.tel):''}</p>
+  <p class="sub"><a href="https://www.camarauberlandia.mg.gov.br/vereadores/vereadores/${v.id}" target="_blank" rel="noopener">Ver página oficial na Câmara ↗</a></p></div>`);
+ let f='todas';
+ const draw=()=>{const q=norm($('#vfq').value.trim());
+  let L=my.filter(x=>{const vv=x.votos[id];if(f==='div')return x.disputada;if(f==='contra')return (vv==='Sim'||vv==='Não')&&vv!==x.maioria;if(f==='Não'||f==='Ausente')return vv===f;return true}).filter(x=>!q||x.key.includes(q));
+  const n=L.length;L=L.slice(0,80);
+  $('#vtab').innerHTML=L.map(x=>`<tr data-v="${esc(x.id)}"><td><div class="p">${esc(x.materia)}</div><div class="e">${esc(sent(x.ementa))}</div><div class="sub" style="margin-top:2px">${fdate(x.data)} · ${esc(x.turno||'')} · ${esc(x.resultado)} (${x.sim} × ${x.nao})</div></td><td style="text-align:right">${chip(x.votos[id])}</td></tr>`).join('')||'<tr><td class="sub">Nenhuma votação neste filtro.</td></tr>';
+  $('#vtmore').textContent=n>80?`Mostrando 80 de ${nint(n)}. Use a busca para encontrar uma votação específica.`:''};
+ $('#vf').addEventListener('click',e=>{const b=e.target.closest('button');if(!b)return;f=b.dataset.f;$('#vf').querySelectorAll('button').forEach(x=>x.setAttribute('aria-pressed',x===b));draw()});
+ $('#vfq').addEventListener('input',draw);
+ $('#vtab').addEventListener('click',e=>{const r=e.target.closest('tr[data-v]');if(r)openVot(r.dataset.v)});
+ draw();
+}
+function openVot(vid){
+ const v=VOT.find(x=>x.id===vid); if(!v)return;
+ const groups=[['Sim','Votaram sim','v-Sim'],['Não','Votaram não','v-Não'],['Abstenção','Abstenção','v-Abstenção'],['Na Presidência','Presidindo a mesa (não vota)','v-Pres'],['Ausente','Ausentes','v-Ausente']];
+ const g=groups.map(([k,lbl,cl])=>{const ids=Object.keys(v.votos).filter(i=>v.votos[i]===k).sort((a,b)=>((D.nomes[a]||{}).nome||'').localeCompare((D.nomes[b]||{}).nome||'','pt'));
+  if(!ids.length)return '';return `<div class="grp"><h4><span class="chip ${cl}" style="min-width:0">${ids.length}</span>${lbl}</h4><div class="faces">${ids.map(i=>{const n=D.nomes[i]||{};const col=k==='Sim'?'var(--sim)':k==='Não'?'var(--nao)':'var(--line)';return `<button class="face" data-id="${byId[i]?i:''}" ${byId[i]?'':'disabled'}><span style="display:contents">${face(i).replace('<img','<img style="border-color:'+col+'"').replace('class="ini"','class="ini" style="border-color:'+col+'"')}</span><span class="fn">${esc(n.nome)}</span><span class="fp">${esc(n.partido||'')}</span></button>`}).join('')}</div></div>`}).join('');
+ openSheet(`<div class="eyebrow">${fdate(v.data)} · ${esc(v.sessaoNome)}</div><h2 style="margin-top:6px">${esc(v.materia)}</h2>
+  <p style="margin:6px 0 10px">${esc(sent(v.ementa))}</p>
+  <div class="meta">Autor: ${esc(v.autor||'—')} · ${esc(v.turno||'')} · quórum: ${esc((v.quorum||'').toLowerCase())}</div>
+  <div class="sec"><h3>Resultado: ${esc(v.resultado)}</h3>${tally(v)}${/Veto|Parecer/.test(v.resultado)?'<p class="sub">Nesta votação, "sim" e "não" se referem ao veto ou ao parecer da comissão, não diretamente ao projeto.</p>':''}</div>
+  <div class="sec"><h3>Quem votou em quê</h3>${g}<p class="sub">Toque em um vereador para ver a ficha completa.</p></div>
+  <p class="sub"><a href="https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=${encodeURIComponent(v.materiaId)}" target="_blank" rel="noopener">Ver a matéria no sistema da Câmara ↗</a></p>`);
+ $('#sheet').querySelectorAll('.face[data-id]').forEach(b=>{if(b.dataset.id)b.addEventListener('click',()=>openVer(b.dataset.id))});
+}
+
+/* prefeitura */
+function renderPref(){
+ const tot=P.eleicao.reduce((s,e)=>s+e.votos,0);
+ const people=P.pessoas.map(p=>`<div class="pcard">${p.foto?`<img src="${p.foto}" alt="Foto de ${esc(cap(p.nomeUrna))}">`:''}<div style="min-width:0"><div class="eyebrow">${esc(p.cargo)}</div><p class="nm" style="font-size:20px;font-family:var(--f-display);font-stretch:80%;font-weight:800">${esc(cap(p.nomeUrna))}</p>
+  <div class="pt">${esc(p.partido)} · ${p.idade} anos · ${esc(p.ocupacao||'')}</div>
+  <div class="mini num" style="margin-top:10px"><span>Patrimônio declarado <b>${brl(p.patrimonio)}</b></span>${p.cargo==='Prefeito'?`<span>Campanha <b>${brl(p.campanha)}</b></span>`:''}</div></div></div>`).join('');
+ const pr=P.pessoas[0];
+ const fin=P.fin, lf=fin[fin.length-1], pop=P.pop[lf.ano]||P.pop[2025];
+ const funcs=Object.entries(lf.funcoes).sort((a,b)=>b[1]-a[1]);
+ const top=funcs.slice(0,9), rest=funcs.slice(9).reduce((s,x)=>s+x[1],0);
+ if(rest)top.push(['Outras áreas',rest]);
+ const mxF=top[0][1];
+ const mxR=Math.max(...fin.map(f=>f.receita));
+ const own=[['ISS',lf.iss],['IPTU',lf.iptu],['ITBI',lf.itbi],['Cota do ICMS (do Estado)',lf.icms],['FPM (da União)',lf.fpm]];
+ const mxO=Math.max(...own.map(o=>o[1]));
+ const saude=fin.map(f=>[f.ano,f.funcoes['Saúde']||0,f.funcoes['Educação']||0]);
+ $('#pref').innerHTML=`<div class="pp">${people}</div>
+ <div class="cols">
+  <div class="panel"><h3>Eleição de 2024 · 1º turno</h3><div class="hbar num">${P.eleicao.map((e,i)=>`<span>${esc(cap(e.nome))} <span class="pt">${esc(e.partido)}</span></span><div class="t" data-tip="${esc(cap(e.nome))}: ${nint(e.votos)} votos"><span class="${i===0?'hl':''}" style="width:${e.votos/P.eleicao[0].votos*100}%"></span></div><span class="val">${pct(e.votos/tot)}</span>`).join('')}</div>
+   <p class="sub">${esc(cap(pr.nomeUrna))} venceu no 1º turno com ${nint(pr.votos2024)} votos. % dos votos nominais.</p></div>
+  <div class="panel"><h3>Campanha do prefeito: de onde veio o dinheiro</h3>${rows(pr.campanhaFonte,brl)}<p class="sub">Total arrecadado: ${brl(pr.campanha)}. Prestação de contas entregue ao TSE.</p></div>
+ </div>
+ <div class="panel"><h3>Projetos da Prefeitura na Câmara</h3><p style="margin:0">Desde 2025, a Câmara fez <b class="num">${nint(P.votacoesPrefeitura)}</b> votações nominais de projetos enviados pela Prefeitura, e <b class="num">${nint(P.aprovadasPrefeitura)}</b> terminaram aprovadas. <a href="#vot" id="goPref">Ver essas votações</a></p></div>
+ <div class="cols">
+  <div class="panel"><h3>Receita total por ano</h3><div class="cols-chart num">${fin.map(f=>`<div class="c" data-tip="${f.ano}: ${bi(f.receita)}"><span class="lbv">${(f.receita/1e9).toLocaleString('pt-BR',{maximumFractionDigits:1})}</span><div class="bx" style="height:${f.receita/mxR*100}%"></div><span>${f.ano}</span></div>`).join('')}</div><p class="sub">Em R$ bilhões, valores nominais (sem correção pela inflação). ${lf.ano}: ${brl(lf.receita/pop)} por habitante.</p></div>
+  <div class="panel"><h3>Principais fontes de arrecadação em ${lf.ano}</h3><div class="hbar num">${own.map(([k,x])=>`<span>${esc(k)}</span><div class="t" data-tip="${esc(k)}: ${mi(x)}"><span style="width:${x/mxO*100}%"></span></div><span class="val">${mi(x)}</span>`).join('')}</div><p class="sub">ISS, IPTU e ITBI são impostos cobrados pela própria Prefeitura; ICMS e FPM são repasses do Estado e da União.</p></div>
+ </div>
+ <div class="panel"><h3>Onde a Prefeitura gastou em ${lf.ano}</h3><div class="hbar num">${top.map(([k,x])=>`<span>${esc(k)}</span><div class="t" data-tip="${esc(k)}: ${mi(x)} (${brl(x/pop)} por habitante)"><span style="width:${x/mxF*100}%"></span></div><span class="val">${mi(x)} · ${pct(x/lf.despesa)}</span>`).join('')}</div>
+  <p class="sub">Despesas liquidadas por área, total de ${bi(lf.despesa)} (${brl(lf.despesa/pop)} por habitante, população estimada de ${nint(pop)}). Previdência é o pagamento de aposentadorias e pensões dos servidores municipais.</p></div>
+ <div class="panel"><h3>Saúde e educação ao longo do tempo</h3><div style="overflow-x:auto"><table class="vt num" style="cursor:default"><tr><td><b>Ano</b></td><td style="text-align:right"><b>Saúde</b></td><td style="text-align:right"><b>Educação</b></td><td style="text-align:right"><b>Despesa total</b></td></tr>${fin.map(f=>`<tr style="cursor:default"><td>${f.ano}</td><td style="text-align:right">${mi(f.funcoes['Saúde']||0)}</td><td style="text-align:right">${mi(f.funcoes['Educação']||0)}</td><td style="text-align:right">${bi(f.despesa)}</td></tr>`).join('')}</table></div></div>`;
+ $('#goPref').addEventListener('click',e=>{e.preventDefault();$('#va').value='Prefeitura';renderVot(true);showTab('vot',true);window.scrollTo({top:0})});
+}
+/* tooltip */
+const tip=$('#tip');
+document.addEventListener('mousemove',e=>{const t=e.target.closest('[data-tip]');if(!t){tip.hidden=true;return}tip.textContent=t.dataset.tip;tip.hidden=false;tip.style.left=Math.min(e.clientX+12,innerWidth-270)+'px';tip.style.top=(e.clientY+14)+'px'});
+renderVer();renderVot(true);renderPref();
+document.getElementById('carregando').hidden=true;
+}
+fetch('data.json',{cache:'no-cache'}).then(r=>{if(!r.ok)throw new Error('HTTP '+r.status);return r.json()}).then(iniciar).catch(e=>{
+ const el=document.getElementById('carregando');el.hidden=false;el.className='aviso erro';
+ el.textContent='Não foi possível carregar os dados ('+e.message+'). Recarregue a página em alguns instantes.';console.error(e)});
+</script>
+</body>
+</html>

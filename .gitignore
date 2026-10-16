@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+dados/tse_cache/
+.vercel
+.DS_Store
+*.tmp
+
+# Ambiente local
+.env*
+.venv/
+node_modules/
+mise.local.toml
+
+# Arquivos descartáveis
+_para_apagar/

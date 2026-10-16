@@ -1,0 +1,2439 @@
+{
+ "@components": {
+  "actions": {
+   "@id": "https://www.camarauberlandia.mg.gov.br/vereadores/vereadores/528006/@actions"
+  },
+  "aliases": {
+   "@id": "https://www.camarauberlandia.mg.gov.br/vereadores/vereadores/528006/@aliases"
+  },
+  "breadcrumbs": {
+   "@id": "https://www.camarauberlandia.mg.gov.br/vereadores/vereadores/528006/@breadcrumbs"
+  },
+  "contextnavigation": {
+   "@id": "https://www.camarauberlandia.mg.gov.br/vereadores/vereadores/528006/@contextnavigation"
+  },
+  "navigation": {
+   "@id": "https://www.camarauberlandia.mg.gov.br/vereadores/vereadores/528006/@navigation"
+  },
+  "navroot": {
+   "@id": "https://www.camarauberlandia.mg.gov.br/vereadores/vereadores/528006/@navroot"
+  }
+ },
+ "@id": "https://www.camarauberlandia.mg.gov.br/vereadores/vereadores/528006",
+ "@type": "Vereador",
+ "_scope": "all",
+ "biografia": "<p>Ronaldo César Vilela Tannús é filho de Idelmar Alves de Oliveira e Ana Maria Vilela Tannús, neto de Ivo Vieira Tannús e Maria do Carmo Tannús, fundadores da sorveteria Rívoli. Fundada em 1958, em frente a antiga Prefeitura Municipal no centro de Uberlândia , o estabelecimento era um ponto muito conhecido naquela época por ser um “point” da juventude.</p>\r\n<p>Tem dois filhos: o primogênito Théo Silveira Tannús e, o caçula, Thor Silveira Tannús.</p>\r\n<p>Formado em publicidade e propaganda em 2004, pela ESAMC, seu primeiro emprego formal foi em 1998 em uma drogaria no centro da cidade. Hoje, Ronaldo continua atuando no ramo de farmácias.</p>\r\n<p>Ronaldo sempre teve esse espírito empreendedor. Em 2001, foi proprietário de uma farmácia na cidade. Em 2009, construiu mais um empreendimento, na cidade de Uberlândia, que atuava na área de promoção de eventos e alimentos. Usou deste dom para construir sua vida profissional com objetivo de pagar sua faculdade na época e, até hoje, mantêm esse espírito gerando renda e empregos no município.</p>",
+ "cod_autor": "528006",
+ "comissoes": [
+  {
+   "@id": "https://www.camarauberlandia.mg.gov.br/vereadores/comissoes/22",
+   "@type": "ParticipanteComissao",
+   "cod_cargo": 10,
+   "comissao": "Comissão Especial",
+   "description": "10/02/2025 a 07/02/2027",
+   "end": "2027-02-07",
+   "id": "22",
+   "mandato": "Suplente",
+   "start": "2025-02-10",
+   "title": "ad hoc"
+  },
+  {
+   "@id": "https://www.camarauberlandia.mg.gov.br/vereadores/comissoes/3",
+   "@type": "ParticipanteComissao",
+   "cod_cargo": 1,
+   "comissao": "Comissão de Legislação, Justiça e Redação",
+   "description": "07/02/2025 a 07/02/2027",
+   "end": "2027-02-07",
+   "id": "3",
+   "mandato": "Titular",
+   "start": "2025-02-07",
+   "title": "Presidente"
+  },
+  {
+   "@id": "https://www.camarauberlandia.mg.gov.br/vereadores/comissoes/12",
+   "@type": "ParticipanteComissao",
+   "cod_cargo": 1,
+   "comissao": "Comissão de Administração Pública",
+   "description": "07/02/2025 a 07/02/2027",
+   "end": "2027-02-07",
+   "id": "12",
+   "mandato": "Titular",
+   "start": "2025-02-07",
+   "title": "Presidente"
+  },
+  {
+   "@id": "https://www.camarauberlandia.mg.gov.br/vereadores/comissoes/17",
+   "@type": "ParticipanteComissao",
+   "cod_cargo": 7,
+   "comissao": "Comissão de Promoção da Igualdade Racial",
+   "description": "07/02/2025 a 07/02/2027",
+   "end": "2027-02-07",
+   "id": "17",
+   "mandato": "Titular",
+   "start": "2025-02-07",
+   "title": "Relator"
+  },
+  {
+   "@id": "https://www.camarauberlandia.mg.gov.br/vereadores/comissoes/5",
+   "@type": "ParticipanteComissao",
+   "cod_cargo": 9,
+   "comissao": "Comissão de Finanças, Orçamento e Tributos",
+   "description": "07/02/2025 a 07/02/2027",
+   "end": "2027-02-07",
+   "id": "5",
+   "mandato": "Titular",
+   "start": "2025-02-07",
+   "title": "Suplente"
+  },
+  {
+   "@id": "https://www.camarauberlandia.mg.gov.br/vereadores/comissoes/25",
+   "@type": "ParticipanteComissao",
+   "cod_cargo": 9,
+   "comissao": "Comissão de Micro e Pequenas Empresas",
+   "description": "07/02/2025 a 07/02/2027",
+   "end": "2027-02-07",
+   "id": "25",
+   "mandato": "Titular",
+   "start": "2025-02-07",
+   "title": "Suplente"
+  },
+  {
+   "@id": "https://www.camarauberlandia.mg.gov.br/vereadores/comissoes/27",
+   "@type": "ParticipanteComissao",
+   "cod_cargo": 9,
+   "comissao": "Comissão de Inovação, Tecnologia e Juventude",
+   "description": "07/02/2025 a 07/02/2027",
+   "end": "2027-02-07",
+   "id": "27",
+   "mandato": "Titular",
+   "start": "2025-02-07",
+   "title": "Suplente"
+  },
+  {
+   "@id": "https://www.camarauberlandia.mg.gov.br/vereadores/comissoes/31",
+   "@type": "ParticipanteComissao",
+   "cod_cargo": 9,
+   "comissao": "Comissão de Diversidade",
+   "description": "07/02/2025 a 07/02/2027",
+   "end": "2027-02-07",
+   "id": "31",
+   "mandato": "Titular",
+   "start": "2025-02-07",
+   "title": "Suplente"
+  },
+  {
+   "@id": "https://www.camarauberlandia.mg.gov.br/vereadores/comissoes/28",
+   "@type": "ParticipanteComissao",
+   "cod_cargo": 9,
+   "comissao": "Comissão de Ética e Decoro Parlamentar",
+   "description": "07/02/2025 a 07/02/2027",
+   "end": "2027-02-07",
+   "id": "28",
+   "mandato": "Titular",
+   "start": "2025-02-07",
+   "title": "Suplente"
+  },
+  {
+   "@id": "https://www.camarauberlandia.mg.gov.br/vereadores/comissoes/3",
+   "@type": "ParticipanteComissao",
+   "cod_cargo": 1,
+   "comissao": "Comissão de Legislação, Justiça e Redação",
+   "description": "07/05/2024 a 31/12/2024",
+   "end": "2024-12-31",
+   "id": "3",
+   "mandato": "Titular",
+   "start": "2024-05-07",
+   "title": "Presidente"
+  },
+  {
+   "@id": "https://www.camarauberlandia.mg.gov.br/vereadores/comissoes/4",
+   "@type": "ParticipanteComissao",
+   "cod_cargo": 7,
+   "comissao": "Comissão de Saúde e Saneamento",
+   "description": "07/05/2024 a 31/12/2024",
+   "end": "2024-12-31",
+   "id": "4",
+   "mandato": "Titular",
+   "start": "2024-05-07",
+   "title": "Relator"
+  },
+  {
+   "@id": "https://www.camarauberlandia.mg.gov.br/vereadores/comissoes/12",
+   "@type": "ParticipanteComissao",
+   "cod_cargo": 8,
+   "comissao": "Comissão de Administração Pública",
+   "description": "07/05/2024 a 31/12/2024",
+   "end": "2024-12-31",
+   "id": "12",
+   "mandato": "Titular",
+   "start": "2024-05-07",
+   "title": "Membro"
+  },
+  {
+   "@id": "https://www.camarauberlandia.mg.gov.br/vereadores/comissoes/22",
+   "@type": "ParticipanteComissao",
+   "cod_cargo": 8,
+   "comissao": "Comissão Especial",
+   "description": "07/05/2024 a 31/12/2024",
+   "end": "2024-12-31",
+   "id": "22",
+   "mandato": "Titular",
+   "start": "2024-05-07",
+   "title": "Membro"
+  },
+  {
+   "@id": "https://www.camarauberlandia.mg.gov.br/vereadores/comissoes/26",
+   "@type": "ParticipanteComissao",
+   "cod_cargo": 9,
+   "comissao": "Comissão de Esporte, Lazer e Paradesporto",
+   "description": "07/05/2024 a 31/12/2024",
+   "end": "2024-12-31",
+   "id": "26",
+   "mandato": "Suplente",
+   "start": "2024-05-07",
+   "title": "Suplente"
+  },
+  {
+   "@id": "https://www.camarauberlandia.mg.gov.br/vereadores/comissoes/32",
+   "@type": "ParticipanteComissao",
+   "cod_cargo": 9,
+   "comissao": "Comissão de Políticas Públicas de Prevenção, Combate e Enfrentamento ao Câncer",
+   "description": "07/05/2024 a 31/12/2024",
+   "end": "2024-12-31",
+   "id": "32",
+   "mandato": "Suplente",
+   "start": "2024-05-07",
+   "title": "Suplente"
+  },
+  {
+   "@id": "https://www.camarauberlandia.mg.gov.br/vereadores/comissoes/12",
+   "@type": "ParticipanteComissao",
+   "cod_cargo": 1,
+   "comissao": "Comissão de Administração Pública",
+   "description": "01/01/2023 a 06/05/2024",
+   "end": "2024-05-06",
+   "id": "12",
+   "mandato": "Titular",
+   "start": "2023-01-01",
+   "title": "Presidente"
+  },
+  {
+   "@id": "https://www.camarauberlandia.mg.gov.br/vereadores/comissoes/29",
+   "@type": "ParticipanteComissao",
+   "cod_cargo": 7,
+   "comissao": "Comissão da Pessoa com Deficiência e da Pessoa com Doença Rara",
+   "description": "01/01/2023 a 06/05/2024",
+   "end": "2024-05-06",
+   "id": "29",
+   "mandato": "Titular",
+   "start": "2023-01-01",
+   "title": "Relator"
+  },
+  {
+   "@id": "https://www.camarauberlandia.mg.gov.br/vereadores/comissoes/28",
+   "@type": "ParticipanteComissao",
+   "cod_cargo": 7,
+   "comissao": "Comissão de Ética e Decoro Parlamentar",
+   "description": "01/01/2023 a 06/05/2024",
+   "end": "2024-05-06",
+   "id": "28",
+   "mandato": "Titular",
+   "start": "2023-01-01",
+   "title": "Relator"
+  },
+  {
+   "@id": "https://www.camarauberlandia.mg.gov.br/vereadores/comissoes/13",
+   "@type": "ParticipanteComissao",
+   "cod_cargo": 9,
+   "comissao": "Comissão de Indústria, Comércio, Turismo e Trabalho",
+   "description": "01/01/2023 a 06/05/2024",
+   "end": "2024-05-06",
+   "id": "13",
+   "mandato": "Suplente",
+   "start": "2023-01-01",
+   "title": "Suplente"
+  },
+  {
+   "@id": "https://www.camarauberlandia.mg.gov.br/vereadores/comissoes/22",
+   "@type": "ParticipanteComissao",
+   "cod_cargo": 8,
+   "comissao": "Comissão Especial",
+   "description": "17/08/2022 a 06/05/2024",
+   "end": "2024-05-06",
+   "id": "22",
+   "mandato": "Titular",
+   "start": "2022-08-17",
+   "title": "Membro"
+  },
+  {
+   "@id": "https://www.camarauberlandia.mg.gov.br/vereadores/comissoes/29",
+   "@type": "ParticipanteComissao",
+   "cod_cargo": 7,
+   "comissao": "Comissão da Pessoa com Deficiência e da Pessoa com Doença Rara",
+   "description": "29/04/2021 a 31/12/2022",
+   "end": "2022-12-31",
+   "id": "29",
+   "mandato": "Titular",
+   "start": "2021-04-29",
+   "title": "Relator"
+  },
+  {
+   "@id": "https://www.camarauberlandia.mg.gov.br/vereadores/comissoes/4",
+   "@type": "ParticipanteComissao",
+   "cod_cargo": 9,
+   "comissao": "Comissão de Saúde e Saneamento",
+   "description": "04/02/2021 a 31/12/2022",
+   "end": "2022-12-31",
+   "id": "4",
+   "mandato": "Titular",
+   "start": "2021-02-04",
+   "title": "Suplente"
+  },
+  {
+   "@id": "https://www.camarauberlandia.mg.gov.br/vereadores/comissoes/13",
+   "@type": "ParticipanteComissao",
+   "cod_cargo": 9,
+   "comissao": "Comissão de Indústria, Comércio, Turismo e Trabalho",
+   "description": "04/02/2021 a 31/12/2022",
+   "end": "2022-12-31",
+   "id": "13",
+   "mandato": "Titular",
+   "start": "2021-02-04",
+   "title": "Suplente"
+  },
+  {
+   "@id": "https://www.camarauberlandia.mg.gov.br/vereadores/comissoes/28",
+   "@type": "ParticipanteComissao",
+   "cod_cargo": 7,
+   "comissao": "Comissão de Ética e Decoro Parlamentar",
+   "description": "02/02/2021 a 31/12/2021",
+   "end": "2021-12-31",
+   "id": "28",
+   "mandato": "Titular",
+   "start": "2021-02-02",
+   "title": "Relator"
+  },
+  {
+   "@id": "https://www.camarauberlandia.mg.gov.br/vereadores/comissoes/13",
+   "@type": "ParticipanteComissao",
+   "cod_cargo": 1,
+   "comissao": "Comissão de Indústria, Comércio, Turismo e Trabalho",
+   "description": "04/02/2020 a 18/05/2020",
+   "end": "2020-05-18",
+   "id": "13",
+   "mandato": "Titular",
+   "start": "2020-02-04",
+   "title": "Presidente"
+  },
+  {
+   "@id": "https://www.camarauberlandia.mg.gov.br/vereadores/comissoes/17",
+   "@type": "ParticipanteComissao",
+   "cod_cargo": 1,
+   "comissao": "Comissão de Promoção da Igualdade Racial",
+   "description": "04/02/2020 a 18/05/2020",
+   "end": "2020-05-18",
+   "id": "17",
+   "mandato": "Titular",
+   "start": "2020-02-04",
+   "title": "Presidente"
+  },
+  {
+   "@id": "https://www.camarauberlandia.mg.gov.br/vereadores/comissoes/25",
+   "@type": "ParticipanteComissao",
+   "cod_cargo": 7,
+   "comissao": "Comissão de Micro e Pequenas Empresas",
+   "description": "04/02/2020 a 18/05/2020",
+   "end": "2020-05-18",
+   "id": "25",
+   "mandato": "Titular",
+   "start": "2020-02-04",
+   "title": "Relator"
+  },
+  {
+   "@id": "https://www.camarauberlandia.mg.gov.br/vereadores/comissoes/26",
+   "@type": "ParticipanteComissao",
+   "cod_cargo": 7,
+   "comissao": "Comissão de Esporte, Lazer e Paradesporto",
+   "description": "04/02/2020 a 18/05/2020",
+   "end": "2020-05-18",
+   "id": "26",
+   "mandato": "Titular",
+   "start": "2020-02-04",
+   "title": "Relator"
+  },
+  {
+   "@id": "https://www.camarauberlandia.mg.gov.br/vereadores/comissoes/16",
+   "@type": "ParticipanteComissao",
+   "cod_cargo": 8,
+   "comissao": "Comissão Mista de Participação Popular",
+   "description": "04/02/2020 a 18/05/2020",
+   "end": "2020-05-18",
+   "id": "16",
+   "mandato": "Titular",
+   "start": "2020-02-04",
+   "title": "Membro"
+  },
+  {
+   "@id": "https://www.camarauberlandia.mg.gov.br/vereadores/comissoes/5",
+   "@type": "ParticipanteComissao",
+   "cod_cargo": 9,
+   "comissao": "Comissão de Finanças, Orçamento e Tributos",
+   "description": "04/02/2020 a 18/05/2020",
+   "end": "2020-05-18",
+   "id": "5",
+   "mandato": "Titular",
+   "start": "2020-02-04",
+   "title": "Suplente"
+  },
+  {
+   "@id": "https://www.camarauberlandia.mg.gov.br/vereadores/comissoes/4",
+   "@type": "ParticipanteComissao",
+   "cod_cargo": 9,
+   "comissao": "Comissão de Saúde e Saneamento",
+   "description": "04/02/2020 a 18/05/2020",
+   "end": "2020-05-18",
+   "id": "4",
+   "mandato": "Titular",
+   "start": "2020-02-04",
+   "title": "Suplente"
+  },
+  {
+   "@id": "https://www.camarauberlandia.mg.gov.br/vereadores/comissoes/27",
+   "@type": "ParticipanteComissao",
+   "cod_cargo": 9,
+   "comissao": "Comissão de Inovação, Tecnologia e Juventude",
+   "description": "04/02/2020 a 18/05/2020",
+   "end": "2020-05-18",
+   "id": "27",
+   "mandato": "Titular",
+   "start": "2020-02-04",
+   "title": "Suplente"
+  }
+ ],
+ "description": "PL",
+ "em_exercicio": true,
+ "email": "ronaldotannus@camarauberlandia.mg.gov.br",
+ "filiacoes": [
+  {
+   "data_desfiliacao": "2023-01-31",
+   "data_filiacao": "2021-01-01",
+   "filiacao_atual": false,
+   "title": "PARTIDO LIBERAL",
+   "token": "PL"
+  },
+  {
+   "data_desfiliacao": "2024-04-01",
+   "data_filiacao": "2023-02-01",
+   "filiacao_atual": false,
+   "title": "DEMOCRACIA CRISTÃ",
+   "token": "DC"
+  },
+  {
+   "data_desfiliacao": "2026-03-31",
+   "data_filiacao": "2024-04-02",
+   "filiacao_atual": false,
+   "title": "PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA",
+   "token": "PSDB"
+  },
+  {
+   "data_desfiliacao": "",
+   "data_filiacao": "2026-03-31",
+   "filiacao_atual": true,
+   "title": "PODEMOS",
+   "token": "PODEMOS"
+  }
+ ],
+ "frequencia": {
+  "facets": {
+   "ano": [
+    {
+     "count": 123,
+     "label": "2026",
+     "value": "2026"
+    },
+    {
+     "count": 145,
+     "label": "2025",
+     "value": "2025"
+    },
+    {
+     "count": 128,
+     "label": "2024",
+     "value": "2024"
+    },
+    {
+     "count": 140,
+     "label": "2023",
+     "value": "2023"
+    },
+    {
+     "count": 128,
+     "label": "2022",
+     "value": "2022"
+    },
+    {
+     "count": 116,
+     "label": "2021",
+     "value": "2021"
+    },
+    {
+     "count": 105,
+     "label": "2020",
+     "value": "2020"
+    }
+   ],
+   "tipo": [
+    {
+     "count": 4,
+     "label": "Especial",
+     "value": "4"
+    },
+    {
+     "count": 144,
+     "label": "Extraordinária",
+     "value": "2"
+    },
+    {
+     "count": 736,
+     "label": "Ordinária",
+     "value": "1"
+    },
+    {
+     "count": 1,
+     "label": "Solene",
+     "value": "3"
+    }
+   ],
+   "xy": [
+    {
+     "ano": "2020",
+     "count": 97,
+     "tipo": "1"
+    },
+    {
+     "ano": "2020",
+     "count": 8,
+     "tipo": "2"
+    },
+    {
+     "ano": "2021",
+     "count": 109,
+     "tipo": "1"
+    },
+    {
+     "ano": "2021",
+     "count": 7,
+     "tipo": "2"
+    },
+    {
+     "ano": "2022",
+     "count": 110,
+     "tipo": "1"
+    },
+    {
+     "ano": "2022",
+     "count": 18,
+     "tipo": "2"
+    },
+    {
+     "ano": "2023",
+     "count": 110,
+     "tipo": "1"
+    },
+    {
+     "ano": "2023",
+     "count": 30,
+     "tipo": "2"
+    },
+    {
+     "ano": "2024",
+     "count": 110,
+     "tipo": "1"
+    },
+    {
+     "ano": "2024",
+     "count": 17,
+     "tipo": "2"
+    },
+    {
+     "ano": "2024",
+     "count": 1,
+     "tipo": "4"
+    },
+    {
+     "ano": "2025",
+     "count": 110,
+     "tipo": "1"
+    },
+    {
+     "ano": "2025",
+     "count": 32,
+     "tipo": "2"
+    },
+    {
+     "ano": "2025",
+     "count": 1,
+     "tipo": "3"
+    },
+    {
+     "ano": "2025",
+     "count": 2,
+     "tipo": "4"
+    },
+    {
+     "ano": "2026",
+     "count": 90,
+     "tipo": "1"
+    },
+    {
+     "ano": "2026",
+     "count": 32,
+     "tipo": "2"
+    },
+    {
+     "ano": "2026",
+     "count": 1,
+     "tipo": "4"
+    }
+   ]
+  },
+  "facets_select": {
+   "ano": [
+    {
+     "count": 123,
+     "label": "2026",
+     "value": "2026"
+    },
+    {
+     "count": 145,
+     "label": "2025",
+     "value": "2025"
+    },
+    {
+     "count": 128,
+     "label": "2024",
+     "value": "2024"
+    },
+    {
+     "count": 140,
+     "label": "2023",
+     "value": "2023"
+    },
+    {
+     "count": 128,
+     "label": "2022",
+     "value": "2022"
+    },
+    {
+     "count": 116,
+     "label": "2021",
+     "value": "2021"
+    },
+    {
+     "count": 105,
+     "label": "2020",
+     "value": "2020"
+    }
+   ],
+   "tipo": [
+    {
+     "count": 4,
+     "label": "Especial",
+     "value": "4"
+    },
+    {
+     "count": 144,
+     "label": "Extraordinária",
+     "value": "2"
+    },
+    {
+     "count": 736,
+     "label": "Ordinária",
+     "value": "1"
+    },
+    {
+     "count": 1,
+     "label": "Solene",
+     "value": "3"
+    }
+   ]
+  },
+  "facets_todos": {
+   "ano": [
+    {
+     "count": 123,
+     "label": "2026",
+     "value": "2026"
+    },
+    {
+     "count": 145,
+     "label": "2025",
+     "value": "2025"
+    },
+    {
+     "count": 128,
+     "label": "2024",
+     "value": "2024"
+    },
+    {
+     "count": 140,
+     "label": "2023",
+     "value": "2023"
+    },
+    {
+     "count": 128,
+     "label": "2022",
+     "value": "2022"
+    },
+    {
+     "count": 116,
+     "label": "2021",
+     "value": "2021"
+    },
+    {
+     "count": 105,
+     "label": "2020",
+     "value": "2020"
+    }
+   ],
+   "tipo": [
+    {
+     "count": 4,
+     "label": "Especial",
+     "value": "4"
+    },
+    {
+     "count": 144,
+     "label": "Extraordinária",
+     "value": "2"
+    },
+    {
+     "count": 736,
+     "label": "Ordinária",
+     "value": "1"
+    },
+    {
+     "count": 1,
+     "label": "Solene",
+     "value": "3"
+    }
+   ]
+  },
+  "filters": {
+   "ano": "",
+   "tipo": "",
+   "tipo_desc": ""
+  },
+  "items": [
+   {
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/sessao_plenaria/agenda_sessao_plen_mostrar_proc?cod_sessao_plen=1762&dat_sessao=15/10/2026",
+    "ano": "2026",
+    "data_sessao": "2026-10-15",
+    "data_sessao_br": "15/10/2026",
+    "frequencia": "F",
+    "frequencia_label": "Falta",
+    "id": "falta-1762",
+    "identificacao_legislativa": "2ª Sessão Legislativa da 20ª Legislatura",
+    "identificacao_sessao": "10ª Reunião Ordinária",
+    "justificativa": "",
+    "numero_sessao": "10",
+    "sessao_id": "1762",
+    "tipo_sessao": "Ordinária",
+    "tipo_sessao_id": "1",
+    "title": "10ª Reunião Ordinária"
+   },
+   {
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/sessao_plenaria/agenda_sessao_plen_mostrar_proc?cod_sessao_plen=1763&dat_sessao=15/10/2026",
+    "ano": "2026",
+    "data_sessao": "2026-10-15",
+    "data_sessao_br": "15/10/2026",
+    "frequencia": "F",
+    "frequencia_label": "Falta",
+    "id": "falta-1763",
+    "identificacao_legislativa": "2ª Sessão Legislativa da 20ª Legislatura",
+    "identificacao_sessao": "2ª Reunião Extraordinária",
+    "justificativa": "",
+    "numero_sessao": "2",
+    "sessao_id": "1763",
+    "tipo_sessao": "Extraordinária",
+    "tipo_sessao_id": "2",
+    "title": "2ª Reunião Extraordinária"
+   },
+   {
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/sessao_plenaria/agenda_sessao_plen_mostrar_proc?cod_sessao_plen=1761&dat_sessao=14/10/2026",
+    "ano": "2026",
+    "data_sessao": "2026-10-14",
+    "data_sessao_br": "14/10/2026",
+    "frequencia": "F",
+    "frequencia_label": "Falta",
+    "id": "falta-1761",
+    "identificacao_legislativa": "2ª Sessão Legislativa da 20ª Legislatura",
+    "identificacao_sessao": "9ª Reunião Ordinária",
+    "justificativa": "",
+    "numero_sessao": "9",
+    "sessao_id": "1761",
+    "tipo_sessao": "Ordinária",
+    "tipo_sessao_id": "1",
+    "title": "9ª Reunião Ordinária"
+   },
+   {
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/sessao_plenaria/agenda_sessao_plen_mostrar_proc?cod_sessao_plen=1760&dat_sessao=13/10/2026",
+    "ano": "2026",
+    "data_sessao": "2026-10-13",
+    "data_sessao_br": "13/10/2026",
+    "frequencia": "F",
+    "frequencia_label": "Falta",
+    "id": "falta-1760",
+    "identificacao_legislativa": "2ª Sessão Legislativa da 20ª Legislatura",
+    "identificacao_sessao": "8ª Reunião Ordinária",
+    "justificativa": "",
+    "numero_sessao": "8",
+    "sessao_id": "1760",
+    "tipo_sessao": "Ordinária",
+    "tipo_sessao_id": "1",
+    "title": "8ª Reunião Ordinária"
+   },
+   {
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/sessao_plenaria/agenda_sessao_plen_mostrar_proc?cod_sessao_plen=1758&dat_sessao=09/10/2026",
+    "ano": "2026",
+    "data_sessao": "2026-10-09",
+    "data_sessao_br": "09/10/2026",
+    "frequencia": "F",
+    "frequencia_label": "Falta",
+    "id": "falta-1758",
+    "identificacao_legislativa": "2ª Sessão Legislativa da 20ª Legislatura",
+    "identificacao_sessao": "7ª Reunião Ordinária",
+    "justificativa": "",
+    "numero_sessao": "7",
+    "sessao_id": "1758",
+    "tipo_sessao": "Ordinária",
+    "tipo_sessao_id": "1",
+    "title": "7ª Reunião Ordinária"
+   },
+   {
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/sessao_plenaria/agenda_sessao_plen_mostrar_proc?cod_sessao_plen=1759&dat_sessao=09/10/2026",
+    "ano": "2026",
+    "data_sessao": "2026-10-09",
+    "data_sessao_br": "09/10/2026",
+    "frequencia": "F",
+    "frequencia_label": "Falta",
+    "id": "falta-1759",
+    "identificacao_legislativa": "2ª Sessão Legislativa da 20ª Legislatura",
+    "identificacao_sessao": "1ª Reunião Extraordinária",
+    "justificativa": "",
+    "numero_sessao": "1",
+    "sessao_id": "1759",
+    "tipo_sessao": "Extraordinária",
+    "tipo_sessao_id": "2",
+    "title": "1ª Reunião Extraordinária"
+   },
+   {
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/sessao_plenaria/agenda_sessao_plen_mostrar_proc?cod_sessao_plen=1757&dat_sessao=08/10/2026",
+    "ano": "2026",
+    "data_sessao": "2026-10-08",
+    "data_sessao_br": "08/10/2026",
+    "frequencia": "F",
+    "frequencia_label": "Falta",
+    "id": "falta-1757",
+    "identificacao_legislativa": "2ª Sessão Legislativa da 20ª Legislatura",
+    "identificacao_sessao": "6ª Reunião Ordinária",
+    "justificativa": "",
+    "numero_sessao": "6",
+    "sessao_id": "1757",
+    "tipo_sessao": "Ordinária",
+    "tipo_sessao_id": "1",
+    "title": "6ª Reunião Ordinária"
+   },
+   {
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/sessao_plenaria/agenda_sessao_plen_mostrar_proc?cod_sessao_plen=1756&dat_sessao=07/10/2026",
+    "ano": "2026",
+    "data_sessao": "2026-10-07",
+    "data_sessao_br": "07/10/2026",
+    "frequencia": "F",
+    "frequencia_label": "Falta",
+    "id": "falta-1756",
+    "identificacao_legislativa": "2ª Sessão Legislativa da 20ª Legislatura",
+    "identificacao_sessao": "5ª Reunião Ordinária",
+    "justificativa": "",
+    "numero_sessao": "5",
+    "sessao_id": "1756",
+    "tipo_sessao": "Ordinária",
+    "tipo_sessao_id": "1",
+    "title": "5ª Reunião Ordinária"
+   },
+   {
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/sessao_plenaria/agenda_sessao_plen_mostrar_proc?cod_sessao_plen=1755&dat_sessao=06/10/2026",
+    "ano": "2026",
+    "data_sessao": "2026-10-06",
+    "data_sessao_br": "06/10/2026",
+    "frequencia": "F",
+    "frequencia_label": "Falta",
+    "id": "falta-1755",
+    "identificacao_legislativa": "2ª Sessão Legislativa da 20ª Legislatura",
+    "identificacao_sessao": "4ª Reunião Ordinária",
+    "justificativa": "",
+    "numero_sessao": "4",
+    "sessao_id": "1755",
+    "tipo_sessao": "Ordinária",
+    "tipo_sessao_id": "1",
+    "title": "4ª Reunião Ordinária"
+   },
+   {
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/sessao_plenaria/agenda_sessao_plen_mostrar_proc?cod_sessao_plen=1754&dat_sessao=05/10/2026",
+    "ano": "2026",
+    "data_sessao": "2026-10-05",
+    "data_sessao_br": "05/10/2026",
+    "frequencia": "F",
+    "frequencia_label": "Falta",
+    "id": "falta-1754",
+    "identificacao_legislativa": "2ª Sessão Legislativa da 20ª Legislatura",
+    "identificacao_sessao": "3ª Reunião Ordinária",
+    "justificativa": "",
+    "numero_sessao": "3",
+    "sessao_id": "1754",
+    "tipo_sessao": "Ordinária",
+    "tipo_sessao_id": "1",
+    "title": "3ª Reunião Ordinária"
+   }
+  ],
+  "ordem_data_sessao": "desc",
+  "page": 1,
+  "page_size": 10,
+  "resumo": {
+   "ausencias_justificadas": 15,
+   "faltas": 513,
+   "frequencia_percentual": 42.03,
+   "presencas": 357,
+   "total_sessoes": 885
+  },
+  "total": 885
+ },
+ "fullname": "Ronaldo César Vilela Tannús",
+ "id": "528006",
+ "image": [
+  {
+   "content-type": "image/png",
+   "download": "https://e-processos.camarauberlandia.mg.gov.br/@@sapl_documentos_download?path=parlamentar/fotos/528006_foto_parlamentar",
+   "filename": "528006_foto_parlamentar",
+   "height": "350",
+   "scales": {
+    "2k": {
+     "download": "https://e-processos.camarauberlandia.mg.gov.br/@@sapl_documentos_download?path=parlamentar/fotos/528006_foto_parlamentar",
+     "height": 2000,
+     "width": 2000
+    },
+    "4k": {
+     "download": "https://e-processos.camarauberlandia.mg.gov.br/@@sapl_documentos_download?path=parlamentar/fotos/528006_foto_parlamentar",
+     "height": 4000,
+     "width": 4000
+    },
+    "great": {
+     "download": "https://e-processos.camarauberlandia.mg.gov.br/@@sapl_documentos_download?path=parlamentar/fotos/528006_foto_parlamentar",
+     "height": 1200,
+     "width": 1200
+    },
+    "huge": {
+     "download": "https://e-processos.camarauberlandia.mg.gov.br/@@sapl_documentos_download?path=parlamentar/fotos/528006_foto_parlamentar",
+     "height": 1600,
+     "width": 1600
+    },
+    "icon": {
+     "download": "https://e-processos.camarauberlandia.mg.gov.br/@@sapl_documentos_download?path=parlamentar/fotos/528006_foto_parlamentar",
+     "height": 32,
+     "width": 32
+    },
+    "large": {
+     "download": "https://e-processos.camarauberlandia.mg.gov.br/@@sapl_documentos_download?path=parlamentar/fotos/528006_foto_parlamentar",
+     "height": 800,
+     "width": 800
+    },
+    "larger": {
+     "download": "https://e-processos.camarauberlandia.mg.gov.br/@@sapl_documentos_download?path=parlamentar/fotos/528006_foto_parlamentar",
+     "height": 1000,
+     "width": 1000
+    },
+    "mini": {
+     "download": "https://e-processos.camarauberlandia.mg.gov.br/@@sapl_documentos_download?path=parlamentar/fotos/528006_foto_parlamentar",
+     "height": 200,
+     "width": 200
+    },
+    "preview": {
+     "download": "https://e-processos.camarauberlandia.mg.gov.br/@@sapl_documentos_download?path=parlamentar/fotos/528006_foto_parlamentar",
+     "height": 400,
+     "width": 400
+    },
+    "teaser": {
+     "download": "https://e-processos.camarauberlandia.mg.gov.br/@@sapl_documentos_download?path=parlamentar/fotos/528006_foto_parlamentar",
+     "height": 600,
+     "width": 600
+    },
+    "thumb": {
+     "download": "https://e-processos.camarauberlandia.mg.gov.br/@@sapl_documentos_download?path=parlamentar/fotos/528006_foto_parlamentar",
+     "height": 128,
+     "width": 128
+    },
+    "tile": {
+     "download": "https://e-processos.camarauberlandia.mg.gov.br/@@sapl_documentos_download?path=parlamentar/fotos/528006_foto_parlamentar",
+     "height": 64,
+     "width": 64
+    }
+   },
+   "size": "219680",
+   "width": "350"
+  }
+ ],
+ "image_field": "image",
+ "image_scales": {
+  "image": [
+   {
+    "content-type": "image/png",
+    "download": "https://e-processos.camarauberlandia.mg.gov.br/@@sapl_documentos_download?path=parlamentar/fotos/528006_foto_parlamentar",
+    "filename": "528006_foto_parlamentar",
+    "height": "350",
+    "scales": {
+     "2k": {
+      "download": "https://e-processos.camarauberlandia.mg.gov.br/@@sapl_documentos_download?path=parlamentar/fotos/528006_foto_parlamentar",
+      "height": 2000,
+      "width": 2000
+     },
+     "4k": {
+      "download": "https://e-processos.camarauberlandia.mg.gov.br/@@sapl_documentos_download?path=parlamentar/fotos/528006_foto_parlamentar",
+      "height": 4000,
+      "width": 4000
+     },
+     "great": {
+      "download": "https://e-processos.camarauberlandia.mg.gov.br/@@sapl_documentos_download?path=parlamentar/fotos/528006_foto_parlamentar",
+      "height": 1200,
+      "width": 1200
+     },
+     "huge": {
+      "download": "https://e-processos.camarauberlandia.mg.gov.br/@@sapl_documentos_download?path=parlamentar/fotos/528006_foto_parlamentar",
+      "height": 1600,
+      "width": 1600
+     },
+     "icon": {
+      "download": "https://e-processos.camarauberlandia.mg.gov.br/@@sapl_documentos_download?path=parlamentar/fotos/528006_foto_parlamentar",
+      "height": 32,
+      "width": 32
+     },
+     "large": {
+      "download": "https://e-processos.camarauberlandia.mg.gov.br/@@sapl_documentos_download?path=parlamentar/fotos/528006_foto_parlamentar",
+      "height": 800,
+      "width": 800
+     },
+     "larger": {
+      "download": "https://e-processos.camarauberlandia.mg.gov.br/@@sapl_documentos_download?path=parlamentar/fotos/528006_foto_parlamentar",
+      "height": 1000,
+      "width": 1000
+     },
+     "mini": {
+      "download": "https://e-processos.camarauberlandia.mg.gov.br/@@sapl_documentos_download?path=parlamentar/fotos/528006_foto_parlamentar",
+      "height": 200,
+      "width": 200
+     },
+     "preview": {
+      "download": "https://e-processos.camarauberlandia.mg.gov.br/@@sapl_documentos_download?path=parlamentar/fotos/528006_foto_parlamentar",
+      "height": 400,
+      "width": 400
+     },
+     "teaser": {
+      "download": "https://e-processos.camarauberlandia.mg.gov.br/@@sapl_documentos_download?path=parlamentar/fotos/528006_foto_parlamentar",
+      "height": 600,
+      "width": 600
+     },
+     "thumb": {
+      "download": "https://e-processos.camarauberlandia.mg.gov.br/@@sapl_documentos_download?path=parlamentar/fotos/528006_foto_parlamentar",
+      "height": 128,
+      "width": 128
+     },
+     "tile": {
+      "download": "https://e-processos.camarauberlandia.mg.gov.br/@@sapl_documentos_download?path=parlamentar/fotos/528006_foto_parlamentar",
+      "height": 64,
+      "width": 64
+     }
+    },
+    "size": "219680",
+    "width": "350"
+   }
+  ]
+ },
+ "labels": {
+  "nome_mesa": "Mesa Diretora",
+  "reuniao_sessao": "Reunião",
+  "reuniao_sessao_plural": "Reuniões"
+ },
+ "mandatos": [
+  {
+   "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@legislaturas/20",
+   "@type": "Mandato",
+   "end": "2028-12-31",
+   "id": 20,
+   "legislatura_ano_fim": 2028,
+   "legislatura_ano_inicio": 2025,
+   "natureza": "Titular",
+   "start": "2025-01-01",
+   "votos": 5342
+  },
+  {
+   "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@legislaturas/19",
+   "@type": "Mandato",
+   "end": "2024-12-31",
+   "id": 19,
+   "legislatura_ano_fim": 2024,
+   "legislatura_ano_inicio": 2021,
+   "natureza": "Titular",
+   "start": "2021-01-01",
+   "votos": ""
+  },
+  {
+   "@id": "https://e-processos.camarauberlandia.mg.gov.br/@@legislaturas/18",
+   "@type": "Mandato",
+   "end": "2020-12-31",
+   "id": 18,
+   "legislatura_ano_fim": 2020,
+   "legislatura_ano_inicio": 2017,
+   "natureza": "Titular",
+   "start": "2020-02-03",
+   "votos": ""
+  }
+ ],
+ "mesas": [
+  {
+   "@id": "https://www.camarauberlandia.mg.gov.br/vereadores/mesa-diretora/5",
+   "@type": "ParticipanteMesa",
+   "cod_cargo": 4,
+   "description": "01/01/2021 a 31/12/2022",
+   "end": "2022-12-31",
+   "id": "5",
+   "start": "2021-01-01",
+   "title": "3ª Vice-Presidente"
+  },
+  {
+   "@id": "https://www.camarauberlandia.mg.gov.br/vereadores/mesa-diretora/4",
+   "@type": "ParticipanteMesa",
+   "cod_cargo": 1,
+   "description": "17/02/2020 a 31/12/2020",
+   "end": "2020-12-31",
+   "id": "4",
+   "start": "2020-02-17",
+   "title": "Presidente"
+  }
+ ],
+ "nome_exibicao": "Ronaldo Tannús",
+ "nome_exibicao_partido": "Ronaldo Tannús - PODEMOS",
+ "parent": {
+  "@id": "https://www.camarauberlandia.mg.gov.br/vereadores/vereadores",
+  "title": "Legislatura Atual"
+ },
+ "partido_atual": {
+  "cod_partido": 37,
+  "nome": "PODEMOS",
+  "sgl": "PODEMOS",
+  "url_logo": ""
+ },
+ "proposicoes": {
+  "facets": {
+   "ano": [
+    {
+     "count": 465,
+     "label": "2026",
+     "value": "2026"
+    },
+    {
+     "count": 1179,
+     "label": "2025",
+     "value": "2025"
+    },
+    {
+     "count": 1048,
+     "label": "2024",
+     "value": "2024"
+    },
+    {
+     "count": 4861,
+     "label": "2023",
+     "value": "2023"
+    },
+    {
+     "count": 3857,
+     "label": "2022",
+     "value": "2022"
+    },
+    {
+     "count": 3633,
+     "label": "2021",
+     "value": "2021"
+    },
+    {
+     "count": 2022,
+     "label": "2020",
+     "value": "2020"
+    },
+    {
+     "count": 2,
+     "label": "2019",
+     "value": "2019"
+    },
+    {
+     "count": 1,
+     "label": "2017",
+     "value": "2017"
+    }
+   ],
+   "tipo": [
+    {
+     "count": 5,
+     "label": "Emenda",
+     "value": "em:emenda"
+    },
+    {
+     "count": 55,
+     "label": "Emenda Impositiva",
+     "value": "EMEI"
+    },
+    {
+     "count": 614,
+     "label": "Indicação",
+     "value": "IND"
+    },
+    {
+     "count": 316,
+     "label": "Moção",
+     "value": "MOC"
+    },
+    {
+     "count": 18,
+     "label": "Pedido de Informação",
+     "value": "PINFO"
+    },
+    {
+     "count": 100,
+     "label": "Projeto de Decreto Legislativo",
+     "value": "PDL"
+    },
+    {
+     "count": 14,
+     "label": "Projeto de Lei Complementar",
+     "value": "PLC"
+    },
+    {
+     "count": 222,
+     "label": "Projeto de Lei Ordinária",
+     "value": "PL"
+    },
+    {
+     "count": 17,
+     "label": "Projeto de Resolução",
+     "value": "PR"
+    },
+    {
+     "count": 9,
+     "label": "Proposta de Emenda à Lei Orgânica",
+     "value": "PELO"
+    },
+    {
+     "count": 15694,
+     "label": "Requerimento",
+     "value": "REQ"
+    },
+    {
+     "count": 4,
+     "label": "Substitutivo",
+     "value": "substitutivo"
+    }
+   ],
+   "xy": [
+    {
+     "ano": "2017",
+     "count": 1,
+     "tipo": "PL"
+    },
+    {
+     "ano": "2019",
+     "count": 2,
+     "tipo": "PL"
+    },
+    {
+     "ano": "2020",
+     "count": 1,
+     "tipo": "IND"
+    },
+    {
+     "ano": "2020",
+     "count": 58,
+     "tipo": "MOC"
+    },
+    {
+     "ano": "2020",
+     "count": 28,
+     "tipo": "PDL"
+    },
+    {
+     "ano": "2020",
+     "count": 1,
+     "tipo": "PELO"
+    },
+    {
+     "ano": "2020",
+     "count": 2,
+     "tipo": "PINFO"
+    },
+    {
+     "ano": "2020",
+     "count": 42,
+     "tipo": "PL"
+    },
+    {
+     "ano": "2020",
+     "count": 1,
+     "tipo": "PLC"
+    },
+    {
+     "ano": "2020",
+     "count": 5,
+     "tipo": "PR"
+    },
+    {
+     "ano": "2020",
+     "count": 1884,
+     "tipo": "REQ"
+    },
+    {
+     "ano": "2021",
+     "count": 1,
+     "tipo": "EMEI"
+    },
+    {
+     "ano": "2021",
+     "count": 5,
+     "tipo": "IND"
+    },
+    {
+     "ano": "2021",
+     "count": 50,
+     "tipo": "MOC"
+    },
+    {
+     "ano": "2021",
+     "count": 16,
+     "tipo": "PDL"
+    },
+    {
+     "ano": "2021",
+     "count": 1,
+     "tipo": "PELO"
+    },
+    {
+     "ano": "2021",
+     "count": 4,
+     "tipo": "PINFO"
+    },
+    {
+     "ano": "2021",
+     "count": 44,
+     "tipo": "PL"
+    },
+    {
+     "ano": "2021",
+     "count": 7,
+     "tipo": "PLC"
+    },
+    {
+     "ano": "2021",
+     "count": 6,
+     "tipo": "PR"
+    },
+    {
+     "ano": "2021",
+     "count": 3499,
+     "tipo": "REQ"
+    },
+    {
+     "ano": "2022",
+     "count": 1,
+     "tipo": "EMEI"
+    },
+    {
+     "ano": "2022",
+     "count": 1,
+     "tipo": "IND"
+    },
+    {
+     "ano": "2022",
+     "count": 62,
+     "tipo": "MOC"
+    },
+    {
+     "ano": "2022",
+     "count": 8,
+     "tipo": "PDL"
+    },
+    {
+     "ano": "2022",
+     "count": 2,
+     "tipo": "PINFO"
+    },
+    {
+     "ano": "2022",
+     "count": 30,
+     "tipo": "PL"
+    },
+    {
+     "ano": "2022",
+     "count": 1,
+     "tipo": "PLC"
+    },
+    {
+     "ano": "2022",
+     "count": 5,
+     "tipo": "PR"
+    },
+    {
+     "ano": "2022",
+     "count": 3747,
+     "tipo": "REQ"
+    },
+    {
+     "ano": "2023",
+     "count": 1,
+     "tipo": "EMEI"
+    },
+    {
+     "ano": "2023",
+     "count": 1,
+     "tipo": "IND"
+    },
+    {
+     "ano": "2023",
+     "count": 41,
+     "tipo": "MOC"
+    },
+    {
+     "ano": "2023",
+     "count": 20,
+     "tipo": "PDL"
+    },
+    {
+     "ano": "2023",
+     "count": 5,
+     "tipo": "PELO"
+    },
+    {
+     "ano": "2023",
+     "count": 2,
+     "tipo": "PINFO"
+    },
+    {
+     "ano": "2023",
+     "count": 20,
+     "tipo": "PL"
+    },
+    {
+     "ano": "2023",
+     "count": 1,
+     "tipo": "PLC"
+    },
+    {
+     "ano": "2023",
+     "count": 4770,
+     "tipo": "REQ"
+    },
+    {
+     "ano": "2024",
+     "count": 2,
+     "tipo": "em:emenda"
+    },
+    {
+     "ano": "2024",
+     "count": 21,
+     "tipo": "EMEI"
+    },
+    {
+     "ano": "2024",
+     "count": 52,
+     "tipo": "MOC"
+    },
+    {
+     "ano": "2024",
+     "count": 15,
+     "tipo": "PDL"
+    },
+    {
+     "ano": "2024",
+     "count": 1,
+     "tipo": "PELO"
+    },
+    {
+     "ano": "2024",
+     "count": 6,
+     "tipo": "PINFO"
+    },
+    {
+     "ano": "2024",
+     "count": 13,
+     "tipo": "PL"
+    },
+    {
+     "ano": "2024",
+     "count": 2,
+     "tipo": "PLC"
+    },
+    {
+     "ano": "2024",
+     "count": 1,
+     "tipo": "PR"
+    },
+    {
+     "ano": "2024",
+     "count": 935,
+     "tipo": "REQ"
+    },
+    {
+     "ano": "2025",
+     "count": 2,
+     "tipo": "em:emenda"
+    },
+    {
+     "ano": "2025",
+     "count": 31,
+     "tipo": "EMEI"
+    },
+    {
+     "ano": "2025",
+     "count": 204,
+     "tipo": "IND"
+    },
+    {
+     "ano": "2025",
+     "count": 52,
+     "tipo": "MOC"
+    },
+    {
+     "ano": "2025",
+     "count": 10,
+     "tipo": "PDL"
+    },
+    {
+     "ano": "2025",
+     "count": 1,
+     "tipo": "PELO"
+    },
+    {
+     "ano": "2025",
+     "count": 2,
+     "tipo": "PINFO"
+    },
+    {
+     "ano": "2025",
+     "count": 60,
+     "tipo": "PL"
+    },
+    {
+     "ano": "2025",
+     "count": 1,
+     "tipo": "PLC"
+    },
+    {
+     "ano": "2025",
+     "count": 812,
+     "tipo": "REQ"
+    },
+    {
+     "ano": "2025",
+     "count": 4,
+     "tipo": "substitutivo"
+    },
+    {
+     "ano": "2026",
+     "count": 1,
+     "tipo": "em:emenda"
+    },
+    {
+     "ano": "2026",
+     "count": 402,
+     "tipo": "IND"
+    },
+    {
+     "ano": "2026",
+     "count": 1,
+     "tipo": "MOC"
+    },
+    {
+     "ano": "2026",
+     "count": 3,
+     "tipo": "PDL"
+    },
+    {
+     "ano": "2026",
+     "count": 10,
+     "tipo": "PL"
+    },
+    {
+     "ano": "2026",
+     "count": 1,
+     "tipo": "PLC"
+    },
+    {
+     "ano": "2026",
+     "count": 47,
+     "tipo": "REQ"
+    }
+   ]
+  },
+  "facets_todos": {
+   "ano": [
+    {
+     "count": 465,
+     "label": "2026",
+     "value": "2026"
+    },
+    {
+     "count": 1179,
+     "label": "2025",
+     "value": "2025"
+    },
+    {
+     "count": 1048,
+     "label": "2024",
+     "value": "2024"
+    },
+    {
+     "count": 4861,
+     "label": "2023",
+     "value": "2023"
+    },
+    {
+     "count": 3857,
+     "label": "2022",
+     "value": "2022"
+    },
+    {
+     "count": 3633,
+     "label": "2021",
+     "value": "2021"
+    },
+    {
+     "count": 2022,
+     "label": "2020",
+     "value": "2020"
+    },
+    {
+     "count": 2,
+     "label": "2019",
+     "value": "2019"
+    },
+    {
+     "count": 1,
+     "label": "2017",
+     "value": "2017"
+    }
+   ],
+   "tipo": [
+    {
+     "count": 5,
+     "label": "Emenda",
+     "value": "em:emenda"
+    },
+    {
+     "count": 55,
+     "label": "Emenda Impositiva",
+     "value": "EMEI"
+    },
+    {
+     "count": 614,
+     "label": "Indicação",
+     "value": "IND"
+    },
+    {
+     "count": 316,
+     "label": "Moção",
+     "value": "MOC"
+    },
+    {
+     "count": 18,
+     "label": "Pedido de Informação",
+     "value": "PINFO"
+    },
+    {
+     "count": 100,
+     "label": "Projeto de Decreto Legislativo",
+     "value": "PDL"
+    },
+    {
+     "count": 14,
+     "label": "Projeto de Lei Complementar",
+     "value": "PLC"
+    },
+    {
+     "count": 222,
+     "label": "Projeto de Lei Ordinária",
+     "value": "PL"
+    },
+    {
+     "count": 17,
+     "label": "Projeto de Resolução",
+     "value": "PR"
+    },
+    {
+     "count": 9,
+     "label": "Proposta de Emenda à Lei Orgânica",
+     "value": "PELO"
+    },
+    {
+     "count": 15694,
+     "label": "Requerimento",
+     "value": "REQ"
+    },
+    {
+     "count": 4,
+     "label": "Substitutivo",
+     "value": "substitutivo"
+    }
+   ]
+  },
+  "filters": {
+   "ano": "",
+   "tipo": "",
+   "tipo_desc": ""
+  },
+  "items": [
+   {
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=271939",
+    "ano": "2026",
+    "data_apresentacao": "14/10/2026",
+    "emenda_impositiva": false,
+    "ementa": "Solicita a liberação para uso do Plenário no dia 15 de outubro de 2026, a partir das 19:00, para entrega de homenagens à pessoas físicas e pessoas jurídicas do Dia do Professor, sendo todas elas pessoas da área da educação, com atuação de destaque em nosso município.",
+    "id": "271939",
+    "item_kind": "materia",
+    "tipo": "Requerimento",
+    "title": "REQ 21361/2026",
+    "ultima_votacao_kind": "votacao",
+    "ultima_votacao_resultado": "Aprovado"
+   },
+   {
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=271929",
+    "ano": "2026",
+    "data_apresentacao": "14/10/2026",
+    "emenda_impositiva": false,
+    "ementa": "DECLARA DE UTILIDADE PÚBLICA MUNICIPAL A ASSOCIAÇÃO CAMPEÕES DO FUTURO - ACAFU.",
+    "id": "271929",
+    "item_kind": "materia",
+    "tipo": "Projeto de Lei Ordinária",
+    "title": "PL 1405/2026",
+    "ultima_votacao_kind": "",
+    "ultima_votacao_resultado": ""
+   },
+   {
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=271340",
+    "ano": "2026",
+    "data_apresentacao": "07/10/2026",
+    "emenda_impositiva": false,
+    "ementa": "Solicitamos a reserva do Plenário da Câmara Municipal de Uberlândia para a realização de entrega de homenagens, na seguinte data e horário:\n\n27 de outubro de 2026 (terça-feira), das 19h às 21h;",
+    "id": "271340",
+    "item_kind": "materia",
+    "tipo": "Requerimento",
+    "title": "REQ 21348/2026",
+    "ultima_votacao_kind": "votacao",
+    "ultima_votacao_resultado": "Aprovado"
+   },
+   {
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=270578",
+    "ano": "2026",
+    "data_apresentacao": "28/09/2026",
+    "emenda_impositiva": false,
+    "ementa": "Solicitando à Secretaria Municipal de Trânsito e Transportes a realização de sinailzação - proibido estacionar na Avenida Raulino Cotta Pacheco, 893, no bairro Martins, CEP 38400-372.",
+    "id": "270578",
+    "item_kind": "materia",
+    "tipo": "Indicação",
+    "title": "IND 38557/2026",
+    "ultima_votacao_kind": "votacao",
+    "ultima_votacao_resultado": "Aprovado"
+   },
+   {
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=270517",
+    "ano": "2026",
+    "data_apresentacao": "24/09/2026",
+    "emenda_impositiva": false,
+    "ementa": "QUE FAÇA A LIMPEZA POR MEIO DE CAMINHÃO PIPA NO ENDEREÇO AVENIDA PAULO FIRMINO, 590, JARDIM DAS PALMEIRAS.\n\nO REQUERIMENTO SE FAZ NECESSÁRIO, POIS SEGUNDO RECLAMAÇÃO DOS MORADORES, A RUA ENCONTRA-SE SUJA, TOMADA POR TERRA, LAMA APÓS OBRA DA DMAE, E CARECE DOS SERVIÇOS DE LIMPEZA, HAJA VISTA QUE TODOS OS CIDADÃOS TÊM DIREITO A UM AMBIENTE LIMPO E SAUDÁVEL. MORADORES E COMERCIANTES FICARÃO SATISFEITOS AO SEREM ATENDIDOS, PRINCIPALMENTE PORQUE ESTÃO REVESTIDOS DA QUALIDADE DE CONTRIBUINTES E CONTAM COM A ATENÇÃO DO PODER PÚBLICO.",
+    "id": "270517",
+    "item_kind": "materia",
+    "tipo": "Requerimento",
+    "title": "REQ 21334/2026",
+    "ultima_votacao_kind": "votacao",
+    "ultima_votacao_resultado": "Aprovado"
+   },
+   {
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=270513",
+    "ano": "2026",
+    "data_apresentacao": "24/09/2026",
+    "emenda_impositiva": false,
+    "ementa": "QUE FAÇA ESTUDO TÉCNICO DE VIABILIDADE PARA A DUPLICAÇÃO DA VIA NO ENDEREÇO ABAIXO DESCRITO: RODOVIA ESTADUAL MGC-497 KM16.",
+    "id": "270513",
+    "item_kind": "materia",
+    "tipo": "Requerimento",
+    "title": "REQ 21333/2026",
+    "ultima_votacao_kind": "votacao",
+    "ultima_votacao_resultado": "Aprovado"
+   },
+   {
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=270487",
+    "ano": "2026",
+    "data_apresentacao": "24/09/2026",
+    "emenda_impositiva": false,
+    "ementa": "Solicitando à Secretaria Municipal de Trânsito e Transportes a realização de sinalização - placa de pare / estacionamento / proibido estacionar na Rua Ceará, Cruzamento Av. Comendador Alexandrino Garcia, no bairro Marta Helena, CEP 38405-240.",
+    "id": "270487",
+    "item_kind": "materia",
+    "tipo": "Indicação",
+    "title": "IND 38472/2026",
+    "ultima_votacao_kind": "votacao",
+    "ultima_votacao_resultado": "Aprovado"
+   },
+   {
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=270485",
+    "ano": "2026",
+    "data_apresentacao": "24/09/2026",
+    "emenda_impositiva": false,
+    "ementa": "Solicitando à Secretaria Municipal de Trânsito e Transportes a realização de sinalização - instalação / manutenção de semáforo na Rua Maria Fernandes Morais, 70, no bairro Conjunto Alvorada, CEP 38407-090.",
+    "id": "270485",
+    "item_kind": "materia",
+    "tipo": "Indicação",
+    "title": "IND 38470/2026",
+    "ultima_votacao_kind": "votacao",
+    "ultima_votacao_resultado": "Aprovado"
+   },
+   {
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=270481",
+    "ano": "2026",
+    "data_apresentacao": "24/09/2026",
+    "emenda_impositiva": false,
+    "ementa": "Solicitando à Secretaria Municipal de Trânsito e Transportes a realização de travessia elevada / redutor de velocidade - instalação / manutenção na Rua Alfredo Júlio, 355, no bairro Osvaldo Rezende, CEP 38400-402.",
+    "id": "270481",
+    "item_kind": "materia",
+    "tipo": "Indicação",
+    "title": "IND 38466/2026",
+    "ultima_votacao_kind": "votacao",
+    "ultima_votacao_resultado": "Aprovado"
+   },
+   {
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=270479",
+    "ano": "2026",
+    "data_apresentacao": "24/09/2026",
+    "emenda_impositiva": false,
+    "ementa": "Solicitando à Secretaria Municipal de Trânsito e Transportes a realização de travessia elevada / redutor de velocidade - instalação / manutenção na Rua Bueno Brandão, 1130, no bairro Osvaldo Rezende, CEP 38400-378.",
+    "id": "270479",
+    "item_kind": "materia",
+    "tipo": "Indicação",
+    "title": "IND 38464/2026",
+    "ultima_votacao_kind": "votacao",
+    "ultima_votacao_resultado": "Aprovado"
+   }
+  ],
+  "ordem_dat_apresentacao": "desc",
+  "page": 1,
+  "page_size": 10,
+  "total": 17068
+ },
+ "relatorias": {
+  "facets": {
+   "ano": [
+    {
+     "count": 2,
+     "label": "2025",
+     "value": "2025"
+    },
+    {
+     "count": 9,
+     "label": "2024",
+     "value": "2024"
+    }
+   ],
+   "tipo": [
+    {
+     "count": 11,
+     "label": "Projeto de Lei Ordinária",
+     "value": "PL"
+    }
+   ],
+   "xy": [
+    {
+     "ano": "2024",
+     "count": 9,
+     "tipo": "PL"
+    },
+    {
+     "ano": "2025",
+     "count": 2,
+     "tipo": "PL"
+    }
+   ]
+  },
+  "facets_todos": {
+   "ano": [
+    {
+     "count": 2,
+     "label": "2025",
+     "value": "2025"
+    },
+    {
+     "count": 9,
+     "label": "2024",
+     "value": "2024"
+    }
+   ],
+   "tipo": [
+    {
+     "count": 11,
+     "label": "Projeto de Lei Ordinária",
+     "value": "PL"
+    }
+   ]
+  },
+  "filters": {
+   "ano": "",
+   "tipo": "",
+   "tipo_desc": ""
+  },
+  "items": [
+   {
+    "ano": "2025",
+    "ano_parecer": 2025,
+    "comissao": "Comissão de Legislação, Justiça e Redação",
+    "conclusao_parecer": "Favorável",
+    "data_apresentacao": "04/07/2025",
+    "data_designacao": "04/09/2025",
+    "data_destituicao": "04/09/2025",
+    "id": "2013",
+    "materia_href": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=224857",
+    "num_parecer": 589,
+    "resultado_comissao": "Parecer Favorável",
+    "tipo": "Projeto de Lei Ordinária",
+    "title": "PL 457/2025"
+   },
+   {
+    "ano": "2025",
+    "ano_parecer": 2025,
+    "comissao": "Comissão de Legislação, Justiça e Redação",
+    "conclusao_parecer": "Favorável",
+    "data_apresentacao": "27/01/2025",
+    "data_designacao": "11/04/2025",
+    "data_destituicao": "11/04/2025",
+    "id": "1360",
+    "materia_href": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=205551",
+    "num_parecer": 243,
+    "resultado_comissao": "Parecer Favorável",
+    "tipo": "Projeto de Lei Ordinária",
+    "title": "PL 79/2025"
+   },
+   {
+    "ano": "2024",
+    "ano_parecer": 2024,
+    "comissao": "Comissão de Saúde e Saneamento",
+    "conclusao_parecer": "Favorável",
+    "data_apresentacao": "05/11/2024",
+    "data_designacao": "13/11/2024",
+    "data_destituicao": "13/11/2024",
+    "id": "695",
+    "materia_href": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=201182",
+    "num_parecer": 10,
+    "resultado_comissao": "Parecer Favorável",
+    "tipo": "Projeto de Lei Ordinária",
+    "title": "PL 1723/2024"
+   },
+   {
+    "ano": "2024",
+    "ano_parecer": 2024,
+    "comissao": "Comissão de Saúde e Saneamento",
+    "conclusao_parecer": "Favorável",
+    "data_apresentacao": "05/11/2024",
+    "data_designacao": "13/11/2024",
+    "data_destituicao": "13/11/2024",
+    "id": "696",
+    "materia_href": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=201181",
+    "num_parecer": 11,
+    "resultado_comissao": "Parecer Favorável",
+    "tipo": "Projeto de Lei Ordinária",
+    "title": "PL 1722/2024"
+   },
+   {
+    "ano": "2024",
+    "ano_parecer": 2024,
+    "comissao": "Comissão de Saúde e Saneamento",
+    "conclusao_parecer": "Favorável",
+    "data_apresentacao": "23/07/2024",
+    "data_designacao": "25/09/2024",
+    "data_destituicao": "25/09/2024",
+    "id": "597",
+    "materia_href": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=197723",
+    "num_parecer": 9,
+    "resultado_comissao": "Parecer Favorável",
+    "tipo": "Projeto de Lei Ordinária",
+    "title": "PL 1647/2024"
+   },
+   {
+    "ano": "2024",
+    "ano_parecer": 2024,
+    "comissao": "Comissão de Saúde e Saneamento",
+    "conclusao_parecer": "Favorável",
+    "data_apresentacao": "28/05/2024",
+    "data_designacao": "12/09/2024",
+    "data_destituicao": "12/09/2024",
+    "id": "587",
+    "materia_href": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=195062",
+    "num_parecer": 7,
+    "resultado_comissao": "Parecer Favorável",
+    "tipo": "Projeto de Lei Ordinária",
+    "title": "PL 1605/2024"
+   },
+   {
+    "ano": "2024",
+    "ano_parecer": 2024,
+    "comissao": "Comissão de Saúde e Saneamento",
+    "conclusao_parecer": "Favorável",
+    "data_apresentacao": "21/05/2024",
+    "data_designacao": "05/12/2024",
+    "data_destituicao": "05/12/2024",
+    "id": "789",
+    "materia_href": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=194683",
+    "num_parecer": 12,
+    "resultado_comissao": "Parecer Favorável",
+    "tipo": "Projeto de Lei Ordinária",
+    "title": "PL 1602/2024"
+   },
+   {
+    "ano": "2024",
+    "ano_parecer": 2024,
+    "comissao": "Comissão de Saúde e Saneamento",
+    "conclusao_parecer": "Favorável",
+    "data_apresentacao": "07/05/2024",
+    "data_designacao": "29/05/2024",
+    "data_destituicao": "29/05/2024",
+    "id": "283",
+    "materia_href": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=193735",
+    "num_parecer": 6,
+    "resultado_comissao": "Parecer Favorável",
+    "tipo": "Projeto de Lei Ordinária",
+    "title": "PL 1588/2024"
+   },
+   {
+    "ano": "2024",
+    "ano_parecer": 2024,
+    "comissao": "Comissão de Saúde e Saneamento",
+    "conclusao_parecer": "Favorável",
+    "data_apresentacao": "07/05/2024",
+    "data_designacao": "29/05/2024",
+    "data_destituicao": "29/05/2024",
+    "id": "282",
+    "materia_href": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=193732",
+    "num_parecer": 5,
+    "resultado_comissao": "Parecer Favorável",
+    "tipo": "Projeto de Lei Ordinária",
+    "title": "PL 1587/2024"
+   },
+   {
+    "ano": "2024",
+    "ano_parecer": 2024,
+    "comissao": "Comissão de Legislação, Justiça e Redação",
+    "conclusao_parecer": "Favorável",
+    "data_apresentacao": "21/02/2024",
+    "data_designacao": "04/12/2024",
+    "data_destituicao": "04/12/2024",
+    "id": "774",
+    "materia_href": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=187781",
+    "num_parecer": 286,
+    "resultado_comissao": "Parecer Favorável",
+    "tipo": "Projeto de Lei Ordinária",
+    "title": "PL 1522/2024"
+   }
+  ],
+  "ordem_dat_apresentacao": "desc",
+  "page": 1,
+  "page_size": 10,
+  "total": 11
+ },
+ "telefone_gabinete": "(34) 3239-1106",
+ "title": "Ronaldo Tannús",
+ "ui": {
+  "showFrequencia": true,
+  "showVotacao": true
+ },
+ "url_foto": "https://e-processos.camarauberlandia.mg.gov.br/@@sapl_documentos_download?path=parlamentar/fotos/528006_foto_parlamentar",
+ "votacoes": {
+  "facets": {
+   "tipo": [
+    {
+     "count": 1,
+     "label": "Denúncia",
+     "value": "DEN"
+    },
+    {
+     "count": 1,
+     "label": "Moção",
+     "value": "MOC"
+    },
+    {
+     "count": 4,
+     "label": "Projeto de Decreto Legislativo",
+     "value": "PDL"
+    },
+    {
+     "count": 126,
+     "label": "Projeto de Lei Complementar",
+     "value": "PLC"
+    },
+    {
+     "count": 408,
+     "label": "Projeto de Lei Ordinária",
+     "value": "PL"
+    },
+    {
+     "count": 4,
+     "label": "Proposta de Emenda à Lei Orgânica",
+     "value": "PELO"
+    }
+   ],
+   "voto": [
+    {
+     "count": 510,
+     "label": "Sim",
+     "value": "sim"
+    },
+    {
+     "count": 34,
+     "label": "Não",
+     "value": "nao"
+    },
+    {
+     "count": 0,
+     "label": "Abstenção",
+     "value": "abstencao"
+    }
+   ],
+   "xy": [
+    {
+     "count": 1,
+     "tipo": "PDL",
+     "voto": "nao"
+    },
+    {
+     "count": 32,
+     "tipo": "PL",
+     "voto": "nao"
+    },
+    {
+     "count": 1,
+     "tipo": "PLC",
+     "voto": "nao"
+    },
+    {
+     "count": 1,
+     "tipo": "DEN",
+     "voto": "sim"
+    },
+    {
+     "count": 1,
+     "tipo": "MOC",
+     "voto": "sim"
+    },
+    {
+     "count": 3,
+     "tipo": "PDL",
+     "voto": "sim"
+    },
+    {
+     "count": 4,
+     "tipo": "PELO",
+     "voto": "sim"
+    },
+    {
+     "count": 376,
+     "tipo": "PL",
+     "voto": "sim"
+    },
+    {
+     "count": 125,
+     "tipo": "PLC",
+     "voto": "sim"
+    }
+   ]
+  },
+  "facets_todos": {
+   "tipo": [
+    {
+     "count": 1,
+     "label": "Denúncia",
+     "value": "DEN"
+    },
+    {
+     "count": 1,
+     "label": "Moção",
+     "value": "MOC"
+    },
+    {
+     "count": 4,
+     "label": "Projeto de Decreto Legislativo",
+     "value": "PDL"
+    },
+    {
+     "count": 126,
+     "label": "Projeto de Lei Complementar",
+     "value": "PLC"
+    },
+    {
+     "count": 408,
+     "label": "Projeto de Lei Ordinária",
+     "value": "PL"
+    },
+    {
+     "count": 4,
+     "label": "Proposta de Emenda à Lei Orgânica",
+     "value": "PELO"
+    }
+   ],
+   "voto": [
+    {
+     "count": 510,
+     "label": "Sim",
+     "value": "sim"
+    },
+    {
+     "count": 34,
+     "label": "Não",
+     "value": "nao"
+    },
+    {
+     "count": 0,
+     "label": "Abstenção",
+     "value": "abstencao"
+    }
+   ]
+  },
+  "filters": {
+   "tipo": "",
+   "tipo_desc": "",
+   "voto": "",
+   "voto_desc": ""
+  },
+  "items": [
+   {
+    "ano": "2026",
+    "autoria": "Prefeito Municipal",
+    "cod_materia": 271519,
+    "cod_votacao": "144164",
+    "data_sessao": "2026-10-13",
+    "data_sessao_br": "13/10/2026",
+    "data_votacao": "2026-10-13",
+    "data_votacao_br": "13/10/2026",
+    "ementa": "AUTORIZA A ABERTURA DE CRÉDITO ESPECIAL NO ORÇAMENTO DA SECRETARIA MUNICIPAL DE AGRONEGÓCIO, NO VALOR DE R$ 274.620,00 (DUZENTOS E SETENTA E QUATRO MIL, SEISCENTOS E VINTE REAIS) E DÁ OUTRAS PROVIDÊNCIAS.",
+    "id": "144164",
+    "identificacao_legislativa": "2ª Sessão Legislativa da 20ª Legislatura",
+    "identificacao_sessao": "8ª Reunião Ordinária",
+    "materia_href": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=271519",
+    "sessao_href": "https://e-processos.camarauberlandia.mg.gov.br/consultas/sessao_plenaria/agenda_sessao_plen_mostrar_proc?cod_sessao_plen=1760&dat_sessao=13/10/2026",
+    "tipo": "Projeto de Lei Ordinária",
+    "title": "PL 1399/2026",
+    "vot_parlamentar": "Sim",
+    "voto_classe": "sim",
+    "voto_label": "Sim"
+   },
+   {
+    "ano": "2026",
+    "autoria": "Prefeito Municipal",
+    "cod_materia": 271520,
+    "cod_votacao": "144165",
+    "data_sessao": "2026-10-13",
+    "data_sessao_br": "13/10/2026",
+    "data_votacao": "2026-10-13",
+    "data_votacao_br": "13/10/2026",
+    "ementa": "AUTORIZA A TRANSFERÊNCIA DE RECURSOS DO ORÇAMENTO DA SECRETARIA MUNICIPAL DE EDUCAÇÃO NO VALOR DE R$3.008.066,66 (TRÊS MILHÕES, OITO MIL E SESSENTA E SEIS REAIS E SESSENTA E SEIS CENTAVOS), ÀS ENTIDADES QUE MENCIONA.",
+    "id": "144165",
+    "identificacao_legislativa": "2ª Sessão Legislativa da 20ª Legislatura",
+    "identificacao_sessao": "8ª Reunião Ordinária",
+    "materia_href": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=271520",
+    "sessao_href": "https://e-processos.camarauberlandia.mg.gov.br/consultas/sessao_plenaria/agenda_sessao_plen_mostrar_proc?cod_sessao_plen=1760&dat_sessao=13/10/2026",
+    "tipo": "Projeto de Lei Ordinária",
+    "title": "PL 1400/2026",
+    "vot_parlamentar": "Sim",
+    "voto_classe": "sim",
+    "voto_label": "Sim"
+   },
+   {
+    "ano": "2026",
+    "autoria": "Prefeito Municipal",
+    "cod_materia": 271354,
+    "cod_votacao": "144019",
+    "data_sessao": "2026-10-09",
+    "data_sessao_br": "09/10/2026",
+    "data_votacao": "2026-10-09",
+    "data_votacao_br": "09/10/2026",
+    "ementa": "AUTORIZA A ABERTURA DE CRÉDITO ESPECIAL NO ORÇAMENTO DO DEPARTAMENTO MUNICIPAL DE ÁGUA E ESGOTO – DMAE, NO VALOR DE R$ 160.000,00 (CENTO E SESSENTA MIL REAIS) E A TRANSFERÊNCIA DE RECURSOS NO VALOR DE R$ 140.000,00 (CENTO E QUARENTA MIL REAIS) ÀS ENTIDADES QUE MENCIONA.",
+    "id": "144019",
+    "identificacao_legislativa": "2ª Sessão Legislativa da 20ª Legislatura",
+    "identificacao_sessao": "7ª Reunião Ordinária",
+    "materia_href": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=271354",
+    "sessao_href": "https://e-processos.camarauberlandia.mg.gov.br/consultas/sessao_plenaria/agenda_sessao_plen_mostrar_proc?cod_sessao_plen=1758&dat_sessao=09/10/2026",
+    "tipo": "Projeto de Lei Ordinária",
+    "title": "PL 1393/2026",
+    "vot_parlamentar": "Sim",
+    "voto_classe": "sim",
+    "voto_label": "Sim"
+   },
+   {
+    "ano": "2026",
+    "autoria": "Prefeito Municipal",
+    "cod_materia": 271354,
+    "cod_votacao": "144020",
+    "data_sessao": "2026-10-09",
+    "data_sessao_br": "09/10/2026",
+    "data_votacao": "2026-10-09",
+    "data_votacao_br": "09/10/2026",
+    "ementa": "AUTORIZA A ABERTURA DE CRÉDITO ESPECIAL NO ORÇAMENTO DO DEPARTAMENTO MUNICIPAL DE ÁGUA E ESGOTO – DMAE, NO VALOR DE R$ 160.000,00 (CENTO E SESSENTA MIL REAIS) E A TRANSFERÊNCIA DE RECURSOS NO VALOR DE R$ 140.000,00 (CENTO E QUARENTA MIL REAIS) ÀS ENTIDADES QUE MENCIONA.",
+    "id": "144020",
+    "identificacao_legislativa": "2ª Sessão Legislativa da 20ª Legislatura",
+    "identificacao_sessao": "1ª Reunião Extraordinária",
+    "materia_href": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=271354",
+    "sessao_href": "https://e-processos.camarauberlandia.mg.gov.br/consultas/sessao_plenaria/agenda_sessao_plen_mostrar_proc?cod_sessao_plen=1759&dat_sessao=09/10/2026",
+    "tipo": "Projeto de Lei Ordinária",
+    "title": "PL 1393/2026",
+    "vot_parlamentar": "Sim",
+    "voto_classe": "sim",
+    "voto_label": "Sim"
+   },
+   {
+    "ano": "2026",
+    "autoria": "Prefeito Municipal",
+    "cod_materia": 271356,
+    "cod_votacao": "144023",
+    "data_sessao": "2026-10-09",
+    "data_sessao_br": "09/10/2026",
+    "data_votacao": "2026-10-09",
+    "data_votacao_br": "09/10/2026",
+    "ementa": "AUTORIZA A ABERTURA DE CRÉDITO ESPECIAL NO ORÇAMENTO DA SECRETARIA MUNICIPAL DE HABITAÇÃO, NO VALOR R$ 200.000,00 (DUZENTOS MIL REAIS) E DÁ OUTRAS PROVIDÊNCIAS.",
+    "id": "144023",
+    "identificacao_legislativa": "2ª Sessão Legislativa da 20ª Legislatura",
+    "identificacao_sessao": "7ª Reunião Ordinária",
+    "materia_href": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=271356",
+    "sessao_href": "https://e-processos.camarauberlandia.mg.gov.br/consultas/sessao_plenaria/agenda_sessao_plen_mostrar_proc?cod_sessao_plen=1758&dat_sessao=09/10/2026",
+    "tipo": "Projeto de Lei Ordinária",
+    "title": "PL 1395/2026",
+    "vot_parlamentar": "Sim",
+    "voto_classe": "sim",
+    "voto_label": "Sim"
+   },
+   {
+    "ano": "2026",
+    "autoria": "Prefeito Municipal",
+    "cod_materia": 271356,
+    "cod_votacao": "144024",
+    "data_sessao": "2026-10-09",
+    "data_sessao_br": "09/10/2026",
+    "data_votacao": "2026-10-09",
+    "data_votacao_br": "09/10/2026",
+    "ementa": "AUTORIZA A ABERTURA DE CRÉDITO ESPECIAL NO ORÇAMENTO DA SECRETARIA MUNICIPAL DE HABITAÇÃO, NO VALOR R$ 200.000,00 (DUZENTOS MIL REAIS) E DÁ OUTRAS PROVIDÊNCIAS.",
+    "id": "144024",
+    "identificacao_legislativa": "2ª Sessão Legislativa da 20ª Legislatura",
+    "identificacao_sessao": "1ª Reunião Extraordinária",
+    "materia_href": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=271356",
+    "sessao_href": "https://e-processos.camarauberlandia.mg.gov.br/consultas/sessao_plenaria/agenda_sessao_plen_mostrar_proc?cod_sessao_plen=1759&dat_sessao=09/10/2026",
+    "tipo": "Projeto de Lei Ordinária",
+    "title": "PL 1395/2026",
+    "vot_parlamentar": "Sim",
+    "voto_classe": "sim",
+    "voto_label": "Sim"
+   },
+   {
+    "ano": "2026",
+    "autoria": "Prefeito Municipal",
+    "cod_materia": 271357,
+    "cod_votacao": "144025",
+    "data_sessao": "2026-10-09",
+    "data_sessao_br": "09/10/2026",
+    "data_votacao": "2026-10-09",
+    "data_votacao_br": "09/10/2026",
+    "ementa": "AUTORIZA ABERTURA DE CRÉDITO ESPECIAL NO ORÇAMENTO DA SECRETARIA MUNICIPAL DE GESTÃO ESTRATÉGICA NO VALOR DE R$ 500.000,00 (QUINHENTOS MIL REAIS).",
+    "id": "144025",
+    "identificacao_legislativa": "2ª Sessão Legislativa da 20ª Legislatura",
+    "identificacao_sessao": "7ª Reunião Ordinária",
+    "materia_href": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=271357",
+    "sessao_href": "https://e-processos.camarauberlandia.mg.gov.br/consultas/sessao_plenaria/agenda_sessao_plen_mostrar_proc?cod_sessao_plen=1758&dat_sessao=09/10/2026",
+    "tipo": "Projeto de Lei Ordinária",
+    "title": "PL 1396/2026",
+    "vot_parlamentar": "Sim",
+    "voto_classe": "sim",
+    "voto_label": "Sim"
+   },
+   {
+    "ano": "2026",
+    "autoria": "Prefeito Municipal",
+    "cod_materia": 271357,
+    "cod_votacao": "144026",
+    "data_sessao": "2026-10-09",
+    "data_sessao_br": "09/10/2026",
+    "data_votacao": "2026-10-09",
+    "data_votacao_br": "09/10/2026",
+    "ementa": "AUTORIZA ABERTURA DE CRÉDITO ESPECIAL NO ORÇAMENTO DA SECRETARIA MUNICIPAL DE GESTÃO ESTRATÉGICA NO VALOR DE R$ 500.000,00 (QUINHENTOS MIL REAIS).",
+    "id": "144026",
+    "identificacao_legislativa": "2ª Sessão Legislativa da 20ª Legislatura",
+    "identificacao_sessao": "1ª Reunião Extraordinária",
+    "materia_href": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=271357",
+    "sessao_href": "https://e-processos.camarauberlandia.mg.gov.br/consultas/sessao_plenaria/agenda_sessao_plen_mostrar_proc?cod_sessao_plen=1759&dat_sessao=09/10/2026",
+    "tipo": "Projeto de Lei Ordinária",
+    "title": "PL 1396/2026",
+    "vot_parlamentar": "Sim",
+    "voto_classe": "sim",
+    "voto_label": "Sim"
+   },
+   {
+    "ano": "2026",
+    "autoria": "Prefeito Municipal",
+    "cod_materia": 271301,
+    "cod_votacao": "144027",
+    "data_sessao": "2026-10-09",
+    "data_sessao_br": "09/10/2026",
+    "data_votacao": "2026-10-09",
+    "data_votacao_br": "09/10/2026",
+    "ementa": "ALTERA O ANEXO I DA LEI Nº 14.358, DE 18 DE MARÇO DE 2025 E SUAS ALTERAÇÕES, QUE “DISPÕE SOBRE O ESTATUTO E DEFINE A ESTRUTURA ADMINISTRATIVA DA EMPRESA MUNICIPAL DE APOIO E MANUTENÇÃO - EMAM, ATUALIZA OS QUADROS DE EMPREGOS PÚBLICOS PERMANENTES E CARGOS EM COMISSÃO DA EMPRESA, REVOGA A LEI Nº 12.615, DE 16 DE JANEIRO DE 2017, O DECRETO Nº 12.048, DE 22 DE DEZEMBRO DE 2009, A LEI Nº 12.081, DE 19 DE FEVEREIRO DE 2015, E DÁ OUTRAS PROVIDÊNCIAS”.",
+    "id": "144027",
+    "identificacao_legislativa": "2ª Sessão Legislativa da 20ª Legislatura",
+    "identificacao_sessao": "7ª Reunião Ordinária",
+    "materia_href": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=271301",
+    "sessao_href": "https://e-processos.camarauberlandia.mg.gov.br/consultas/sessao_plenaria/agenda_sessao_plen_mostrar_proc?cod_sessao_plen=1758&dat_sessao=09/10/2026",
+    "tipo": "Projeto de Lei Ordinária",
+    "title": "PL 1390/2026",
+    "vot_parlamentar": "Sim",
+    "voto_classe": "sim",
+    "voto_label": "Sim"
+   },
+   {
+    "ano": "2026",
+    "autoria": "Liza Prado - CIDADANIA",
+    "cod_materia": 264408,
+    "cod_votacao": "142119",
+    "data_sessao": "2026-09-10",
+    "data_sessao_br": "10/09/2026",
+    "data_votacao": "2026-09-10",
+    "data_votacao_br": "10/09/2026",
+    "ementa": "ALTERA A LEI Nº 14.210, DE 11 DE JULHO DE 2024, QUE DENOMINA DE RUA RODRIGO PONTES PRADO O LOGRADOURO PÚBLICO QUE ESPECIFICA.",
+    "id": "142119",
+    "identificacao_legislativa": "2ª Sessão Legislativa da 20ª Legislatura",
+    "identificacao_sessao": "7ª Reunião Ordinária",
+    "materia_href": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=264408",
+    "sessao_href": "https://e-processos.camarauberlandia.mg.gov.br/consultas/sessao_plenaria/agenda_sessao_plen_mostrar_proc?cod_sessao_plen=1745&dat_sessao=10/09/2026",
+    "tipo": "Projeto de Lei Ordinária",
+    "title": "PL 1233/2026",
+    "vot_parlamentar": "Sim",
+    "voto_classe": "sim",
+    "voto_label": "Sim"
+   }
+  ],
+  "ordem_data_sessao": "desc",
+  "page": 1,
+  "page_size": 10,
+  "resumo": {
+   "voto_abstencao": 0,
+   "voto_nao": 34,
+   "voto_sim": 510
+  },
+  "total": 544
+ },
+ "whatsapp_gabinete": ""
+}
