@@ -2,6 +2,8 @@ import type { StreamFn } from "@earendil-works/pi-agent-core";
 import { carregarDados } from "./dados.js";
 import { criarAgente, validarPedido } from "./agente.js";
 
+export const LINHA_MUITAS_CONSULTAS =
+  "\n\n[A pergunta precisou de muitas consultas. Tente perguntar de forma mais específica.]";
 export const LINHA_FALHA = "\n\n[Não consegui terminar a resposta. Tente de novo.]";
 const TEMPO_MAXIMO_MS = 60_000;
 
@@ -30,23 +32,31 @@ export async function responder(req: Request, opcoes: { streamFn?: StreamFn } = 
   const stream = new ReadableStream<Uint8Array>({
     async start(controller) {
       let falhou = false;
+      let ultimaParouEmFerramenta = false;
       const timer = setTimeout(() => { falhou = true; agente.abort(); }, TEMPO_MAXIMO_MS);
       req.signal.addEventListener("abort", () => agente.abort());
       agente.subscribe(ev => {
         if (ev.type === "message_update" && ev.assistantMessageEvent.type === "text_delta") {
           controller.enqueue(enc.encode(ev.assistantMessageEvent.delta));
         } else if (ev.type === "message_end" && ev.message.role === "assistant") {
-          if (ev.message.stopReason === "error" || ev.message.stopReason === "aborted") falhou = true;
+          ultimaParouEmFerramenta = ev.message.stopReason === "toolUse";
+          if (ev.message.stopReason === "error" || ev.message.stopReason === "aborted") {
+            falhou = true;
+            console.error("[chat]", ev.message.stopReason, ev.message.errorMessage);
+          }
         }
       });
       try {
         await agente.prompt(ultima.texto);
-      } catch {
+      } catch (e) {
         falhou = true;
+        console.error("[chat]", "exceção", e);
       } finally {
         clearTimeout(timer);
       }
       if (falhou) controller.enqueue(enc.encode(LINHA_FALHA));
+      // O limite de chamadas encerrou o run logo após um turno que pedia ferramenta.
+      else if (ultimaParouEmFerramenta) controller.enqueue(enc.encode(LINHA_MUITAS_CONSULTAS));
       controller.close();
     },
     cancel() { agente.abort(); },

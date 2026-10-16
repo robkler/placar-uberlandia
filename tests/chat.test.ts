@@ -1,4 +1,4 @@
-import { expect, test } from "vitest";
+import { expect, test, vi } from "vitest";
 import { createAssistantMessageEventStream, type AssistantMessage } from "@earendil-works/pi-ai";
 import type { StreamFn } from "@earendil-works/pi-agent-core";
 import { validarPedido } from "../lib/agente.js";
@@ -77,7 +77,30 @@ test("responde 200 text/plain com os deltas concatenados e maxTokens 800", async
 });
 
 test("acrescenta a linha de falha quando o modelo erra no meio", async () => {
+  const log = vi.spyOn(console, "error").mockImplementation(() => {});
   const { fn } = fake(["Par", "cial"], true);
   const r = await responder(pedido(), { streamFn: fn });
   expect(await r.text()).toBe("Parcial\n\n[Não consegui terminar a resposta. Tente de novo.]");
+  expect(log).toHaveBeenCalledWith("[chat]", "error", "boom");
+  log.mockRestore();
+});
+
+test("para após 6 chamadas ao modelo quando só pede ferramenta e avisa o cliente", async () => {
+  let chamadas = 0;
+  const fn: StreamFn = () => {
+    chamadas++;
+    const s = createAssistantMessageEventStream();
+    queueMicrotask(() => {
+      const tc = { type: "toolCall" as const, id: `t${chamadas}`, name: "buscar_parlamentar", arguments: { consulta: "liza" } };
+      const m = msg({ content: [tc], stopReason: "toolUse" });
+      s.push({ type: "start", partial: msg({}) });
+      s.push({ type: "toolcall_end", contentIndex: 0, toolCall: tc, partial: m });
+      s.push({ type: "done", reason: "toolUse", message: m });
+    });
+    return s;
+  };
+  const r = await responder(pedido(), { streamFn: fn });
+  const texto = await r.text();
+  expect(chamadas).toBe(6);
+  expect(texto).toBe("\n\n[A pergunta precisou de muitas consultas. Tente perguntar de forma mais específica.]");
 });
