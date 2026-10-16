@@ -212,7 +212,9 @@ export function ranking(
   const limite = Math.max(1, Math.floor(opcoes.limite ?? 10));
   const uf = opcoes.uf?.toUpperCase();
   const base = (casa === "vereador" ? d.udi.vereadores : d.fed.deputados) as any[];
-  const itens = base
+  const totalDe = (r: any): number => casa === "vereador" ? r.sessoes : r.plen[0] + r.plen[1] + r.plen[2];
+  const maiorTotal = Math.max(0, ...base.map(totalDe));
+  const todos = base
     .filter(r => casa === "vereador" || !uf || r.uf === uf)
     .map(r => {
       const presentes = casa === "vereador" ? r.sessoesPres : r.plen[0];
@@ -230,6 +232,11 @@ export function ranking(
         link: p.link, fonte: p.fonte,
       };
     });
+  // Amostra pequena (menos da metade do maior total da casa) não entra no ranking.
+  const minimo = maiorTotal / 2;
+  const itens = todos.filter(x => x.total >= minimo);
+  const poucasSessoes = todos.filter(x => x.total < minimo)
+    .map(x => ({ nome: x.nome, total: x.total, link: x.link, fonte: x.fonte }));
   itens.sort((a, b) =>
     metrica === "presenca"
       ? b.presencaPct - a.presencaPct || b.total - a.total
@@ -240,6 +247,10 @@ export function ranking(
       ? "presença = reuniões com presença ÷ reuniões com votação"
       : "presença no plenário = presenças ÷ (presenças + ausências justificadas + não justificadas); faltas incluem as justificadas",
     itens: itens.slice(0, limite),
+    poucasSessoes,
+    ...(poucasSessoes.length
+      ? { notaPoucasSessoes: "Estas pessoas têm menos da metade do maior número de sessões da casa (ex.: suplentes); por isso ficam fora do ranking, pois a porcentagem delas não é comparável." }
+      : {}),
   };
 }
 
@@ -260,7 +271,9 @@ export function contas(d: Dados, ente: "prefeitura" | "estado", ano?: number): o
       porFuncao: Object.entries((funcoes ?? {}) as Record<string, number>)
         .sort((a, b) => b[1] - a[1]).slice(0, 8).map(([funcao, valor]) => ({ funcao, valor })),
     },
-    fonte: ente === "prefeitura" ? "Tesouro Nacional (Siconfi)" : "Tesouro Nacional (Siconfi), Estado de Minas Gerais",
+    origem: ente === "prefeitura" ? "Tesouro Nacional (Siconfi)" : "Tesouro Nacional (Siconfi), Estado de Minas Gerais",
+    link: ente === "prefeitura" ? "#pref" : "#gov",
+    fonte: "https://siconfi.tesouro.gov.br",
   };
 }
 
@@ -269,6 +282,8 @@ export function governoMG(d: Dados): object {
   const { foto: _f, ...atual } = g.atual;
   const proj: any[] = g.projetos?.lista ?? [];
   return {
+    link: "#gov",
+    fonte: "https://dadosabertos.tse.jus.br",
     atual,
     eleito2022: { nome: g.eleito2022?.nome, partido: g.eleito2022?.partido },
     resultado2022: (g.eleicao ?? []).map((c: any) => ({

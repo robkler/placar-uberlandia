@@ -104,3 +104,28 @@ test("para após 6 chamadas ao modelo quando só pede ferramenta e avisa o clien
   expect(chamadas).toBe(6);
   expect(texto).toBe("\n\n[A pergunta precisou de muitas consultas. Tente perguntar de forma mais específica.]");
 });
+
+test("separa com parágrafo o texto de turnos consecutivos do modelo", async () => {
+  let n = 0;
+  const fn: StreamFn = () => {
+    n++;
+    const s = createAssistantMessageEventStream();
+    const turno = n;
+    queueMicrotask(() => {
+      s.push({ type: "start", partial: msg({}) });
+      if (turno === 1) {
+        const tc = { type: "toolCall" as const, id: "t1", name: "buscar_parlamentar", arguments: { consulta: "liza" } };
+        const m = msg({ content: [{ type: "text", text: "Vou buscar." }, tc], stopReason: "toolUse" });
+        s.push({ type: "text_delta", contentIndex: 0, delta: "Vou buscar.", partial: m });
+        s.push({ type: "done", reason: "toolUse", message: m });
+      } else {
+        const m = msg({ content: [{ type: "text", text: "Achei." }] });
+        s.push({ type: "text_delta", contentIndex: 0, delta: "Achei.", partial: m });
+        s.push({ type: "done", reason: "stop", message: m });
+      }
+    });
+    return s;
+  };
+  const r = await responder(pedido(), { streamFn: fn });
+  expect(await r.text()).toBe("Vou buscar.\n\nAchei.");
+});

@@ -57,6 +57,17 @@ test("ranking de presença dos vereadores, padrão 10 itens, do maior ao menor",
   expect(r.itens[0].presencaPct).toBeGreaterThanOrEqual(r.itens[9].presencaPct);
   expect(r.itens[0]).toHaveProperty("link");
 });
+test("ranking deixa amostra pequena fora e separa em poucasSessoes", () => {
+  const r: any = ranking(dados, "federal", "presenca", { uf: "MG", limite: 100 });
+  expect(r.itens.some((p: any) => p.nome.includes("Gilmar Machado"))).toBe(false);
+  const g = r.poucasSessoes.find((p: any) => p.nome.includes("Gilmar Machado"));
+  expect(g).toMatchObject({ total: expect.any(Number) });
+  expect(g.link).toMatch(/^#d\//);
+  expect(g.fonte).toMatch(/^https:/);
+  expect(r.notaPoucasSessoes).toBeTruthy();
+  expect(r.itens[0]).toHaveProperty("total");
+  expect(r.itens[0].fonte).toMatch(/^https:/);
+});
 test("id inexistente lança erro", () => {
   expect(() => perfil(dados, "federal", "1")).toThrow(/não encontrado/);
   expect(() => votacoesDe(dados, "vereador", "1")).toThrow(/não encontrado/);

@@ -33,11 +33,19 @@ export async function responder(req: Request, opcoes: { streamFn?: StreamFn } = 
     async start(controller) {
       let falhou = false;
       let ultimaParouEmFerramenta = false;
+      let enviouTexto = false;
+      let novaMensagem = false;
       const timer = setTimeout(() => { falhou = true; agente.abort(); }, TEMPO_MAXIMO_MS);
       req.signal.addEventListener("abort", () => agente.abort());
       agente.subscribe(ev => {
         if (ev.type === "message_update" && ev.assistantMessageEvent.type === "text_delta") {
+          // Texto de um turno novo do modelo (depois de ferramentas) começa em parágrafo novo.
+          if (novaMensagem && enviouTexto) controller.enqueue(enc.encode("\n\n"));
+          novaMensagem = false;
+          enviouTexto = true;
           controller.enqueue(enc.encode(ev.assistantMessageEvent.delta));
+        } else if (ev.type === "message_start" && ev.message.role === "assistant") {
+          novaMensagem = true;
         } else if (ev.type === "message_end" && ev.message.role === "assistant") {
           ultimaParouEmFerramenta = ev.message.stopReason === "toolUse";
           if (ev.message.stopReason === "error" || ev.message.stopReason === "aborted") {
