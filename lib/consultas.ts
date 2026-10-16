@@ -282,6 +282,8 @@ interface Metrica {
   unidade?: Unidade;
   /** Corte fixo: denominador menor que isto fica fora do ranking (em vez da metade da mediana). */
   denMinimo?: number;
+  /** O que o denominador conta, para a nota de quem ficou fora (padrão: projetos votados). */
+  denRotulo?: string;
 }
 type Extrator = (r: any) => number | { num: number; den: number } | null | undefined;
 
@@ -294,8 +296,8 @@ const plenFed = (r: any) => (r.plen as number[] | undefined) ?? null;
 const propsValor = (r: any, k: string) => r.props?.[k];
 
 const def = (
-  tipo: "taxa" | "valor", unidade: Unidade, descricao: string, ext: Extrator, denMinimo?: number,
-): [Metrica, Extrator] => [{ tipo, unidade, descricao, ...(denMinimo ? { denMinimo } : {}) }, ext];
+  tipo: "taxa" | "valor", unidade: Unidade, descricao: string, ext: Extrator, denMinimo?: number, denRotulo?: string,
+): [Metrica, Extrator] => [{ tipo, unidade, descricao, ...(denMinimo ? { denMinimo } : {}), ...(denRotulo ? { denRotulo } : {}) }, ext];
 
 const CATALOGO: Record<Casa, Record<string, [Metrica, Extrator]>> = {
   vereador: {
@@ -321,6 +323,12 @@ const CATALOGO: Record<Casa, Record<string, [Metrica, Extrator]>> = {
     taxa_aprovacao_projetos: def("taxa", "pct",
       "Taxa de aprovação: projetos aprovados ÷ projetos votados do vereador. Quem não teve projeto votado fica em semDado; quem teve menos de 3 projetos votados fica fora do ranking e vem em poucosProjetos (a taxa com 1 ou 2 projetos não é comparável). Os itens trazem num/den.",
       r => taxa(r.projetos?.aprovados, r.projetos?.votados), 3),
+    projetos_propostos: def("valor", "qtd",
+      "Projetos de lei ordinária + complementar + propostas de emenda à Lei Orgânica apresentados na legislatura (desde 2025) pelo vereador. Vem da lista de proposições do site da Câmara e pode incluir coautoria.",
+      r => r.projetos?.propostos),
+    taxa_chegou_votacao: def("taxa", "pct",
+      "Dos projetos propostos na legislatura (desde 2025), quantos chegaram à votação nominal: projetos de autoria principal, apresentados desde 2025, com ao menos uma votação nominal ÷ projetos propostos. Os propostos podem incluir coautoria; os votados só autoria principal, então a taxa pode ficar subestimada. Só votações nominais (votação simbólica não aparece). Quem propôs menos de 3 projetos fica fora do ranking e vem em poucosProjetos. Os itens trazem num/den.",
+      r => taxa(r.projetos?.propostosVotados, r.projetos?.propostos), 3, "projetos propostos"),
     votos_eleicao: def("valor", "votos", "Votos recebidos na eleição de 2024.", r => r.tse?.votos2024 ?? r.votosEleicao),
     patrimonio: def("valor", "reais", "Patrimônio declarado ao TSE (2024).", r => r.tse?.patrimonio),
     gasto_campanha: def("valor", "reais", "Gasto de campanha declarado ao TSE (2024).", r => r.tse?.campanha),
@@ -421,7 +429,7 @@ export function rankingMetrica(
     ...(poucas.length && fixo ? {
       poucosProjetos: poucas.slice(0, 10),
       totalPoucosProjetos: poucas.length,
-      notaPoucosProjetos: `${poucas.length} ${poucas.length === 1 ? "vereador com" : "vereadores com"} menos de ${def_.denMinimo} projetos votados ficaram fora${agrupar === "partido" ? " do ranking e da soma dos partidos" : ""}: a taxa com 1 ou 2 projetos não é comparável.${poucas.length > 10 ? " Mostrando 10." : ""}`,
+      notaPoucosProjetos: `${poucas.length} ${poucas.length === 1 ? "vereador com" : "vereadores com"} menos de ${def_.denMinimo} ${def_.denRotulo ?? "projetos votados"} ficaram fora${agrupar === "partido" ? " do ranking e da soma dos partidos" : ""}: a taxa com 1 ou 2 projetos não é comparável.${poucas.length > 10 ? " Mostrando 10." : ""}`,
     } : {}),
     ...(poucas.length && !fixo ? {
       poucasSessoes: poucas.slice(0, 10),

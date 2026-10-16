@@ -156,6 +156,26 @@ def projetos_votados(votacoes, vereadores, nomes):
     return por_ver, dict(ressalva=RESSALVA_PROJETOS, porAno=dict(sorted(por_ano.items())), total=total)
 
 
+NOTA_AUTORIA = ('Os propostos vêm da lista de proposições do vereador no site da Câmara, que pode incluir coautoria '
+                'e não permite separar a autoria principal; os que chegaram à votação contam só autoria principal.')
+
+
+def ano_da_materia(nome):
+    m = re.search(r'/(\d{4})$', nome)
+    return int(m.group(1)) if m else None
+
+
+def com_propostos(resumo, props):
+    """Acrescenta ao resumo de projetos votados: quantos dos propostos na legislatura chegaram à votação nominal."""
+    propostos = sum(n for t, n in props.items() if t.startswith(PREFIXOS_PROJETO))
+    apresentados = [x for x in resumo['lista'] if (ano_da_materia(x['materia']) or 0) >= LEGISLATURA_INICIO]
+    votados = len(apresentados)
+    return dict(resumo, propostos=propostos, propostosVotados=votados,
+                propostosAprovados=sum(1 for x in apresentados if x['status'] == 'aprovado'),
+                pctChegouVotacao=round(100 * votados / propostos, 1) if propostos else None,
+                notaAutoria=NOTA_AUTORIA)
+
+
 def montar_vereador(d, votacoes, tse, hoje):
     vid = d['id']
     listadas = [v for v in votacoes if vid in v['votos']]
@@ -246,7 +266,7 @@ def main():
                          for i in ids), key=lambda v: v['nome'])
     por_ver, camara_proj = projetos_votados(votacoes, vereadores, nomes)
     for v in vereadores:
-        v['projetos'] = por_ver[v['id']]
+        v['projetos'] = com_propostos(por_ver[v['id']], v['props'])
     pv = [v for v in votacoes if v['autorTipo'] == 'Prefeitura']
     pessoas = []
     for k, cargo in (('prefeito', 'Prefeito'), ('vice', 'Vice-prefeito')):

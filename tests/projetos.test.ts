@@ -79,3 +79,32 @@ test("taxa_aprovacao_projetos por partido: só quem tem 3+ votados entra na soma
   expect(r.itens).toHaveLength(5);
   expect(r.notaPoucosProjetos).toContain("do ranking e da soma dos partidos");
 });
+
+test("catálogo: projetos propostos e taxa de chegada à votação", () => {
+  expect(METRICAS.vereador.projetos_propostos).toMatchObject({ tipo: "valor", unidade: "qtd" });
+  expect(METRICAS.vereador.taxa_chegou_votacao).toMatchObject({ tipo: "taxa", unidade: "pct", denMinimo: 3 });
+});
+
+test("perfil traz propostos, chegaram à votação e nota de coautoria", () => {
+  const c: any = perfil(d, "vereador", "399041");
+  expect(c.projetos).toMatchObject({ propostos: 58, propostosVotados: 5, propostosAprovados: 4, pctChegouVotacao: 8.6 });
+  expect(c.projetos.notaAutoria).toContain("coautoria");
+  const q: any = perfil(d, "vereador", "537380");
+  expect(q.projetos).toMatchObject({ propostos: 120, propostosVotados: 5, propostosAprovados: 1, pctChegouVotacao: 4.2 });
+  const a: any = perfil(d, "vereador", "537428");
+  expect(a.projetos).toMatchObject({ propostos: 51, propostosVotados: 0, propostosAprovados: 0, pctChegouVotacao: 0 });
+});
+
+test("ranking projetos_propostos: Liza Prado (173) primeiro", () => {
+  const r: any = rankingMetrica(d, "vereador", "projetos_propostos");
+  expect(r.itens[0]).toMatchObject({ nome: expect.stringMatching(/Liza/), valor: 173 });
+});
+
+test("taxa_chegou_votacao: Adriano Zago (5 de 35, 14,3%) primeiro, Liza (19 de 173) segunda; num/den nos itens", () => {
+  const r: any = rankingMetrica(d, "vereador", "taxa_chegou_votacao", { limite: 30 });
+  expect(r.itens[0]).toMatchObject({ nome: "Adriano Zago", valor: 14.3, num: 5, den: 35 });
+  expect(r.itens[1]).toMatchObject({ nome: expect.stringMatching(/Liza/), valor: 11, num: 19, den: 173 });
+  expect(r.poucosProjetos.map((x: any) => x.nome)).toContain("Dr. Maciel Amorim");
+  expect(r.notaPoucosProjetos).toContain("menos de 3 projetos propostos ficaram fora");
+  expect(r.itens.every((i: any) => i.den >= 3)).toBe(true);
+});

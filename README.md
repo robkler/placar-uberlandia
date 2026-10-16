@@ -93,6 +93,7 @@ proposições, contas da Prefeitura e do Estado, governo de Minas). Roda numa Ve
     estaduais entram nos rankings de proposições, verba indenizatória etc., mas não nos de votação;
   - projetos de lei votados e aprovados pela Câmara de Uberlândia: totais e por ano (ferramenta
     `projetos_camara`, "quantos projetos a Câmara votou e aprovou em 2025?", quantos eram da Prefeitura),
+    quantos projetos cada vereador propôs e quantos chegaram à votação nominal (perfil e rankings `projetos_propostos` e `taxa_chegou_votacao`),
     projetos votados no perfil de cada vereador e rankings por pessoa ou partido de projetos votados,
     projetos aprovados e taxa de aprovação (aprovados ÷ votados; quem teve menos de 3 projetos votados fica fora do
     ranking e da soma dos partidos, e vem listado à parte, pois a taxa com 1 ou 2 projetos não é
@@ -225,6 +226,15 @@ vercel.json             configuração da Vercel (pasta public, cache, função 
   entram só no total da Câmara; vereadores são ligados pelo nome (ex-vereadores contam só no total).
   **Taxa de aprovação** = aprovados ÷ votados, só para quem teve pelo menos 3 projetos votados. Ressalva: "Só entram projetos com votação nominal;
   aprovações em votação simbólica não aparecem."
+- **Projetos propostos e que chegaram à votação** (vereadores): *propostos* = projetos de lei ordinária,
+  complementar e propostas de emenda à Lei Orgânica apresentados desde 2025 (`LEGISLATURA_INICIO`),
+  somados dos facets de proposições da API da Câmara. Esse número pode incluir coautoria (a mesma
+  matéria aparece na lista de mais de um vereador) e não dá para separar; por isso o `data.json` leva
+  `notaAutoria`. *Chegaram à votação* = projetos de autoria principal, apresentados desde 2025 (ano do
+  número da matéria, ex. "nº 1252/2026"), com pelo menos uma votação nominal; projetos antigos votados
+  agora não entram nessa conta (continuam em "votados"). `pctChegouVotacao` = votados ÷ propostos (1 casa;
+  nulo sem propostos). Como os propostos podem incluir coautoria e os votados só autoria principal, o
+  percentual pode ficar subestimado. Ranking `taxa_chegou_votacao`: só quem propôs 3 ou mais projetos.
 - **Presença dos deputados federais**: é a contagem oficial da Câmara (presenças, ausências
   justificadas e não justificadas). A % conta ausência justificada como ausência.
 - **Principais votações federais**: votações do texto de PL, PLP, PEC, MP e PDL no plenário com
