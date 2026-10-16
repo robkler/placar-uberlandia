@@ -848,7 +848,7 @@
   "facets": {
    "ano": [
     {
-     "count": 1118,
+     "count": 1121,
      "label": "2026",
      "value": "2026"
     },
@@ -890,7 +890,7 @@
      "value": "EMEI"
     },
     {
-     "count": 1214,
+     "count": 1217,
      "label": "Indicação",
      "value": "IND"
     },
@@ -1198,7 +1198,7 @@
     },
     {
      "ano": "2026",
-     "count": 911,
+     "count": 914,
      "tipo": "IND"
     },
     {
@@ -1246,7 +1246,7 @@
   "facets_todos": {
    "ano": [
     {
-     "count": 1118,
+     "count": 1121,
      "label": "2026",
      "value": "2026"
     },
@@ -1288,7 +1288,7 @@
      "value": "EMEI"
     },
     {
-     "count": 1214,
+     "count": 1217,
      "label": "Indicação",
      "value": "IND"
     },
@@ -1345,6 +1345,45 @@
    "tipo_desc": ""
   },
   "items": [
+   {
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272212",
+    "ano": "2026",
+    "data_apresentacao": "16/10/2026",
+    "emenda_impositiva": false,
+    "ementa": "Solicitando à Secretaria Municipal de Infraestrutura a realização de vias públicas - pavimentação asfáltica na Rua Costa Pereira, nas imediações do cruzamento com a Rua Marciano de Ávila, no bairro Bom Jesus, CEP 38400-625.",
+    "id": "272212",
+    "item_kind": "materia",
+    "tipo": "Indicação",
+    "title": "IND 40037/2026",
+    "ultima_votacao_kind": "",
+    "ultima_votacao_resultado": ""
+   },
+   {
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272209",
+    "ano": "2026",
+    "data_apresentacao": "16/10/2026",
+    "emenda_impositiva": false,
+    "ementa": "Solicitando à Secretaria Municipal de Infraestrutura a realização de tapa buraco na Praça Sérgio Pacheco, Prolongamento da rua João Pessoa paralela à Fernando Vilela, no bairro Centro, CEP 38400-184.",
+    "id": "272209",
+    "item_kind": "materia",
+    "tipo": "Indicação",
+    "title": "IND 40034/2026",
+    "ultima_votacao_kind": "",
+    "ultima_votacao_resultado": ""
+   },
+   {
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272206",
+    "ano": "2026",
+    "data_apresentacao": "16/10/2026",
+    "emenda_impositiva": false,
+    "ementa": "Solicitando à Secretaria Municipal de Infraestrutura a realização de tapa buraco na Avenida Lázara Alves Ferreira, Logo acima da Praça Dr Kazuaki Taziri, no bairro Santa Mônica, CEP 38408-092.",
+    "id": "272206",
+    "item_kind": "materia",
+    "tipo": "Indicação",
+    "title": "IND 40031/2026",
+    "ultima_votacao_kind": "",
+    "ultima_votacao_resultado": ""
+   },
    {
     "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272172",
     "ano": "2026",
@@ -1435,51 +1474,12 @@
     "title": "IND 39846/2026",
     "ultima_votacao_kind": "votacao",
     "ultima_votacao_resultado": "Aprovado"
-   },
-   {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=271941",
-    "ano": "2026",
-    "data_apresentacao": "14/10/2026",
-    "emenda_impositiva": false,
-    "ementa": "Solicitando ao DMAE a realização de água e esgoto - construção / manutenção / reforma de rede Bairro Residencial Fruta do Conde, CEP 38400-000.",
-    "id": "271941",
-    "item_kind": "materia",
-    "tipo": "Indicação",
-    "title": "IND 39804/2026",
-    "ultima_votacao_kind": "votacao",
-    "ultima_votacao_resultado": "Aprovado"
-   },
-   {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=271939",
-    "ano": "2026",
-    "data_apresentacao": "14/10/2026",
-    "emenda_impositiva": false,
-    "ementa": "Solicita a liberação para uso do Plenário no dia 15 de outubro de 2026, a partir das 19:00, para entrega de homenagens à pessoas físicas e pessoas jurídicas do Dia do Professor, sendo todas elas pessoas da área da educação, com atuação de destaque em nosso município.",
-    "id": "271939",
-    "item_kind": "materia",
-    "tipo": "Requerimento",
-    "title": "REQ 21361/2026",
-    "ultima_votacao_kind": "votacao",
-    "ultima_votacao_resultado": "Aprovado"
-   },
-   {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=271921",
-    "ano": "2026",
-    "data_apresentacao": "14/10/2026",
-    "emenda_impositiva": false,
-    "ementa": "Solicitando à Secretaria Municipal de Serviços Urbanos a realização de capina / limpeza - lotes / canteiro central na Rua das Garças, Canteiro Central, no bairro Cidade Jardim, CEP 38412-196.",
-    "id": "271921",
-    "item_kind": "materia",
-    "tipo": "Indicação",
-    "title": "IND 39795/2026",
-    "ultima_votacao_kind": "votacao",
-    "ultima_votacao_resultado": "Aprovado"
    }
   ],
   "ordem_dat_apresentacao": "desc",
   "page": 1,
   "page_size": 10,
-  "total": 5968
+  "total": 5971
  },
  "relatorias": {
   "facets": {

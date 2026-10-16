@@ -996,7 +996,7 @@
   "facets": {
    "ano": [
     {
-     "count": 2760,
+     "count": 2766,
      "label": "2026",
      "value": "2026"
     },
@@ -1038,7 +1038,7 @@
      "value": "EMEI"
     },
     {
-     "count": 3516,
+     "count": 3522,
      "label": "Indicação",
      "value": "IND"
     },
@@ -1291,7 +1291,7 @@
     },
     {
      "ano": "2026",
-     "count": 2716,
+     "count": 2722,
      "tipo": "IND"
     },
     {
@@ -1334,7 +1334,7 @@
   "facets_todos": {
    "ano": [
     {
-     "count": 2760,
+     "count": 2766,
      "label": "2026",
      "value": "2026"
     },
@@ -1376,7 +1376,7 @@
      "value": "EMEI"
     },
     {
-     "count": 3516,
+     "count": 3522,
      "label": "Indicação",
      "value": "IND"
     },
@@ -1434,6 +1434,84 @@
   },
   "items": [
    {
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272211",
+    "ano": "2026",
+    "data_apresentacao": "16/10/2026",
+    "emenda_impositiva": false,
+    "ementa": "Solicitando à Secretaria Municipal de Infraestrutura a realização de tapa buraco na Rua Júlio Rodrigo do Vale, 198, no bairro São Jorge, CEP 38410-188.",
+    "id": "272211",
+    "item_kind": "materia",
+    "tipo": "Indicação",
+    "title": "IND 40036/2026",
+    "ultima_votacao_kind": "",
+    "ultima_votacao_resultado": ""
+   },
+   {
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272210",
+    "ano": "2026",
+    "data_apresentacao": "16/10/2026",
+    "emenda_impositiva": false,
+    "ementa": "Solicitando à Secretaria Municipal de Serviços Urbanos a realização de calçada / passeio - limpeza / capina / roçagem na Rua Wilson Sousa Júnior, ao lado do Poliesportivo, no bairro Shopping Park, CEP 38425-464.",
+    "id": "272210",
+    "item_kind": "materia",
+    "tipo": "Indicação",
+    "title": "IND 40035/2026",
+    "ultima_votacao_kind": "",
+    "ultima_votacao_resultado": ""
+   },
+   {
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272207",
+    "ano": "2026",
+    "data_apresentacao": "16/10/2026",
+    "emenda_impositiva": false,
+    "ementa": "Solicitando à Secretaria Municipal de Serviços Urbanos a realização de capina / limpeza - lotes / canteiro central na Avenida Boulanger Fonseca, no bairro Shopping Park, CEP 38425-597.",
+    "id": "272207",
+    "item_kind": "materia",
+    "tipo": "Indicação",
+    "title": "IND 40032/2026",
+    "ultima_votacao_kind": "",
+    "ultima_votacao_resultado": ""
+   },
+   {
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272203",
+    "ano": "2026",
+    "data_apresentacao": "16/10/2026",
+    "emenda_impositiva": false,
+    "ementa": "Solicitando à Secretaria Municipal de Infraestrutura a realização de tapa buraco na Rua Ivete Cordeiro da Silva, em toda extensão, no bairro Shopping Park, CEP 38411-510.",
+    "id": "272203",
+    "item_kind": "materia",
+    "tipo": "Indicação",
+    "title": "IND 40028/2026",
+    "ultima_votacao_kind": "",
+    "ultima_votacao_resultado": ""
+   },
+   {
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272198",
+    "ano": "2026",
+    "data_apresentacao": "16/10/2026",
+    "emenda_impositiva": false,
+    "ementa": "Solicitando à Secretaria Municipal de Infraestrutura a realização de tapa buraco na Rua Ivete Cordeiro da Silva, no bairro Shopping Park, CEP 38411-510.",
+    "id": "272198",
+    "item_kind": "materia",
+    "tipo": "Indicação",
+    "title": "IND 40023/2026",
+    "ultima_votacao_kind": "",
+    "ultima_votacao_resultado": ""
+   },
+   {
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272197",
+    "ano": "2026",
+    "data_apresentacao": "16/10/2026",
+    "emenda_impositiva": false,
+    "ementa": "Solicitando à Secretaria Municipal de Infraestrutura a realização de canaleta - construção / manutenção / reforma na Rua Moabe, em frente ao número 81, no bairro Jardim Canaã, CEP 38412-430.",
+    "id": "272197",
+    "item_kind": "materia",
+    "tipo": "Indicação",
+    "title": "IND 40022/2026",
+    "ultima_votacao_kind": "",
+    "ultima_votacao_resultado": ""
+   },
+   {
     "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272190",
     "ano": "2026",
     "data_apresentacao": "16/10/2026",
@@ -1484,90 +1562,12 @@
     "title": "IND 40013/2026",
     "ultima_votacao_kind": "",
     "ultima_votacao_resultado": ""
-   },
-   {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272159",
-    "ano": "2026",
-    "data_apresentacao": "16/10/2026",
-    "emenda_impositiva": false,
-    "ementa": "Solicitando à Secretaria Municipal de Serviços Urbanos a realização de boca de lobo / bueiro - limpeza na Avenida José Abdulmassih, com a rua Orestes Mendes Ferreira próximo do n°865, no bairro Shopping Park, CEP 38411-476.",
-    "id": "272159",
-    "item_kind": "materia",
-    "tipo": "Indicação",
-    "title": "IND 39990/2026",
-    "ultima_votacao_kind": "",
-    "ultima_votacao_resultado": ""
-   },
-   {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272155",
-    "ano": "2026",
-    "data_apresentacao": "16/10/2026",
-    "emenda_impositiva": false,
-    "ementa": "Solicitando à Secretaria Municipal de Serviços Urbanos a realização de capina / limpeza - lotes / canteiro central na Avenida Serra do Espinhaço, no bairro São Jorge, CEP 38410-384.",
-    "id": "272155",
-    "item_kind": "materia",
-    "tipo": "Indicação",
-    "title": "IND 39986/2026",
-    "ultima_votacao_kind": "",
-    "ultima_votacao_resultado": ""
-   },
-   {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272154",
-    "ano": "2026",
-    "data_apresentacao": "16/10/2026",
-    "emenda_impositiva": false,
-    "ementa": "Solicitando à Secretaria Municipal de Serviços Urbanos a realização de capina / limpeza - lotes / canteiro central na Avenida das Moedas, no bairro São Jorge, CEP 38410-072.",
-    "id": "272154",
-    "item_kind": "materia",
-    "tipo": "Indicação",
-    "title": "IND 39985/2026",
-    "ultima_votacao_kind": "",
-    "ultima_votacao_resultado": ""
-   },
-   {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272152",
-    "ano": "2026",
-    "data_apresentacao": "16/10/2026",
-    "emenda_impositiva": false,
-    "ementa": "Solicitando à Secretaria Municipal de Infraestrutura a realização de tapa buraco na Avenida Getúlio Vargas, 2871, no bairro Centro, CEP 38400-299.",
-    "id": "272152",
-    "item_kind": "materia",
-    "tipo": "Indicação",
-    "title": "IND 39983/2026",
-    "ultima_votacao_kind": "",
-    "ultima_votacao_resultado": ""
-   },
-   {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272151",
-    "ano": "2026",
-    "data_apresentacao": "16/10/2026",
-    "emenda_impositiva": false,
-    "ementa": "Solicitando à Secretaria Municipal de Infraestrutura a realização de tapa buraco na Avenida Abadio Bonifácio da Silva, 784, no bairro Granada, CEP 38410-130.",
-    "id": "272151",
-    "item_kind": "materia",
-    "tipo": "Indicação",
-    "title": "IND 39982/2026",
-    "ultima_votacao_kind": "",
-    "ultima_votacao_resultado": ""
-   },
-   {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272147",
-    "ano": "2026",
-    "data_apresentacao": "16/10/2026",
-    "emenda_impositiva": false,
-    "ementa": "Solicitando ao DMAE a realização de lixo - instalação / troca de caçamba na Avenida Alexandrino Alves Vieira, em frente ao número 1263, no bairro Santa Rosa, CEP 38401-240.",
-    "id": "272147",
-    "item_kind": "materia",
-    "tipo": "Indicação",
-    "title": "IND 39978/2026",
-    "ultima_votacao_kind": "",
-    "ultima_votacao_resultado": ""
    }
   ],
   "ordem_dat_apresentacao": "desc",
   "page": 1,
   "page_size": 10,
-  "total": 9571
+  "total": 9577
  },
  "relatorias": {
   "facets": {

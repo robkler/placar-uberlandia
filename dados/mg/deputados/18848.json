@@ -143,14 +143,14 @@
    },
    "terminoLegislatura": {
     "@class": "sql-timestamp",
-    "$": "2015-01-31"
+    "$": "2015-01-01"
    },
    "tipoMandato": "Efetivo",
    "situacoes": [
     {
      "dataInicio": {
       "@class": "sql-timestamp",
-      "$": "2011-02-01"
+      "$": "2011-02-04"
      },
      "status": "Em exercício",
      "dataTermino": {

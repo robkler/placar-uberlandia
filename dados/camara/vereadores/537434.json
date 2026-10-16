@@ -943,7 +943,7 @@
   "facets": {
    "ano": [
     {
-     "count": 118,
+     "count": 119,
      "label": "2026",
      "value": "2026"
     },
@@ -990,7 +990,7 @@
      "value": "IND"
     },
     {
-     "count": 145,
+     "count": 146,
      "label": "Moção",
      "value": "MOC"
     },
@@ -1258,7 +1258,7 @@
     },
     {
      "ano": "2026",
-     "count": 13,
+     "count": 14,
      "tipo": "MOC"
     },
     {
@@ -1311,7 +1311,7 @@
   "facets_todos": {
    "ano": [
     {
-     "count": 118,
+     "count": 119,
      "label": "2026",
      "value": "2026"
     },
@@ -1358,7 +1358,7 @@
      "value": "IND"
     },
     {
-     "count": 145,
+     "count": 146,
      "label": "Moção",
      "value": "MOC"
     },
@@ -1415,6 +1415,19 @@
    "tipo_desc": ""
   },
   "items": [
+   {
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272196",
+    "ano": "2026",
+    "data_apresentacao": "16/10/2026",
+    "emenda_impositiva": false,
+    "ementa": "Aplauso ao Prof. David Gonçalves Borges.",
+    "id": "272196",
+    "item_kind": "materia",
+    "tipo": "Moção",
+    "title": "MOC 1025/2026",
+    "ultima_votacao_kind": "",
+    "ultima_votacao_resultado": ""
+   },
    {
     "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272040",
     "ano": "2026",
@@ -1531,25 +1544,12 @@
     "title": "PINFO 1209/2026",
     "ultima_votacao_kind": "votacao",
     "ultima_votacao_resultado": "Aprovado"
-   },
-   {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=268877",
-    "ano": "2026",
-    "data_apresentacao": "28/08/2026",
-    "emenda_impositiva": false,
-    "ementa": "Solicitando à SECRETARIA MUNICIPAL DE TRÂNSITO E TRANSPORTES a realização de sinalização - implantação / reforma de faixa de pedestre na Rua do Professor, 489, no bairro Jardim das Palmeiras, CEP 38412-296.",
-    "id": "268877",
-    "item_kind": "materia",
-    "tipo": "Indicação",
-    "title": "IND 37101/2026",
-    "ultima_votacao_kind": "votacao",
-    "ultima_votacao_resultado": "Aprovado"
    }
   ],
   "ordem_dat_apresentacao": "desc",
   "page": 1,
   "page_size": 10,
-  "total": 1349
+  "total": 1350
  },
  "relatorias": {
   "facets": {

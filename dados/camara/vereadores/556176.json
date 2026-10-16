@@ -653,7 +653,7 @@
   "facets": {
    "ano": [
     {
-     "count": 1350,
+     "count": 1353,
      "label": "2026",
      "value": "2026"
     },
@@ -675,7 +675,7 @@
      "value": "EMEI"
     },
     {
-     "count": 1965,
+     "count": 1968,
      "label": "Indicação",
      "value": "IND"
     },
@@ -758,7 +758,7 @@
     },
     {
      "ano": "2026",
-     "count": 1306,
+     "count": 1309,
      "tipo": "IND"
     },
     {
@@ -801,7 +801,7 @@
   "facets_todos": {
    "ano": [
     {
-     "count": 1350,
+     "count": 1353,
      "label": "2026",
      "value": "2026"
     },
@@ -823,7 +823,7 @@
      "value": "EMEI"
     },
     {
-     "count": 1965,
+     "count": 1968,
      "label": "Indicação",
      "value": "IND"
     },
@@ -870,6 +870,45 @@
    "tipo_desc": ""
   },
   "items": [
+   {
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272202",
+    "ano": "2026",
+    "data_apresentacao": "16/10/2026",
+    "emenda_impositiva": false,
+    "ementa": "Solicitando à Secretaria Municipal de Infraestrutura a realização de tapa buraco na Rua do Motorista, 1259, no bairro Jardim das Palmeiras, CEP 38412-286.",
+    "id": "272202",
+    "item_kind": "materia",
+    "tipo": "Indicação",
+    "title": "IND 40027/2026",
+    "ultima_votacao_kind": "",
+    "ultima_votacao_resultado": ""
+   },
+   {
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272201",
+    "ano": "2026",
+    "data_apresentacao": "16/10/2026",
+    "emenda_impositiva": false,
+    "ementa": "Solicitando à Secretaria Municipal de Gestão Ambiental e Sustentabilidade a realização de árvores e galhos - poda / corte / destocamento / recolhimento na Rua do Estivador, toda extensão de canteiro central, no bairro Jardim das Palmeiras, CEP 38412-344.",
+    "id": "272201",
+    "item_kind": "materia",
+    "tipo": "Indicação",
+    "title": "IND 40026/2026",
+    "ultima_votacao_kind": "",
+    "ultima_votacao_resultado": ""
+   },
+   {
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272199",
+    "ano": "2026",
+    "data_apresentacao": "16/10/2026",
+    "emenda_impositiva": false,
+    "ementa": "Solicitando à Secretaria Municipal de Trânsito e Transportes a realização de travessia elevada / redutor de velocidade - instalação / manutenção na Rua dos Pica Paus, 915, no bairro Nova Uberlândia, CEP 38412-641.",
+    "id": "272199",
+    "item_kind": "materia",
+    "tipo": "Indicação",
+    "title": "IND 40024/2026",
+    "ultima_votacao_kind": "",
+    "ultima_votacao_resultado": ""
+   },
    {
     "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272191",
     "ano": "2026",
@@ -960,51 +999,12 @@
     "title": "IND 39932/2026",
     "ultima_votacao_kind": "",
     "ultima_votacao_resultado": ""
-   },
-   {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272090",
-    "ano": "2026",
-    "data_apresentacao": "16/10/2026",
-    "emenda_impositiva": false,
-    "ementa": "Solicitando à Secretaria Municipal de Trânsito e Transportes a realização de sinalização / implantação / manutenção de sinalização estatigráfica na Rua Pátmos, esquina com a rua Mileto, no bairro Jardim Canaã, CEP 38412-466.",
-    "id": "272090",
-    "item_kind": "materia",
-    "tipo": "Indicação",
-    "title": "IND 39930/2026",
-    "ultima_votacao_kind": "",
-    "ultima_votacao_resultado": ""
-   },
-   {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272089",
-    "ano": "2026",
-    "data_apresentacao": "16/10/2026",
-    "emenda_impositiva": false,
-    "ementa": "Solicitando à Secretaria Municipal de Trânsito e Transportes a realização de sinalização / implantação / manutenção de sinalização estatigráfica na Rua Siloé, esquina com a rua Mileto, no bairro Jardim Canaã, CEP 38412-468.",
-    "id": "272089",
-    "item_kind": "materia",
-    "tipo": "Indicação",
-    "title": "IND 39929/2026",
-    "ultima_votacao_kind": "",
-    "ultima_votacao_resultado": ""
-   },
-   {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272088",
-    "ano": "2026",
-    "data_apresentacao": "16/10/2026",
-    "emenda_impositiva": false,
-    "ementa": "Solicitando à Secretaria Municipal de Trânsito e Transportes a realização de sinalização / implantação / manutenção de sinalização estatigráfica na Rua Creta, esquina com a rua Mileto, no bairro Jardim Canaã, CEP 38412-408.",
-    "id": "272088",
-    "item_kind": "materia",
-    "tipo": "Indicação",
-    "title": "IND 39928/2026",
-    "ultima_votacao_kind": "",
-    "ultima_votacao_resultado": ""
    }
   ],
   "ordem_dat_apresentacao": "desc",
   "page": 1,
   "page_size": 10,
-  "total": 3141
+  "total": 3144
  },
  "relatorias": {
   "facets": {

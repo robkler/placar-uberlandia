@@ -616,7 +616,7 @@
   "facets": {
    "ano": [
     {
-     "count": 1412,
+     "count": 1413,
      "label": "2026",
      "value": "2026"
     },
@@ -638,7 +638,7 @@
      "value": "EMEI"
     },
     {
-     "count": 1752,
+     "count": 1753,
      "label": "Indicação",
      "value": "IND"
     },
@@ -731,7 +731,7 @@
     },
     {
      "ano": "2026",
-     "count": 1345,
+     "count": 1346,
      "tipo": "IND"
     },
     {
@@ -774,7 +774,7 @@
   "facets_todos": {
    "ano": [
     {
-     "count": 1412,
+     "count": 1413,
      "label": "2026",
      "value": "2026"
     },
@@ -796,7 +796,7 @@
      "value": "EMEI"
     },
     {
-     "count": 1752,
+     "count": 1753,
      "label": "Indicação",
      "value": "IND"
     },
@@ -848,6 +848,19 @@
    "tipo_desc": ""
   },
   "items": [
+   {
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272200",
+    "ano": "2026",
+    "data_apresentacao": "16/10/2026",
+    "emenda_impositiva": false,
+    "ementa": "Solicitando à Secretaria Municipal de Infraestrutura a realização de tapa buraco na Rua Napoleão Luiz da Costa, Toda a extensão da rua, no bairro Aclimação, CEP 38406-040.",
+    "id": "272200",
+    "item_kind": "materia",
+    "tipo": "Indicação",
+    "title": "IND 40025/2026",
+    "ultima_votacao_kind": "",
+    "ultima_votacao_resultado": ""
+   },
    {
     "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272193",
     "ano": "2026",
@@ -964,25 +977,12 @@
     "title": "IND 39989/2026",
     "ultima_votacao_kind": "",
     "ultima_votacao_resultado": ""
-   },
-   {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272153",
-    "ano": "2026",
-    "data_apresentacao": "16/10/2026",
-    "emenda_impositiva": false,
-    "ementa": "Solicitando à Secretaria Municipal de Serviços Urbanos a realização de recolhimento de móveis e objetos na Rua Dimas Moreira de Sá, Ao lado do número 3075, no bairro Custódio Pereira, CEP 38405-254.",
-    "id": "272153",
-    "item_kind": "materia",
-    "tipo": "Indicação",
-    "title": "IND 39984/2026",
-    "ultima_votacao_kind": "",
-    "ultima_votacao_resultado": ""
    }
   ],
   "ordem_dat_apresentacao": "desc",
   "page": 1,
   "page_size": 10,
-  "total": 2796
+  "total": 2797
  },
  "relatorias": {
   "facets": {

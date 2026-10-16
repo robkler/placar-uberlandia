@@ -140,7 +140,7 @@
    },
    "terminoLegislatura": {
     "@class": "sql-timestamp",
-    "$": "2023-01-01"
+    "$": "2023-01-31"
    },
    "tipoMandato": "Efetivo",
    "inicioExercicio": {

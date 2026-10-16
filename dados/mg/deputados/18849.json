@@ -151,7 +151,7 @@
    "numeroLegislatura": 17,
    "inicioLegislatura": {
     "@class": "sql-timestamp",
-    "$": "2011-02-01"
+    "$": "2011-04-04"
    },
    "terminoLegislatura": {
     "@class": "sql-timestamp",
