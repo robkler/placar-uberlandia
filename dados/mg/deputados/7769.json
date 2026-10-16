@@ -7,7 +7,7 @@
  "situacao": "Em exercício",
  "inicioSituacao": {
   "@class": "sql-timestamp",
-  "$": "2023-02-02"
+  "$": "2023-02-01"
  },
  "tipoMandato": "Efetivo",
  "nomeServidor": "LEONÍDIO HENRIQUE CORRÊA BOUÇAS",

@@ -1020,7 +1020,7 @@
   "facets": {
    "ano": [
     {
-     "count": 2536,
+     "count": 2541,
      "label": "2026",
      "value": "2026"
     },
@@ -1062,7 +1062,7 @@
      "value": "EMEI"
     },
     {
-     "count": 2627,
+     "count": 2632,
      "label": "Indicação",
      "value": "IND"
     },
@@ -1290,7 +1290,7 @@
     },
     {
      "ano": "2026",
-     "count": 2359,
+     "count": 2364,
      "tipo": "IND"
     },
     {
@@ -1343,7 +1343,7 @@
   "facets_todos": {
    "ano": [
     {
-     "count": 2536,
+     "count": 2541,
      "label": "2026",
      "value": "2026"
     },
@@ -1385,7 +1385,7 @@
      "value": "EMEI"
     },
     {
-     "count": 2627,
+     "count": 2632,
      "label": "Indicação",
      "value": "IND"
     },
@@ -1442,6 +1442,71 @@
    "tipo_desc": ""
   },
   "items": [
+   {
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272189",
+    "ano": "2026",
+    "data_apresentacao": "16/10/2026",
+    "emenda_impositiva": false,
+    "ementa": "Solicitando à Secretaria Municipal de Infraestrutura a realização de tapa buraco na Rua Lisboa, esq Av Suécia, no bairro Tibery, CEP 38405-072.",
+    "id": "272189",
+    "item_kind": "materia",
+    "tipo": "Indicação",
+    "title": "IND 40019/2026",
+    "ultima_votacao_kind": "",
+    "ultima_votacao_resultado": ""
+   },
+   {
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272188",
+    "ano": "2026",
+    "data_apresentacao": "16/10/2026",
+    "emenda_impositiva": false,
+    "ementa": "Solicitando à Secretaria Municipal de Infraestrutura a realização de tapa buraco na Avenida Fernando Vilela, entre Rua Monlevade e Av Geraldo Motta Batista, no bairro Daniel Fonseca, CEP 38400-327.",
+    "id": "272188",
+    "item_kind": "materia",
+    "tipo": "Indicação",
+    "title": "IND 40018/2026",
+    "ultima_votacao_kind": "",
+    "ultima_votacao_resultado": ""
+   },
+   {
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272182",
+    "ano": "2026",
+    "data_apresentacao": "16/10/2026",
+    "emenda_impositiva": false,
+    "ementa": "Solicitando à Secretaria Municipal de Infraestrutura a realização de tapa buraco na Avenida César Finotti, esq Rua Maria Dória Cunha, no bairro Santa Mônica, CEP 38408-138.",
+    "id": "272182",
+    "item_kind": "materia",
+    "tipo": "Indicação",
+    "title": "IND 40012/2026",
+    "ultima_votacao_kind": "",
+    "ultima_votacao_resultado": ""
+   },
+   {
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272181",
+    "ano": "2026",
+    "data_apresentacao": "16/10/2026",
+    "emenda_impositiva": false,
+    "ementa": "Solicitando à Secretaria Municipal de Infraestrutura a realização de tapa buraco na Rua Professor Chafi Ayub Jacob, 229, no bairro Morada da Colina, CEP 38411-024.",
+    "id": "272181",
+    "item_kind": "materia",
+    "tipo": "Indicação",
+    "title": "IND 40011/2026",
+    "ultima_votacao_kind": "",
+    "ultima_votacao_resultado": ""
+   },
+   {
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272180",
+    "ano": "2026",
+    "data_apresentacao": "16/10/2026",
+    "emenda_impositiva": false,
+    "ementa": "Solicitando à Secretaria Municipal de Infraestrutura a realização de tapa buraco na Rua dos Emigrantes, esq Rua Prof Chafi Ayube Jacob, no bairro Morada da Colina, CEP 38411-022.",
+    "id": "272180",
+    "item_kind": "materia",
+    "tipo": "Indicação",
+    "title": "IND 40010/2026",
+    "ultima_votacao_kind": "",
+    "ultima_votacao_resultado": ""
+   },
    {
     "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272177",
     "ano": "2026",
@@ -1506,77 +1571,12 @@
     "title": "IND 40004/2026",
     "ultima_votacao_kind": "",
     "ultima_votacao_resultado": ""
-   },
-   {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272136",
-    "ano": "2026",
-    "data_apresentacao": "16/10/2026",
-    "emenda_impositiva": false,
-    "ementa": "Solicitando à Secretaria Municipal de Infraestrutura a realização de tapa buraco na Avenida Fernando Vilela, esq Rua Itabira, no bairro Daniel Fonseca, CEP 38400-327.",
-    "id": "272136",
-    "item_kind": "materia",
-    "tipo": "Indicação",
-    "title": "IND 39967/2026",
-    "ultima_votacao_kind": "",
-    "ultima_votacao_resultado": ""
-   },
-   {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272135",
-    "ano": "2026",
-    "data_apresentacao": "16/10/2026",
-    "emenda_impositiva": false,
-    "ementa": "Solicitando à Secretaria Municipal de Infraestrutura a realização de tapa buraco na Rua Monlevade, esq Av Araguari, no bairro Daniel Fonseca, CEP 38400-320.",
-    "id": "272135",
-    "item_kind": "materia",
-    "tipo": "Indicação",
-    "title": "IND 39966/2026",
-    "ultima_votacao_kind": "",
-    "ultima_votacao_resultado": ""
-   },
-   {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272134",
-    "ano": "2026",
-    "data_apresentacao": "16/10/2026",
-    "emenda_impositiva": false,
-    "ementa": "Solicitando à Secretaria Municipal de Infraestrutura a realização de tapa buraco na Avenida Araguari, 2815, no bairro Daniel Fonseca, CEP 38400-313.",
-    "id": "272134",
-    "item_kind": "materia",
-    "tipo": "Indicação",
-    "title": "IND 39965/2026",
-    "ultima_votacao_kind": "",
-    "ultima_votacao_resultado": ""
-   },
-   {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272133",
-    "ano": "2026",
-    "data_apresentacao": "16/10/2026",
-    "emenda_impositiva": false,
-    "ementa": "Solicitando ao DMAE a realização de água e esgoto - reparo vazamento de esgoto na Avenida Getúlio Vargas, na altura do nº 2767, no bairro Jardim das Palmeiras, CEP 38412-316.",
-    "id": "272133",
-    "item_kind": "materia",
-    "tipo": "Indicação",
-    "title": "IND 39964/2026",
-    "ultima_votacao_kind": "",
-    "ultima_votacao_resultado": ""
-   },
-   {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272132",
-    "ano": "2026",
-    "data_apresentacao": "16/10/2026",
-    "emenda_impositiva": false,
-    "ementa": "Solicitando à Secretaria Municipal de Serviços Urbanos a realização de capina / limpeza - lotes / canteiro central na Rua do Motorista, na altura do nº855, no bairro Jardim das Palmeiras, CEP 38412-286.",
-    "id": "272132",
-    "item_kind": "materia",
-    "tipo": "Indicação",
-    "title": "IND 39963/2026",
-    "ultima_votacao_kind": "",
-    "ultima_votacao_resultado": ""
    }
   ],
   "ordem_dat_apresentacao": "desc",
   "page": 1,
   "page_size": 10,
-  "total": 5063
+  "total": 5068
  },
  "relatorias": {
   "facets": {

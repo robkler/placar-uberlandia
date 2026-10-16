@@ -616,7 +616,7 @@
   "facets": {
    "ano": [
     {
-     "count": 1411,
+     "count": 1412,
      "label": "2026",
      "value": "2026"
     },
@@ -653,7 +653,7 @@
      "value": "PINFO"
     },
     {
-     "count": 17,
+     "count": 18,
      "label": "Projeto de Decreto Legislativo",
      "value": "PDL"
     },
@@ -741,7 +741,7 @@
     },
     {
      "ano": "2026",
-     "count": 8,
+     "count": 9,
      "tipo": "PDL"
     },
     {
@@ -774,7 +774,7 @@
   "facets_todos": {
    "ano": [
     {
-     "count": 1411,
+     "count": 1412,
      "label": "2026",
      "value": "2026"
     },
@@ -811,7 +811,7 @@
      "value": "PINFO"
     },
     {
-     "count": 17,
+     "count": 18,
      "label": "Projeto de Decreto Legislativo",
      "value": "PDL"
     },
@@ -848,6 +848,19 @@
    "tipo_desc": ""
   },
   "items": [
+   {
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272193",
+    "ano": "2026",
+    "data_apresentacao": "16/10/2026",
+    "emenda_impositiva": false,
+    "ementa": "CONCEDE DIPLOMA DE HONRA AO MÉRITO À ACADEMIA MASTER FITNESS",
+    "id": "272193",
+    "item_kind": "materia",
+    "tipo": "Projeto de Decreto Legislativo",
+    "title": "PDL 264/2026",
+    "ultima_votacao_kind": "",
+    "ultima_votacao_resultado": ""
+   },
    {
     "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272178",
     "ano": "2026",
@@ -964,25 +977,12 @@
     "title": "IND 39984/2026",
     "ultima_votacao_kind": "",
     "ultima_votacao_resultado": ""
-   },
-   {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272142",
-    "ano": "2026",
-    "data_apresentacao": "16/10/2026",
-    "emenda_impositiva": false,
-    "ementa": "Solicitando à Secretaria Municipal de Serviços Urbanos a realização de recolhimento de móveis e objetos na Rua Novo Sol, 60, no bairro Custódio Pereira, CEP 38405-211.",
-    "id": "272142",
-    "item_kind": "materia",
-    "tipo": "Indicação",
-    "title": "IND 39973/2026",
-    "ultima_votacao_kind": "",
-    "ultima_votacao_resultado": ""
    }
   ],
   "ordem_dat_apresentacao": "desc",
   "page": 1,
   "page_size": 10,
-  "total": 2795
+  "total": 2796
  },
  "relatorias": {
   "facets": {

@@ -996,7 +996,7 @@
   "facets": {
    "ano": [
     {
-     "count": 2756,
+     "count": 2760,
      "label": "2026",
      "value": "2026"
     },
@@ -1038,7 +1038,7 @@
      "value": "EMEI"
     },
     {
-     "count": 3512,
+     "count": 3516,
      "label": "Indicação",
      "value": "IND"
     },
@@ -1291,7 +1291,7 @@
     },
     {
      "ano": "2026",
-     "count": 2712,
+     "count": 2716,
      "tipo": "IND"
     },
     {
@@ -1334,7 +1334,7 @@
   "facets_todos": {
    "ano": [
     {
-     "count": 2756,
+     "count": 2760,
      "label": "2026",
      "value": "2026"
     },
@@ -1376,7 +1376,7 @@
      "value": "EMEI"
     },
     {
-     "count": 3512,
+     "count": 3516,
      "label": "Indicação",
      "value": "IND"
     },
@@ -1433,6 +1433,58 @@
    "tipo_desc": ""
   },
   "items": [
+   {
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272190",
+    "ano": "2026",
+    "data_apresentacao": "16/10/2026",
+    "emenda_impositiva": false,
+    "ementa": "Solicitando à Secretaria Municipal de Infraestrutura a realização de canaleta - construção / manutenção / reforma na Rua Antônio Pereira de Almeida, 1162, no bairro Morada Nova, CEP 38412-696.",
+    "id": "272190",
+    "item_kind": "materia",
+    "tipo": "Indicação",
+    "title": "IND 40020/2026",
+    "ultima_votacao_kind": "",
+    "ultima_votacao_resultado": ""
+   },
+   {
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272186",
+    "ano": "2026",
+    "data_apresentacao": "16/10/2026",
+    "emenda_impositiva": false,
+    "ementa": "Solicitando à Secretaria Municipal de Serviços Urbanos a realização de calçada / passeio - limpeza / capina / roçagem na Rua Agnelo Fagundes da Costa, em frente ao número 235, no bairro Shopping Park, CEP 38425-562.",
+    "id": "272186",
+    "item_kind": "materia",
+    "tipo": "Indicação",
+    "title": "IND 40016/2026",
+    "ultima_votacao_kind": "",
+    "ultima_votacao_resultado": ""
+   },
+   {
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272185",
+    "ano": "2026",
+    "data_apresentacao": "16/10/2026",
+    "emenda_impositiva": false,
+    "ementa": "Solicitando à Secretaria Municipal de Infraestrutura a realização de tapa buraco na Avenida José Abdulmassih, em toda extensão, no bairro Shopping Park, CEP 38411-476.",
+    "id": "272185",
+    "item_kind": "materia",
+    "tipo": "Indicação",
+    "title": "IND 40015/2026",
+    "ultima_votacao_kind": "",
+    "ultima_votacao_resultado": ""
+   },
+   {
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272183",
+    "ano": "2026",
+    "data_apresentacao": "16/10/2026",
+    "emenda_impositiva": false,
+    "ementa": "Solicitando à Secretaria Municipal de Infraestrutura a realização de tapa buraco na Avenida José Abdulmassih, com a rua Orestes Mendes Ferreira n°865, no bairro Shopping Park, CEP 38411-476.",
+    "id": "272183",
+    "item_kind": "materia",
+    "tipo": "Indicação",
+    "title": "IND 40013/2026",
+    "ultima_votacao_kind": "",
+    "ultima_votacao_resultado": ""
+   },
    {
     "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272159",
     "ano": "2026",
@@ -1510,64 +1562,12 @@
     "title": "IND 39978/2026",
     "ultima_votacao_kind": "",
     "ultima_votacao_resultado": ""
-   },
-   {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272144",
-    "ano": "2026",
-    "data_apresentacao": "16/10/2026",
-    "emenda_impositiva": false,
-    "ementa": "Solicitando à Secretaria Municipal de Infraestrutura a realização de tapa buraco na Avenida José Gonzaga de Freitas, 63, no bairro São Jorge, CEP 38410-597.",
-    "id": "272144",
-    "item_kind": "materia",
-    "tipo": "Indicação",
-    "title": "IND 39975/2026",
-    "ultima_votacao_kind": "",
-    "ultima_votacao_resultado": ""
-   },
-   {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272122",
-    "ano": "2026",
-    "data_apresentacao": "16/10/2026",
-    "emenda_impositiva": false,
-    "ementa": "Solicitando à Secretaria Municipal de Infraestrutura a realização de tapa buraco na Rua Angela Alkimim Santos, em frente o Eco Ponto, no bairro Santa Rosa, CEP 38401-247.",
-    "id": "272122",
-    "item_kind": "materia",
-    "tipo": "Indicação",
-    "title": "IND 39962/2026",
-    "ultima_votacao_kind": "",
-    "ultima_votacao_resultado": ""
-   },
-   {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272120",
-    "ano": "2026",
-    "data_apresentacao": "16/10/2026",
-    "emenda_impositiva": false,
-    "ementa": "Solicitando à Secretaria Municipal de Infraestrutura a realização de tapa buraco na Rua Buriti Alegre, em frente ao número 80, no bairro Bom Jesus, CEP 38400-626.",
-    "id": "272120",
-    "item_kind": "materia",
-    "tipo": "Indicação",
-    "title": "IND 39960/2026",
-    "ultima_votacao_kind": "",
-    "ultima_votacao_resultado": ""
-   },
-   {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272116",
-    "ano": "2026",
-    "data_apresentacao": "16/10/2026",
-    "emenda_impositiva": false,
-    "ementa": "Solicitando ao DMAE a realização de lixo - instalação / troca de caçamba na Avenida José Abdulmassih, em frente ao número 1302, no bairro Shopping Park, CEP 38411-476.",
-    "id": "272116",
-    "item_kind": "materia",
-    "tipo": "Indicação",
-    "title": "IND 39956/2026",
-    "ultima_votacao_kind": "",
-    "ultima_votacao_resultado": ""
    }
   ],
   "ordem_dat_apresentacao": "desc",
   "page": 1,
   "page_size": 10,
-  "total": 9567
+  "total": 9571
  },
  "relatorias": {
   "facets": {

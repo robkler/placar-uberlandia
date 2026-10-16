@@ -1303,7 +1303,7 @@
   "facets": {
    "ano": [
     {
-     "count": 1502,
+     "count": 1504,
      "label": "2026",
      "value": "2026"
     },
@@ -1400,7 +1400,7 @@
      "value": "PELO"
     },
     {
-     "count": 10049,
+     "count": 10051,
      "label": "Requerimento",
      "value": "REQ"
     },
@@ -1768,7 +1768,7 @@
     },
     {
      "ano": "2026",
-     "count": 129,
+     "count": 131,
      "tipo": "REQ"
     },
     {
@@ -1781,7 +1781,7 @@
   "facets_todos": {
    "ano": [
     {
-     "count": 1502,
+     "count": 1504,
      "label": "2026",
      "value": "2026"
     },
@@ -1878,7 +1878,7 @@
      "value": "PELO"
     },
     {
-     "count": 10049,
+     "count": 10051,
      "label": "Requerimento",
      "value": "REQ"
     },
@@ -1895,6 +1895,32 @@
    "tipo_desc": ""
   },
   "items": [
+   {
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272195",
+    "ano": "2026",
+    "data_apresentacao": "16/10/2026",
+    "emenda_impositiva": false,
+    "ementa": "a realização de vistoria, identificação e notificação das empresas concessionárias e permissionárias responsáveis pela retirada e regularização de fios e cabos soltos, rompidos, em baixa altura, sem identificação ou abandonados em postes e vias públicas na Rua R. Betel  no  Bairro Jardim Canaã visando à prevenção de acidentes e à segurança da população.",
+    "id": "272195",
+    "item_kind": "materia",
+    "tipo": "Requerimento",
+    "title": "REQ 21367/2026",
+    "ultima_votacao_kind": "",
+    "ultima_votacao_resultado": ""
+   },
+   {
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272194",
+    "ano": "2026",
+    "data_apresentacao": "16/10/2026",
+    "emenda_impositiva": false,
+    "ementa": "Requer à Secretaria Municipal de Serviços Urbanos a realização de vistoria, identificação e notificação das empresas concessionárias e permissionárias responsáveis pela retirada e regularização de fios e cabos soltos, rompidos, em baixa altura, sem identificação ou abandonados em postes e vias públicas na Rua do  Jornalista  no   Bairro Planalto  visando à prevenção de acidentes e à segurança da população.",
+    "id": "272194",
+    "item_kind": "materia",
+    "tipo": "Requerimento",
+    "title": "REQ 21366/2026",
+    "ultima_votacao_kind": "",
+    "ultima_votacao_resultado": ""
+   },
    {
     "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=271994",
     "ano": "2026",
@@ -1998,38 +2024,12 @@
     "title": "IND 39684/2026",
     "ultima_votacao_kind": "votacao",
     "ultima_votacao_resultado": "Aprovado"
-   },
-   {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=271802",
-    "ano": "2026",
-    "data_apresentacao": "13/10/2026",
-    "emenda_impositiva": false,
-    "ementa": "Solicitando ao PRODAUB a realização de softwares e hardwares da prefeitura na Avenida Anselmo Alves dos Santos, 600, no bairro Santa Mônica, CEP 38408-900.",
-    "id": "271802",
-    "item_kind": "materia",
-    "tipo": "Indicação",
-    "title": "IND 39677/2026",
-    "ultima_votacao_kind": "votacao",
-    "ultima_votacao_resultado": "Aprovado"
-   },
-   {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=271801",
-    "ano": "2026",
-    "data_apresentacao": "13/10/2026",
-    "emenda_impositiva": false,
-    "ementa": "Solicitando à Secretaria Municipal de Trânsito e Transportes a realização de ponto de ônibus - construção de cobertura na Rua do Advogado, Em frente ao numero 251, no bairro Jardim das Palmeiras, CEP 38412-312.",
-    "id": "271801",
-    "item_kind": "materia",
-    "tipo": "Indicação",
-    "title": "IND 39676/2026",
-    "ultima_votacao_kind": "votacao",
-    "ultima_votacao_resultado": "Aprovado"
    }
   ],
   "ordem_dat_apresentacao": "desc",
   "page": 1,
   "page_size": 10,
-  "total": 13189
+  "total": 13191
  },
  "relatorias": {
   "facets": {
