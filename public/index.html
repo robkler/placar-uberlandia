@@ -162,6 +162,24 @@ footer p{max-width:85ch}
 body{margin:0}
 img{max-width:100%}
 [hidden]{display:none!important}
+/* chat */
+.chat-fab{position:fixed;right:max(16px,env(safe-area-inset-right,0px));bottom:calc(16px + env(safe-area-inset-bottom,0px));z-index:15;font:inherit;font-family:var(--f-display);font-stretch:85%;font-weight:700;font-size:15px;letter-spacing:.03em;background:var(--accent);color:var(--surface);border:0;border-radius:999px;padding:12px 18px;cursor:pointer;box-shadow:0 4px 16px rgba(0,0,0,.25)}
+.chat{position:fixed;top:0;right:0;bottom:0;width:min(460px,100%);z-index:22;background:var(--surface);color:var(--ink);display:flex;flex-direction:column;box-shadow:-8px 0 30px rgba(0,0,0,.2);padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
+.chat header{display:flex;align-items:center;justify-content:space-between;gap:8px;padding:12px 16px;border-bottom:1px solid var(--line)}
+.chat header b{font-family:var(--f-display);font-stretch:85%;font-size:17px}
+.chat .log{flex:1;overflow-y:auto;padding:14px 16px;display:flex;flex-direction:column;gap:10px}
+.chat .m{max-width:92%;padding:9px 12px;border-radius:12px;font-size:14px;line-height:1.5;overflow-wrap:anywhere}
+.chat .m p{margin:0 0 .5em}.chat .m p:last-child,.chat .m ul:last-child{margin-bottom:0}
+.chat .m ul{margin:0 0 .5em;padding-left:1.2em}
+.chat .u{align-self:flex-end;background:var(--accent);color:var(--surface);white-space:pre-wrap}
+.chat .a{align-self:flex-start;background:var(--sunk)}
+.chat .a.err{background:none;border:1px solid var(--bad);color:var(--bad)}
+.chat .dica{color:var(--muted);font-size:13px;margin:0}
+.chat .aviso-ia{margin:0;padding:6px 16px 0;font-size:12px;color:var(--muted)}
+.chat form{display:flex;gap:8px;padding:10px 16px 14px}
+.chat form input{flex:1}
+.chat form button{font:inherit;font-weight:600;background:var(--accent);color:var(--surface);border:0;border-radius:8px;padding:8px 14px;cursor:pointer}
+.chat form button:disabled{opacity:.5;cursor:default}
 </style>
 </head>
 <body>
@@ -319,6 +337,13 @@ img{max-width:100%}
 <div class="scrim" id="scrim" hidden></div>
 <aside class="sheet" id="sheet" hidden role="dialog" aria-modal="true" aria-label="Detalhes"></aside>
 <div class="tip" id="tip" hidden></div>
+<button class="chat-fab" id="chat-fab" type="button" aria-haspopup="dialog" aria-controls="chat">Pergunte sobre os dados</button>
+<section class="chat" id="chat" hidden role="dialog" aria-label="Pergunte sobre os dados">
+  <header><b>Pergunte sobre os dados</b><button class="close" id="chat-x" type="button" style="position:static;float:none">Fechar</button></header>
+  <div class="log" id="chat-log" role="log" aria-live="polite"><p class="dica">Pergunte, por exemplo, quem mais faltou ou como um parlamentar votou.</p></div>
+  <p class="aviso-ia">Respostas geradas por IA a partir dos dados do placar. Podem conter erros; confira na fonte.</p>
+  <form id="chat-form"><input id="chat-in" type="text" maxlength="500" autocomplete="off" placeholder="Digite sua pergunta" aria-label="Sua pergunta"><button id="chat-send" type="submit">Enviar</button></form>
+</section>
 
 <script>
 /* compartilhado: painel lateral e troca entre Uberlândia e Câmara dos Deputados */
@@ -333,7 +358,7 @@ window.udiPronto=new Promise(r=>{window.udiResolve=r});
 const POL=/^#([ved])\/(\d+)$/;
 window.abrirPolitico=async function(tipo,id){
   id=String(id);let ok=false;
-  if(tipo==='v'){window.mostrarNivel('udi');await window.udiPronto;window.udiTab('ver');ok=!!window.abrirVer(id);if(!ok)try{history.replaceState(null,'','#ver')}catch(e){}}
+  if(tipo==='v'){window.mostrarNivel('udi');await window.udiPronto;if(window.udiTab&&window.abrirVer){window.udiTab('ver');ok=!!window.abrirVer(id)};if(!ok)try{history.replaceState(null,'','#ver')}catch(e){}}
   else if(tipo==='e'){window.mostrarNivel('mg','est');await window.carregarMG();ok=!!(window.abrirEstadual&&window.abrirEstadual(id))}
   else if(tipo==='d'){window.mostrarNivel('fed','dep');await window.carregarFederal();ok=!!(window.abrirFederal&&window.abrirFederal(id))}
   return ok};
@@ -535,7 +560,7 @@ document.getElementById('carregando').hidden=true;
 }
 fetch('data.json',{cache:'no-cache'}).then(r=>{if(!r.ok)throw new Error('HTTP '+r.status);return r.json()}).then(iniciar).catch(e=>{
  const el=document.getElementById('carregando');el.hidden=false;el.className='aviso erro';
- el.textContent='Não foi possível carregar os dados ('+e.message+'). Recarregue a página em alguns instantes.';console.error(e)});
+ el.textContent='Não foi possível carregar os dados ('+e.message+'). Recarregue a página em alguns instantes.';console.error(e);window.udiResolve()});
 </script>
 <script>
 /* ===== Câmara dos Deputados ===== */
@@ -824,6 +849,49 @@ function renderGov(){
    <p class="sub">Despesas liquidadas por área, total de ${bi(lf.despesa)} (${brl(lf.despesa/pop)} por habitante, população estimada de ${nint(pop)}). Previdência inclui aposentadorias e pensões dos servidores estaduais.</p></div>
   <div class="panel"><h3>Saúde, educação e segurança ao longo do tempo</h3><div style="overflow-x:auto"><table class="vt num" style="cursor:default"><tr style="cursor:default"><td><b>Ano</b></td><td style="text-align:right"><b>Saúde</b></td><td style="text-align:right"><b>Educação</b></td><td style="text-align:right"><b>Segurança pública</b></td><td style="text-align:right"><b>Despesa total</b></td></tr>${fin.map(f=>`<tr style="cursor:default"><td>${f.ano}</td><td style="text-align:right">${bi(f.funcoes['Saúde']||0)}</td><td style="text-align:right">${bi(f.funcoes['Educação']||0)}</td><td style="text-align:right">${bi(f.funcoes['Segurança Pública']||0)}</td><td style="text-align:right">${bi(f.despesa)}</td></tr>`).join('')}</table></div></div>`;
 }
+})();
+</script>
+<script>
+/* chat: painel de perguntas ao agente (/api/chat) */
+(function(){
+const $=s=>document.querySelector(s),box=$('#chat'),log=$('#chat-log'),inp=$('#chat-in'),btn=$('#chat-send'),fab=$('#chat-fab');
+const hist=[];let busy=false;
+const esc=s=>s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;').replace(/'/g,'&#39;');
+const inline=s=>s.replace(/\[([^\]\n]+)\]\((#[ved]\/\d+|https:\/\/[^\s)*"]+)\)/g,(_,t,u)=>u[0]==='#'?'<a href="'+u+'">'+t+'</a>':'<a href="'+u+'" target="_blank" rel="noopener">'+t+'</a>').replace(/\*\*([^*\n]+)\*\*/g,'<b>$1</b>');
+window.chatRender=function(txt){
+  const out=[];let ul=false,p=[];
+  const fp=()=>{if(p.length)out.push('<p>'+p.join('<br>')+'</p>');p=[]};
+  const fu=()=>{if(ul)out.push('</ul>');ul=false};
+  for(const l of esc(txt).split('\n')){
+    const m=/^\s*- (.*)$/.exec(l);
+    if(m){fp();if(!ul){out.push('<ul>');ul=true}out.push('<li>'+inline(m[1])+'</li>')}
+    else if(!l.trim()){fp();fu()}
+    else{fu();p.push(inline(l))}}
+  fp();fu();return out.join('')};
+const add=(cls,html,isText)=>{const d=document.createElement('div');d.className='m '+cls;if(isText)d.textContent=html;else d.innerHTML=html;log.appendChild(d);log.scrollTop=log.scrollHeight;return d};
+const abrir=()=>{box.hidden=false;fab.hidden=true;inp.focus()};
+const fechar=()=>{box.hidden=true;fab.hidden=false;fab.focus()};
+fab.addEventListener('click',abrir);$('#chat-x').addEventListener('click',fechar);
+document.addEventListener('keydown',e=>{if(e.key==='Escape'&&!box.hidden)fechar()});
+log.addEventListener('click',e=>{const a=e.target.closest('a[href^="#"]');if(!a)return;e.preventDefault();const m=/^#([ved])\/(\d+)$/.exec(a.getAttribute('href'));if(!m)return;box.hidden=true;fab.hidden=false;window.abrirPolitico(m[1],m[2])});
+$('#chat-form').addEventListener('submit',async e=>{
+  e.preventDefault();const q=inp.value.trim();if(!q||busy)return;
+  busy=true;btn.disabled=true;inp.value='';
+  hist.push({papel:'usuario',texto:q});add('u',q,true);
+  const el=add('a','…');log.setAttribute('aria-busy','true');
+  const falha=t=>{el.className='m a err';el.textContent=t;hist.pop();inp.value=q};
+  try{
+    const r=await fetch('/api/chat',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({mensagens:hist.slice(-10).map(m=>({papel:m.papel,texto:m.texto.slice(0,2000)}))})});
+    if(r.status===429)falha('Muitas perguntas seguidas. Espere um minuto.');
+    else if(r.status===400){let t='Pedido inválido.';try{t=(await r.json()).erro||t}catch(_){}falha(t)}
+    else if(!r.ok||!r.body)falha('Não consegui responder agora. Tente de novo.');
+    else{
+      const rd=r.body.getReader(),dec=new TextDecoder();let txt='';
+      for(;;){const{done,value}=await rd.read();if(done)break;txt+=dec.decode(value,{stream:true});el.innerHTML=window.chatRender(txt);log.scrollTop=log.scrollHeight}
+      txt+=dec.decode();
+      if(txt.trim()){el.innerHTML=window.chatRender(txt);hist.push({papel:'assistente',texto:txt})}else falha('Não consegui responder agora. Tente de novo.')}
+  }catch(_){falha('Não consegui responder agora. Tente de novo.')}
+  log.removeAttribute('aria-busy');busy=false;btn.disabled=false;if(!box.hidden)inp.focus()});
 })();
 </script>
 </body>
