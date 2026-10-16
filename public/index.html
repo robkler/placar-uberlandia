@@ -325,10 +325,19 @@ img{max-width:100%}
 (function(){
 const $=s=>document.querySelector(s);let last=null;
 window.openSheet=function(html){last=last||document.activeElement;$('#sheet').innerHTML='<button class="close" id="cl">Fechar</button>'+html;$('#sheet').hidden=false;$('#scrim').hidden=false;$('#sheet').scrollTop=0;document.body.style.overflow='hidden';$('#cl').addEventListener('click',window.closeSheet);$('#cl').focus()};
-window.closeSheet=function(){$('#sheet').hidden=true;$('#scrim').hidden=true;document.body.style.overflow='';if(last)last.focus();last=null};
+window.closeSheet=function(){if(/^#[ved]\/\d+$/.test(location.hash)){const t=['ver','vot','pref','dep','fvot','est','gov'].find(k=>$('#p-'+k)&&!$('#p-'+k).closest('[hidden]'));try{history.replaceState(null,'','#'+(t||'ver'))}catch(e){}}$('#sheet').hidden=true;$('#scrim').hidden=true;document.body.style.overflow='';if(last)last.focus();last=null};
 $('#scrim').addEventListener('click',window.closeSheet);
 document.addEventListener('keydown',e=>{if(e.key==='Escape'&&!$('#sheet').hidden)window.closeSheet()});
 const FED=['dep','fvot'], MG=['est','gov'];
+window.udiPronto=new Promise(r=>{window.udiResolve=r});
+const POL=/^#([ved])\/(\d+)$/;
+window.abrirPolitico=async function(tipo,id){
+  id=String(id);let ok=false;
+  if(tipo==='v'){window.mostrarNivel('udi');await window.udiPronto;window.udiTab('ver');ok=!!window.abrirVer(id);if(!ok)try{history.replaceState(null,'','#ver')}catch(e){}}
+  else if(tipo==='e'){window.mostrarNivel('mg','est');await window.carregarMG();ok=!!(window.abrirEstadual&&window.abrirEstadual(id))}
+  else if(tipo==='d'){window.mostrarNivel('fed','dep');await window.carregarFederal();ok=!!(window.abrirFederal&&window.abrirFederal(id))}
+  return ok};
+const porHash=()=>{const m=POL.exec(location.hash);if(m)window.abrirPolitico(m[1],m[2]);return !!m};
 window.mostrarNivel=function(n,hash){
   document.querySelectorAll('[data-nivel]').forEach(b=>b.setAttribute('aria-selected',b.dataset.nivel===n));
   $('#lvl-udi').hidden=n!=='udi';$('#lvl-fed').hidden=n!=='fed';$('#lvl-mg').hidden=n!=='mg';
@@ -340,8 +349,8 @@ window.mostrarNivel=function(n,hash){
 };
 document.querySelectorAll('[data-nivel]').forEach(b=>b.addEventListener('click',()=>window.mostrarNivel(b.dataset.nivel)));
 const h=(location.hash||'').slice(1);
-document.addEventListener('DOMContentLoaded',()=>{if(FED.includes(h))window.mostrarNivel('fed',h);else if(MG.includes(h))window.mostrarNivel('mg',h)});
-window.addEventListener('hashchange',()=>{const x=(location.hash||'').slice(1);if(FED.includes(x))window.mostrarNivel('fed',x);else if(MG.includes(x))window.mostrarNivel('mg',x)});
+document.addEventListener('DOMContentLoaded',()=>{if(porHash());else if(FED.includes(h))window.mostrarNivel('fed',h);else if(MG.includes(h))window.mostrarNivel('mg',h)});
+window.addEventListener('hashchange',()=>{if(porHash())return;const x=(location.hash||'').slice(1);if(FED.includes(x))window.mostrarNivel('fed',x);else if(MG.includes(x))window.mostrarNivel('mg',x)});
 })();
 </script>
 <script>
@@ -373,6 +382,7 @@ $('#board').innerHTML=[
 ].map(([v,k])=>`<div><div class="v num">${v}</div><div class="k">${k}</div></div>`).join('');
 
 /* tabs */
+window.udiTab=t=>showTab(t);window.abrirVer=id=>byId[id]?(openVer(id),true):false;
 function showTab(t,push){document.querySelectorAll('.tabs button[data-tab]').forEach(b=>b.setAttribute('aria-selected',b.dataset.tab===t));
  ['ver','vot','pref'].forEach(k=>$('#p-'+k).hidden=k!==t);
  if(push){try{history.replaceState(null,'','#'+t)}catch(e){}}}
@@ -426,7 +436,8 @@ $('#vlist').addEventListener('click',e=>{const c=e.target.closest('.vrow');if(c)
 const rows=(arr,fmt)=>{const mx=Math.max(...arr.map(a=>a[1]),1);return `<div class="rows">${arr.map(([k,v])=>`<span>${esc(k)}</span><span class="num">${fmt(v)}</span><div class="b"><span style="width:${v/mx*100}%"></span></div>`).join('')}</div>`};
 
 function openVer(id){
- const v=byId[id], t=v.tse||{}; const c=cls(v.p);
+ const v=byId[id]; if(!v)return false; try{history.replaceState(null,'','#v/'+id)}catch(e){}
+ const t=v.tse||{}; const c=cls(v.p);
  const my=VOT.filter(x=>x.votos[id]);
  const info=[t.idade?t.idade+' anos':null,t.ocupacao,t.escolaridade].filter(Boolean).join(' · ');
  const prev=v.mandatosAnteriores.map(m=>`${m.ini}–${m.fim} (${(m.natureza||'').toLowerCase()}${m.votos?', '+nint(m.votos)+' votos':''})`).join('; ');
@@ -519,6 +530,7 @@ function renderPref(){
 const tip=$('#tip');
 document.addEventListener('mousemove',e=>{const t=e.target.closest('[data-tip]');if(!t){tip.hidden=true;return}tip.textContent=t.dataset.tip;tip.hidden=false;tip.style.left=Math.min(e.clientX+12,innerWidth-270)+'px';tip.style.top=(e.clientY+14)+'px'});
 renderVer();renderVot(true);renderPref();
+window.udiResolve();
 document.getElementById('carregando').hidden=true;
 }
 fetch('data.json',{cache:'no-cache'}).then(r=>{if(!r.ok)throw new Error('HTTP '+r.status);return r.json()}).then(iniciar).catch(e=>{
@@ -544,6 +556,7 @@ let F=null, carregando=null, byId={}, pos={};
 function seg(a){const t=a[0]+a[1]+a[2]||1;return `<div class="tally" aria-hidden="true" style="height:6px;margin-top:6px"><span style="flex:${a[0]/t};background:var(--ok)"></span>${a[1]?`<span style="flex:${a[1]/t};background:var(--aus)"></span>`:''}${a[2]?`<span style="flex:${a[2]/t};background:var(--bad)"></span>`:''}</div>`}
 function chip(c){return c==='P'?'<span class="chip v-Pres">Art. 17</span>':`<span class="chip ${VCLS[c]||'v-Ausente'}">${VOTO[c]||'—'}</span>`}
 
+window.abrirFederal=id=>byId[id]?(openDep(id),true):false;
 window.carregarFederal=function(){
   if(F) return Promise.resolve(F);
   if(carregando) return carregando;
@@ -620,6 +633,7 @@ function renderVot(reset){
 
 function rows(arr,fmt){const mx=Math.max(...arr.map(a=>a[1]),1);return `<div class="rows">${arr.map(([k,v])=>`<span>${esc(k)}</span><span class="num">${fmt(v)}</span><div class="b"><span style="width:${v/mx*100}%"></span></div>`).join('')}</div>`}
 function openDep(id){
+ try{history.replaceState(null,'','#d/'+id)}catch(e){}
  const d=byId[id], t=d.tse, p=pos[id], c=cls(d.pct);
  const years=Object.entries(d.anos).map(([y,a])=>{const tt=a[0]+a[1]+a[2];return `<div class="hbar num" style="grid-template-columns:44px minmax(0,1fr) 110px"><span>${y}</span>${tt?seg(a).replace('margin-top:6px','margin-top:0;height:10px'):'<div></div>'}<span class="val">${tt?`${a[0]}/${tt} · ${pct(a[0]/tt)}`:'fora do exercício'}</span></div>`}).join('');
  const ct=d.com[0]+d.com[1]+d.com[2];
@@ -699,6 +713,7 @@ const cap=s=>s?s.toLowerCase().replace(/(^|\s)\S/g,m=>m.toUpperCase()):'';
 const idade=s=>{if(!s)return null;const [d,m,a]=s.split('/').map(Number);const h=new Date();let i=h.getFullYear()-a;if(h.getMonth()+1<m||(h.getMonth()+1===m&&h.getDate()<d))i--;return i};
 let M=null,carregando=null,byId={};
 
+window.abrirEstadual=id=>byId[id]?(openDep(id),true):false;
 window.carregarMG=function(){
   if(M)return Promise.resolve(M);if(carregando)return carregando;
   carregando=fetch('mg.json',{cache:'no-cache'}).then(r=>{if(!r.ok)throw new Error('HTTP '+r.status);return r.json()}).then(d=>{M=d;iniciar();return d}).catch(e=>{
@@ -754,6 +769,7 @@ function renderDep(){
 }
 
 function openDep(id){
+  try{history.replaceState(null,'','#e/'+id)}catch(e){}
   const d=byId[id],t=d.tse,id_=idade(d.nasc);
   const info=[id_?id_+' anos':null,d.profissao,d.naturalidade?'natural de '+d.naturalidade:null].filter(Boolean).join(' · ');
   const leis=d.props.leisLista.length?`<ul style="margin:8px 0 0;padding-left:18px;font-size:13px">${d.props.leisLista.map(l=>`<li style="margin-bottom:6px"><b>${esc(l.p)}</b> · ${esc(l.e)}</li>`).join('')}</ul>`:'<p class="sub">Nenhum projeto de autoria apresentado desde 2023 virou lei até agora.</p>';
