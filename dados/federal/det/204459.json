@@ -1,0 +1,41 @@
+{
+ "id": 204459,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204459",
+ "nomeCivil": "DANIELA MOTE DE SOUZA CARNEIRO",
+ "ultimoStatus": {
+  "id": 204459,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204459",
+  "nome": "Daniela do Waguinho",
+  "siglaPartido": "REPUBLICANOS",
+  "uriPartido": null,
+  "siglaUf": "RJ",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204459.jpg",
+  "email": null,
+  "data": "2023-07-17",
+  "nomeEleitoral": "Daniela do Waguinho",
+  "gabinete": {
+   "nome": "550",
+   "predio": "4",
+   "sala": "550",
+   "andar": "5",
+   "telefone": "3215-5550",
+   "email": "dep.danieladowaguinho@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": "Ofício s/n/2023, de 17/7/2023, da Dep. Daniela do Waguinho."
+ },
+ "sexo": "F",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/https:",
+  "https://www.facebook.com/share",
+  "https://www.instagram.com/danielacarneirooficial"
+ ],
+ "dataNascimento": "1976-02-10",
+ "dataFalecimento": null,
+ "ufNascimento": "RJ",
+ "municipioNascimento": "Rio de Janeiro",
+ "escolaridade": "Pós-Graduação"
+}

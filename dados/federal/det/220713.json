@@ -1,0 +1,42 @@
+{
+ "id": 220713,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220713",
+ "nomeCivil": "SAULLO VELAME VIANNA",
+ "ultimoStatus": {
+  "id": 220713,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220713",
+  "nome": "Saullo Vianna",
+  "siglaPartido": "MDB",
+  "uriPartido": null,
+  "siglaUf": "AM",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220713.jpg",
+  "email": null,
+  "data": "2026-03-04",
+  "nomeEleitoral": "Saullo Vianna",
+  "gabinete": {
+   "nome": "607",
+   "predio": "4",
+   "sala": "607",
+   "andar": "6",
+   "telefone": "3215-5607",
+   "email": "dep.saullovianna@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": ""
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/saullovianna",
+  "https://www.facebook.com/saulloviannaa",
+  "https://www.instagram.com/saullovianna",
+  "https://youtube.com/SaulloVianna"
+ ],
+ "dataNascimento": "1984-06-22",
+ "dataFalecimento": null,
+ "ufNascimento": "AM",
+ "municipioNascimento": "Manaus",
+ "escolaridade": "Superior"
+}

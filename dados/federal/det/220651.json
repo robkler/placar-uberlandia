@@ -1,0 +1,39 @@
+{
+ "id": 220651,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220651",
+ "nomeCivil": "SIMONE APARECIDA MARQUETO CURRALADAS",
+ "ultimoStatus": {
+  "id": 220651,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220651",
+  "nome": "Simone Marquetto",
+  "siglaPartido": "PP",
+  "uriPartido": null,
+  "siglaUf": "SP",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220651.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Simone Marquetto",
+  "gabinete": {
+   "nome": "834",
+   "predio": "4",
+   "sala": "834",
+   "andar": "8",
+   "telefone": "3215-5834",
+   "email": "dep.simonemarquetto@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "F",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://www.facebook.com/simonemarquetto"
+ ],
+ "dataNascimento": "1975-09-20",
+ "dataFalecimento": null,
+ "ufNascimento": "SP",
+ "municipioNascimento": "São Paulo",
+ "escolaridade": "Superior"
+}

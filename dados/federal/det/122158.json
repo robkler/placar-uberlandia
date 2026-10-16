@@ -1,0 +1,37 @@
+{
+ "id": 122158,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/122158",
+ "nomeCivil": "PEDRO PAULO CARVALHO TEIXEIRA",
+ "ultimoStatus": {
+  "id": 122158,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/122158",
+  "nome": "Pedro Paulo",
+  "siglaPartido": "PSD",
+  "uriPartido": null,
+  "siglaUf": "RJ",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/122158.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Pedro Paulo",
+  "gabinete": {
+   "nome": "727",
+   "predio": "4",
+   "sala": "727",
+   "andar": "7",
+   "telefone": "3215-5727",
+   "email": "dep.pedropaulo@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [],
+ "dataNascimento": "1972-06-29",
+ "dataFalecimento": null,
+ "ufNascimento": "RJ",
+ "municipioNascimento": "Rio de Janeiro",
+ "escolaridade": "Mestrado"
+}

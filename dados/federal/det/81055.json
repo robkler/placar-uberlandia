@@ -1,0 +1,42 @@
+{
+ "id": 81055,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/81055",
+ "nomeCivil": "MÁRCIO JERRY SARAIVA BARROSO",
+ "ultimoStatus": {
+  "id": 81055,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/81055",
+  "nome": "Márcio Jerry",
+  "siglaPartido": "PCdoB",
+  "uriPartido": null,
+  "siglaUf": "MA",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/81055.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Márcio Jerry",
+  "gabinete": {
+   "nome": "195",
+   "predio": "3",
+   "sala": "195",
+   "andar": null,
+   "telefone": "3215-5195",
+   "email": "dep.marciojerry@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/marciojerry",
+  "https://www.facebook.com/marciojerry",
+  "https://www.instagram.com/marciojerry",
+  "https://youtube.com/marciojerry"
+ ],
+ "dataNascimento": "1966-11-14",
+ "dataFalecimento": null,
+ "ufNascimento": "MA",
+ "municipioNascimento": "Colinas",
+ "escolaridade": "Superior"
+}

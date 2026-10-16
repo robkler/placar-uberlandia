@@ -1,0 +1,42 @@
+{
+ "id": 204353,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204353",
+ "nomeCivil": "ALINE PARANHOS VARONIL GURGEL",
+ "ultimoStatus": {
+  "id": 204353,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204353",
+  "nome": "Aline Gurgel",
+  "siglaPartido": "UNIÃO",
+  "uriPartido": null,
+  "siglaUf": "AP",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204353.jpg",
+  "email": null,
+  "data": "2026-04-01",
+  "nomeEleitoral": "Aline Gurgel",
+  "gabinete": {
+   "nome": "403",
+   "predio": "4",
+   "sala": "403",
+   "andar": "4",
+   "telefone": "3215-5403",
+   "email": "dep.alinegurgel@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": ""
+ },
+ "sexo": "F",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/https:",
+  "https://www.facebook.com/dep.alinegurgel",
+  "https://www.instagram.com/dep_alinegurgel",
+  "https://youtube.com/channel/UC7v2Ng9B1UAxhEypPw5cEag"
+ ],
+ "dataNascimento": "1980-11-25",
+ "dataFalecimento": null,
+ "ufNascimento": "AP",
+ "municipioNascimento": "Macapá",
+ "escolaridade": "Superior"
+}

@@ -1,0 +1,37 @@
+{
+ "id": 220539,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220539",
+ "nomeCivil": "STÉLIO DENER DE SOUZA CRUZ",
+ "ultimoStatus": {
+  "id": 220539,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220539",
+  "nome": "Defensor Stélio Dener",
+  "siglaPartido": "UNIÃO",
+  "uriPartido": null,
+  "siglaUf": "RR",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220539.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Defensor Stélio Dener",
+  "gabinete": {
+   "nome": "435",
+   "predio": "4",
+   "sala": "435",
+   "andar": "4",
+   "telefone": "3215-5435",
+   "email": "dep.defensorsteliodener@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [],
+ "dataNascimento": "1972-11-16",
+ "dataFalecimento": null,
+ "ufNascimento": "RR",
+ "municipioNascimento": "Boa Vista",
+ "escolaridade": null
+}

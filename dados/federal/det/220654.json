@@ -1,0 +1,37 @@
+{
+ "id": 220654,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220654",
+ "nomeCivil": "PAULO FRANCISCO MUNIZ BILYNSKYJ",
+ "ultimoStatus": {
+  "id": 220654,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220654",
+  "nome": "Delegado Paulo Bilynskyj",
+  "siglaPartido": "PL",
+  "uriPartido": null,
+  "siglaUf": "SP",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220654.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Delegado Paulo Bilynskyj",
+  "gabinete": {
+   "nome": "509",
+   "predio": "4",
+   "sala": "509",
+   "andar": "5",
+   "telefone": "3215-5509",
+   "email": "dep.delegadopaulobilynskyj@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [],
+ "dataNascimento": "1987-03-10",
+ "dataFalecimento": null,
+ "ufNascimento": "SP",
+ "municipioNascimento": "São Paulo",
+ "escolaridade": "Pós-Graduação"
+}

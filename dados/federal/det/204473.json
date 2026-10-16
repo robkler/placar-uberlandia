@@ -1,0 +1,37 @@
+{
+ "id": 204473,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204473",
+ "nomeCivil": "ELIÉSER GIRÃO MONTEIRO FILHO",
+ "ultimoStatus": {
+  "id": 204473,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204473",
+  "nome": "General Girão",
+  "siglaPartido": "PL",
+  "uriPartido": null,
+  "siglaUf": "RN",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204473.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "General Girão",
+  "gabinete": {
+   "nome": "914",
+   "predio": "4",
+   "sala": "914",
+   "andar": "9",
+   "telefone": "3215-5914",
+   "email": "dep.generalgirao@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [],
+ "dataNascimento": "1955-05-08",
+ "dataFalecimento": null,
+ "ufNascimento": "CE",
+ "municipioNascimento": "Fortaleza",
+ "escolaridade": "Doutorado"
+}

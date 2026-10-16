@@ -1,0 +1,42 @@
+{
+ "id": 160556,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160556",
+ "nomeCivil": "JOÃO CARLOS SIQUEIRA",
+ "ultimoStatus": {
+  "id": 160556,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160556",
+  "nome": "Padre João",
+  "siglaPartido": "PT",
+  "uriPartido": null,
+  "siglaUf": "MG",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160556.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Padre João",
+  "gabinete": {
+   "nome": "762",
+   "predio": "4",
+   "sala": "762",
+   "andar": "7",
+   "telefone": "3215-5762",
+   "email": "dep.padrejoao@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/dep_padrejoao",
+  "https://www.facebook.com/padrejoao",
+  "https://www.instagram.com/dep_padrejoao",
+  "https://youtube.com/channel/UC3xn6en0oZZdxt56VW8PS9A"
+ ],
+ "dataNascimento": "1967-02-28",
+ "dataFalecimento": null,
+ "ufNascimento": "MG",
+ "municipioNascimento": "Urucânia",
+ "escolaridade": "Superior"
+}

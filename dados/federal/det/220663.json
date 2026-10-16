@@ -1,0 +1,37 @@
+{
+ "id": 220663,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220663",
+ "nomeCivil": "JOSÉ ERIBERTO MEDEIROS DE OLIVEIRA",
+ "ultimoStatus": {
+  "id": 220663,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220663",
+  "nome": "Eriberto Medeiros",
+  "siglaPartido": "PSB",
+  "uriPartido": null,
+  "siglaUf": "PE",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220663.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Eriberto Medeiros",
+  "gabinete": {
+   "nome": "311",
+   "predio": "4",
+   "sala": "311",
+   "andar": "3",
+   "telefone": "3215-5311",
+   "email": "dep.eribertomedeiros@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [],
+ "dataNascimento": "1965-09-26",
+ "dataFalecimento": null,
+ "ufNascimento": "PE",
+ "municipioNascimento": "Recife",
+ "escolaridade": "Superior"
+}

@@ -1,0 +1,42 @@
+{
+ "id": 204539,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204539",
+ "nomeCivil": "HERCÍLIO ARAÚJO DINIZ FILHO",
+ "ultimoStatus": {
+  "id": 204539,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204539",
+  "nome": "Hercílio Coelho Diniz",
+  "siglaPartido": "MDB",
+  "uriPartido": null,
+  "siglaUf": "MG",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204539.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Hercílio Coelho Diniz",
+  "gabinete": {
+   "nome": "510",
+   "predio": "4",
+   "sala": "510",
+   "andar": "5",
+   "telefone": "3215-5510",
+   "email": "dep.herciliocoelhodiniz@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/herciliodiniz",
+  "https://www.facebook.com/herciliocoelhodinizoficial",
+  "https://www.instagram.com/herciliocoelhodinizoficial",
+  "https://youtube.com/HercílioCoelhoDinizOficial"
+ ],
+ "dataNascimento": "1963-09-14",
+ "dataFalecimento": null,
+ "ufNascimento": "MG",
+ "municipioNascimento": "Governador Valadares",
+ "escolaridade": "Superior Incompleto"
+}

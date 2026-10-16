@@ -1,0 +1,37 @@
+{
+ "id": 74848,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74848",
+ "nomeCivil": "JANDIRA FEGHALI",
+ "ultimoStatus": {
+  "id": 74848,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74848",
+  "nome": "Jandira Feghali",
+  "siglaPartido": "PCdoB",
+  "uriPartido": null,
+  "siglaUf": "RJ",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74848.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Jandira Feghali",
+  "gabinete": {
+   "nome": "622",
+   "predio": "4",
+   "sala": "622",
+   "andar": "6",
+   "telefone": "3215-5622",
+   "email": "dep.jandirafeghali@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "F",
+ "urlWebsite": null,
+ "redeSocial": [],
+ "dataNascimento": "1957-05-17",
+ "dataFalecimento": null,
+ "ufNascimento": "PR",
+ "municipioNascimento": "Curitiba",
+ "escolaridade": "Pós-Graduação"
+}

@@ -1,0 +1,42 @@
+{
+ "id": 204534,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204534",
+ "nomeCivil": "TABATA CLAUDIA AMARAL DE PONTES",
+ "ultimoStatus": {
+  "id": 204534,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204534",
+  "nome": "Tabata Amaral",
+  "siglaPartido": "PSB",
+  "uriPartido": null,
+  "siglaUf": "SP",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204534.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Tabata Amaral",
+  "gabinete": {
+   "nome": "848",
+   "predio": "4",
+   "sala": "848",
+   "andar": "8",
+   "telefone": "3215-5848",
+   "email": "dep.tabataamaral@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "F",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/tabataamaralsp",
+  "https://www.facebook.com/tabataamaralSP",
+  "https://www.instagram.com/tabataamaralsp",
+  "https://youtube.com/channel/UCWcx5M5negY_kqSawo2bjZQ"
+ ],
+ "dataNascimento": "1993-11-14",
+ "dataFalecimento": null,
+ "ufNascimento": "SP",
+ "municipioNascimento": "São Paulo",
+ "escolaridade": "Superior"
+}

@@ -1,0 +1,3084 @@
+{
+ "ano": 2022,
+ "municipio": "Uberlândia",
+ "pessoas": {
+  "178989": {
+   "uf2022": "SP",
+   "votos2022": 180247,
+   "votosLocal": null,
+   "patrimonio": 1393523.71
+  },
+  "171623": {
+   "uf2022": "SE",
+   "votos2022": 75848,
+   "votosLocal": null,
+   "patrimonio": 919997.0
+  },
+  "74784": {
+   "uf2022": "SP",
+   "votos2022": 113983,
+   "votosLocal": null,
+   "patrimonio": 1584745.51
+  },
+  "160569": {
+   "uf2022": "BA",
+   "votos2022": 113110,
+   "votosLocal": null,
+   "patrimonio": 1148145.61
+  },
+  "204518": {
+   "uf2022": "MG",
+   "votos2022": 84771,
+   "votosLocal": 22,
+   "patrimonio": 1626314.54
+  },
+  "230765": {
+   "uf2022": "RJ",
+   "votos2022": 38322,
+   "votosLocal": null,
+   "patrimonio": 411828.53
+  },
+  "160556": {
+   "uf2022": "MG",
+   "votos2022": 85718,
+   "votosLocal": 468,
+   "patrimonio": 165134.66
+  },
+  "74585": {
+   "uf2022": "MG",
+   "votos2022": 42328,
+   "votosLocal": 2977,
+   "patrimonio": 1638089.42
+  },
+  "220661": {
+   "uf2022": "CE",
+   "votos2022": 150823,
+   "votosLocal": null,
+   "patrimonio": 0
+  },
+  "220620": {
+   "uf2022": "MG",
+   "votos2022": 42009,
+   "votosLocal": 59,
+   "patrimonio": 1204238.47
+  },
+  "220534": {
+   "uf2022": "DF",
+   "votos2022": 165358,
+   "votosLocal": null,
+   "patrimonio": 10000.0
+  },
+  "98615": {
+   "uf2022": "SC",
+   "votos2022": 110531,
+   "votosLocal": null,
+   "patrimonio": 562162.0
+  },
+  "220704": {
+   "uf2022": "PR",
+   "votos2022": 130654,
+   "votosLocal": null,
+   "patrimonio": 215000.0
+  },
+  "220677": {
+   "uf2022": "PA",
+   "votos2022": 126027,
+   "votosLocal": null,
+   "patrimonio": 1908138.0
+  },
+  "204444": {
+   "uf2022": "RJ",
+   "votos2022": 132986,
+   "votosLocal": null,
+   "patrimonio": 36000.0
+  },
+  "74156": {
+   "uf2022": "MG",
+   "votos2022": 81008,
+   "votosLocal": 26,
+   "patrimonio": 339000.0
+  },
+  "220622": {
+   "uf2022": "MG",
+   "votos2022": 66866,
+   "votosLocal": 68,
+   "patrimonio": 439692.38
+  },
+  "220595": {
+   "uf2022": "MT",
+   "votos2022": 60304,
+   "votosLocal": null,
+   "patrimonio": 1734064.0
+  },
+  "178873": {
+   "uf2022": "ES",
+   "votos2022": 120337,
+   "votosLocal": null,
+   "patrimonio": 840792.23
+  },
+  "220684": {
+   "uf2022": "PR",
+   "votos2022": 109344,
+   "votosLocal": null,
+   "patrimonio": 3129939.47
+  },
+  "204441": {
+   "uf2022": "RJ",
+   "votos2022": 158507,
+   "votosLocal": null,
+   "patrimonio": 18327.66
+  },
+  "204436": {
+   "uf2022": "AL",
+   "votos2022": 83965,
+   "votosLocal": null,
+   "patrimonio": 0
+  },
+  "226075": {
+   "uf2022": "CE",
+   "votos2022": 74773,
+   "votosLocal": null,
+   "patrimonio": 0
+  },
+  "160592": {
+   "uf2022": "PR",
+   "votos2022": 123033,
+   "votosLocal": null,
+   "patrimonio": 1078227.21
+  },
+  "178876": {
+   "uf2022": "GO",
+   "votos2022": 92469,
+   "votosLocal": null,
+   "patrimonio": 3583955.15
+  },
+  "143084": {
+   "uf2022": "TO",
+   "votos2022": 42970,
+   "votosLocal": null,
+   "patrimonio": 1037914.58
+  },
+  "137070": {
+   "uf2022": "TO",
+   "votos2022": 55292,
+   "votosLocal": null,
+   "patrimonio": 3712679.62
+  },
+  "204494": {
+   "uf2022": "MG",
+   "votos2022": 158453,
+   "votosLocal": 1156,
+   "patrimonio": 4453760.51
+  },
+  "220533": {
+   "uf2022": "DF",
+   "votos2022": 54557,
+   "votosLocal": null,
+   "patrimonio": 594497.84
+  },
+  "220555": {
+   "uf2022": "RS",
+   "votos2022": 88107,
+   "votosLocal": null,
+   "patrimonio": 403519.0
+  },
+  "221148": {
+   "uf2022": "SP",
+   "votos2022": 97063,
+   "votosLocal": null,
+   "patrimonio": 1193081.0
+  },
+  "220663": {
+   "uf2022": "PE",
+   "votos2022": 99226,
+   "votosLocal": null,
+   "patrimonio": 2329918.17
+  },
+  "160517": {
+   "uf2022": "ES",
+   "votos2022": 48776,
+   "votosLocal": null,
+   "patrimonio": 3277380.6
+  },
+  "204374": {
+   "uf2022": "DF",
+   "votos2022": 214733,
+   "votosLocal": null,
+   "patrimonio": 1695277.49
+  },
+  "220598": {
+   "uf2022": "RJ",
+   "votos2022": 159928,
+   "votosLocal": null,
+   "patrimonio": 4000.0
+  },
+  "160665": {
+   "uf2022": "PE",
+   "votos2022": 101142,
+   "votosLocal": null,
+   "patrimonio": 1030519.62
+  },
+  "230768": {
+   "uf2022": "AC",
+   "votos2022": 10623,
+   "votosLocal": null,
+   "patrimonio": 4465500.0
+  },
+  "220548": {
+   "uf2022": "MS",
+   "votos2022": 56552,
+   "votosLocal": null,
+   "patrimonio": 3573.12
+  },
+  "220635": {
+   "uf2022": "SP",
+   "votos2022": 141595,
+   "votosLocal": null,
+   "patrimonio": 399840.77
+  },
+  "74084": {
+   "uf2022": "PA",
+   "votos2022": 62366,
+   "votosLocal": null,
+   "patrimonio": 3383757.9
+  },
+  "160541": {
+   "uf2022": "AL",
+   "votos2022": 219452,
+   "votosLocal": null,
+   "patrimonio": 5965870.58
+  },
+  "204410": {
+   "uf2022": "PR",
+   "votos2022": 74643,
+   "votosLocal": null,
+   "patrimonio": 341607.9
+  },
+  "178832": {
+   "uf2022": "PR",
+   "votos2022": 80359,
+   "votosLocal": null,
+   "patrimonio": 629695.92
+  },
+  "133439": {
+   "uf2022": "CE",
+   "votos2022": 111886,
+   "votosLocal": null,
+   "patrimonio": 3221708.94
+  },
+  "220614": {
+   "uf2022": "RJ",
+   "votos2022": 98784,
+   "votosLocal": null,
+   "patrimonio": 1786623.98
+  },
+  "220556": {
+   "uf2022": "SC",
+   "votos2022": 148781,
+   "votosLocal": null,
+   "patrimonio": 1523680.07
+  },
+  "204566": {
+   "uf2022": "MA",
+   "votos2022": 116246,
+   "votosLocal": null,
+   "patrimonio": 310765.14
+  },
+  "220537": {
+   "uf2022": "RR",
+   "votos2022": 15848,
+   "votosLocal": null,
+   "patrimonio": 10974713.44
+  },
+  "66385": {
+   "uf2022": "PI",
+   "votos2022": 117669,
+   "votosLocal": null,
+   "patrimonio": 2346554.16
+  },
+  "66828": {
+   "uf2022": "SP",
+   "votos2022": 72169,
+   "votosLocal": null,
+   "patrimonio": 712867.36
+  },
+  "204361": {
+   "uf2022": "SC",
+   "votos2022": 80089,
+   "votosLocal": null,
+   "patrimonio": 1344112.85
+  },
+  "160600": {
+   "uf2022": "BA",
+   "votos2022": 108672,
+   "votosLocal": null,
+   "patrimonio": 2553237.35
+  },
+  "74374": {
+   "uf2022": "MS",
+   "votos2022": 96519,
+   "votosLocal": null,
+   "patrimonio": 4280095.51
+  },
+  "221328": {
+   "uf2022": "SP",
+   "votos2022": 62445,
+   "votosLocal": null,
+   "patrimonio": 870747.6
+  },
+  "220599": {
+   "uf2022": "RJ",
+   "votos2022": 110450,
+   "votosLocal": null,
+   "patrimonio": 634795.0
+  },
+  "178993": {
+   "uf2022": "TO",
+   "votos2022": 52203,
+   "votosLocal": null,
+   "patrimonio": 14970961.0
+  },
+  "220539": {
+   "uf2022": "RR",
+   "votos2022": 14193,
+   "votosLocal": null,
+   "patrimonio": 1869421.97
+  },
+  "220653": {
+   "uf2022": "SP",
+   "votos2022": 235165,
+   "votosLocal": null,
+   "patrimonio": 12094157.48
+  },
+  "178881": {
+   "uf2022": "MA",
+   "votos2022": 126577,
+   "votosLocal": null,
+   "patrimonio": 5049402.39
+  },
+  "178992": {
+   "uf2022": "SP",
+   "votos2022": 106661,
+   "votosLocal": null,
+   "patrimonio": 1387564.59
+  },
+  "92776": {
+   "uf2022": "MG",
+   "votos2022": 96503,
+   "votosLocal": 2252,
+   "patrimonio": 3258208.87
+  },
+  "160632": {
+   "uf2022": "MG",
+   "votos2022": 86042,
+   "votosLocal": 404,
+   "patrimonio": 400000.0
+  },
+  "156190": {
+   "uf2022": "RS",
+   "votos2022": 256913,
+   "votosLocal": null,
+   "patrimonio": 188513.96
+  },
+  "220675": {
+   "uf2022": "PA",
+   "votos2022": 126535,
+   "votosLocal": null,
+   "patrimonio": 3125000.0
+  },
+  "74376": {
+   "uf2022": "MS",
+   "votos2022": 76571,
+   "votosLocal": null,
+   "patrimonio": 4172729.51
+  },
+  "220554": {
+   "uf2022": "RS",
+   "votos2022": 93768,
+   "votosLocal": null,
+   "patrimonio": 1109384.26
+  },
+  "205476": {
+   "uf2022": "BA",
+   "votos2022": 99815,
+   "votosLocal": null,
+   "patrimonio": 512901.98
+  },
+  "74848": {
+   "uf2022": "RJ",
+   "votos2022": 84054,
+   "votosLocal": null,
+   "patrimonio": 403112.38
+  },
+  "198783": {
+   "uf2022": "MT",
+   "votos2022": 74720,
+   "votosLocal": null,
+   "patrimonio": 602706.4
+  },
+  "178937": {
+   "uf2022": "RJ",
+   "votos2022": 167512,
+   "votosLocal": null,
+   "patrimonio": 1270912.37
+  },
+  "220695": {
+   "uf2022": "BA",
+   "votos2022": 82012,
+   "votosLocal": null,
+   "patrimonio": 0
+  },
+  "220538": {
+   "uf2022": "RR",
+   "votos2022": 14015,
+   "votosLocal": null,
+   "patrimonio": 150000.0
+  },
+  "143632": {
+   "uf2022": "CE",
+   "votos2022": 175074,
+   "votosLocal": null,
+   "patrimonio": 636554.08
+  },
+  "204512": {
+   "uf2022": "MG",
+   "votos2022": 82894,
+   "votosLocal": 1238,
+   "patrimonio": 486675.25
+  },
+  "220585": {
+   "uf2022": "PB",
+   "votos2022": 114818,
+   "votosLocal": null,
+   "patrimonio": 405000.0
+  },
+  "160552": {
+   "uf2022": "RS",
+   "votos2022": 97824,
+   "votosLocal": null,
+   "patrimonio": 583155.58
+  },
+  "226837": {
+   "uf2022": "SP",
+   "votos2022": 80186,
+   "votosLocal": null,
+   "patrimonio": 2436934.0
+  },
+  "220584": {
+   "uf2022": "PB",
+   "votos2022": 112891,
+   "votosLocal": null,
+   "patrimonio": 2075231.73
+  },
+  "220604": {
+   "uf2022": "RJ",
+   "votos2022": 62086,
+   "votosLocal": null,
+   "patrimonio": 571189.88
+  },
+  "204570": {
+   "uf2022": "MA",
+   "votos2022": 69530,
+   "votosLocal": null,
+   "patrimonio": 915409.91
+  },
+  "233592": {
+   "uf2022": "AP",
+   "votos2022": 9240,
+   "votosLocal": null,
+   "patrimonio": 233000.0
+  },
+  "204395": {
+   "uf2022": "PR",
+   "votos2022": 109043,
+   "votosLocal": null,
+   "patrimonio": 641876.61
+  },
+  "220573": {
+   "uf2022": "AP",
+   "votos2022": 11473,
+   "votosLocal": null,
+   "patrimonio": 533000.0
+  },
+  "204541": {
+   "uf2022": "CE",
+   "votos2022": 102287,
+   "votosLocal": null,
+   "patrimonio": 1186218.46
+  },
+  "220681": {
+   "uf2022": "MA",
+   "votos2022": 95270,
+   "votosLocal": null,
+   "patrimonio": 435000.0
+  },
+  "220618": {
+   "uf2022": "RJ",
+   "votos2022": 33368,
+   "votosLocal": null,
+   "patrimonio": 19000.0
+  },
+  "74158": {
+   "uf2022": "MG",
+   "votos2022": 68717,
+   "votosLocal": 305,
+   "patrimonio": 10335687.72
+  },
+  "204534": {
+   "uf2022": "SP",
+   "votos2022": 337873,
+   "votosLocal": null,
+   "patrimonio": 556700.29
+  },
+  "220650": {
+   "uf2022": "SP",
+   "votos2022": 170378,
+   "votosLocal": null,
+   "patrimonio": 851588.84
+  },
+  "141533": {
+   "uf2022": "DF",
+   "votos2022": 51926,
+   "votosLocal": null,
+   "patrimonio": 3038835.27
+  },
+  "98057": {
+   "uf2022": "MG",
+   "votos2022": 68677,
+   "votosLocal": 223,
+   "patrimonio": 461634.8
+  },
+  "204517": {
+   "uf2022": "MG",
+   "votos2022": 152748,
+   "votosLocal": 8959,
+   "patrimonio": 816000.0
+  },
+  "220566": {
+   "uf2022": "GO",
+   "votos2022": 51346,
+   "votosLocal": null,
+   "patrimonio": 421000.0
+  },
+  "204457": {
+   "uf2022": "RJ",
+   "votos2022": 70660,
+   "votosLocal": null,
+   "patrimonio": 2723820.0
+  },
+  "178929": {
+   "uf2022": "PR",
+   "votos2022": 65416,
+   "votosLocal": null,
+   "patrimonio": 916060.99
+  },
+  "204450": {
+   "uf2022": "RJ",
+   "votos2022": 190071,
+   "votosLocal": null,
+   "patrimonio": 3579347.95
+  },
+  "160561": {
+   "uf2022": "SP",
+   "votos2022": 61938,
+   "votosLocal": null,
+   "patrimonio": 331596.0
+  },
+  "123756": {
+   "uf2022": "AC",
+   "votos2022": 16280,
+   "votosLocal": null,
+   "patrimonio": 3290000.0
+  },
+  "204492": {
+   "uf2022": "MG",
+   "votos2022": 134494,
+   "votosLocal": 144,
+   "patrimonio": 1918966.97
+  },
+  "178886": {
+   "uf2022": "MA",
+   "votos2022": 142419,
+   "votosLocal": null,
+   "patrimonio": 4457774.73
+  },
+  "220707": {
+   "uf2022": "MA",
+   "votos2022": 108699,
+   "votosLocal": null,
+   "patrimonio": 150000.0
+  },
+  "220666": {
+   "uf2022": "PE",
+   "votos2022": 78941,
+   "votosLocal": null,
+   "patrimonio": 0
+  },
+  "220568": {
+   "uf2022": "GO",
+   "votos2022": 200586,
+   "votosLocal": null,
+   "patrimonio": 43000.0
+  },
+  "220551": {
+   "uf2022": "RS",
+   "votos2022": 40555,
+   "votosLocal": null,
+   "patrimonio": 85973.0
+  },
+  "160512": {
+   "uf2022": "RJ",
+   "votos2022": 103321,
+   "votosLocal": null,
+   "patrimonio": 3596692.44
+  },
+  "204481": {
+   "uf2022": "CE",
+   "votos2022": 79358,
+   "votosLocal": null,
+   "patrimonio": 453677.94
+  },
+  "133810": {
+   "uf2022": "RS",
+   "votos2022": 84247,
+   "votosLocal": null,
+   "patrimonio": 1376832.21
+  },
+  "220547": {
+   "uf2022": "MS",
+   "votos2022": 103111,
+   "votosLocal": null,
+   "patrimonio": 1245430.12
+  },
+  "74160": {
+   "uf2022": "MG",
+   "votos2022": 87893,
+   "votosLocal": 317,
+   "patrimonio": 1025194.65
+  },
+  "220624": {
+   "uf2022": "RN",
+   "votos2022": 97319,
+   "votosLocal": null,
+   "patrimonio": 6770684.03
+  },
+  "204539": {
+   "uf2022": "MG",
+   "votos2022": 122819,
+   "votosLocal": 62,
+   "patrimonio": 65903045.68
+  },
+  "204572": {
+   "uf2022": "AM",
+   "votos2022": 147846,
+   "votosLocal": null,
+   "patrimonio": 312000.0
+  },
+  "204567": {
+   "uf2022": "BA",
+   "votos2022": 53486,
+   "votosLocal": null,
+   "patrimonio": 688377.37
+  },
+  "220603": {
+   "uf2022": "RJ",
+   "votos2022": 75810,
+   "votosLocal": null,
+   "patrimonio": 2822656.55
+  },
+  "74537": {
+   "uf2022": "BA",
+   "votos2022": 154098,
+   "votosLocal": null,
+   "patrimonio": 12912674.0
+  },
+  "141421": {
+   "uf2022": "PE",
+   "votos2022": 124850,
+   "votosLocal": null,
+   "patrimonio": 1343700.98
+  },
+  "74428": {
+   "uf2022": "PE",
+   "votos2022": 76022,
+   "votosLocal": null,
+   "patrimonio": 2523193.14
+  },
+  "220669": {
+   "uf2022": "PE",
+   "votos2022": 94122,
+   "votosLocal": null,
+   "patrimonio": 10000.0
+  },
+  "74041": {
+   "uf2022": "PB",
+   "votos2022": 54851,
+   "votosLocal": null,
+   "patrimonio": 109335.14
+  },
+  "204351": {
+   "uf2022": "MS",
+   "votos2022": 45491,
+   "votosLocal": null,
+   "patrimonio": 861269.42
+  },
+  "160604": {
+   "uf2022": "SC",
+   "votos2022": 173531,
+   "votosLocal": null,
+   "patrimonio": 1532914.17
+  },
+  "204479": {
+   "uf2022": "RR",
+   "votos2022": 10969,
+   "votosLocal": null,
+   "patrimonio": 1270655.92
+  },
+  "220606": {
+   "uf2022": "RJ",
+   "votos2022": 39325,
+   "votosLocal": null,
+   "patrimonio": 455613.96
+  },
+  "220569": {
+   "uf2022": "GO",
+   "votos2022": 254653,
+   "votosLocal": null,
+   "patrimonio": 0
+  },
+  "204557": {
+   "uf2022": "AM",
+   "votos2022": 102181,
+   "votosLocal": null,
+   "patrimonio": 278512.43
+  },
+  "160510": {
+   "uf2022": "MG",
+   "votos2022": 107523,
+   "votosLocal": 109,
+   "patrimonio": 3081969.28
+  },
+  "220651": {
+   "uf2022": "SP",
+   "votos2022": 97730,
+   "votosLocal": null,
+   "patrimonio": 515585.2
+  },
+  "220588": {
+   "uf2022": "AC",
+   "votos2022": 14522,
+   "votosLocal": null,
+   "patrimonio": 1019353.03
+  },
+  "220699": {
+   "uf2022": "PI",
+   "votos2022": 127753,
+   "votosLocal": null,
+   "patrimonio": 750562.37
+  },
+  "220583": {
+   "uf2022": "AL",
+   "votos2022": 60767,
+   "votosLocal": null,
+   "patrimonio": 660329.52
+  },
+  "220582": {
+   "uf2022": "AL",
+   "votos2022": 63385,
+   "votosLocal": null,
+   "patrimonio": 320536.68
+  },
+  "178882": {
+   "uf2022": "MA",
+   "votos2022": 135078,
+   "votosLocal": null,
+   "patrimonio": 1241308.77
+  },
+  "220712": {
+   "uf2022": "AM",
+   "votos2022": 87876,
+   "votosLocal": null,
+   "patrimonio": 550000.0
+  },
+  "178972": {
+   "uf2022": "SP",
+   "votos2022": 196866,
+   "votosLocal": null,
+   "patrimonio": 1227268.0
+  },
+  "74371": {
+   "uf2022": "GO",
+   "votos2022": 83539,
+   "votosLocal": null,
+   "patrimonio": 650538.52
+  },
+  "178963": {
+   "uf2022": "RS",
+   "votos2022": 112910,
+   "votosLocal": null,
+   "patrimonio": 788436.68
+  },
+  "104552": {
+   "uf2022": "AC",
+   "votos2022": 25842,
+   "votosLocal": null,
+   "patrimonio": 400000.0
+  },
+  "204488": {
+   "uf2022": "CE",
+   "votos2022": 205106,
+   "votosLocal": null,
+   "patrimonio": 297541.04
+  },
+  "220605": {
+   "uf2022": "RJ",
+   "votos2022": 72725,
+   "votosLocal": null,
+   "patrimonio": 6581083.16
+  },
+  "153423": {
+   "uf2022": "PA",
+   "votos2022": 162208,
+   "votosLocal": null,
+   "patrimonio": 1745304.23
+  },
+  "220544": {
+   "uf2022": "TO",
+   "votos2022": 63813,
+   "votosLocal": null,
+   "patrimonio": 817867.78
+  },
+  "220632": {
+   "uf2022": "MG",
+   "votos2022": 72698,
+   "votosLocal": 227,
+   "patrimonio": 442438.43
+  },
+  "74478": {
+   "uf2022": "PE",
+   "votos2022": 74425,
+   "votosLocal": null,
+   "patrimonio": 18621585.46
+  },
+  "136811": {
+   "uf2022": "RS",
+   "votos2022": 109123,
+   "votosLocal": null,
+   "patrimonio": 1796871.11
+  },
+  "220654": {
+   "uf2022": "SP",
+   "votos2022": 72156,
+   "votosLocal": null,
+   "patrimonio": 455070.0
+  },
+  "141391": {
+   "uf2022": "SP",
+   "votos2022": 113462,
+   "votosLocal": null,
+   "patrimonio": 4194566.48
+  },
+  "204462": {
+   "uf2022": "RJ",
+   "votos2022": 52583,
+   "votosLocal": null,
+   "patrimonio": 547218.59
+  },
+  "62881": {
+   "uf2022": "CE",
+   "votos2022": 88470,
+   "votosLocal": null,
+   "patrimonio": 3231234.32
+  },
+  "154178": {
+   "uf2022": "SP",
+   "votos2022": 98557,
+   "votosLocal": null,
+   "patrimonio": 1456152.38
+  },
+  "204474": {
+   "uf2022": "MT",
+   "votos2022": 77528,
+   "votosLocal": null,
+   "patrimonio": 2231976.23
+  },
+  "204563": {
+   "uf2022": "MA",
+   "votos2022": 158360,
+   "votosLocal": null,
+   "patrimonio": 25406802.39
+  },
+  "204533": {
+   "uf2022": "CE",
+   "votos2022": 187433,
+   "votosLocal": null,
+   "patrimonio": 866885.83
+  },
+  "152605": {
+   "uf2022": "RJ",
+   "votos2022": 78048,
+   "votosLocal": null,
+   "patrimonio": 942188.73
+  },
+  "204525": {
+   "uf2022": "SP",
+   "votos2022": 216437,
+   "votosLocal": null,
+   "patrimonio": 1329000.0
+  },
+  "204404": {
+   "uf2022": "RS",
+   "votos2022": 119069,
+   "votosLocal": null,
+   "patrimonio": 3059689.88
+  },
+  "204520": {
+   "uf2022": "MG",
+   "votos2022": 59297,
+   "votosLocal": 6235,
+   "patrimonio": 581733.0
+  },
+  "160610": {
+   "uf2022": "BA",
+   "votos2022": 90148,
+   "votosLocal": null,
+   "patrimonio": 1034030.11
+  },
+  "150418": {
+   "uf2022": "BA",
+   "votos2022": 118904,
+   "votosLocal": null,
+   "patrimonio": 300308.33
+  },
+  "220657": {
+   "uf2022": "CE",
+   "votos2022": 229509,
+   "votosLocal": null,
+   "patrimonio": 353596.37
+  },
+  "204427": {
+   "uf2022": "PE",
+   "votos2022": 60088,
+   "votosLocal": null,
+   "patrimonio": 232000.0
+  },
+  "160640": {
+   "uf2022": "MG",
+   "votos2022": 77900,
+   "votosLocal": 1396,
+   "patrimonio": 1407623.65
+  },
+  "204497": {
+   "uf2022": "PA",
+   "votos2022": 160342,
+   "votosLocal": null,
+   "patrimonio": 2226845.8
+  },
+  "220526": {
+   "uf2022": "ES",
+   "votos2022": 87994,
+   "votosLocal": null,
+   "patrimonio": 50000.0
+  },
+  "178857": {
+   "uf2022": "BA",
+   "votos2022": 128968,
+   "votosLocal": null,
+   "patrimonio": 902718.49
+  },
+  "178843": {
+   "uf2022": "AL",
+   "votos2022": 88512,
+   "votosLocal": null,
+   "patrimonio": 1878548.06
+  },
+  "160599": {
+   "uf2022": "MG",
+   "votos2022": 96395,
+   "votosLocal": 510,
+   "patrimonio": 747777.88
+  },
+  "141411": {
+   "uf2022": "MS",
+   "votos2022": 48217,
+   "votosLocal": null,
+   "patrimonio": 5880631.39
+  },
+  "220656": {
+   "uf2022": "CE",
+   "votos2022": 121469,
+   "votosLocal": null,
+   "patrimonio": 1965371.87
+  },
+  "220698": {
+   "uf2022": "PR",
+   "votos2022": 206898,
+   "votosLocal": null,
+   "patrimonio": 2121587.11
+  },
+  "204445": {
+   "uf2022": "RN",
+   "votos2022": 83481,
+   "votosLocal": null,
+   "patrimonio": 170000.0
+  },
+  "220694": {
+   "uf2022": "BA",
+   "votos2022": 136834,
+   "votosLocal": null,
+   "patrimonio": 1987990.0
+  },
+  "220641": {
+   "uf2022": "SP",
+   "votos2022": 108209,
+   "votosLocal": null,
+   "patrimonio": 409964.91
+  },
+  "204540": {
+   "uf2022": "SP",
+   "votos2022": 94787,
+   "votosLocal": null,
+   "patrimonio": 3340.59
+  },
+  "220527": {
+   "uf2022": "ES",
+   "votos2022": 51317,
+   "votosLocal": null,
+   "patrimonio": 211369.99
+  },
+  "178985": {
+   "uf2022": "SP",
+   "votos2022": 107869,
+   "votosLocal": null,
+   "patrimonio": 1307078.65
+  },
+  "122195": {
+   "uf2022": "PB",
+   "votos2022": 65573,
+   "votosLocal": null,
+   "patrimonio": 930000.0
+  },
+  "204391": {
+   "uf2022": "GO",
+   "votos2022": 104504,
+   "votosLocal": null,
+   "patrimonio": 48492170.57
+  },
+  "220655": {
+   "uf2022": "SP",
+   "votos2022": 122564,
+   "votosLocal": null,
+   "patrimonio": 1008924.92
+  },
+  "220543": {
+   "uf2022": "TO",
+   "votos2022": 45880,
+   "votosLocal": null,
+   "patrimonio": 5115493.03
+  },
+  "141450": {
+   "uf2022": "RJ",
+   "votos2022": 50067,
+   "votosLocal": null,
+   "patrimonio": 1541267.13
+  },
+  "74270": {
+   "uf2022": "SP",
+   "votos2022": 95077,
+   "votosLocal": null,
+   "patrimonio": 1183508.95
+  },
+  "92102": {
+   "uf2022": "BA",
+   "votos2022": 82004,
+   "votosLocal": null,
+   "patrimonio": 310272.2
+  },
+  "220633": {
+   "uf2022": "SP",
+   "votos2022": 640918,
+   "votosLocal": null,
+   "patrimonio": 3970000.0
+  },
+  "162332": {
+   "uf2022": "PR",
+   "votos2022": 73202,
+   "votosLocal": null,
+   "patrimonio": 1617913.74
+  },
+  "160553": {
+   "uf2022": "BA",
+   "votos2022": 165386,
+   "votosLocal": null,
+   "patrimonio": 1979788.16
+  },
+  "220564": {
+   "uf2022": "SE",
+   "votos2022": 131471,
+   "votosLocal": null,
+   "patrimonio": 395919.82
+  },
+  "220667": {
+   "uf2022": "PE",
+   "votos2022": 172526,
+   "votosLocal": null,
+   "patrimonio": 1771075.75
+  },
+  "160161": {
+   "uf2022": "RJ",
+   "votos2022": 73728,
+   "votosLocal": null,
+   "patrimonio": 997446.34
+  },
+  "220665": {
+   "uf2022": "PE",
+   "votos2022": 240511,
+   "votosLocal": null,
+   "patrimonio": 1380000.0
+  },
+  "220609": {
+   "uf2022": "RO",
+   "votos2022": 32637,
+   "votosLocal": null,
+   "patrimonio": 3819470.0
+  },
+  "204353": {
+   "uf2022": "AP",
+   "votos2022": 13633,
+   "votosLocal": null,
+   "patrimonio": 0
+  },
+  "160976": {
+   "uf2022": "SP",
+   "votos2022": 71754,
+   "votosLocal": null,
+   "patrimonio": 26872.96
+  },
+  "220581": {
+   "uf2022": "AL",
+   "votos2022": 101508,
+   "votosLocal": null,
+   "patrimonio": 82833.34
+  },
+  "74317": {
+   "uf2022": "PI",
+   "votos2022": 134863,
+   "votosLocal": null,
+   "patrimonio": 2183176.83
+  },
+  "204472": {
+   "uf2022": "MT",
+   "votos2022": 82182,
+   "votosLocal": null,
+   "patrimonio": 254290.59
+  },
+  "204498": {
+   "uf2022": "PA",
+   "votos2022": 102435,
+   "votosLocal": null,
+   "patrimonio": 1534304.94
+  },
+  "220615": {
+   "uf2022": "RJ",
+   "votos2022": 53933,
+   "votosLocal": null,
+   "patrimonio": 0
+  },
+  "220550": {
+   "uf2022": "RS",
+   "votos2022": 140634,
+   "votosLocal": null,
+   "patrimonio": 157825.56
+  },
+  "141487": {
+   "uf2022": "MG",
+   "votos2022": 68550,
+   "votosLocal": 56,
+   "patrimonio": 2756874.93
+  },
+  "220670": {
+   "uf2022": "PE",
+   "votos2022": 103950,
+   "votosLocal": null,
+   "patrimonio": 54733.11
+  },
+  "224117": {
+   "uf2022": "RR",
+   "votos2022": 6520,
+   "votosLocal": null,
+   "patrimonio": 0
+  },
+  "141464": {
+   "uf2022": "CE",
+   "votos2022": 82274,
+   "votosLocal": null,
+   "patrimonio": 407658.34
+  },
+  "73579": {
+   "uf2022": "DF",
+   "votos2022": 28825,
+   "votosLocal": null,
+   "patrimonio": 4847414.04
+  },
+  "220689": {
+   "uf2022": "MA",
+   "votos2022": 161206,
+   "votosLocal": null,
+   "patrimonio": 1575027.97
+  },
+  "220545": {
+   "uf2022": "TO",
+   "votos2022": 36293,
+   "votosLocal": null,
+   "patrimonio": 3893162.58
+  },
+  "220637": {
+   "uf2022": "SP",
+   "votos2022": 237526,
+   "votosLocal": null,
+   "patrimonio": 120945.41
+  },
+  "220690": {
+   "uf2022": "BA",
+   "votos2022": 95151,
+   "votosLocal": null,
+   "patrimonio": 809809.64
+  },
+  "220658": {
+   "uf2022": "CE",
+   "votos2022": 96537,
+   "votosLocal": null,
+   "patrimonio": 14074749.36
+  },
+  "74273": {
+   "uf2022": "SP",
+   "votos2022": 155336,
+   "votosLocal": null,
+   "patrimonio": 1682088.4
+  },
+  "220594": {
+   "uf2022": "MT",
+   "votos2022": 47479,
+   "votosLocal": null,
+   "patrimonio": 406331.24
+  },
+  "91228": {
+   "uf2022": "PE",
+   "votos2022": 141386,
+   "votosLocal": null,
+   "patrimonio": 10297273.23
+  },
+  "220616": {
+   "uf2022": "RJ",
+   "votos2022": 84942,
+   "votosLocal": null,
+   "patrimonio": 7681619.54
+  },
+  "220540": {
+   "uf2022": "RR",
+   "votos2022": 14793,
+   "votosLocal": null,
+   "patrimonio": 50560142.4
+  },
+  "204368": {
+   "uf2022": "SC",
+   "votos2022": 51824,
+   "votosLocal": null,
+   "patrimonio": 1038109.46
+  },
+  "178934": {
+   "uf2022": "PR",
+   "votos2022": 74263,
+   "votosLocal": null,
+   "patrimonio": 2310127.69
+  },
+  "107283": {
+   "uf2022": "PR",
+   "votos2022": 261247,
+   "votosLocal": null,
+   "patrimonio": 1490694.24
+  },
+  "179000": {
+   "uf2022": "MG",
+   "votos2022": 31025,
+   "votosLocal": 382,
+   "patrimonio": 1196659.6
+  },
+  "204511": {
+   "uf2022": "SP",
+   "votos2022": 93831,
+   "votosLocal": null,
+   "patrimonio": 930146.42
+  },
+  "74574": {
+   "uf2022": "BA",
+   "votos2022": 107093,
+   "votosLocal": null,
+   "patrimonio": 15918337.1
+  },
+  "220574": {
+   "uf2022": "PB",
+   "votos2022": 126876,
+   "votosLocal": null,
+   "patrimonio": 1045154.69
+  },
+  "220591": {
+   "uf2022": "AC",
+   "votos2022": 21285,
+   "votosLocal": null,
+   "patrimonio": 76000.0
+  },
+  "220602": {
+   "uf2022": "RJ",
+   "votos2022": 41238,
+   "votosLocal": null,
+   "patrimonio": 1605000.0
+  },
+  "220612": {
+   "uf2022": "RJ",
+   "votos2022": 41075,
+   "votosLocal": null,
+   "patrimonio": 1065439.98
+  },
+  "204355": {
+   "uf2022": "ES",
+   "votos2022": 71779,
+   "votosLocal": null,
+   "patrimonio": 2747081.31
+  },
+  "74295": {
+   "uf2022": "CE",
+   "votos2022": 47672,
+   "votosLocal": null,
+   "patrimonio": 484884.94
+  },
+  "220676": {
+   "uf2022": "PA",
+   "votos2022": 125004,
+   "votosLocal": null,
+   "patrimonio": 12710000.0
+  },
+  "73701": {
+   "uf2022": "RJ",
+   "votos2022": 113831,
+   "votosLocal": null,
+   "patrimonio": 1072642.18
+  },
+  "204416": {
+   "uf2022": "RS",
+   "votos2022": 86690,
+   "votosLocal": null,
+   "patrimonio": 85000.0
+  },
+  "141431": {
+   "uf2022": "PE",
+   "votos2022": 155305,
+   "votosLocal": null,
+   "patrimonio": 3728248.52
+  },
+  "141555": {
+   "uf2022": "SP",
+   "votos2022": 113009,
+   "votosLocal": null,
+   "patrimonio": 2583596.76
+  },
+  "73808": {
+   "uf2022": "BA",
+   "votos2022": 116960,
+   "votosLocal": null,
+   "patrimonio": 737865.92
+  },
+  "178931": {
+   "uf2022": "PR",
+   "votos2022": 95521,
+   "votosLocal": null,
+   "patrimonio": 613690.52
+  },
+  "178895": {
+   "uf2022": "MG",
+   "votos2022": 149398,
+   "votosLocal": 43,
+   "patrimonio": 43067558.7
+  },
+  "74262": {
+   "uf2022": "SP",
+   "votos2022": 98102,
+   "votosLocal": null,
+   "patrimonio": 1493548.45
+  },
+  "178910": {
+   "uf2022": "PA",
+   "votos2022": 122553,
+   "votosLocal": null,
+   "patrimonio": 1823968.57
+  },
+  "178908": {
+   "uf2022": "PA",
+   "votos2022": 205543,
+   "votosLocal": null,
+   "patrimonio": 2991827.37
+  },
+  "220567": {
+   "uf2022": "GO",
+   "votos2022": 56026,
+   "votosLocal": null,
+   "patrimonio": 18400.0
+  },
+  "204396": {
+   "uf2022": "PR",
+   "votos2022": 70790,
+   "votosLocal": null,
+   "patrimonio": 2068458.93
+  },
+  "220652": {
+   "uf2022": "SP",
+   "votos2022": 254898,
+   "votosLocal": null,
+   "patrimonio": 2442078.52
+  },
+  "160558": {
+   "uf2022": "SP",
+   "votos2022": 161675,
+   "votosLocal": null,
+   "patrimonio": 1352213.7
+  },
+  "204473": {
+   "uf2022": "RN",
+   "votos2022": 76698,
+   "votosLocal": null,
+   "patrimonio": 640000.0
+  },
+  "178946": {
+   "uf2022": "RJ",
+   "votos2022": 130379,
+   "votosLocal": null,
+   "patrimonio": 133944.74
+  },
+  "220660": {
+   "uf2022": "CE",
+   "votos2022": 90425,
+   "votosLocal": null,
+   "patrimonio": 3127073.33
+  },
+  "98148": {
+   "uf2022": "SC",
+   "votos2022": 98124,
+   "votosLocal": null,
+   "patrimonio": 1715511.79
+  },
+  "204456": {
+   "uf2022": "RJ",
+   "votos2022": 133612,
+   "votosLocal": null,
+   "patrimonio": 581300.0
+  },
+  "204398": {
+   "uf2022": "PR",
+   "votos2022": 164342,
+   "votosLocal": null,
+   "patrimonio": 845500.0
+  },
+  "198197": {
+   "uf2022": "MG",
+   "votos2022": 110346,
+   "votosLocal": 736,
+   "patrimonio": 1690398.48
+  },
+  "178896": {
+   "uf2022": "MG",
+   "votos2022": 103056,
+   "votosLocal": 128,
+   "patrimonio": 2029907.21
+  },
+  "178962": {
+   "uf2022": "RS",
+   "votos2022": 102363,
+   "votosLocal": null,
+   "patrimonio": 81098.59
+  },
+  "204459": {
+   "uf2022": "RJ",
+   "votos2022": 213706,
+   "votosLocal": null,
+   "patrimonio": 733291.33
+  },
+  "204574": {
+   "uf2022": "MA",
+   "votos2022": 93123,
+   "votosLocal": null,
+   "patrimonio": 0
+  },
+  "171786": {
+   "uf2022": "MG",
+   "votos2022": 84173,
+   "votosLocal": 620,
+   "patrimonio": 0
+  },
+  "220701": {
+   "uf2022": "PR",
+   "votos2022": 132759,
+   "votosLocal": null,
+   "patrimonio": 455364.64
+  },
+  "74060": {
+   "uf2022": "BA",
+   "votos2022": 125374,
+   "votosLocal": null,
+   "patrimonio": 916385.0
+  },
+  "204501": {
+   "uf2022": "SP",
+   "votos2022": 139223,
+   "votosLocal": null,
+   "patrimonio": 619188.68
+  },
+  "220617": {
+   "uf2022": "RJ",
+   "votos2022": 49921,
+   "votosLocal": null,
+   "patrimonio": 427281.59
+  },
+  "74550": {
+   "uf2022": "BA",
+   "votos2022": 102376,
+   "votosLocal": null,
+   "patrimonio": 2119461.94
+  },
+  "141398": {
+   "uf2022": "SP",
+   "votos2022": 147349,
+   "votosLocal": null,
+   "patrimonio": 1356697.95
+  },
+  "220697": {
+   "uf2022": "PI",
+   "votos2022": 83175,
+   "votosLocal": null,
+   "patrimonio": 107545780.55
+  },
+  "220700": {
+   "uf2022": "PI",
+   "votos2022": 105739,
+   "votosLocal": null,
+   "patrimonio": 902835.51
+  },
+  "204486": {
+   "uf2022": "CE",
+   "votos2022": 135038,
+   "votosLocal": null,
+   "patrimonio": 1072254.84
+  },
+  "204480": {
+   "uf2022": "MG",
+   "votos2022": 185918,
+   "votosLocal": 1354,
+   "patrimonio": 717582.0
+  },
+  "160538": {
+   "uf2022": "RS",
+   "votos2022": 131881,
+   "votosLocal": null,
+   "patrimonio": 553400.81
+  },
+  "123086": {
+   "uf2022": "PI",
+   "votos2022": 92791,
+   "votosLocal": null,
+   "patrimonio": 6946010.51
+  },
+  "178945": {
+   "uf2022": "RJ",
+   "votos2022": 76292,
+   "votosLocal": null,
+   "patrimonio": 61988.91
+  },
+  "74467": {
+   "uf2022": "PB",
+   "votos2022": 64023,
+   "votosLocal": null,
+   "patrimonio": 1394266.7
+  },
+  "74044": {
+   "uf2022": "PB",
+   "votos2022": 84407,
+   "votosLocal": null,
+   "patrimonio": 541203.59
+  },
+  "204489": {
+   "uf2022": "CE",
+   "votos2022": 151030,
+   "votosLocal": null,
+   "patrimonio": 3569499.9
+  },
+  "191923": {
+   "uf2022": "PI",
+   "votos2022": 100151,
+   "votosLocal": null,
+   "patrimonio": 1545279.99
+  },
+  "220570": {
+   "uf2022": "GO",
+   "votos2022": 54791,
+   "votosLocal": null,
+   "patrimonio": 2010580.29
+  },
+  "160758": {
+   "uf2022": "MG",
+   "votos2022": 90236,
+   "votosLocal": 54,
+   "patrimonio": 2469204.93
+  },
+  "214694": {
+   "uf2022": "SC",
+   "votos2022": 159339,
+   "votosLocal": null,
+   "patrimonio": 6659470.95
+  },
+  "220592": {
+   "uf2022": "AC",
+   "votos2022": 19958,
+   "votosLocal": null,
+   "patrimonio": 1359598.81
+  },
+  "74554": {
+   "uf2022": "BA",
+   "votos2022": 78833,
+   "votosLocal": null,
+   "patrimonio": 9625415.89
+  },
+  "160666": {
+   "uf2022": "BA",
+   "votos2022": 71774,
+   "votosLocal": null,
+   "patrimonio": 3084092.52
+  },
+  "74398": {
+   "uf2022": "RS",
+   "votos2022": 151050,
+   "votosLocal": null,
+   "patrimonio": 496712.54
+  },
+  "81055": {
+   "uf2022": "MA",
+   "votos2022": 106143,
+   "votosLocal": null,
+   "patrimonio": 310867.35
+  },
+  "204358": {
+   "uf2022": "MS",
+   "votos2022": 97872,
+   "votosLocal": null,
+   "patrimonio": 1161242.85
+  },
+  "230957": {
+   "uf2022": "SP",
+   "votos2022": 80085,
+   "votosLocal": null,
+   "patrimonio": 2622540.07
+  },
+  "220623": {
+   "uf2022": "MG",
+   "votos2022": 208332,
+   "votosLocal": 1159,
+   "patrimonio": 26709.4
+  },
+  "220536": {
+   "uf2022": "RR",
+   "votos2022": 10361,
+   "votosLocal": null,
+   "patrimonio": 6947627.81
+  },
+  "220530": {
+   "uf2022": "ES",
+   "votos2022": 42640,
+   "votosLocal": null,
+   "patrimonio": 190000.0
+  },
+  "178983": {
+   "uf2022": "SP",
+   "votos2022": 187314,
+   "votosLocal": null,
+   "patrimonio": 509518.88
+  },
+  "74856": {
+   "uf2022": "RJ",
+   "votos2022": 48073,
+   "votosLocal": null,
+   "patrimonio": 1648247.76
+  },
+  "178831": {
+   "uf2022": "AP",
+   "votos2022": 11380,
+   "votosLocal": null,
+   "patrimonio": 347485.02
+  },
+  "204524": {
+   "uf2022": "MG",
+   "votos2022": 136575,
+   "votosLocal": 98,
+   "patrimonio": 594221.51
+  },
+  "204390": {
+   "uf2022": "GO",
+   "votos2022": 90162,
+   "votosLocal": null,
+   "patrimonio": 10103104.75
+  },
+  "220692": {
+   "uf2022": "BA",
+   "votos2022": 140435,
+   "votosLocal": null,
+   "patrimonio": 7361008.44
+  },
+  "74090": {
+   "uf2022": "AM",
+   "votos2022": 102401,
+   "votosLocal": null,
+   "patrimonio": 3190967.69
+  },
+  "141488": {
+   "uf2022": "SP",
+   "votos2022": 122800,
+   "votosLocal": null,
+   "patrimonio": 970684.84
+  },
+  "160621": {
+   "uf2022": "PR",
+   "votos2022": 168157,
+   "votosLocal": null,
+   "patrimonio": 1287328.91
+  },
+  "220629": {
+   "uf2022": "MG",
+   "votos2022": 86034,
+   "votosLocal": 34979,
+   "patrimonio": 103921.49
+  },
+  "220553": {
+   "uf2022": "RS",
+   "votos2022": 44241,
+   "votosLocal": null,
+   "patrimonio": 204859.78
+  },
+  "160635": {
+   "uf2022": "PB",
+   "votos2022": 102531,
+   "votosLocal": null,
+   "patrimonio": 660987.66
+  },
+  "220683": {
+   "uf2022": "PR",
+   "votos2022": 64868,
+   "votosLocal": null,
+   "patrimonio": 1394027.47
+  },
+  "141485": {
+   "uf2022": "RS",
+   "votos2022": 57610,
+   "votosLocal": null,
+   "patrimonio": 594372.94
+  },
+  "224333": {
+   "uf2022": "PR",
+   "votos2022": 21118,
+   "votosLocal": null,
+   "patrimonio": 1712865.4
+  },
+  "230767": {
+   "uf2022": "MT",
+   "votos2022": 6965,
+   "votosLocal": null,
+   "patrimonio": 1301065.88
+  },
+  "204378": {
+   "uf2022": "RO",
+   "votos2022": 24406,
+   "votosLocal": null,
+   "patrimonio": 847000.0
+  },
+  "69871": {
+   "uf2022": "BA",
+   "votos2022": 110787,
+   "votosLocal": null,
+   "patrimonio": 462181.22
+  },
+  "220703": {
+   "uf2022": "BA",
+   "votos2022": 164655,
+   "votosLocal": null,
+   "patrimonio": 591665.02
+  },
+  "220557": {
+   "uf2022": "SC",
+   "votos2022": 84631,
+   "votosLocal": null,
+   "patrimonio": 62290.0
+  },
+  "213762": {
+   "uf2022": "RN",
+   "votos2022": 43191,
+   "votosLocal": null,
+   "patrimonio": 168947.85
+  },
+  "88256": {
+   "uf2022": "PE",
+   "votos2022": 110620,
+   "votosLocal": null,
+   "patrimonio": 4257621.82
+  },
+  "220586": {
+   "uf2022": "AL",
+   "votos2022": 58134,
+   "votosLocal": null,
+   "patrimonio": 1085000.0
+  },
+  "74400": {
+   "uf2022": "RS",
+   "votos2022": 223109,
+   "votosLocal": null,
+   "patrimonio": 192839.0
+  },
+  "178970": {
+   "uf2022": "SE",
+   "votos2022": 68969,
+   "votosLocal": null,
+   "patrimonio": 0
+  },
+  "204559": {
+   "uf2022": "BA",
+   "votos2022": 128439,
+   "votosLocal": null,
+   "patrimonio": 2784246.53
+  },
+  "141518": {
+   "uf2022": "SP",
+   "votos2022": 64137,
+   "votosLocal": null,
+   "patrimonio": 930500.0
+  },
+  "204515": {
+   "uf2022": "MG",
+   "votos2022": 238967,
+   "votosLocal": 4957,
+   "patrimonio": 293787.09
+  },
+  "107970": {
+   "uf2022": "MG",
+   "votos2022": 77990,
+   "votosLocal": 67069,
+   "patrimonio": 62632.29
+  },
+  "74356": {
+   "uf2022": "AM",
+   "votos2022": 125068,
+   "votosLocal": null,
+   "patrimonio": 3550000.0
+  },
+  "178933": {
+   "uf2022": "PR",
+   "votos2022": 105661,
+   "votosLocal": null,
+   "patrimonio": 1947653.2
+  },
+  "220559": {
+   "uf2022": "SC",
+   "votos2022": 111588,
+   "votosLocal": null,
+   "patrimonio": 2525000.0
+  },
+  "225846": {
+   "uf2022": "PR",
+   "votos2022": 47052,
+   "votosLocal": null,
+   "patrimonio": 300077.58
+  },
+  "161550": {
+   "uf2022": "MG",
+   "votos2022": 119101,
+   "votosLocal": 54,
+   "patrimonio": 384063.96
+  },
+  "178927": {
+   "uf2022": "PR",
+   "votos2022": 94839,
+   "votosLocal": null,
+   "patrimonio": 118489.6
+  },
+  "74581": {
+   "uf2022": "MG",
+   "votos2022": 55443,
+   "votosLocal": 28772,
+   "patrimonio": 374740.0
+  },
+  "204535": {
+   "uf2022": "SP",
+   "votos2022": 226187,
+   "votosLocal": null,
+   "patrimonio": 245814.5
+  },
+  "220685": {
+   "uf2022": "PR",
+   "votos2022": 82707,
+   "votosLocal": null,
+   "patrimonio": 3728636.66
+  },
+  "74858": {
+   "uf2022": "RJ",
+   "votos2022": 152219,
+   "votosLocal": null,
+   "patrimonio": 95022.04
+  },
+  "227991": {
+   "uf2022": "RJ",
+   "votos2022": 46636,
+   "votosLocal": null,
+   "patrimonio": 1606765.6
+  },
+  "220630": {
+   "uf2022": "MG",
+   "votos2022": 89404,
+   "votosLocal": 411,
+   "patrimonio": 930194.01
+  },
+  "74079": {
+   "uf2022": "PA",
+   "votos2022": 167275,
+   "votosLocal": null,
+   "patrimonio": 1220778.13
+  },
+  "220702": {
+   "uf2022": "PR",
+   "votos2022": 71990,
+   "votosLocal": null,
+   "patrimonio": 930000.0
+  },
+  "220706": {
+   "uf2022": "PR",
+   "votos2022": 57185,
+   "votosLocal": null,
+   "patrimonio": 10532059.96
+  },
+  "204528": {
+   "uf2022": "SP",
+   "votos2022": 109474,
+   "votosLocal": null,
+   "patrimonio": 1203188.79
+  },
+  "74075": {
+   "uf2022": "PA",
+   "votos2022": 175498,
+   "votosLocal": null,
+   "patrimonio": 6623901.02
+  },
+  "204411": {
+   "uf2022": "PR",
+   "votos2022": 249507,
+   "votosLocal": null,
+   "patrimonio": 289050.59
+  },
+  "220532": {
+   "uf2022": "DF",
+   "votos2022": 121307,
+   "votosLocal": null,
+   "patrimonio": 2746749.84
+  },
+  "73441": {
+   "uf2022": "SP",
+   "votos2022": 305520,
+   "votosLocal": null,
+   "patrimonio": 1481428.34
+  },
+  "220673": {
+   "uf2022": "PA",
+   "votos2022": 106349,
+   "votosLocal": null,
+   "patrimonio": 2521425.45
+  },
+  "209189": {
+   "uf2022": "BA",
+   "votos2022": 104228,
+   "votosLocal": null,
+   "patrimonio": 2162366.02
+  },
+  "220631": {
+   "uf2022": "MG",
+   "votos2022": 62704,
+   "votosLocal": 218,
+   "patrimonio": 289873.04
+  },
+  "220590": {
+   "uf2022": "AC",
+   "votos2022": 21075,
+   "votosLocal": null,
+   "patrimonio": 550784.79
+  },
+  "122158": {
+   "uf2022": "RJ",
+   "votos2022": 76828,
+   "votosLocal": null,
+   "patrimonio": 316075.56
+  },
+  "74043": {
+   "uf2022": "PB",
+   "votos2022": 109067,
+   "votosLocal": null,
+   "patrimonio": 3814442.67
+  },
+  "220608": {
+   "uf2022": "RO",
+   "votos2022": 22806,
+   "votosLocal": null,
+   "patrimonio": 64706.15
+  },
+  "72442": {
+   "uf2022": "PE",
+   "votos2022": 76528,
+   "votosLocal": null,
+   "patrimonio": 15415530.02
+  },
+  "220626": {
+   "uf2022": "MG",
+   "votos2022": 144924,
+   "votosLocal": 18,
+   "patrimonio": 3457561.4
+  },
+  "178954": {
+   "uf2022": "RO",
+   "votos2022": 48735,
+   "votosLocal": null,
+   "patrimonio": 5872726.98
+  },
+  "220563": {
+   "uf2022": "SE",
+   "votos2022": 75912,
+   "votosLocal": null,
+   "patrimonio": 86277.78
+  },
+  "175765": {
+   "uf2022": "SP",
+   "votos2022": 65219,
+   "votosLocal": null,
+   "patrimonio": 1246500.0
+  },
+  "73778": {
+   "uf2022": "PR",
+   "votos2022": 11925,
+   "votosLocal": null,
+   "patrimonio": 1476681.18
+  },
+  "220542": {
+   "uf2022": "TO",
+   "votos2022": 54703,
+   "votosLocal": null,
+   "patrimonio": 2323785.51
+  },
+  "209787": {
+   "uf2022": "MG",
+   "votos2022": 1492047,
+   "votosLocal": 43794,
+   "patrimonio": 36820.46
+  },
+  "220648": {
+   "uf2022": "SP",
+   "votos2022": 89390,
+   "votosLocal": null,
+   "patrimonio": 2388382.27
+  },
+  "204379": {
+   "uf2022": "AP",
+   "votos2022": 24064,
+   "votosLocal": null,
+   "patrimonio": 1470000.0
+  },
+  "73801": {
+   "uf2022": "PE",
+   "votos2022": 59686,
+   "votosLocal": null,
+   "patrimonio": 736640.32
+  },
+  "160598": {
+   "uf2022": "GO",
+   "votos2022": 142155,
+   "votosLocal": null,
+   "patrimonio": 1406588.5
+  },
+  "204506": {
+   "uf2022": "SP",
+   "votos2022": 231626,
+   "votosLocal": null,
+   "patrimonio": 490772.72
+  },
+  "141516": {
+   "uf2022": "MG",
+   "votos2022": 105383,
+   "votosLocal": 167,
+   "patrimonio": 4736332.49
+  },
+  "160601": {
+   "uf2022": "SP",
+   "votos2022": 220595,
+   "votosLocal": null,
+   "patrimonio": 4797415.75
+  },
+  "220714": {
+   "uf2022": "AM",
+   "votos2022": 90028,
+   "votosLocal": null,
+   "patrimonio": 1113608.12
+  },
+  "220671": {
+   "uf2022": "PA",
+   "votos2022": 150065,
+   "votosLocal": null,
+   "patrimonio": 0
+  },
+  "178887": {
+   "uf2022": "MA",
+   "votos2022": 91872,
+   "votosLocal": null,
+   "patrimonio": 2645044.1
+  },
+  "160545": {
+   "uf2022": "SP",
+   "votos2022": 192806,
+   "votosLocal": null,
+   "patrimonio": 937873.27
+  },
+  "141408": {
+   "uf2022": "MA",
+   "votos2022": 70275,
+   "votosLocal": null,
+   "patrimonio": 3683371.62
+  },
+  "204360": {
+   "uf2022": "RO",
+   "votos2022": 65012,
+   "votosLocal": null,
+   "patrimonio": 600405.64
+  },
+  "220549": {
+   "uf2022": "RS",
+   "votos2022": 119039,
+   "votosLocal": null,
+   "patrimonio": 1634440.84
+  },
+  "160591": {
+   "uf2022": "AP",
+   "votos2022": 13253,
+   "votosLocal": null,
+   "patrimonio": 7596026.99
+  },
+  "74253": {
+   "uf2022": "RJ",
+   "votos2022": 50019,
+   "votosLocal": null,
+   "patrimonio": 876199.46
+  },
+  "220664": {
+   "uf2022": "PE",
+   "votos2022": 84592,
+   "votosLocal": null,
+   "patrimonio": 3632075.49
+  },
+  "220529": {
+   "uf2022": "ES",
+   "votos2022": 74215,
+   "votosLocal": null,
+   "patrimonio": 1578806.18
+  },
+  "204412": {
+   "uf2022": "GO",
+   "votos2022": 87919,
+   "votosLocal": null,
+   "patrimonio": 4420725.16
+  },
+  "204369": {
+   "uf2022": "SC",
+   "votos2022": 227632,
+   "votosLocal": null,
+   "patrimonio": 651781.51
+  },
+  "204553": {
+   "uf2022": "BA",
+   "votos2022": 77164,
+   "votosLocal": null,
+   "patrimonio": 395753.33
+  },
+  "204407": {
+   "uf2022": "RS",
+   "votos2022": 199894,
+   "votosLocal": null,
+   "patrimonio": 237053.9
+  },
+  "204550": {
+   "uf2022": "CE",
+   "votos2022": 216531,
+   "votosLocal": null,
+   "patrimonio": 371563.9
+  },
+  "178905": {
+   "uf2022": "MT",
+   "votos2022": 98704,
+   "votosLocal": null,
+   "patrimonio": 4131163.82
+  },
+  "204496": {
+   "uf2022": "PA",
+   "votos2022": 142326,
+   "votosLocal": null,
+   "patrimonio": 4417074.97
+  },
+  "220672": {
+   "uf2022": "PA",
+   "votos2022": 74746,
+   "votosLocal": null,
+   "patrimonio": 506105.34
+  },
+  "220693": {
+   "uf2022": "BA",
+   "votos2022": 160731,
+   "votosLocal": null,
+   "patrimonio": 202183.14
+  },
+  "220597": {
+   "uf2022": "RO",
+   "votos2022": 23791,
+   "votosLocal": null,
+   "patrimonio": 693047.22
+  },
+  "161440": {
+   "uf2022": "SC",
+   "votos2022": 68208,
+   "votosLocal": null,
+   "patrimonio": 455976.49
+  },
+  "204423": {
+   "uf2022": "PE",
+   "votos2022": 273267,
+   "votosLocal": null,
+   "patrimonio": 2865184.77
+  },
+  "220645": {
+   "uf2022": "SP",
+   "votos2022": 256903,
+   "votosLocal": null,
+   "patrimonio": 19989.96
+  },
+  "73604": {
+   "uf2022": "SP",
+   "votos2022": 193990,
+   "votosLocal": null,
+   "patrimonio": 614120.04
+  },
+  "220576": {
+   "uf2022": "AL",
+   "votos2022": 102039,
+   "votosLocal": null,
+   "patrimonio": 289258.1
+  },
+  "160575": {
+   "uf2022": "DF",
+   "votos2022": 146092,
+   "votosLocal": null,
+   "patrimonio": 406000.0
+  },
+  "178854": {
+   "uf2022": "BA",
+   "votos2022": 175439,
+   "votosLocal": null,
+   "patrimonio": 2282138.62
+  },
+  "178858": {
+   "uf2022": "BA",
+   "votos2022": 147711,
+   "votosLocal": null,
+   "patrimonio": 2630336.1
+  },
+  "160588": {
+   "uf2022": "MG",
+   "votos2022": 170181,
+   "votosLocal": 747,
+   "patrimonio": 1116960.0
+  },
+  "204419": {
+   "uf2022": "GO",
+   "votos2022": 117981,
+   "votosLocal": null,
+   "patrimonio": 9773806.02
+  },
+  "220571": {
+   "uf2022": "GO",
+   "votos2022": 70529,
+   "votosLocal": null,
+   "patrimonio": 9380159.5
+  },
+  "220560": {
+   "uf2022": "SE",
+   "votos2022": 45698,
+   "votosLocal": null,
+   "patrimonio": 96380.59
+  },
+  "204455": {
+   "uf2022": "RJ",
+   "votos2022": 69088,
+   "votosLocal": null,
+   "patrimonio": 2131695.24
+  },
+  "178986": {
+   "uf2022": "SP",
+   "votos2022": 151861,
+   "votosLocal": null,
+   "patrimonio": 936947.08
+  },
+  "220638": {
+   "uf2022": "SP",
+   "votos2022": 73054,
+   "votosLocal": null,
+   "patrimonio": 959044.62
+  },
+  "160518": {
+   "uf2022": "MG",
+   "votos2022": 126214,
+   "votosLocal": 44141,
+   "patrimonio": 2212314.96
+  },
+  "204536": {
+   "uf2022": "SP",
+   "votos2022": 295460,
+   "votosLocal": null,
+   "patrimonio": 325896.01
+  },
+  "178866": {
+   "uf2022": "CE",
+   "votos2022": 182232,
+   "votosLocal": null,
+   "patrimonio": 238365.51
+  },
+  "178871": {
+   "uf2022": "ES",
+   "votos2022": 75034,
+   "votosLocal": null,
+   "patrimonio": 73607.72
+  },
+  "204408": {
+   "uf2022": "SE",
+   "votos2022": 71831,
+   "votosLocal": null,
+   "patrimonio": 2722500.0
+  },
+  "206018": {
+   "uf2022": "MG",
+   "votos2022": 101154,
+   "votosLocal": 1721,
+   "patrimonio": 42153.75
+  },
+  "220674": {
+   "uf2022": "PA",
+   "votos2022": 258907,
+   "votosLocal": null,
+   "patrimonio": 699353.55
+  },
+  "220552": {
+   "uf2022": "RS",
+   "votos2022": 259023,
+   "votosLocal": null,
+   "patrimonio": 389348.0
+  },
+  "178987": {
+   "uf2022": "SP",
+   "votos2022": 108059,
+   "votosLocal": null,
+   "patrimonio": 454611.0
+  },
+  "73788": {
+   "uf2022": "PR",
+   "votos2022": 107022,
+   "votosLocal": null,
+   "patrimonio": 8753932.13
+  },
+  "204491": {
+   "uf2022": "MG",
+   "votos2022": 123370,
+   "votosLocal": 3965,
+   "patrimonio": 159110.0
+  },
+  "221338": {
+   "uf2022": "SP",
+   "votos2022": 49131,
+   "votosLocal": null,
+   "patrimonio": 266860.74
+  },
+  "74161": {
+   "uf2022": "MG",
+   "votos2022": 196760,
+   "votosLocal": 582,
+   "patrimonio": 654782.0
+  },
+  "220643": {
+   "uf2022": "SP",
+   "votos2022": 156966,
+   "votosLocal": null,
+   "patrimonio": 105115.2
+  },
+  "160548": {
+   "uf2022": "SP",
+   "votos2022": 84044,
+   "votosLocal": null,
+   "patrimonio": 605124.06
+  },
+  "220686": {
+   "uf2022": "MA",
+   "votos2022": 111019,
+   "votosLocal": null,
+   "patrimonio": 379005.05
+  },
+  "204367": {
+   "uf2022": "SC",
+   "votos2022": 108001,
+   "votosLocal": null,
+   "patrimonio": 421194.02
+  },
+  "204531": {
+   "uf2022": "SP",
+   "votos2022": 239772,
+   "votosLocal": null,
+   "patrimonio": 812788.26
+  },
+  "157130": {
+   "uf2022": "PE",
+   "votos2022": 134391,
+   "votosLocal": null,
+   "patrimonio": 528000.0
+  },
+  "204464": {
+   "uf2022": "RJ",
+   "votos2022": 198548,
+   "votosLocal": null,
+   "patrimonio": 19498.36
+  },
+  "178943": {
+   "uf2022": "RJ",
+   "votos2022": 43533,
+   "votosLocal": null,
+   "patrimonio": 994970.67
+  },
+  "204365": {
+   "uf2022": "SC",
+   "votos2022": 87894,
+   "votosLocal": null,
+   "patrimonio": 2523956.61
+  },
+  "220688": {
+   "uf2022": "PI",
+   "votos2022": 128080,
+   "votosLocal": null,
+   "patrimonio": 789858.21
+  },
+  "204362": {
+   "uf2022": "SC",
+   "votos2022": 74066,
+   "votosLocal": null,
+   "patrimonio": 3117376.23
+  },
+  "220713": {
+   "uf2022": "AM",
+   "votos2022": 127287,
+   "votosLocal": null,
+   "patrimonio": 419085.75
+  },
+  "204409": {
+   "uf2022": "RS",
+   "votos2022": 77232,
+   "votosLocal": null,
+   "patrimonio": 843792.99
+  },
+  "220578": {
+   "uf2022": "AP",
+   "votos2022": 27112,
+   "votosLocal": null,
+   "patrimonio": 1965584.78
+  },
+  "204425": {
+   "uf2022": "PE",
+   "votos2022": 162056,
+   "votosLocal": null,
+   "patrimonio": 1029840.46
+  },
+  "162067": {
+   "uf2022": "SP",
+   "votos2022": 167438,
+   "votosLocal": null,
+   "patrimonio": 861660.33
+  },
+  "233594": {
+   "uf2022": "RO",
+   "votos2022": 24286,
+   "votosLocal": null,
+   "patrimonio": 2590.62
+  },
+  "73692": {
+   "uf2022": "RS",
+   "votos2022": 103245,
+   "votosLocal": null,
+   "patrimonio": 217395.56
+  },
+  "221329": {
+   "uf2022": "RJ",
+   "votos2022": 43219,
+   "votosLocal": null,
+   "patrimonio": 21969787.76
+  },
+  "160674": {
+   "uf2022": "PB",
+   "votos2022": 158171,
+   "votosLocal": null,
+   "patrimonio": 1167092.4
+  },
+  "220691": {
+   "uf2022": "BA",
+   "votos2022": 171684,
+   "votosLocal": null,
+   "patrimonio": 2450755.1
+  },
+  "205550": {
+   "uf2022": "RJ",
+   "votos2022": 59201,
+   "votosLocal": null,
+   "patrimonio": 270659.79
+  },
+  "220528": {
+   "uf2022": "ES",
+   "votos2022": 53483,
+   "votosLocal": null,
+   "patrimonio": 380000.0
+  },
+  "73433": {
+   "uf2022": "SP",
+   "votos2022": 144108,
+   "votosLocal": null,
+   "patrimonio": 528530.09
+  },
+  "74171": {
+   "uf2022": "RJ",
+   "votos2022": 115023,
+   "votosLocal": null,
+   "patrimonio": 192546.7
+  },
+  "220613": {
+   "uf2022": "RJ",
+   "votos2022": 94221,
+   "votosLocal": null,
+   "patrimonio": 260000.0
+  },
+  "160527": {
+   "uf2022": "PB",
+   "votos2022": 135001,
+   "votosLocal": null,
+   "patrimonio": 3438609.71
+  },
+  "160559": {
+   "uf2022": "RS",
+   "votos2022": 125647,
+   "votosLocal": null,
+   "patrimonio": 4512628.01
+  },
+  "204388": {
+   "uf2022": "RS",
+   "votos2022": 76521,
+   "votosLocal": null,
+   "patrimonio": 9722550.0
+  },
+  "220668": {
+   "uf2022": "PE",
+   "votos2022": 104571,
+   "votosLocal": null,
+   "patrimonio": 130579.55
+  },
+  "220662": {
+   "uf2022": "PE",
+   "votos2022": 85571,
+   "votosLocal": null,
+   "patrimonio": 1651000.0
+  },
+  "204485": {
+   "uf2022": "SP",
+   "votos2022": 104701,
+   "votosLocal": null,
+   "patrimonio": 1353080.72
+  },
+  "204453": {
+   "uf2022": "RN",
+   "votos2022": 157565,
+   "votosLocal": null,
+   "patrimonio": 92944.47
+  },
+  "220565": {
+   "uf2022": "GO",
+   "votos2022": 96714,
+   "votosLocal": null,
+   "patrimonio": 450000.0
+  },
+  "178884": {
+   "uf2022": "MA",
+   "votos2022": 96281,
+   "votosLocal": null,
+   "patrimonio": 1667984.0
+  },
+  "220642": {
+   "uf2022": "SP",
+   "votos2022": 461217,
+   "votosLocal": null,
+   "patrimonio": 159748.62
+  },
+  "204426": {
+   "uf2022": "PE",
+   "votos2022": 127482,
+   "votosLocal": null,
+   "patrimonio": 285477.46
+  },
+  "210989": {
+   "uf2022": "MG",
+   "votos2022": 97246,
+   "votosLocal": 2192,
+   "patrimonio": 804739.83
+  },
+  "220647": {
+   "uf2022": "SP",
+   "votos2022": 129731,
+   "votosLocal": null,
+   "patrimonio": 4451374.5
+  },
+  "178829": {
+   "uf2022": "SP",
+   "votos2022": 168740,
+   "votosLocal": null,
+   "patrimonio": 1266000.0
+  },
+  "204495": {
+   "uf2022": "PA",
+   "votos2022": 79862,
+   "votosLocal": null,
+   "patrimonio": 1540698.21
+  },
+  "141531": {
+   "uf2022": "MG",
+   "votos2022": 122571,
+   "votosLocal": 72,
+   "patrimonio": 2402596.42
+  },
+  "220715": {
+   "uf2022": "AM",
+   "votos2022": 288555,
+   "votosLocal": null,
+   "patrimonio": 88016.93
+  },
+  "141458": {
+   "uf2022": "BA",
+   "votos2022": 90229,
+   "votosLocal": null,
+   "patrimonio": 9917969.0
+  },
+  "204526": {
+   "uf2022": "SP",
+   "votos2022": 79210,
+   "votosLocal": null,
+   "patrimonio": 2506043.67
+  },
+  "178860": {
+   "uf2022": "BA",
+   "votos2022": 137383,
+   "votosLocal": null,
+   "patrimonio": 1802677.74
+  },
+  "220687": {
+   "uf2022": "MA",
+   "votos2022": 54547,
+   "votosLocal": null,
+   "patrimonio": 20230953.6
+  },
+  "121948": {
+   "uf2022": "GO",
+   "votos2022": 95518,
+   "votosLocal": null,
+   "patrimonio": 1071156.7
+  },
+  "166402": {
+   "uf2022": "GO",
+   "votos2022": 81996,
+   "votosLocal": null,
+   "patrimonio": 32124649.67
+  },
+  "178964": {
+   "uf2022": "RS",
+   "votos2022": 77616,
+   "votosLocal": null,
+   "patrimonio": 949701.46
+  },
+  "204460": {
+   "uf2022": "RJ",
+   "votos2022": 114587,
+   "votosLocal": null,
+   "patrimonio": 122222.35
+  },
+  "204558": {
+   "uf2022": "BA",
+   "votos2022": 65363,
+   "votosLocal": null,
+   "patrimonio": 5796785.07
+  },
+  "74646": {
+   "uf2022": "MG",
+   "votos2022": 85341,
+   "votosLocal": 598,
+   "patrimonio": 1943933.43
+  },
+  "204482": {
+   "uf2022": "MG",
+   "votos2022": 101892,
+   "votosLocal": 539,
+   "patrimonio": 5278028.08
+  },
+  "215043": {
+   "uf2022": "MA",
+   "votos2022": 79699,
+   "votosLocal": null,
+   "patrimonio": 698878.77
+  },
+  "160641": {
+   "uf2022": "AP",
+   "votos2022": 13245,
+   "votosLocal": null,
+   "patrimonio": 250000.0
+  },
+  "204508": {
+   "uf2022": "MG",
+   "votos2022": 74465,
+   "votosLocal": 563,
+   "patrimonio": 3154592.97
+  },
+  "220561": {
+   "uf2022": "SE",
+   "votos2022": 38135,
+   "votosLocal": null,
+   "patrimonio": 411250.0
+  },
+  "220649": {
+   "uf2022": "SP",
+   "votos2022": 181568,
+   "votosLocal": null,
+   "patrimonio": 266972.86
+  },
+  "73486": {
+   "uf2022": "RS",
+   "votos2022": 100113,
+   "votosLocal": null,
+   "patrimonio": 3453000.0
+  },
+  "178975": {
+   "uf2022": "SP",
+   "votos2022": 236463,
+   "votosLocal": null,
+   "patrimonio": 1417410.77
+  },
+  "220644": {
+   "uf2022": "SP",
+   "votos2022": 217170,
+   "votosLocal": null,
+   "patrimonio": 1340088.15
+  },
+  "160642": {
+   "uf2022": "PE",
+   "votos2022": 100811,
+   "votosLocal": null,
+   "patrimonio": 525000.0
+  },
+  "204431": {
+   "uf2022": "PI",
+   "votos2022": 79987,
+   "votosLocal": null,
+   "patrimonio": 472295.24
+  },
+  "204364": {
+   "uf2022": "TO",
+   "votos2022": 35171,
+   "votosLocal": null,
+   "patrimonio": 3572680.44
+  },
+  "179001": {
+   "uf2022": "RS",
+   "votos2022": 99627,
+   "votosLocal": null,
+   "patrimonio": 2067183.06
+  },
+  "204372": {
+   "uf2022": "DF",
+   "votos2022": 76274,
+   "votosLocal": null,
+   "patrimonio": 0
+  },
+  "74454": {
+   "uf2022": "CE",
+   "votos2022": 188289,
+   "votosLocal": null,
+   "patrimonio": 158184458.79
+  },
+  "92699": {
+   "uf2022": "PE",
+   "votos2022": 99751,
+   "votosLocal": null,
+   "patrimonio": 192076.07
+  },
+  "220640": {
+   "uf2022": "SP",
+   "votos2022": 125517,
+   "votosLocal": null,
+   "patrimonio": 593269.22
+  },
+  "178947": {
+   "uf2022": "RJ",
+   "votos2022": 65443,
+   "votosLocal": null,
+   "patrimonio": 4926.76
+  },
+  "220610": {
+   "uf2022": "RO",
+   "votos2022": 85604,
+   "votosLocal": null,
+   "patrimonio": 2462633.04
+  },
+  "204560": {
+   "uf2022": "BA",
+   "votos2022": 123199,
+   "votosLocal": null,
+   "patrimonio": 720903.84
+  },
+  "74140": {
+   "uf2022": "BA",
+   "votos2022": 26386,
+   "votosLocal": null,
+   "patrimonio": 783360.37
+  },
+  "178997": {
+   "uf2022": "CE",
+   "votos2022": 113294,
+   "votosLocal": null,
+   "patrimonio": 1512460.24
+  },
+  "220628": {
+   "uf2022": "MG",
+   "votos2022": 83396,
+   "votosLocal": 4711,
+   "patrimonio": 305000.0
+  },
+  "204549": {
+   "uf2022": "CE",
+   "votos2022": 155456,
+   "votosLocal": null,
+   "patrimonio": 1313482.64
+  },
+  "180214": {
+   "uf2022": "RR",
+   "votos2022": 8243,
+   "votosLocal": null,
+   "patrimonio": 305159.16
+  },
+  "160673": {
+   "uf2022": "RS",
+   "votos2022": 162036,
+   "votosLocal": null,
+   "patrimonio": 9126464.83
+  },
+  "139285": {
+   "uf2022": "BA",
+   "votos2022": 112385,
+   "votosLocal": null,
+   "patrimonio": 813396.87
+  },
+  "204449": {
+   "uf2022": "MT",
+   "votos2022": 53285,
+   "votosLocal": null,
+   "patrimonio": 285813.54
+  },
+  "204356": {
+   "uf2022": "ES",
+   "votos2022": 52375,
+   "votosLocal": null,
+   "patrimonio": 1522771.33
+  },
+  "73768": {
+   "uf2022": "PR",
+   "votos2022": 61689,
+   "votosLocal": null,
+   "patrimonio": 46435337.14
+  },
+  "220611": {
+   "uf2022": "RJ",
+   "votos2022": 205324,
+   "votosLocal": null,
+   "patrimonio": 1288362.0
+  },
+  "204387": {
+   "uf2022": "PR",
+   "votos2022": 161500,
+   "votosLocal": null,
+   "patrimonio": 1373685.97
+  },
+  "204394": {
+   "uf2022": "PB",
+   "votos2022": 69405,
+   "votosLocal": null,
+   "patrimonio": 2438977.79
+  },
+  "109429": {
+   "uf2022": "RN",
+   "votos2022": 100693,
+   "votosLocal": null,
+   "patrimonio": 1593563.16
+  },
+  "141456": {
+   "uf2022": "SP",
+   "votos2022": 157843,
+   "votosLocal": null,
+   "patrimonio": 125601.62
+  },
+  "220625": {
+   "uf2022": "MG",
+   "votos2022": 52630,
+   "votosLocal": 18,
+   "patrimonio": 2706637.0
+  },
+  "220558": {
+   "uf2022": "SC",
+   "votos2022": 71140,
+   "votosLocal": null,
+   "patrimonio": 0
+  },
+  "220621": {
+   "uf2022": "RN",
+   "votos2022": 56315,
+   "votosLocal": null,
+   "patrimonio": 94731.04
+  },
+  "220646": {
+   "uf2022": "SP",
+   "votos2022": 178777,
+   "votosLocal": null,
+   "patrimonio": 663574.05
+  },
+  "171617": {
+   "uf2022": "AL",
+   "votos2022": 65814,
+   "votosLocal": null,
+   "patrimonio": 4946.54
+  },
+  "122974": {
+   "uf2022": "MA",
+   "votos2022": 159786,
+   "votosLocal": null,
+   "patrimonio": 206500.0
+  },
+  "220607": {
+   "uf2022": "RJ",
+   "votos2022": 89507,
+   "votosLocal": null,
+   "patrimonio": 511880.4
+  },
+  "141459": {
+   "uf2022": "RN",
+   "votos2022": 104254,
+   "votosLocal": null,
+   "patrimonio": 928155.55
+  },
+  "204406": {
+   "uf2022": "RS",
+   "votos2022": 114258,
+   "votosLocal": null,
+   "patrimonio": 2070649.84
+  },
+  "178966": {
+   "uf2022": "SC",
+   "votos2022": 84454,
+   "votosLocal": null,
+   "patrimonio": 879825.81
+  },
+  "204504": {
+   "uf2022": "SP",
+   "votos2022": 143434,
+   "votosLocal": null,
+   "patrimonio": 602418.0
+  },
+  "220546": {
+   "uf2022": "MS",
+   "votos2022": 41773,
+   "votosLocal": null,
+   "patrimonio": 7760556.59
+  },
+  "178835": {
+   "uf2022": "RS",
+   "votos2022": 70307,
+   "votosLocal": null,
+   "patrimonio": 23816837.47
+  },
+  "74057": {
+   "uf2022": "BA",
+   "votos2022": 124358,
+   "votosLocal": null,
+   "patrimonio": 1205648.04
+  },
+  "220708": {
+   "uf2022": "BA",
+   "votos2022": 138448,
+   "votosLocal": null,
+   "patrimonio": 1604686.23
+  },
+  "188097": {
+   "uf2022": "PI",
+   "votos2022": 78889,
+   "votosLocal": null,
+   "patrimonio": 573203.39
+  },
+  "220589": {
+   "uf2022": "AC",
+   "votos2022": 16786,
+   "votosLocal": null,
+   "patrimonio": 8746350.08
+  },
+  "220696": {
+   "uf2022": "BA",
+   "votos2022": 105885,
+   "votosLocal": null,
+   "patrimonio": 104004.19
+  },
+  "160535": {
+   "uf2022": "RS",
+   "votos2022": 129352,
+   "votosLocal": null,
+   "patrimonio": 266972.85
+  },
+  "165470": {
+   "uf2022": "SE",
+   "votos2022": 49696,
+   "votosLocal": null,
+   "patrimonio": 1348359.98
+  },
+  "220682": {
+   "uf2022": "PR",
+   "votos2022": 84758,
+   "votosLocal": null,
+   "patrimonio": 180108.74
+  },
+  "160508": {
+   "uf2022": "BA",
+   "votos2022": 118021,
+   "votosLocal": null,
+   "patrimonio": 800000.0
+  },
+  "220572": {
+   "uf2022": "GO",
+   "votos2022": 80464,
+   "votosLocal": null,
+   "patrimonio": 1318048.56
+  }
+ }
+}

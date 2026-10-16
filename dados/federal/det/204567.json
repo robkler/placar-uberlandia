@@ -1,0 +1,40 @@
+{
+ "id": 204567,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204567",
+ "nomeCivil": "RAIMUNDO MAGALHÃES COSTA",
+ "ultimoStatus": {
+  "id": 204567,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204567",
+  "nome": "Raimundo Costa",
+  "siglaPartido": "PSD",
+  "uriPartido": null,
+  "siglaUf": "BA",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204567.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Raimundo Costa",
+  "gabinete": {
+   "nome": "226",
+   "predio": "4",
+   "sala": "226",
+   "andar": "2",
+   "telefone": "3215-5226",
+   "email": "dep.raimundocosta@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/raimundocostaba",
+  "https://www.facebook.com/oficialraimundocosta"
+ ],
+ "dataNascimento": "1961-03-09",
+ "dataFalecimento": null,
+ "ufNascimento": "BA",
+ "municipioNascimento": "Valença",
+ "escolaridade": "Superior"
+}

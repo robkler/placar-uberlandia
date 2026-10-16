@@ -1,0 +1,42 @@
+{
+ "id": 204506,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204506",
+ "nomeCivil": "MARCOS ANTONIO PEREIRA",
+ "ultimoStatus": {
+  "id": 204506,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204506",
+  "nome": "Marcos Pereira",
+  "siglaPartido": "REPUBLICANOS",
+  "uriPartido": null,
+  "siglaUf": "SP",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204506.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Marcos Pereira",
+  "gabinete": {
+   "nome": "523",
+   "predio": "4",
+   "sala": "523",
+   "andar": "5",
+   "telefone": "3215-5523",
+   "email": "dep.marcospereira@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/marcospereira04",
+  "https://www.facebook.com/marcospereira1010",
+  "https://www.instagram.com/marcospereira1010",
+  "https://youtube.com/marcospereira0404"
+ ],
+ "dataNascimento": "1972-04-04",
+ "dataFalecimento": null,
+ "ufNascimento": "ES",
+ "municipioNascimento": "Linhares",
+ "escolaridade": "Pós-Graduação"
+}

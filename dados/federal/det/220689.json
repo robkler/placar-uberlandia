@@ -1,0 +1,41 @@
+{
+ "id": 220689,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220689",
+ "nomeCivil": "MARIA DEUSDETE LIMA CUNHA RODRIGUES",
+ "ultimoStatus": {
+  "id": 220689,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220689",
+  "nome": "Detinha",
+  "siglaPartido": "PL",
+  "uriPartido": null,
+  "siglaUf": "MA",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220689.jpg",
+  "email": null,
+  "data": "2026-06-11",
+  "nomeEleitoral": "Detinha",
+  "gabinete": {
+   "nome": "714",
+   "predio": "4",
+   "sala": "714",
+   "andar": "7",
+   "telefone": "3215-5714",
+   "email": "dep.detinha@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": ""
+ },
+ "sexo": "F",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://www.facebook.com/detinha",
+  "https://www.instagram.com/detinhapl",
+  "https://youtube.com/detinha"
+ ],
+ "dataNascimento": "1979-01-25",
+ "dataFalecimento": null,
+ "ufNascimento": "CE",
+ "municipioNascimento": "Cariús",
+ "escolaridade": "Superior"
+}

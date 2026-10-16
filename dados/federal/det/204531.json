@@ -1,0 +1,42 @@
+{
+ "id": 204531,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204531",
+ "nomeCivil": "GUILHERME MURARO DERRITE",
+ "ultimoStatus": {
+  "id": 204531,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204531",
+  "nome": "Guilherme Derrite",
+  "siglaPartido": "PP",
+  "uriPartido": null,
+  "siglaUf": "SP",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204531.jpg",
+  "email": null,
+  "data": "2025-12-02",
+  "nomeEleitoral": "Guilherme Derrite",
+  "gabinete": {
+   "nome": "750",
+   "predio": "4",
+   "sala": "750",
+   "andar": "7",
+   "telefone": "3215-5750",
+   "email": "dep.guilhermederrite@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": "Of. 4/GabBSB/2025, de 2/12/2025, Dep Guilherme Derrite"
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/capitaoderrite",
+  "https://www.facebook.com/capitaoderrite",
+  "https://www.instagram.com/capitaoderrite",
+  "https://youtube.com/channel/UCZHZxgmwC2c5tz3_Jn-gGOw"
+ ],
+ "dataNascimento": "1984-10-10",
+ "dataFalecimento": null,
+ "ufNascimento": "SP",
+ "municipioNascimento": "Sorocaba",
+ "escolaridade": "Pós-Graduação"
+}

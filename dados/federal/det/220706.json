@@ -1,0 +1,40 @@
+{
+ "id": 220706,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220706",
+ "nomeCivil": "NELSON FERNANDO PADOVANI",
+ "ultimoStatus": {
+  "id": 220706,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220706",
+  "nome": "Padovani",
+  "siglaPartido": "PP",
+  "uriPartido": null,
+  "siglaUf": "PR",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220706.jpg",
+  "email": null,
+  "data": "2026-10-09",
+  "nomeEleitoral": "Padovani",
+  "gabinete": {
+   "nome": "923",
+   "predio": "4",
+   "sala": "923",
+   "andar": "9",
+   "telefone": "3215-5923",
+   "email": "dep.padovani@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": ""
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/padovanidep",
+  "https://www.instagram.com/nelsinhopadovani"
+ ],
+ "dataNascimento": "1977-10-29",
+ "dataFalecimento": null,
+ "ufNascimento": "PR",
+ "municipioNascimento": "Cascavel",
+ "escolaridade": "Superior"
+}

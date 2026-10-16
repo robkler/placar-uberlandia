@@ -1,0 +1,42 @@
+{
+ "id": 220530,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220530",
+ "nomeCivil": "Manoel Messias Donato Bezerra",
+ "ultimoStatus": {
+  "id": 220530,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220530",
+  "nome": "Messias Donato",
+  "siglaPartido": "UNIÃO",
+  "uriPartido": null,
+  "siglaUf": "ES",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220530.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Messias Donato",
+  "gabinete": {
+   "nome": "417",
+   "predio": "4",
+   "sala": "417",
+   "andar": "4",
+   "telefone": "3215-5417",
+   "email": "dep.messiasdonato@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/MessiasDonato",
+  "https://www.facebook.com/messiasdonato",
+  "https://www.instagram.com/messiasdonato",
+  "https://youtube.com/channel/UCzw1O2NLEynTs9dm3X2AILA"
+ ],
+ "dataNascimento": "1976-08-06",
+ "dataFalecimento": null,
+ "ufNascimento": "BA",
+ "municipioNascimento": "Itororó",
+ "escolaridade": "Mestrado"
+}

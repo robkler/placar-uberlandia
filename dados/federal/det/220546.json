@@ -1,0 +1,42 @@
+{
+ "id": 220546,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220546",
+ "nomeCivil": "RODOLFO OLIVEIRA NOGUEIRA",
+ "ultimoStatus": {
+  "id": 220546,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220546",
+  "nome": "Rodolfo Nogueira",
+  "siglaPartido": "PL",
+  "uriPartido": null,
+  "siglaUf": "MS",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220546.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Rodolfo Nogueira",
+  "gabinete": {
+   "nome": "776",
+   "predio": "3",
+   "sala": "776",
+   "andar": null,
+   "telefone": "3215-5776",
+   "email": "dep.rodolfonogueira@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://instagram.com/rodolfonogueirams?igshid=YmMyMTA2M2Y=",
+  "https://twitter.com/rodolfoms",
+  "https://www.facebook.com/rodolfonogueiraoficial",
+  "https://youtube.com/RodolfoNogueirams"
+ ],
+ "dataNascimento": "1973-11-24",
+ "dataFalecimento": null,
+ "ufNascimento": "MS",
+ "municipioNascimento": "Dourados",
+ "escolaridade": "Superior"
+}

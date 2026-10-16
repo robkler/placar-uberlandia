@@ -1,0 +1,40 @@
+{
+ "id": 230957,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/230957",
+ "nomeCivil": "João Cury Neto",
+ "ultimoStatus": {
+  "id": 230957,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/230957",
+  "nome": "João Cury",
+  "siglaPartido": "MDB",
+  "uriPartido": null,
+  "siglaUf": "SP",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/230957.jpg",
+  "email": null,
+  "data": "2025-01-07",
+  "nomeEleitoral": "João Cury",
+  "gabinete": {
+   "nome": "391",
+   "predio": "3",
+   "sala": "391",
+   "andar": null,
+   "telefone": "3215-5391",
+   "email": "dep.joaocury@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Efetivado",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://www.facebook.com/joaocurysp",
+  "https://www.instagram.com/joaocurysp"
+ ],
+ "dataNascimento": "1973-10-22",
+ "dataFalecimento": null,
+ "ufNascimento": "SP",
+ "municipioNascimento": "Botucatu",
+ "escolaridade": "Superior"
+}

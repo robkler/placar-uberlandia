@@ -1,0 +1,42 @@
+{
+ "id": 204409,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204409",
+ "nomeCivil": "DANIEL TRZECIAK DUARTE",
+ "ultimoStatus": {
+  "id": 204409,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204409",
+  "nome": "Daniel Trzeciak",
+  "siglaPartido": "PSDB",
+  "uriPartido": null,
+  "siglaUf": "RS",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204409.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Daniel Trzeciak",
+  "gabinete": {
+   "nome": "924",
+   "predio": "4",
+   "sala": "924",
+   "andar": "9",
+   "telefone": "3215-5924",
+   "email": "dep.danieltrzeciak@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/TrzeciakDaniel",
+  "https://www.facebook.com/DanielTrzeciak45",
+  "https://www.instagram.com/danieltrzeciak45",
+  "https://youtube.com/DanielTrzeciak"
+ ],
+ "dataNascimento": "1986-11-04",
+ "dataFalecimento": null,
+ "ufNascimento": "RS",
+ "municipioNascimento": "Dom Feliciano",
+ "escolaridade": "Superior"
+}

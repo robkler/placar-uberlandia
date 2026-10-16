@@ -1,0 +1,37 @@
+{
+ "id": 220699,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220699",
+ "nomeCivil": "JOSÉ DIAS DE CASTRO NETO",
+ "ultimoStatus": {
+  "id": 220699,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220699",
+  "nome": "Castro Neto",
+  "siglaPartido": "MDB",
+  "uriPartido": null,
+  "siglaUf": "PI",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220699.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Castro Neto",
+  "gabinete": {
+   "nome": "803",
+   "predio": "4",
+   "sala": "803",
+   "andar": "8",
+   "telefone": "3215-5803",
+   "email": "dep.castroneto@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [],
+ "dataNascimento": "1974-04-23",
+ "dataFalecimento": null,
+ "ufNascimento": "PI",
+ "municipioNascimento": "Teresina",
+ "escolaridade": "Superior"
+}

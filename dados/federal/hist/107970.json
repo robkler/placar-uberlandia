@@ -1,0 +1,34 @@
+[
+ {
+  "id": 107970,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/107970",
+  "nome": "Ana Paula Leão",
+  "nomeEleitoral": "ANA PAULA LEÃO",
+  "siglaPartido": "PP",
+  "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37903",
+  "siglaUf": "MG",
+  "idLegislatura": 57,
+  "email": null,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/107970.jpg",
+  "dataHora": "2023-02-01T00:00",
+  "situacao": null,
+  "condicaoEleitoral": null,
+  "descricaoStatus": "Nome no início da legislatura / Partido no início da legislatura"
+ },
+ {
+  "id": 107970,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/107970",
+  "nome": "Ana Paula Leão",
+  "nomeEleitoral": "ANA PAULA LEÃO",
+  "siglaPartido": "PP",
+  "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37903",
+  "siglaUf": "MG",
+  "idLegislatura": 57,
+  "email": null,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/107970.jpg",
+  "dataHora": "2023-02-01T12:05",
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": "Entrada - Posse de Eleito Titular - Posse na Sessão Preparatória"
+ }
+]

@@ -1,0 +1,37 @@
+{
+ "id": 92699,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/92699",
+ "nomeCivil": "FERNANDO MONTEIRO DE ALBUQUERQUE",
+ "ultimoStatus": {
+  "id": 92699,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/92699",
+  "nome": "Fernando Monteiro",
+  "siglaPartido": "PSD",
+  "uriPartido": null,
+  "siglaUf": "PE",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/92699.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Fernando Monteiro",
+  "gabinete": {
+   "nome": "243",
+   "predio": "4",
+   "sala": "243",
+   "andar": "2",
+   "telefone": "3215-5243",
+   "email": "dep.fernandomonteiro@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [],
+ "dataNascimento": "1976-09-17",
+ "dataFalecimento": null,
+ "ufNascimento": "PE",
+ "municipioNascimento": "Recife",
+ "escolaridade": "Superior"
+}

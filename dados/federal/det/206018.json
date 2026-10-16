@@ -1,0 +1,37 @@
+{
+ "id": 206018,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/206018",
+ "nomeCivil": "CÉLIA NUNES CORREA",
+ "ultimoStatus": {
+  "id": 206018,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/206018",
+  "nome": "Célia Xakriabá",
+  "siglaPartido": "PSOL",
+  "uriPartido": null,
+  "siglaUf": "MG",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/206018.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Célia Xakriabá",
+  "gabinete": {
+   "nome": "619",
+   "predio": "4",
+   "sala": "619",
+   "andar": "6",
+   "telefone": "3215-5619",
+   "email": "dep.celiaxakriaba@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "F",
+ "urlWebsite": null,
+ "redeSocial": [],
+ "dataNascimento": "1989-05-10",
+ "dataFalecimento": null,
+ "ufNascimento": "SP",
+ "municipioNascimento": "São Paulo",
+ "escolaridade": "Doutorado"
+}

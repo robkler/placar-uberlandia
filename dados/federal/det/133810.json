@@ -1,0 +1,37 @@
+{
+ "id": 133810,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/133810",
+ "nomeCivil": "MARCELO PIRES MORAES",
+ "ultimoStatus": {
+  "id": 133810,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/133810",
+  "nome": "Marcelo Moraes",
+  "siglaPartido": "PL",
+  "uriPartido": null,
+  "siglaUf": "RS",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/133810.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Marcelo Moraes",
+  "gabinete": {
+   "nome": "258",
+   "predio": "4",
+   "sala": "258",
+   "andar": "2",
+   "telefone": "3215-5258",
+   "email": "dep.marcelomoraes@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [],
+ "dataNascimento": "1979-08-07",
+ "dataFalecimento": null,
+ "ufNascimento": "RS",
+ "municipioNascimento": "Porto Alegre",
+ "escolaridade": "Superior Incompleto"
+}

@@ -1,0 +1,37 @@
+{
+ "id": 74400,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74400",
+ "nomeCivil": "PAULO ROBERTO SEVERO PIMENTA",
+ "ultimoStatus": {
+  "id": 74400,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74400",
+  "nome": "Paulo Pimenta",
+  "siglaPartido": "PT",
+  "uriPartido": null,
+  "siglaUf": "RS",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74400.jpg",
+  "email": null,
+  "data": "2025-01-14",
+  "nomeEleitoral": "Paulo Pimenta",
+  "gabinete": {
+   "nome": "552",
+   "predio": "4",
+   "sala": "552",
+   "andar": "5",
+   "telefone": "3215-5552",
+   "email": "dep.paulopimenta@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": ""
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [],
+ "dataNascimento": "1965-03-19",
+ "dataFalecimento": null,
+ "ufNascimento": "RS",
+ "municipioNascimento": "Santa Maria",
+ "escolaridade": "Superior"
+}

@@ -1,0 +1,41 @@
+{
+ "id": 198783,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/198783",
+ "nomeCivil": "EMANUEL PINHEIRO DA SILVA PRIMO",
+ "ultimoStatus": {
+  "id": 198783,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/198783",
+  "nome": "Emanuel Pinheiro Neto",
+  "siglaPartido": "PSD",
+  "uriPartido": null,
+  "siglaUf": "MT",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/198783.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Emanuel Pinheiro Neto",
+  "gabinete": {
+   "nome": "678",
+   "predio": "3",
+   "sala": "678",
+   "andar": null,
+   "telefone": "3215-5678",
+   "email": "dep.emanuelpinheironeto@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/emanuelzinhomt",
+  "https://www.facebook.com/emanuelpinheironeto",
+  "https://www.instagram.com/emanuelpinheironeto"
+ ],
+ "dataNascimento": "1995-01-05",
+ "dataFalecimento": null,
+ "ufNascimento": "MT",
+ "municipioNascimento": "Cuiabá",
+ "escolaridade": "Superior"
+}

@@ -1,0 +1,37 @@
+{
+ "id": 160976,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160976",
+ "nomeCivil": "FRANCISCO EVERARDO TIRIRICA OLIVEIRA SILVA",
+ "ultimoStatus": {
+  "id": 160976,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160976",
+  "nome": "Tiririca",
+  "siglaPartido": "PSD",
+  "uriPartido": null,
+  "siglaUf": "SP",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160976.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Tiririca",
+  "gabinete": {
+   "nome": "404",
+   "predio": "4",
+   "sala": "404",
+   "andar": "4",
+   "telefone": "3215-5404",
+   "email": "dep.tiririca@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [],
+ "dataNascimento": "1965-05-01",
+ "dataFalecimento": null,
+ "ufNascimento": "CE",
+ "municipioNascimento": "Itapipoca",
+ "escolaridade": "Ensino Fundamental"
+}

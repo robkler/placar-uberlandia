@@ -1,0 +1,37 @@
+{
+ "id": 74079,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74079",
+ "nomeCivil": "JOSÉ BENITO PRIANTE JÚNIOR",
+ "ultimoStatus": {
+  "id": 74079,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74079",
+  "nome": "José Priante",
+  "siglaPartido": "MDB",
+  "uriPartido": null,
+  "siglaUf": "PA",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74079.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "José Priante",
+  "gabinete": {
+   "nome": "752",
+   "predio": "4",
+   "sala": "752",
+   "andar": "7",
+   "telefone": "3215-5752",
+   "email": "dep.josepriante@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [],
+ "dataNascimento": "1963-12-02",
+ "dataFalecimento": null,
+ "ufNascimento": "PA",
+ "municipioNascimento": "Belém",
+ "escolaridade": "Superior"
+}

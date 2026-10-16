@@ -1,0 +1,42 @@
+{
+ "id": 220597,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220597",
+ "nomeCivil": "THIAGO LEITE FLORES PEREIRA",
+ "ultimoStatus": {
+  "id": 220597,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220597",
+  "nome": "Thiago Flores",
+  "siglaPartido": "UNIÃO",
+  "uriPartido": null,
+  "siglaUf": "RO",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220597.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Thiago Flores",
+  "gabinete": {
+   "nome": "437",
+   "predio": "4",
+   "sala": "437",
+   "andar": "4",
+   "telefone": "3215-5437",
+   "email": "dep.thiagoflores@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/depthiagoflores",
+  "https://www.facebook.com/depthiagoflores",
+  "https://www.instagram.com/deputadothiagoflores",
+  "https://www.youtube.com/channel/UCF6Ks4RTqfjqxPMqUTotKkg"
+ ],
+ "dataNascimento": "1980-07-03",
+ "dataFalecimento": null,
+ "ufNascimento": "SP",
+ "municipioNascimento": "Ribeirão Preto",
+ "escolaridade": "Pós-Graduação"
+}

@@ -1,0 +1,42 @@
+{
+ "id": 107283,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/107283",
+ "nomeCivil": "GLEISI HELENA HOFFMANN",
+ "ultimoStatus": {
+  "id": 107283,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/107283",
+  "nome": "Gleisi Hoffmann",
+  "siglaPartido": "PT",
+  "uriPartido": null,
+  "siglaUf": "PR",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/107283.jpg",
+  "email": null,
+  "data": "2026-04-06",
+  "nomeEleitoral": "Gleisi Hoffmann",
+  "gabinete": {
+   "nome": "232",
+   "predio": "4",
+   "sala": "232",
+   "andar": "2",
+   "telefone": "3215-5232",
+   "email": "dep.gleisihoffmann@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": ""
+ },
+ "sexo": "F",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/gleisi",
+  "https://www.facebook.com/gleisi.hoffmann",
+  "https://www.instagram.com/gleisihoffmann",
+  "https://youtube.com/GleisiHoffmannPT"
+ ],
+ "dataNascimento": "1965-09-06",
+ "dataFalecimento": null,
+ "ufNascimento": "PR",
+ "municipioNascimento": "Curitiba",
+ "escolaridade": "Pós-Graduação"
+}

@@ -1,0 +1,37 @@
+{
+ "id": 204497,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204497",
+ "nomeCivil": "JOÃO FERRARI JÚNIOR",
+ "ultimoStatus": {
+  "id": 204497,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204497",
+  "nome": "Júnior Ferrari",
+  "siglaPartido": "PSD",
+  "uriPartido": null,
+  "siglaUf": "PA",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204497.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Júnior Ferrari",
+  "gabinete": {
+   "nome": "930",
+   "predio": "4",
+   "sala": "930",
+   "andar": "9",
+   "telefone": "3215-5930",
+   "email": "dep.juniorferrari@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [],
+ "dataNascimento": "1967-07-13",
+ "dataFalecimento": null,
+ "ufNascimento": "PA",
+ "municipioNascimento": "Oriximiná",
+ "escolaridade": "Superior"
+}

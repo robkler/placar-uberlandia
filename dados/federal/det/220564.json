@@ -1,0 +1,42 @@
+{
+ "id": 220564,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220564",
+ "nomeCivil": "YANDRA BARRETO FERREIRA",
+ "ultimoStatus": {
+  "id": 220564,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220564",
+  "nome": "Yandra Moura",
+  "siglaPartido": "UNIÃO",
+  "uriPartido": null,
+  "siglaUf": "SE",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220564.jpg",
+  "email": null,
+  "data": "2024-11-03",
+  "nomeEleitoral": "Yandra Moura",
+  "gabinete": {
+   "nome": "493",
+   "predio": "3",
+   "sala": "493",
+   "andar": null,
+   "telefone": "3215-5493",
+   "email": "dep.yandramoura@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": ""
+ },
+ "sexo": "F",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/yandramourase",
+  "https://www.facebook.com/yandramourase",
+  "https://www.instagram.com/yandramourase",
+  "https://youtube.com/Yandramourase"
+ ],
+ "dataNascimento": "1994-04-25",
+ "dataFalecimento": null,
+ "ufNascimento": "SE",
+ "municipioNascimento": "Aracaju",
+ "escolaridade": "Superior"
+}

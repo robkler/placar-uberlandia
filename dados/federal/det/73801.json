@@ -1,0 +1,37 @@
+{
+ "id": 73801,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/73801",
+ "nomeCivil": "RENILDO VASCONCELOS CALHEIROS",
+ "ultimoStatus": {
+  "id": 73801,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/73801",
+  "nome": "Renildo Calheiros",
+  "siglaPartido": "PCdoB",
+  "uriPartido": null,
+  "siglaUf": "PE",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/73801.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Renildo Calheiros",
+  "gabinete": {
+   "nome": "915",
+   "predio": "4",
+   "sala": "915",
+   "andar": "9",
+   "telefone": "3215-5915",
+   "email": "dep.renildocalheiros@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [],
+ "dataNascimento": "1959-04-20",
+ "dataFalecimento": null,
+ "ufNascimento": "AL",
+ "municipioNascimento": "Murici",
+ "escolaridade": "Superior"
+}

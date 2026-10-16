@@ -1,0 +1,42 @@
+{
+ "id": 220556,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220556",
+ "nomeCivil": "ANA PAULA DE SOUZA LIMA",
+ "ultimoStatus": {
+  "id": 220556,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220556",
+  "nome": "Ana Paula Lima",
+  "siglaPartido": "PT",
+  "uriPartido": null,
+  "siglaUf": "SC",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220556.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Ana Paula Lima",
+  "gabinete": {
+   "nome": "206",
+   "predio": "4",
+   "sala": "206",
+   "andar": "2",
+   "telefone": "3215-5206",
+   "email": "dep.anapaulalima@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "F",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/anapaulalimapt",
+  "https://www.facebook.com/anapaulalima.pt13",
+  "https://www.instagram.com/anapaulalimapt",
+  "https://youtube.com/channel/UC271rCNzTprXed1zDwykMaw"
+ ],
+ "dataNascimento": "1964-04-19",
+ "dataFalecimento": null,
+ "ufNascimento": "PR",
+ "municipioNascimento": "Curitiba",
+ "escolaridade": "Superior"
+}

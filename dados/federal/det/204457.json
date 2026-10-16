@@ -1,0 +1,40 @@
+{
+ "id": 204457,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204457",
+ "nomeCivil": "ROGERIO TEIXEIRA JUNIOR",
+ "ultimoStatus": {
+  "id": 204457,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204457",
+  "nome": "Juninho do Pneu",
+  "siglaPartido": "PSDB",
+  "uriPartido": null,
+  "siglaUf": "RJ",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204457.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Juninho do Pneu",
+  "gabinete": {
+   "nome": "641",
+   "predio": "4",
+   "sala": "641",
+   "andar": "6",
+   "telefone": "3215-5641",
+   "email": "dep.juninhodopneu@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://www.facebook.com/juninhodopneu01",
+  "https://www.instagram.com/juninhodopneu"
+ ],
+ "dataNascimento": "1976-10-23",
+ "dataFalecimento": null,
+ "ufNascimento": "RJ",
+ "municipioNascimento": "Nova Iguaçu",
+ "escolaridade": "Ensino Médio"
+}

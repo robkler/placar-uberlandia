@@ -1,0 +1,42 @@
+{
+ "id": 160640,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160640",
+ "nomeCivil": "EROS FERREIRA BIONDINI",
+ "ultimoStatus": {
+  "id": 160640,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160640",
+  "nome": "Eros Biondini",
+  "siglaPartido": "PL",
+  "uriPartido": null,
+  "siglaUf": "MG",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160640.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Eros Biondini",
+  "gabinete": {
+   "nome": "321",
+   "predio": "4",
+   "sala": "321",
+   "andar": "3",
+   "telefone": "3215-5321",
+   "email": "dep.erosbiondini@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "http://twitter.com/erosbiondini",
+  "http://www.youtube.com/erosbiondini",
+  "https://www.facebook.com/erosbiondini",
+  "https://www.instagram.com/ErosBiondini"
+ ],
+ "dataNascimento": "1971-05-20",
+ "dataFalecimento": null,
+ "ufNascimento": "MG",
+ "municipioNascimento": "Belo Horizonte",
+ "escolaridade": "Pós-Graduação"
+}

@@ -1,0 +1,40 @@
+{
+ "id": 220584,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220584",
+ "nomeCivil": "CÁSSIO MURILO GALDINO DE ARAÚJO",
+ "ultimoStatus": {
+  "id": 220584,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220584",
+  "nome": "Murilo Galdino",
+  "siglaPartido": "REPUBLICANOS",
+  "uriPartido": null,
+  "siglaUf": "PB",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220584.jpg",
+  "email": null,
+  "data": "2026-09-27",
+  "nomeEleitoral": "Murilo Galdino",
+  "gabinete": {
+   "nome": "815",
+   "predio": "4",
+   "sala": "815",
+   "andar": "8",
+   "telefone": "3215-5815",
+   "email": "dep.murilogaldino@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": ""
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/Murilogaldinopb",
+  "https://www.facebook.com/murilogaldinopb"
+ ],
+ "dataNascimento": "1980-07-02",
+ "dataFalecimento": null,
+ "ufNascimento": "PB",
+ "municipioNascimento": "Pocinhos",
+ "escolaridade": "Superior"
+}

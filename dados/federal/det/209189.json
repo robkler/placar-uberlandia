@@ -1,0 +1,41 @@
+{
+ "id": 209189,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/209189",
+ "nomeCivil": "JOSEILDO RIBEIRO RAMOS",
+ "ultimoStatus": {
+  "id": 209189,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/209189",
+  "nome": "Joseildo Ramos",
+  "siglaPartido": "PT",
+  "uriPartido": null,
+  "siglaUf": "BA",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/209189.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Joseildo Ramos",
+  "gabinete": {
+   "nome": "728",
+   "predio": "4",
+   "sala": "728",
+   "andar": "7",
+   "telefone": "3215-5728",
+   "email": "dep.joseildoramos@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/joseildoramos",
+  "https://www.facebook.com/deputadojoseildoramos",
+  "https://www.instagram.com/joseildoramos"
+ ],
+ "dataNascimento": "1957-08-23",
+ "dataFalecimento": null,
+ "ufNascimento": "BA",
+ "municipioNascimento": "Alagoinhas",
+ "escolaridade": "Superior"
+}

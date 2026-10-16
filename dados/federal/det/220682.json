@@ -1,0 +1,37 @@
+{
+ "id": 220682,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220682",
+ "nomeCivil": "ANTONIO TADEU VENERI",
+ "ultimoStatus": {
+  "id": 220682,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220682",
+  "nome": "Tadeu Veneri",
+  "siglaPartido": "PT",
+  "uriPartido": null,
+  "siglaUf": "PR",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220682.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Tadeu Veneri",
+  "gabinete": {
+   "nome": "952",
+   "predio": "4",
+   "sala": "952",
+   "andar": "9",
+   "telefone": "3215-5952",
+   "email": "dep.tadeuveneri@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [],
+ "dataNascimento": "1953-02-10",
+ "dataFalecimento": null,
+ "ufNascimento": "PR",
+ "municipioNascimento": "União da Vitória",
+ "escolaridade": "Superior Incompleto"
+}

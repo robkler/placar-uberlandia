@@ -1,0 +1,42 @@
+{
+ "id": 204528,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204528",
+ "nomeCivil": "ADRIANA MIGUEL VENTURA",
+ "ultimoStatus": {
+  "id": 204528,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204528",
+  "nome": "Adriana Ventura",
+  "siglaPartido": "NOVO",
+  "uriPartido": null,
+  "siglaUf": "SP",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204528.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Adriana Ventura",
+  "gabinete": {
+   "nome": "802",
+   "predio": "4",
+   "sala": "802",
+   "andar": "8",
+   "telefone": "3215-5802",
+   "email": "dep.adrianaventura@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "F",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/adriventurasp",
+  "https://www.facebook.com/adriventurasp",
+  "https://www.instagram.com/adriventurasp",
+  "https://youtube.com/adrianaventura"
+ ],
+ "dataNascimento": "1969-03-06",
+ "dataFalecimento": null,
+ "ufNascimento": "SP",
+ "municipioNascimento": "São Paulo",
+ "escolaridade": "Doutorado"
+}

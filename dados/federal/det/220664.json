@@ -1,0 +1,39 @@
+{
+ "id": 220664,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220664",
+ "nomeCivil": "GUILHERME A. UCHOA CAVALCANTI PESSOA DE MELO JUNIOR",
+ "ultimoStatus": {
+  "id": 220664,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220664",
+  "nome": "Guilherme Uchoa",
+  "siglaPartido": "PSD",
+  "uriPartido": null,
+  "siglaUf": "PE",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220664.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Guilherme Uchoa",
+  "gabinete": {
+   "nome": "430",
+   "predio": "4",
+   "sala": "430",
+   "andar": "4",
+   "telefone": "3215-5430",
+   "email": "dep.guilhermeuchoa@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://www.instagram.com/GUILHERMEUCHOAJR"
+ ],
+ "dataNascimento": "1971-04-27",
+ "dataFalecimento": null,
+ "ufNascimento": "PE",
+ "municipioNascimento": "Paulista",
+ "escolaridade": "Superior"
+}

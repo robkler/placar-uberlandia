@@ -1,0 +1,37 @@
+{
+ "id": 220551,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220551",
+ "nomeCivil": "FRANCIANE ABADE BAYER MULLER",
+ "ultimoStatus": {
+  "id": 220551,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220551",
+  "nome": "Franciane Bayer",
+  "siglaPartido": "REPUBLICANOS",
+  "uriPartido": null,
+  "siglaUf": "RS",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220551.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Franciane Bayer",
+  "gabinete": {
+   "nome": "538",
+   "predio": "4",
+   "sala": "538",
+   "andar": "5",
+   "telefone": "3215-5538",
+   "email": "dep.francianebayer@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "F",
+ "urlWebsite": null,
+ "redeSocial": [],
+ "dataNascimento": "1987-10-09",
+ "dataFalecimento": null,
+ "ufNascimento": "RS",
+ "municipioNascimento": "Santa Maria",
+ "escolaridade": "Superior"
+}

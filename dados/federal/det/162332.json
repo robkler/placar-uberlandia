@@ -1,0 +1,37 @@
+{
+ "id": 162332,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/162332",
+ "nomeCivil": "LUIZ HILOSHI NISHIMORI",
+ "ultimoStatus": {
+  "id": 162332,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/162332",
+  "nome": "Luiz Nishimori",
+  "siglaPartido": "PSD",
+  "uriPartido": null,
+  "siglaUf": "PR",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/162332.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Luiz Nishimori",
+  "gabinete": {
+   "nome": "907",
+   "predio": "4",
+   "sala": "907",
+   "andar": "9",
+   "telefone": "3215-5907",
+   "email": "dep.luiznishimori@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [],
+ "dataNascimento": "1949-04-09",
+ "dataFalecimento": null,
+ "ufNascimento": "PR",
+ "municipioNascimento": "Marialva",
+ "escolaridade": "Superior"
+}

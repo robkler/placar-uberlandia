@@ -1,0 +1,41 @@
+{
+ "id": 178966,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178966",
+ "nomeCivil": "Geovânia de Sá",
+ "ultimoStatus": {
+  "id": 178966,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178966",
+  "nome": "Geovania de Sá",
+  "siglaPartido": "REPUBLICANOS",
+  "uriPartido": null,
+  "siglaUf": "SC",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178966.jpg",
+  "email": null,
+  "data": "2025-01-01",
+  "nomeEleitoral": "Geovania de Sá",
+  "gabinete": {
+   "nome": "418",
+   "predio": "4",
+   "sala": "418",
+   "andar": "4",
+   "telefone": "3215-5418",
+   "email": "dep.geovaniadesa@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Efetivado",
+  "descricaoStatus": null
+ },
+ "sexo": "F",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://instagram.com/geovaniasa?igshid=ZDdkNTZiNTM=",
+  "https://twitter.com/geovaniadesa?t=zlR3T1G0uVQIQSdO6omG7A&s=09",
+  "https://www.facebook.com/geovaniadesaa?mibextid=ZbWKwL"
+ ],
+ "dataNascimento": "1972-03-30",
+ "dataFalecimento": null,
+ "ufNascimento": "SC",
+ "municipioNascimento": "Criciúma",
+ "escolaridade": "Pós-Graduação"
+}

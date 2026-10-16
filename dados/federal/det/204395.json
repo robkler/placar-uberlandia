@@ -1,0 +1,41 @@
+{
+ "id": 204395,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204395",
+ "nomeCivil": "PEDRO DEBONI LUPION MELLO",
+ "ultimoStatus": {
+  "id": 204395,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204395",
+  "nome": "Pedro Lupion",
+  "siglaPartido": "REPUBLICANOS",
+  "uriPartido": null,
+  "siglaUf": "PR",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204395.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Pedro Lupion",
+  "gabinete": {
+   "nome": "812",
+   "predio": "4",
+   "sala": "812",
+   "andar": "8",
+   "telefone": "3215-5812",
+   "email": "dep.pedrolupion@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/pedro_lupion",
+  "https://www.facebook.com/pedrolupion",
+  "https://www.instagram.com/pedrolupion"
+ ],
+ "dataNascimento": "1983-06-04",
+ "dataFalecimento": null,
+ "ufNascimento": "PR",
+ "municipioNascimento": "Curitiba",
+ "escolaridade": "Mestrado"
+}

@@ -1,0 +1,37 @@
+{
+ "id": 204557,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204557",
+ "nomeCivil": "SIDNEY RICARDO DE OLIVEIRA LEITE",
+ "ultimoStatus": {
+  "id": 204557,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204557",
+  "nome": "Sidney Leite",
+  "siglaPartido": "PSD",
+  "uriPartido": null,
+  "siglaUf": "AM",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204557.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Sidney Leite",
+  "gabinete": {
+   "nome": "770",
+   "predio": "3",
+   "sala": "770",
+   "andar": null,
+   "telefone": "3215-5770",
+   "email": "dep.sidneyleite@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [],
+ "dataNascimento": "1967-04-08",
+ "dataFalecimento": null,
+ "ufNascimento": "AM",
+ "municipioNascimento": "Manaus",
+ "escolaridade": "Superior"
+}

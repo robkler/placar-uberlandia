@@ -1,0 +1,41 @@
+{
+ "id": 178962,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178962",
+ "nomeCivil": "ANTONIO CARLOS GOMES DA SILVA",
+ "ultimoStatus": {
+  "id": 178962,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178962",
+  "nome": "Carlos Gomes",
+  "siglaPartido": "REPUBLICANOS",
+  "uriPartido": null,
+  "siglaUf": "RS",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178962.jpg",
+  "email": null,
+  "data": "2026-02-05",
+  "nomeEleitoral": "Carlos Gomes",
+  "gabinete": {
+   "nome": "686",
+   "predio": "3",
+   "sala": "686",
+   "andar": null,
+   "telefone": "3215-5686",
+   "email": "dep.carlosgomes@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": ""
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/carlosgomesdep",
+  "https://www.facebook.com/deputadocarlosgomes",
+  "https://www.instagram.com/carlosgomesdep"
+ ],
+ "dataNascimento": "1972-06-13",
+ "dataFalecimento": null,
+ "ufNascimento": "BA",
+ "municipioNascimento": "Saúde",
+ "escolaridade": "Superior Incompleto"
+}

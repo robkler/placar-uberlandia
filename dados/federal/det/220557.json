@@ -1,0 +1,41 @@
+{
+ "id": 220557,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220557",
+ "nomeCivil": "DANIELA CRISTINA REINEHR",
+ "ultimoStatus": {
+  "id": 220557,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220557",
+  "nome": "Daniela Reinehr",
+  "siglaPartido": "PL",
+  "uriPartido": null,
+  "siglaUf": "SC",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220557.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Daniela Reinehr",
+  "gabinete": {
+   "nome": "677",
+   "predio": "3",
+   "sala": "677",
+   "andar": null,
+   "telefone": "3215-5677",
+   "email": "dep.danielareinehr@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "F",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/DanielaReinehr",
+  "https://www.facebook.com/danielareinehr.sc",
+  "https://www.instagram.com/danielareinehr"
+ ],
+ "dataNascimento": "1977-04-04",
+ "dataFalecimento": null,
+ "ufNascimento": "SC",
+ "municipioNascimento": "Maravilha",
+ "escolaridade": "Superior"
+}

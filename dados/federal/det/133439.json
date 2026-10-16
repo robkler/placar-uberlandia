@@ -1,0 +1,40 @@
+{
+ "id": 133439,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/133439",
+ "nomeCivil": "ANDRÉ PEIXOTO FIGUEIREDO LIMA",
+ "ultimoStatus": {
+  "id": 133439,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/133439",
+  "nome": "André Figueiredo",
+  "siglaPartido": "PDT",
+  "uriPartido": null,
+  "siglaUf": "CE",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/133439.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "André Figueiredo",
+  "gabinete": {
+   "nome": "940",
+   "predio": "4",
+   "sala": "940",
+   "andar": "9",
+   "telefone": "3215-5940",
+   "email": "dep.andrefigueiredo@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/andrepdt12",
+  "https://www.facebook.com/DeputadoAndreFigueiredo"
+ ],
+ "dataNascimento": "1966-11-10",
+ "dataFalecimento": null,
+ "ufNascimento": "CE",
+ "municipioNascimento": "Fortaleza",
+ "escolaridade": "Pós-Graduação"
+}

@@ -1,0 +1,37 @@
+{
+ "id": 152605,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/152605",
+ "nomeCivil": "GLAUBER DE MEDEIROS BRAGA",
+ "ultimoStatus": {
+  "id": 152605,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/152605",
+  "nome": "Glauber Braga",
+  "siglaPartido": "PSOL",
+  "uriPartido": null,
+  "siglaUf": "RJ",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/152605.jpg",
+  "email": null,
+  "data": "2026-06-12",
+  "nomeEleitoral": "Glauber Braga",
+  "gabinete": {
+   "nome": "362",
+   "predio": "4",
+   "sala": "362",
+   "andar": "3",
+   "telefone": "3215-5362",
+   "email": "dep.glauberbraga@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": ""
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [],
+ "dataNascimento": "1982-06-26",
+ "dataFalecimento": null,
+ "ufNascimento": "RJ",
+ "municipioNascimento": "Nova Friburgo",
+ "escolaridade": "Superior"
+}

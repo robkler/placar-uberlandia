@@ -1,0 +1,41 @@
+{
+ "id": 160600,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160600",
+ "nomeCivil": "ARTHUR DE OLIVEIRA MAIA DA SILVA",
+ "ultimoStatus": {
+  "id": 160600,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160600",
+  "nome": "Arthur Oliveira Maia",
+  "siglaPartido": "UNIÃO",
+  "uriPartido": null,
+  "siglaUf": "BA",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160600.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Arthur Oliveira Maia",
+  "gabinete": {
+   "nome": "830",
+   "predio": "4",
+   "sala": "830",
+   "andar": "8",
+   "telefone": "3215-5830",
+   "email": "dep.arthuroliveiramaia@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://facebook.com/arthur.oliveiramaia",
+  "https://instagram.com/departhuroliveiramaia",
+  "https://twitter.com/DepArthurMaia"
+ ],
+ "dataNascimento": "1964-08-17",
+ "dataFalecimento": null,
+ "ufNascimento": "BA",
+ "municipioNascimento": "Salvador",
+ "escolaridade": "Mestrado"
+}

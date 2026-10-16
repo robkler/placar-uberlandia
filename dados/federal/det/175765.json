@@ -1,0 +1,39 @@
+{
+ "id": 175765,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/175765",
+ "nomeCivil": "RIBAMAR ANTONIO DA SILVA",
+ "ultimoStatus": {
+  "id": 175765,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/175765",
+  "nome": "Ribamar Silva",
+  "siglaPartido": "PODE",
+  "uriPartido": null,
+  "siglaUf": "SP",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/175765.jpg",
+  "email": null,
+  "data": "2025-01-01",
+  "nomeEleitoral": "Ribamar Silva",
+  "gabinete": {
+   "nome": "904",
+   "predio": "4",
+   "sala": "904",
+   "andar": "9",
+   "telefone": "3215-5904",
+   "email": "dep.ribamarsilva@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Efetivado",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://www.instagram.com/ribamarsilvaoficial"
+ ],
+ "dataNascimento": "1975-05-27",
+ "dataFalecimento": null,
+ "ufNascimento": "SP",
+ "municipioNascimento": "Osasco",
+ "escolaridade": null
+}

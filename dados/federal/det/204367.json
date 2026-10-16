@@ -1,0 +1,41 @@
+{
+ "id": 204367,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204367",
+ "nomeCivil": "DANIEL COSTA DE FREITAS",
+ "ultimoStatus": {
+  "id": 204367,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204367",
+  "nome": "Daniel Freitas",
+  "siglaPartido": "PL",
+  "uriPartido": null,
+  "siglaUf": "SC",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204367.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Daniel Freitas",
+  "gabinete": {
+   "nome": "194",
+   "predio": "3",
+   "sala": "194",
+   "andar": null,
+   "telefone": "3215-5194",
+   "email": "dep.danielfreitas@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/DFDanielFreitas",
+  "https://www.facebook.com/depdanielfreitas",
+  "https://www.instagram.com/danielcfreitas"
+ ],
+ "dataNascimento": "1982-04-03",
+ "dataFalecimento": null,
+ "ufNascimento": "SC",
+ "municipioNascimento": "Criciúma",
+ "escolaridade": "Superior"
+}

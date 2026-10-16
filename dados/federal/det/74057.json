@@ -1,0 +1,37 @@
+{
+ "id": 74057,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74057",
+ "nomeCivil": "ALICE MAZZUCO PORTUGAL",
+ "ultimoStatus": {
+  "id": 74057,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74057",
+  "nome": "Alice Portugal",
+  "siglaPartido": "PCdoB",
+  "uriPartido": null,
+  "siglaUf": "BA",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74057.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Alice Portugal",
+  "gabinete": {
+   "nome": "420",
+   "predio": "4",
+   "sala": "420",
+   "andar": "4",
+   "telefone": "3215-5420",
+   "email": "dep.aliceportugal@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "F",
+ "urlWebsite": null,
+ "redeSocial": [],
+ "dataNascimento": "1959-05-16",
+ "dataFalecimento": null,
+ "ufNascimento": "BA",
+ "municipioNascimento": "Salvador",
+ "escolaridade": "Superior"
+}

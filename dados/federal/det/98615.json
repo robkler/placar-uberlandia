@@ -1,0 +1,41 @@
+{
+ "id": 98615,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/98615",
+ "nomeCivil": "ISMAEL DOS SANTOS",
+ "ultimoStatus": {
+  "id": 98615,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/98615",
+  "nome": "Ismael",
+  "siglaPartido": "PL",
+  "uriPartido": null,
+  "siglaUf": "SC",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/98615.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Ismael",
+  "gabinete": {
+   "nome": "325",
+   "predio": "4",
+   "sala": "325",
+   "andar": "3",
+   "telefone": "3215-5325",
+   "email": "dep.ismael@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/deputadoismael",
+  "https://www.facebook.com/deputadoismael",
+  "https://www.instagram.com/deputadoismael"
+ ],
+ "dataNascimento": "1965-07-16",
+ "dataFalecimento": null,
+ "ufNascimento": "SC",
+ "municipioNascimento": "Blumenau",
+ "escolaridade": "Superior"
+}

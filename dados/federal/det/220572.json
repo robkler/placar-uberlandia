@@ -1,0 +1,41 @@
+{
+ "id": 220572,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220572",
+ "nomeCivil": "MARUSSA CASSIA FAVARO BOLDRIN",
+ "ultimoStatus": {
+  "id": 220572,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220572",
+  "nome": "Marussa Boldrin",
+  "siglaPartido": "REPUBLICANOS",
+  "uriPartido": null,
+  "siglaUf": "GO",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220572.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Marussa Boldrin",
+  "gabinete": {
+   "nome": "875",
+   "predio": "3",
+   "sala": "875",
+   "andar": null,
+   "telefone": "3215-5875",
+   "email": "dep.marussaboldrin@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "F",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/marussago",
+  "https://www.facebook.com/marussaboldrin.go",
+  "https://www.instagram.com/marussa.boldrin"
+ ],
+ "dataNascimento": "1990-06-25",
+ "dataFalecimento": null,
+ "ufNascimento": "GO",
+ "municipioNascimento": "Rio Verde",
+ "escolaridade": "Superior"
+}

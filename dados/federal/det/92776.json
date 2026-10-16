@@ -1,0 +1,41 @@
+{
+ "id": 92776,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/92776",
+ "nomeCivil": "STEFANO AGUIAR DOS SANTOS",
+ "ultimoStatus": {
+  "id": 92776,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/92776",
+  "nome": "Stefano Aguiar",
+  "siglaPartido": "PSD",
+  "uriPartido": null,
+  "siglaUf": "MG",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/92776.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Stefano Aguiar",
+  "gabinete": {
+   "nome": "341",
+   "predio": "4",
+   "sala": "341",
+   "andar": "3",
+   "telefone": "3215-5341",
+   "email": "dep.stefanoaguiar@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/depstefano",
+  "https://www.facebook.com/PastorStefanoAguiar",
+  "https://www.instagram.com/depstefano"
+ ],
+ "dataNascimento": "1976-03-03",
+ "dataFalecimento": null,
+ "ufNascimento": "MG",
+ "municipioNascimento": "Belo Horizonte",
+ "escolaridade": "Superior"
+}

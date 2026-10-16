@@ -1,0 +1,42 @@
+{
+ "id": 204365,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204365",
+ "nomeCivil": "GILSON MARQUES VIEIRA",
+ "ultimoStatus": {
+  "id": 204365,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204365",
+  "nome": "Gilson Marques",
+  "siglaPartido": "NOVO",
+  "uriPartido": null,
+  "siglaUf": "SC",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204365.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Gilson Marques",
+  "gabinete": {
+   "nome": "431",
+   "predio": "4",
+   "sala": "431",
+   "andar": "4",
+   "telefone": "3215-5431",
+   "email": "dep.gilsonmarques@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/gilson__marques",
+  "https://www.facebook.com/gilson.marques.novo",
+  "https://www.instagram.com/gilson.marques.novo",
+  "https://youtube.com/gilsonmarquesnovo"
+ ],
+ "dataNascimento": "1981-04-12",
+ "dataFalecimento": null,
+ "ufNascimento": "SC",
+ "municipioNascimento": "Rio do Sul",
+ "escolaridade": "Pós-Graduação"
+}

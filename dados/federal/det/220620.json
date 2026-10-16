@@ -1,0 +1,39 @@
+{
+ "id": 220620,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220620",
+ "nomeCivil": "ROSANGELA DE OLIVEIRA CAMPOS REIS",
+ "ultimoStatus": {
+  "id": 220620,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220620",
+  "nome": "Rosângela Reis",
+  "siglaPartido": "PL",
+  "uriPartido": null,
+  "siglaUf": "MG",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220620.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Rosângela Reis",
+  "gabinete": {
+   "nome": "844",
+   "predio": "4",
+   "sala": "844",
+   "andar": "8",
+   "telefone": "3215-5844",
+   "email": "dep.rosangelareis@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "F",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://www.instagram.com/rosangelareis.mg"
+ ],
+ "dataNascimento": "1963-04-18",
+ "dataFalecimento": null,
+ "ufNascimento": "MG",
+ "municipioNascimento": "Mesquita",
+ "escolaridade": "Superior"
+}

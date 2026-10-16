@@ -1,0 +1,50 @@
+[
+ {
+  "id": 153423,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/153423",
+  "nome": "Renilce Nicodemos",
+  "nomeEleitoral": "RENILCE NICODEMOS",
+  "siglaPartido": "MDB",
+  "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36899",
+  "siglaUf": "PA",
+  "idLegislatura": 58,
+  "email": null,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/153423.jpg",
+  "dataHora": "2023-02-01T00:00",
+  "situacao": null,
+  "condicaoEleitoral": null,
+  "descricaoStatus": "Nome no início da legislatura / Partido no início da legislatura"
+ },
+ {
+  "id": 153423,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/153423",
+  "nome": "Renilce Nicodemos",
+  "nomeEleitoral": "RENILCE NICODEMOS",
+  "siglaPartido": "MDB",
+  "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36899",
+  "siglaUf": "PA",
+  "idLegislatura": 57,
+  "email": null,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/153423.jpg",
+  "dataHora": "2023-02-01T00:00",
+  "situacao": null,
+  "condicaoEleitoral": null,
+  "descricaoStatus": "Nome no início da legislatura / Partido no início da legislatura"
+ },
+ {
+  "id": 153423,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/153423",
+  "nome": "Renilce Nicodemos",
+  "nomeEleitoral": "RENILCE NICODEMOS",
+  "siglaPartido": "MDB",
+  "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36899",
+  "siglaUf": "PA",
+  "idLegislatura": 57,
+  "email": null,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/153423.jpg",
+  "dataHora": "2023-02-01T12:05",
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": "Entrada - Posse de Eleito Titular - Posse na Sessão Preparatória"
+ }
+]

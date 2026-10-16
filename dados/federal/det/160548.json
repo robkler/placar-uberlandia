@@ -1,0 +1,41 @@
+{
+ "id": 160548,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160548",
+ "nomeCivil": "JONAS DONIZETTE FERREIRA",
+ "ultimoStatus": {
+  "id": 160548,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160548",
+  "nome": "Jonas Donizette",
+  "siglaPartido": "PSB",
+  "uriPartido": null,
+  "siglaUf": "SP",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160548.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Jonas Donizette",
+  "gabinete": {
+   "nome": "716",
+   "predio": "4",
+   "sala": "716",
+   "andar": "7",
+   "telefone": "3215-5716",
+   "email": "dep.jonasdonizette@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "http://www.twitter.com/jonas_donizette",
+  "https://www.facebook.com/jonasdonizette",
+  "https://www.instagram.com/jonasdonizette/"
+ ],
+ "dataNascimento": "1965-06-25",
+ "dataFalecimento": null,
+ "ufNascimento": "MG",
+ "municipioNascimento": "Monte Belo",
+ "escolaridade": "Superior Incompleto"
+}

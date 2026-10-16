@@ -1,0 +1,42 @@
+{
+ "id": 204455,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204455",
+ "nomeCivil": "LUIZ EDUARDO CARNEIRO DA SILVA DE SOUZA LIMA",
+ "ultimoStatus": {
+  "id": 204455,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204455",
+  "nome": "Luiz Lima",
+  "siglaPartido": "NOVO",
+  "uriPartido": null,
+  "siglaUf": "RJ",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204455.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Luiz Lima",
+  "gabinete": {
+   "nome": "504",
+   "predio": "4",
+   "sala": "504",
+   "andar": "5",
+   "telefone": "3215-5504",
+   "email": "dep.luizlima@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/oficialluizlima",
+  "https://www.facebook.com/oficialluizlima",
+  "https://www.instagram.com/oficialluizlima",
+  "https://youtube.com/oficialluizlima"
+ ],
+ "dataNascimento": "1977-12-10",
+ "dataFalecimento": null,
+ "ufNascimento": "RJ",
+ "municipioNascimento": "Rio de Janeiro",
+ "escolaridade": "Superior"
+}

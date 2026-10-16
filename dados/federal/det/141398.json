@@ -1,0 +1,42 @@
+{
+ "id": 141398,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141398",
+ "nomeCivil": "CARLOS ALBERTO ROLIM ZARATTINI",
+ "ultimoStatus": {
+  "id": 141398,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141398",
+  "nome": "Carlos Zarattini",
+  "siglaPartido": "PT",
+  "uriPartido": null,
+  "siglaUf": "SP",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/141398.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Carlos Zarattini",
+  "gabinete": {
+   "nome": "808",
+   "predio": "4",
+   "sala": "808",
+   "andar": "8",
+   "telefone": "3215-5808",
+   "email": "dep.carloszarattini@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/CarlosZarattini",
+  "https://www.facebook.com/dep.zarattini",
+  "https://www.instagram.com/depzarattini",
+  "https://youtube.com/channel/UCAToRcTD6QsRAXjCBU8LTzw"
+ ],
+ "dataNascimento": "1959-06-08",
+ "dataFalecimento": null,
+ "ufNascimento": "SP",
+ "municipioNascimento": "São Paulo",
+ "escolaridade": "Superior"
+}

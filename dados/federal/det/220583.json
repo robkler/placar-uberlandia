@@ -1,0 +1,42 @@
+{
+ "id": 220583,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220583",
+ "nomeCivil": "FABIO MICHEY COSTA DA SILVA",
+ "ultimoStatus": {
+  "id": 220583,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220583",
+  "nome": "Delegado Fabio Costa",
+  "siglaPartido": "PP",
+  "uriPartido": null,
+  "siglaUf": "AL",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220583.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Delegado Fabio Costa",
+  "gabinete": {
+   "nome": "741",
+   "predio": "4",
+   "sala": "741",
+   "andar": "7",
+   "telefone": "3215-5741",
+   "email": "dep.delegadofabiocosta@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/delegadofabioc1",
+  "https://www.facebook.com/DelegadoFabioCosta",
+  "https://www.instagram.com/delegadofabiocosta",
+  "https://youtube.com/channel/UC8rTmVCfhCWa0ufzxg_cMzw"
+ ],
+ "dataNascimento": "1980-10-15",
+ "dataFalecimento": null,
+ "ufNascimento": "PE",
+ "municipioNascimento": "Recife",
+ "escolaridade": "Pós-Graduação"
+}

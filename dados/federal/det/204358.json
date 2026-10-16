@@ -1,0 +1,37 @@
+{
+ "id": 204358,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204358",
+ "nomeCivil": "HUMBERTO REZENDE PEREIRA",
+ "ultimoStatus": {
+  "id": 204358,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204358",
+  "nome": "Beto Pereira",
+  "siglaPartido": "REPUBLICANOS",
+  "uriPartido": null,
+  "siglaUf": "MS",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204358.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Beto Pereira",
+  "gabinete": {
+   "nome": "240",
+   "predio": "4",
+   "sala": "240",
+   "andar": "2",
+   "telefone": "3215-5240",
+   "email": "dep.betopereira@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [],
+ "dataNascimento": "1977-11-14",
+ "dataFalecimento": null,
+ "ufNascimento": "MS",
+ "municipioNascimento": "Campo Grande",
+ "escolaridade": "Superior"
+}

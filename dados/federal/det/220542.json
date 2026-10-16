@@ -1,0 +1,37 @@
+{
+ "id": 220542,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220542",
+ "nomeCivil": "JOSÉ ALEXANDRE DOMINGUES GUIMARÃES",
+ "ultimoStatus": {
+  "id": 220542,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220542",
+  "nome": "Alexandre Guimarães",
+  "siglaPartido": "MDB",
+  "uriPartido": null,
+  "siglaUf": "TO",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220542.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Alexandre Guimarães",
+  "gabinete": {
+   "nome": "941",
+   "predio": "4",
+   "sala": "941",
+   "andar": "9",
+   "telefone": "3215-5941",
+   "email": "dep.alexandreguimaraes@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [],
+ "dataNascimento": "1986-02-19",
+ "dataFalecimento": null,
+ "ufNascimento": "TO",
+ "municipioNascimento": "Araguaína",
+ "escolaridade": "Superior"
+}

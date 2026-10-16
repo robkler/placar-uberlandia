@@ -1,0 +1,37 @@
+{
+ "id": 74140,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74140",
+ "nomeCivil": "JOSÉ CARLOS LEÃO DE ARAÚJO",
+ "ultimoStatus": {
+  "id": 74140,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74140",
+  "nome": "José Carlos Araujo",
+  "siglaPartido": "PDT",
+  "uriPartido": null,
+  "siglaUf": "BA",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74140.jpg",
+  "email": null,
+  "data": "2026-06-30",
+  "nomeEleitoral": "José Carlos Araujo",
+  "gabinete": {
+   "nome": "646",
+   "predio": "4",
+   "sala": "646",
+   "andar": "6",
+   "telefone": "3215-5646",
+   "email": "dep.josecarlosaraujo@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Suplente",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [],
+ "dataNascimento": "1944-12-21",
+ "dataFalecimento": null,
+ "ufNascimento": "BA",
+ "municipioNascimento": "Salvador",
+ "escolaridade": "Superior"
+}

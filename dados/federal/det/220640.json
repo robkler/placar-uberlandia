@@ -1,0 +1,42 @@
+{
+ "id": 220640,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220640",
+ "nomeCivil": "JULIANA CARDOSO",
+ "ultimoStatus": {
+  "id": 220640,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220640",
+  "nome": "Juliana Cardoso",
+  "siglaPartido": "PT",
+  "uriPartido": null,
+  "siglaUf": "SP",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220640.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Juliana Cardoso",
+  "gabinete": {
+   "nome": "411",
+   "predio": "4",
+   "sala": "411",
+   "andar": "4",
+   "telefone": "3215-5411",
+   "email": "dep.julianacardoso@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "F",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/julianapt",
+  "https://www.facebook.com/julianacardosopt",
+  "https://www.instagram.com/julianacardoso_pt",
+  "https://youtube.com/julianacardosopt"
+ ],
+ "dataNascimento": "1979-10-22",
+ "dataFalecimento": null,
+ "ufNascimento": "SP",
+ "municipioNascimento": "São Paulo",
+ "escolaridade": "Superior"
+}

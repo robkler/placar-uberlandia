@@ -1,0 +1,37 @@
+{
+ "id": 204558,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204558",
+ "nomeCivil": "JOSÉ MARCELO DO NASCIMENTO NILO",
+ "ultimoStatus": {
+  "id": 204558,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204558",
+  "nome": "Marcelo Nilo",
+  "siglaPartido": "REPUBLICANOS",
+  "uriPartido": null,
+  "siglaUf": "BA",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204558.jpg",
+  "email": null,
+  "data": "2026-04-08",
+  "nomeEleitoral": "Marcelo Nilo",
+  "gabinete": {
+   "nome": "541",
+   "predio": "4",
+   "sala": "541",
+   "andar": "5",
+   "telefone": "3215-5541",
+   "email": "dep.marcelonilo@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Suplente",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [],
+ "dataNascimento": "1955-04-26",
+ "dataFalecimento": null,
+ "ufNascimento": "BA",
+ "municipioNascimento": "Antas",
+ "escolaridade": "Superior"
+}

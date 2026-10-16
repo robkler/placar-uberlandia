@@ -1,0 +1,42 @@
+{
+ "id": 220534,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220534",
+ "nomeCivil": "DAVYS FREDERICO TEIXEIRA LINHARES",
+ "ultimoStatus": {
+  "id": 220534,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220534",
+  "nome": "Fred Linhares",
+  "siglaPartido": "REPUBLICANOS",
+  "uriPartido": null,
+  "siglaUf": "DF",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220534.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Fred Linhares",
+  "gabinete": {
+   "nome": "825",
+   "predio": "4",
+   "sala": "825",
+   "andar": "8",
+   "telefone": "3215-5825",
+   "email": "dep.fredlinhares@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/fredlinhares?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
+  "https://www.facebook.com/FredLinharesBrasilia?mibextid=LQQJ4d",
+  "https://www.instagram.com/fredlinharesbrasilia",
+  "https://www.youtube.com/@fredlinharesbrasilia/videos"
+ ],
+ "dataNascimento": "1980-01-26",
+ "dataFalecimento": null,
+ "ufNascimento": "DF",
+ "municipioNascimento": "Brasília",
+ "escolaridade": "Superior"
+}

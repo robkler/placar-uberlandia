@@ -1,0 +1,34 @@
+[
+ {
+  "id": 220653,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220653",
+  "nome": "Fábio Teruel",
+  "nomeEleitoral": "FÁBIO TERUEL",
+  "siglaPartido": "MDB",
+  "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36899",
+  "siglaUf": "SP",
+  "idLegislatura": 57,
+  "email": null,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220653.jpg",
+  "dataHora": "2023-02-01T00:00",
+  "situacao": null,
+  "condicaoEleitoral": null,
+  "descricaoStatus": "Nome no início da legislatura / Partido no início da legislatura"
+ },
+ {
+  "id": 220653,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220653",
+  "nome": "Fábio Teruel",
+  "nomeEleitoral": "FÁBIO TERUEL",
+  "siglaPartido": "MDB",
+  "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36899",
+  "siglaUf": "SP",
+  "idLegislatura": 57,
+  "email": null,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220653.jpg",
+  "dataHora": "2023-02-01T12:05",
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": "Entrada - Posse de Eleito Titular - Posse na Sessão Preparatória"
+ }
+]

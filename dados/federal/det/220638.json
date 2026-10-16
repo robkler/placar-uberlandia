@@ -1,0 +1,37 @@
+{
+ "id": 220638,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220638",
+ "nomeCivil": "ANTONIO CARLOS RODRIGUES",
+ "ultimoStatus": {
+  "id": 220638,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220638",
+  "nome": "Antonio Carlos Rodrigues",
+  "siglaPartido": "PODE",
+  "uriPartido": null,
+  "siglaUf": "SP",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220638.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Antonio Carlos Rodrigues",
+  "gabinete": {
+   "nome": "683",
+   "predio": "3",
+   "sala": "683",
+   "andar": null,
+   "telefone": "3215-5683",
+   "email": "dep.antoniocarlosrodrigues@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [],
+ "dataNascimento": "1950-05-17",
+ "dataFalecimento": null,
+ "ufNascimento": "SP",
+ "municipioNascimento": "São Paulo",
+ "escolaridade": "Pós-Graduação"
+}

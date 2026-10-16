@@ -1,0 +1,41 @@
+{
+ "id": 171786,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/171786",
+ "nomeCivil": "MIGUEL ÂNGELO MONTEIRO ANDRADE",
+ "ultimoStatus": {
+  "id": 171786,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/171786",
+  "nome": "Miguel Ângelo",
+  "siglaPartido": "PT",
+  "uriPartido": null,
+  "siglaUf": "MG",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/171786.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Miguel Ângelo",
+  "gabinete": {
+   "nome": "343",
+   "predio": "4",
+   "sala": "343",
+   "andar": "3",
+   "telefone": "3215-5343",
+   "email": "dep.miguelangelo@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/MiguelAngelo_",
+  "https://www.facebook.com/MiguelÂngelo",
+  "https://www.instagram.com/miguelangelomg13"
+ ],
+ "dataNascimento": "1991-10-11",
+ "dataFalecimento": null,
+ "ufNascimento": "MG",
+ "municipioNascimento": "Belo Horizonte",
+ "escolaridade": "Mestrado"
+}

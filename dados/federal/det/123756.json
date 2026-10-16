@@ -1,0 +1,37 @@
+{
+ "id": 123756,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/123756",
+ "nomeCivil": "ANTÔNIA LUCILÉIA CRUZ RAMOS CÂMARA",
+ "ultimoStatus": {
+  "id": 123756,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/123756",
+  "nome": "Antônia Lúcia",
+  "siglaPartido": "MDB",
+  "uriPartido": null,
+  "siglaUf": "AC",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/123756.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Antônia Lúcia",
+  "gabinete": {
+   "nome": "544",
+   "predio": "4",
+   "sala": "544",
+   "andar": "5",
+   "telefone": "3215-5544",
+   "email": "dep.antonialucia@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "F",
+ "urlWebsite": null,
+ "redeSocial": [],
+ "dataNascimento": "1970-07-17",
+ "dataFalecimento": null,
+ "ufNascimento": "AC",
+ "municipioNascimento": "Senador Guiomard",
+ "escolaridade": "Superior"
+}

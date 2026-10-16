@@ -1,0 +1,42 @@
+{
+ "id": 220698,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220698",
+ "nomeCivil": "CARLOS ALBERTO GEBRIM PRETO",
+ "ultimoStatus": {
+  "id": 220698,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220698",
+  "nome": "Beto Preto",
+  "siglaPartido": "PSD",
+  "uriPartido": null,
+  "siglaUf": "PR",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220698.jpg",
+  "email": null,
+  "data": "2026-04-06",
+  "nomeEleitoral": "Beto Preto",
+  "gabinete": {
+   "nome": "635",
+   "predio": "4",
+   "sala": "635",
+   "andar": "6",
+   "telefone": "3215-5635",
+   "email": "dep.betopreto@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": ""
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/betopretoparana",
+  "https://www.facebook.com/betopretoparana",
+  "https://www.instagram.com/betopretoparana",
+  "https://youtube.com/channel/UCBdkUghXHjx9cOc-RAm0cUg"
+ ],
+ "dataNascimento": "1968-02-17",
+ "dataFalecimento": null,
+ "ufNascimento": "PR",
+ "municipioNascimento": "Londrina",
+ "escolaridade": "Pós-Graduação"
+}

@@ -1,0 +1,41 @@
+{
+ "id": 178986,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178986",
+ "nomeCivil": "NILTO IGNACIO TATTO",
+ "ultimoStatus": {
+  "id": 178986,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178986",
+  "nome": "Nilto Tatto",
+  "siglaPartido": "PT",
+  "uriPartido": null,
+  "siglaUf": "SP",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178986.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Nilto Tatto",
+  "gabinete": {
+   "nome": "502",
+   "predio": "4",
+   "sala": "502",
+   "andar": "5",
+   "telefone": "3215-5502",
+   "email": "dep.niltotatto@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/niltotatto",
+  "https://www.facebook.com/niltotattosp",
+  "https://www.instagram.com/niltotatto"
+ ],
+ "dataNascimento": "1963-07-31",
+ "dataFalecimento": null,
+ "ufNascimento": "RS",
+ "municipioNascimento": "Frederico Westphalen",
+ "escolaridade": "Superior"
+}

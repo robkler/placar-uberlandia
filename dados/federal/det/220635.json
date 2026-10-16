@@ -1,0 +1,40 @@
+{
+ "id": 220635,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220635",
+ "nomeCivil": "BRUNO AREVALO GANEM",
+ "ultimoStatus": {
+  "id": 220635,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220635",
+  "nome": "Bruno Ganem",
+  "siglaPartido": "PODE",
+  "uriPartido": null,
+  "siglaUf": "SP",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220635.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Bruno Ganem",
+  "gabinete": {
+   "nome": "201",
+   "predio": "4",
+   "sala": "201",
+   "andar": "2",
+   "telefone": "3215-5201",
+   "email": "dep.brunoganem@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://www.facebook.com/BrunoGanemSP",
+  "https://www.instagram.com/brunoganemsp"
+ ],
+ "dataNascimento": "1986-09-15",
+ "dataFalecimento": null,
+ "ufNascimento": "SP",
+ "municipioNascimento": "São Paulo",
+ "escolaridade": "Superior"
+}

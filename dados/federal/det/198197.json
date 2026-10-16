@@ -1,0 +1,42 @@
+{
+ "id": 198197,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/198197",
+ "nomeCivil": "GREYCE DE QUEIROZ ELIAS",
+ "ultimoStatus": {
+  "id": 198197,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/198197",
+  "nome": "Greyce Elias",
+  "siglaPartido": "PL",
+  "uriPartido": null,
+  "siglaUf": "MG",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/198197.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Greyce Elias",
+  "gabinete": {
+   "nome": "340",
+   "predio": "4",
+   "sala": "340",
+   "andar": "3",
+   "telefone": "3215-5340",
+   "email": "dep.greyceelias@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "F",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/greyceelias",
+  "https://www.facebook.com/greyce.elias",
+  "https://www.instagram.com/greyceelias",
+  "https://youtube.com/channel/UCcSZxLiSfO1dFmAryUnxPHg"
+ ],
+ "dataNascimento": "1981-12-15",
+ "dataFalecimento": null,
+ "ufNascimento": "MG",
+ "municipioNascimento": "Patrocínio",
+ "escolaridade": "Superior"
+}

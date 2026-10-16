@@ -1,0 +1,50 @@
+[
+ {
+  "id": 220696,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220696",
+  "nome": "Ivoneide Caetano",
+  "nomeEleitoral": "IVONEIDE CAETANO",
+  "siglaPartido": "PT",
+  "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36844",
+  "siglaUf": "BA",
+  "idLegislatura": 58,
+  "email": null,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220696.jpg",
+  "dataHora": "2023-02-01T00:00",
+  "situacao": null,
+  "condicaoEleitoral": null,
+  "descricaoStatus": "Nome no início da legislatura / Partido no início da legislatura"
+ },
+ {
+  "id": 220696,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220696",
+  "nome": "Ivoneide Caetano",
+  "nomeEleitoral": "IVONEIDE CAETANO",
+  "siglaPartido": "PT",
+  "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36844",
+  "siglaUf": "BA",
+  "idLegislatura": 57,
+  "email": null,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220696.jpg",
+  "dataHora": "2023-02-01T00:00",
+  "situacao": null,
+  "condicaoEleitoral": null,
+  "descricaoStatus": "Nome no início da legislatura / Partido no início da legislatura"
+ },
+ {
+  "id": 220696,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220696",
+  "nome": "Ivoneide Caetano",
+  "nomeEleitoral": "IVONEIDE CAETANO",
+  "siglaPartido": "PT",
+  "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36844",
+  "siglaUf": "BA",
+  "idLegislatura": 57,
+  "email": null,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220696.jpg",
+  "dataHora": "2023-02-01T12:05",
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": "Entrada - Posse de Eleito Titular - Posse na Sessão Preparatória"
+ }
+]

@@ -1,0 +1,41 @@
+{
+ "id": 141531,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141531",
+ "nomeCivil": "RODRIGO BATISTA DE CASTRO",
+ "ultimoStatus": {
+  "id": 141531,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141531",
+  "nome": "Rodrigo de Castro",
+  "siglaPartido": "UNIÃO",
+  "uriPartido": null,
+  "siglaUf": "MG",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/141531.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Rodrigo de Castro",
+  "gabinete": {
+   "nome": "701",
+   "predio": "4",
+   "sala": "701",
+   "andar": "7",
+   "telefone": "3215-5701",
+   "email": "dep.rodrigodecastro@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "http://twitter.com/#!/RodrigoCastro45",
+  "http://www.facebook.com/pages/deputado-federal-Rodrigo-de-Castro/124002814371381",
+  "http://www.youtube.com/rodrigocastro45"
+ ],
+ "dataNascimento": "1971-07-15",
+ "dataFalecimento": null,
+ "ufNascimento": "MG",
+ "municipioNascimento": "Viçosa",
+ "escolaridade": "Mestrado"
+}

@@ -1,0 +1,39 @@
+{
+ "id": 178831,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178831",
+ "nomeCivil": "ANDRE DOS SANTOS ABDON",
+ "ultimoStatus": {
+  "id": 178831,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178831",
+  "nome": "André Abdon",
+  "siglaPartido": "PP",
+  "uriPartido": null,
+  "siglaUf": "AP",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178831.jpg",
+  "email": null,
+  "data": "2025-08-01",
+  "nomeEleitoral": "André Abdon",
+  "gabinete": {
+   "nome": "445",
+   "predio": "4",
+   "sala": "445",
+   "andar": "4",
+   "telefone": "3215-5445",
+   "email": "dep.andreabdon@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://www.instagram.com/andreabdon_"
+ ],
+ "dataNascimento": "1970-11-10",
+ "dataFalecimento": null,
+ "ufNascimento": "PA",
+ "municipioNascimento": "Belém",
+ "escolaridade": "Superior"
+}

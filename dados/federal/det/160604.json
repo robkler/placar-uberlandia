@@ -1,0 +1,37 @@
+{
+ "id": 160604,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160604",
+ "nomeCivil": "PEDRO FRANCISCO UCZAI",
+ "ultimoStatus": {
+  "id": 160604,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160604",
+  "nome": "Pedro Uczai",
+  "siglaPartido": "PT",
+  "uriPartido": null,
+  "siglaUf": "SC",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160604.jpg",
+  "email": null,
+  "data": "2024-10-17",
+  "nomeEleitoral": "Pedro Uczai",
+  "gabinete": {
+   "nome": "229",
+   "predio": "4",
+   "sala": "229",
+   "andar": "2",
+   "telefone": "3215-5229",
+   "email": "dep.pedrouczai@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": ""
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [],
+ "dataNascimento": "1963-03-10",
+ "dataFalecimento": null,
+ "ufNascimento": "SC",
+ "municipioNascimento": "Descanso",
+ "escolaridade": "Mestrado"
+}

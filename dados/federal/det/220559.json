@@ -1,0 +1,42 @@
+{
+ "id": 220559,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220559",
+ "nomeCivil": "JULIA PEDROSO ZANATTA",
+ "ultimoStatus": {
+  "id": 220559,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220559",
+  "nome": "Julia Zanatta",
+  "siglaPartido": "PL",
+  "uriPartido": null,
+  "siglaUf": "SC",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220559.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Julia Zanatta",
+  "gabinete": {
+   "nome": "448",
+   "predio": "4",
+   "sala": "448",
+   "andar": "4",
+   "telefone": "3215-5448",
+   "email": "dep.juliazanatta@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "F",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/apropriajulia",
+  "https://www.facebook.com/juliazanattasc",
+  "https://www.instagram.com/juliazanattasc",
+  "https://youtube.com/channel/UC-xMxlTPP-xGmOry0wx2sxw"
+ ],
+ "dataNascimento": "1985-03-20",
+ "dataFalecimento": null,
+ "ufNascimento": "SC",
+ "municipioNascimento": "Criciúma",
+ "escolaridade": "Superior"
+}

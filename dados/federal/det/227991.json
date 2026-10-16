@@ -1,0 +1,37 @@
+{
+ "id": 227991,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/227991",
+ "nomeCivil": "FLAVIO CAMPOS FERREIRA",
+ "ultimoStatus": {
+  "id": 227991,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/227991",
+  "nome": "Dr Flávio",
+  "siglaPartido": "PL",
+  "uriPartido": null,
+  "siglaUf": "RJ",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/227991.jpg",
+  "email": null,
+  "data": "2025-12-29",
+  "nomeEleitoral": "Dr Flávio",
+  "gabinete": {
+   "nome": "401",
+   "predio": "4",
+   "sala": "401",
+   "andar": "4",
+   "telefone": "3215-5401",
+   "email": "dep.drflavio@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Efetivado",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [],
+ "dataNascimento": "1971-02-25",
+ "dataFalecimento": null,
+ "ufNascimento": "MG",
+ "municipioNascimento": "Central de Minas",
+ "escolaridade": null
+}

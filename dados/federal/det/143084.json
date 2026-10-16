@@ -1,0 +1,39 @@
+{
+ "id": 143084,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/143084",
+ "nomeCivil": "Tiago Dimas Braga Pereira",
+ "ultimoStatus": {
+  "id": 143084,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/143084",
+  "nome": "Tiago Dimas",
+  "siglaPartido": "PODE",
+  "uriPartido": null,
+  "siglaUf": "TO",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/143084.jpg",
+  "email": null,
+  "data": "2025-07-31",
+  "nomeEleitoral": "Tiago Dimas",
+  "gabinete": {
+   "nome": "876",
+   "predio": "3",
+   "sala": "876",
+   "andar": null,
+   "telefone": "3215-5876",
+   "email": "dep.tiagodimas@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://www.facebook.com/tiagodimas7788"
+ ],
+ "dataNascimento": "1988-08-04",
+ "dataFalecimento": null,
+ "ufNascimento": "MG",
+ "municipioNascimento": "Uberaba",
+ "escolaridade": "Superior Incompleto"
+}

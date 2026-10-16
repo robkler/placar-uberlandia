@@ -1,0 +1,41 @@
+{
+ "id": 220548,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220548",
+ "nomeCivil": "CAMILA BAZACHI JARA MARZOCHI",
+ "ultimoStatus": {
+  "id": 220548,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220548",
+  "nome": "Camila Jara",
+  "siglaPartido": "PT",
+  "uriPartido": null,
+  "siglaUf": "MS",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220548.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Camila Jara",
+  "gabinete": {
+   "nome": "860",
+   "predio": "4",
+   "sala": "860",
+   "andar": "8",
+   "telefone": "3215-5860",
+   "email": "dep.camilajara@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "F",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/camilajarams",
+  "https://www.facebook.com/camilajarams",
+  "https://www.instagram.com/camilajarams"
+ ],
+ "dataNascimento": "1995-02-10",
+ "dataFalecimento": null,
+ "ufNascimento": "MS",
+ "municipioNascimento": "Campo Grande",
+ "escolaridade": "Superior"
+}

@@ -1,0 +1,42 @@
+{
+ "id": 178929,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178929",
+ "nomeCivil": "DIEGO ALEXSANDER GONCALO PAULA GARCIA",
+ "ultimoStatus": {
+  "id": 178929,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178929",
+  "nome": "Diego Garcia",
+  "siglaPartido": "UNIÃO",
+  "uriPartido": null,
+  "siglaUf": "PR",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178929.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Diego Garcia",
+  "gabinete": {
+   "nome": "910",
+   "predio": "4",
+   "sala": "910",
+   "andar": "9",
+   "telefone": "3215-5910",
+   "email": "dep.diegogarcia@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/diegogarciapr",
+  "https://www.facebook.com/diegogarciapr",
+  "https://www.instagram.com/diegogarciaparana",
+  "https://youtube.com/diegogarciapr"
+ ],
+ "dataNascimento": "1984-10-10",
+ "dataFalecimento": null,
+ "ufNascimento": "PR",
+ "municipioNascimento": "Bandeirantes",
+ "escolaridade": "Superior"
+}

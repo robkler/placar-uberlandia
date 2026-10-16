@@ -1,0 +1,41 @@
+{
+ "id": 74044,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74044",
+ "nomeCivil": "JOSÉ WILSON SANTIAGO",
+ "ultimoStatus": {
+  "id": 74044,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74044",
+  "nome": "Wilson Santiago",
+  "siglaPartido": "REPUBLICANOS",
+  "uriPartido": null,
+  "siglaUf": "PB",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74044.jpg",
+  "email": null,
+  "data": "2026-09-30",
+  "nomeEleitoral": "Wilson Santiago",
+  "gabinete": {
+   "nome": "534",
+   "predio": "4",
+   "sala": "534",
+   "andar": "5",
+   "telefone": "3215-5534",
+   "email": "dep.wilsonsantiago@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": ""
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/Wilsonsantiago_",
+  "https://www.facebook.com/wilsonsantiagopb",
+  "https://www.instagram.com/wilsonsantiago"
+ ],
+ "dataNascimento": "1957-06-10",
+ "dataFalecimento": null,
+ "ufNascimento": "PB",
+ "municipioNascimento": "Uiraúna",
+ "escolaridade": "Superior"
+}

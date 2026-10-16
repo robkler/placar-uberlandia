@@ -1,0 +1,41 @@
+{
+ "id": 166402,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/166402",
+ "nomeCivil": "MAGDA MOFATTO HON",
+ "ultimoStatus": {
+  "id": 166402,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/166402",
+  "nome": "Magda Mofatto",
+  "siglaPartido": "PL",
+  "uriPartido": null,
+  "siglaUf": "GO",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/166402.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Magda Mofatto",
+  "gabinete": {
+   "nome": "934",
+   "predio": "4",
+   "sala": "934",
+   "andar": "9",
+   "telefone": "3215-5934",
+   "email": "dep.magdamofatto@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "F",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/MofattoMagda",
+  "https://www.facebook.com/MagdaMofatto.Goias",
+  "https://www.instagram.com/magdamofatto.goias"
+ ],
+ "dataNascimento": "1948-10-26",
+ "dataFalecimento": null,
+ "ufNascimento": "SP",
+ "municipioNascimento": "Limeira",
+ "escolaridade": "Ensino Fundamental"
+}

@@ -1,0 +1,37 @@
+{
+ "id": 141518,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141518",
+ "nomeCivil": "PAULO PEREIRA DA SILVA",
+ "ultimoStatus": {
+  "id": 141518,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141518",
+  "nome": "Paulinho da Força",
+  "siglaPartido": "SOLIDARIEDADE",
+  "uriPartido": null,
+  "siglaUf": "SP",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/141518.jpg",
+  "email": null,
+  "data": "2024-07-28",
+  "nomeEleitoral": "Paulinho da Força",
+  "gabinete": {
+   "nome": "241",
+   "predio": "4",
+   "sala": "241",
+   "andar": "2",
+   "telefone": "3215-5241",
+   "email": "dep.paulinhodaforca@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Efetivado",
+  "descricaoStatus": ""
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [],
+ "dataNascimento": "1956-02-25",
+ "dataFalecimento": null,
+ "ufNascimento": "PR",
+ "municipioNascimento": "Porecatu",
+ "escolaridade": "Ensino Médio"
+}

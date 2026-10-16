@@ -1,0 +1,40 @@
+{
+ "id": 220614,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220614",
+ "nomeCivil": "DANIEL RICARDO SORANZ PINTO",
+ "ultimoStatus": {
+  "id": 220614,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220614",
+  "nome": "Dr. Daniel Soranz",
+  "siglaPartido": "PSD",
+  "uriPartido": null,
+  "siglaUf": "RJ",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220614.jpg",
+  "email": null,
+  "data": "2026-03-31",
+  "nomeEleitoral": "Dr. Daniel Soranz",
+  "gabinete": {
+   "nome": "975",
+   "predio": "3",
+   "sala": "975",
+   "andar": null,
+   "telefone": "3215-5975",
+   "email": "dep.dr.danielsoranz@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": ""
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://www.facebook.com/danielsoranz",
+  "https://www.instagram.com/danielsoranz"
+ ],
+ "dataNascimento": "1979-02-16",
+ "dataFalecimento": null,
+ "ufNascimento": "RJ",
+ "municipioNascimento": "Vassouras",
+ "escolaridade": "Doutorado"
+}

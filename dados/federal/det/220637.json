@@ -1,0 +1,39 @@
+{
+ "id": 220637,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220637",
+ "nomeCivil": "MARIA OSMARINA MARINA DA SILVA VAZ DE LIMA",
+ "ultimoStatus": {
+  "id": 220637,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220637",
+  "nome": "Marina Silva",
+  "siglaPartido": "REDE",
+  "uriPartido": null,
+  "siglaUf": "SP",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220637.jpg",
+  "email": null,
+  "data": "2026-04-01",
+  "nomeEleitoral": "Marina Silva",
+  "gabinete": {
+   "nome": "979",
+   "predio": "3",
+   "sala": "979",
+   "andar": null,
+   "telefone": "3215-5979",
+   "email": "dep.marinasilva@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": ""
+ },
+ "sexo": "F",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://www.instagram.com/marinasilvaoficial"
+ ],
+ "dataNascimento": "1958-02-08",
+ "dataFalecimento": null,
+ "ufNascimento": "AC",
+ "municipioNascimento": "Rio Branco",
+ "escolaridade": "Superior"
+}

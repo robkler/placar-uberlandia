@@ -1,0 +1,42 @@
+{
+ "id": 178947,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178947",
+ "nomeCivil": "SOSTENES SILVA CAVALCANTE",
+ "ultimoStatus": {
+  "id": 178947,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178947",
+  "nome": "Sóstenes Cavalcante",
+  "siglaPartido": "PL",
+  "uriPartido": null,
+  "siglaUf": "RJ",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178947.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Sóstenes Cavalcante",
+  "gabinete": {
+   "nome": "560",
+   "predio": "4",
+   "sala": "560",
+   "andar": "5",
+   "telefone": "3215-5560",
+   "email": "dep.sostenescavalcante@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/DepSostenes",
+  "https://www.facebook.com/sostenescavalcante",
+  "https://www.instagram.com/sostenescavalcante",
+  "https://youtube.com/channel/UCI2j76o7JyLVSmooEcSvLxA"
+ ],
+ "dataNascimento": "1975-01-16",
+ "dataFalecimento": null,
+ "ufNascimento": "AL",
+ "municipioNascimento": "Maceió",
+ "escolaridade": "Superior"
+}

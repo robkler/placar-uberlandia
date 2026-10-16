@@ -1,0 +1,42 @@
+{
+ "id": 220576,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220576",
+ "nomeCivil": "ALFREDO GASPAR DE MENDONÇA NETO",
+ "ultimoStatus": {
+  "id": 220576,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220576",
+  "nome": "Alfredo Gaspar",
+  "siglaPartido": "PL",
+  "uriPartido": null,
+  "siglaUf": "AL",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220576.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Alfredo Gaspar",
+  "gabinete": {
+   "nome": "543",
+   "predio": "4",
+   "sala": "543",
+   "andar": "5",
+   "telefone": "3215-5543",
+   "email": "dep.alfredogaspar@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/Alfredogaspar_",
+  "https://www.facebook.com/alfredogasparoficial",
+  "https://www.instagram.com/alfredogaspar",
+  "https://youtube.com/AlfredoGasparOficial"
+ ],
+ "dataNascimento": "1970-08-13",
+ "dataFalecimento": null,
+ "ufNascimento": "AL",
+ "municipioNascimento": "Maceió",
+ "escolaridade": "Pós-Graduação"
+}

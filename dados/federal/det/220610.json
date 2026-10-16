@@ -1,0 +1,42 @@
+{
+ "id": 220610,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220610",
+ "nomeCivil": "FERNANDO RODRIGUES MÁXIMO",
+ "ultimoStatus": {
+  "id": 220610,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220610",
+  "nome": "Dr. Fernando Máximo",
+  "siglaPartido": "PL",
+  "uriPartido": null,
+  "siglaUf": "RO",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220610.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Dr. Fernando Máximo",
+  "gabinete": {
+   "nome": "813",
+   "predio": "4",
+   "sala": "813",
+   "andar": "8",
+   "telefone": "3215-5813",
+   "email": "dep.dr.fernandomaximo@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/fernandomaximoX",
+  "https://www.facebook.com/drfernandomaximo007",
+  "https://www.instagram.com/drfernandomaximo007/",
+  "https://www.youtube.com/@DrFernandoMaximo"
+ ],
+ "dataNascimento": "1979-10-04",
+ "dataFalecimento": null,
+ "ufNascimento": "GO",
+ "municipioNascimento": "Ceres",
+ "escolaridade": "Mestrado"
+}

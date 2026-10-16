@@ -1,0 +1,41 @@
+{
+ "id": 220540,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220540",
+ "nomeCivil": "DUDA BRITO RAMOS",
+ "ultimoStatus": {
+  "id": 220540,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220540",
+  "nome": "Duda Ramos",
+  "siglaPartido": "PODE",
+  "uriPartido": null,
+  "siglaUf": "RR",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220540.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Duda Ramos",
+  "gabinete": {
+   "nome": "246",
+   "predio": "4",
+   "sala": "246",
+   "andar": "2",
+   "telefone": "3215-5246",
+   "email": "dep.dudaramos@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/soududaramos",
+  "https://www.facebook.com/dudaramos.rr",
+  "https://www.instagram.com/dudaramos.rr"
+ ],
+ "dataNascimento": "1974-05-19",
+ "dataFalecimento": null,
+ "ufNascimento": "AM",
+ "municipioNascimento": "Benjamin Constant",
+ "escolaridade": "Superior"
+}

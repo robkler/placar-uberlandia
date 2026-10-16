@@ -1,0 +1,37 @@
+{
+ "id": 204388,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204388",
+ "nomeCivil": "ALCIBIO MESQUITA BIBO NUNES",
+ "ultimoStatus": {
+  "id": 204388,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204388",
+  "nome": "Bibo Nunes",
+  "siglaPartido": "PL",
+  "uriPartido": null,
+  "siglaUf": "RS",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204388.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Bibo Nunes",
+  "gabinete": {
+   "nome": "518",
+   "predio": "4",
+   "sala": "518",
+   "andar": "5",
+   "telefone": "3215-5518",
+   "email": "dep.bibonunes@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [],
+ "dataNascimento": "1957-01-09",
+ "dataFalecimento": null,
+ "ufNascimento": "RS",
+ "municipioNascimento": "Cruz Alta",
+ "escolaridade": "Superior Incompleto"
+}

@@ -1,0 +1,42 @@
+{
+ "id": 160632,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160632",
+ "nomeCivil": "JOSÉ SILVA SOARES",
+ "ultimoStatus": {
+  "id": 160632,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160632",
+  "nome": "Zé Silva",
+  "siglaPartido": "UNIÃO",
+  "uriPartido": null,
+  "siglaUf": "MG",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160632.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Zé Silva",
+  "gabinete": {
+   "nome": "608",
+   "predio": "4",
+   "sala": "608",
+   "andar": "6",
+   "telefone": "3215-5608",
+   "email": "dep.zesilva@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/ZeSilva_?t=FMvtU0UvtQUawDXz6Bp3kA&s=08",
+  "https://www.facebook.com/deputadofederalzesilva",
+  "https://www.instagram.com/depzesilva",
+  "https://youtube.com/deputadozesilva"
+ ],
+ "dataNascimento": "1963-05-11",
+ "dataFalecimento": null,
+ "ufNascimento": "MG",
+ "municipioNascimento": "Iturama",
+ "escolaridade": "Pós-Graduação"
+}

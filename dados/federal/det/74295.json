@@ -1,0 +1,37 @@
+{
+ "id": 74295,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74295",
+ "nomeCivil": "INÁCIO FRANCISCO DE ASSIS NUNES ARRUDA",
+ "ultimoStatus": {
+  "id": 74295,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74295",
+  "nome": "Inácio Arruda",
+  "siglaPartido": "PCdoB",
+  "uriPartido": null,
+  "siglaUf": "CE",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74295.jpg",
+  "email": null,
+  "data": "2026-04-14",
+  "nomeEleitoral": "Inácio Arruda",
+  "gabinete": {
+   "nome": "306",
+   "predio": "4",
+   "sala": "306",
+   "andar": "3",
+   "telefone": "3215-5306",
+   "email": "dep.inacioarruda@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Suplente",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [],
+ "dataNascimento": "1957-05-05",
+ "dataFalecimento": null,
+ "ufNascimento": "CE",
+ "municipioNascimento": "Fortaleza",
+ "escolaridade": "Superior Incompleto"
+}

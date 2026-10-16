@@ -1,0 +1,41 @@
+{
+ "id": 204394,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204394",
+ "nomeCivil": "GERVÁSIO AGRIPINO MAIA",
+ "ultimoStatus": {
+  "id": 204394,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204394",
+  "nome": "Gervásio Maia",
+  "siglaPartido": "PCdoB",
+  "uriPartido": null,
+  "siglaUf": "PB",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204394.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Gervásio Maia",
+  "gabinete": {
+   "nome": "308",
+   "predio": "4",
+   "sala": "308",
+   "andar": "3",
+   "telefone": "3215-5308",
+   "email": "dep.gervasiomaia@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/gervasiomaia",
+  "https://www.facebook.com/gervasiomaiapb",
+  "https://www.instagram.com/gervasiomaia"
+ ],
+ "dataNascimento": "1975-04-14",
+ "dataFalecimento": null,
+ "ufNascimento": "SP",
+ "municipioNascimento": "São Paulo",
+ "escolaridade": "Superior"
+}

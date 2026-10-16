@@ -1,0 +1,41 @@
+{
+ "id": 204533,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204533",
+ "nomeCivil": "ANTONIO IDILVAN DE LIMA ALENCAR",
+ "ultimoStatus": {
+  "id": 204533,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204533",
+  "nome": "Idilvan Alencar",
+  "siglaPartido": "PSB",
+  "uriPartido": null,
+  "siglaUf": "CE",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204533.jpg",
+  "email": null,
+  "data": "2026-03-27",
+  "nomeEleitoral": "Idilvan Alencar",
+  "gabinete": {
+   "nome": "948",
+   "predio": "4",
+   "sala": "948",
+   "andar": "9",
+   "telefone": "3215-5948",
+   "email": "dep.idilvanalencar@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": ""
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/idilvanalencar",
+  "https://www.facebook.com/idilvanoficial",
+  "https://www.instagram.com/idilvanalencar"
+ ],
+ "dataNascimento": "1968-09-23",
+ "dataFalecimento": null,
+ "ufNascimento": "CE",
+ "municipioNascimento": "Crato",
+ "escolaridade": "Mestrado"
+}

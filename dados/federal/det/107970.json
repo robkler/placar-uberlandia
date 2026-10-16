@@ -1,0 +1,42 @@
+{
+ "id": 107970,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/107970",
+ "nomeCivil": "ANA PAULA PROCOPIO JUNQUEIRA",
+ "ultimoStatus": {
+  "id": 107970,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/107970",
+  "nome": "Ana Paula Leão",
+  "siglaPartido": "PP",
+  "uriPartido": null,
+  "siglaUf": "MG",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/107970.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Ana Paula Leão",
+  "gabinete": {
+   "nome": "658",
+   "predio": "4",
+   "sala": "658",
+   "andar": "6",
+   "telefone": "3215-5658",
+   "email": "dep.anapaulaleao@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "F",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/apjunqueira",
+  "https://www.facebook.com/AnaPaulaJunqueiraLeao",
+  "https://www.instagram.com/anapaulajunqueiraleao",
+  "https://youtube.com/channel/UC-DlAUSQo11ZjK_yhbXoTgQ"
+ ],
+ "dataNascimento": "1965-08-22",
+ "dataFalecimento": null,
+ "ufNascimento": "MG",
+ "municipioNascimento": "Varginha",
+ "escolaridade": "Superior"
+}

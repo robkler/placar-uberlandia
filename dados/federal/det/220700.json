@@ -1,0 +1,37 @@
+{
+ "id": 220700,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220700",
+ "nomeCivil": "FLORENTINO ALVES VERAS NETO",
+ "ultimoStatus": {
+  "id": 220700,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220700",
+  "nome": "Florentino Neto",
+  "siglaPartido": "PT",
+  "uriPartido": null,
+  "siglaUf": "PI",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220700.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Florentino Neto",
+  "gabinete": {
+   "nome": "440",
+   "predio": "4",
+   "sala": "440",
+   "andar": "4",
+   "telefone": "3215-5440",
+   "email": "dep.florentinoneto@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [],
+ "dataNascimento": "1969-10-05",
+ "dataFalecimento": null,
+ "ufNascimento": "PI",
+ "municipioNascimento": "Buriti dos Lopes",
+ "escolaridade": null
+}

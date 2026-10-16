@@ -1,0 +1,41 @@
+{
+ "id": 160635,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160635",
+ "nomeCivil": "RUY MANUEL CARNEIRO BARBOSA DE ACA BELCHIOR",
+ "ultimoStatus": {
+  "id": 160635,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160635",
+  "nome": "Ruy Carneiro",
+  "siglaPartido": "PODE",
+  "uriPartido": null,
+  "siglaUf": "PB",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160635.jpg",
+  "email": null,
+  "data": "2024-10-16",
+  "nomeEleitoral": "Ruy Carneiro",
+  "gabinete": {
+   "nome": "536",
+   "predio": "4",
+   "sala": "536",
+   "andar": "5",
+   "telefone": "3215-5536",
+   "email": "dep.ruycarneiro@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": ""
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/ruycarneiropb",
+  "https://www.facebook.com/ruycarneiropb",
+  "https://www.instagram.com/ruy.carneiro"
+ ],
+ "dataNascimento": "1970-08-17",
+ "dataFalecimento": null,
+ "ufNascimento": "PB",
+ "municipioNascimento": "João Pessoa",
+ "escolaridade": "Superior"
+}

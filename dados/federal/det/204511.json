@@ -1,0 +1,37 @@
+{
+ "id": 204511,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204511",
+ "nomeCivil": "DAVID BEZERRA RIBEIRO SOARES",
+ "ultimoStatus": {
+  "id": 204511,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204511",
+  "nome": "David Soares",
+  "siglaPartido": "PODE",
+  "uriPartido": null,
+  "siglaUf": "SP",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204511.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "David Soares",
+  "gabinete": {
+   "nome": "235",
+   "predio": "4",
+   "sala": "235",
+   "andar": "2",
+   "telefone": "3215-5235",
+   "email": "dep.davidsoares@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [],
+ "dataNascimento": "1973-12-21",
+ "dataFalecimento": null,
+ "ufNascimento": "RJ",
+ "municipioNascimento": "Rio de Janeiro",
+ "escolaridade": "Pós-Graduação"
+}

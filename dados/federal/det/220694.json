@@ -1,0 +1,42 @@
+{
+ "id": 220694,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220694",
+ "nomeCivil": "RICARDO MAIA CHAVES DE SOUZA",
+ "ultimoStatus": {
+  "id": 220694,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220694",
+  "nome": "Ricardo Maia",
+  "siglaPartido": "MDB",
+  "uriPartido": null,
+  "siglaUf": "BA",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220694.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Ricardo Maia",
+  "gabinete": {
+   "nome": "805",
+   "predio": "4",
+   "sala": "805",
+   "andar": "8",
+   "telefone": "3215-5805",
+   "email": "dep.ricardomaia@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/ricardomaiadep",
+  "https://www.facebook.com/RicardoMaia.DaBahia",
+  "https://www.instagram.com/ricardomaia.dabahia",
+  "https://youtube.com/ricardomaiadabahia5610"
+ ],
+ "dataNascimento": "1975-08-26",
+ "dataFalecimento": null,
+ "ufNascimento": "BA",
+ "municipioNascimento": "Ribeira do Pombal",
+ "escolaridade": "Ensino Médio"
+}

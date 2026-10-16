@@ -1,0 +1,37 @@
+{
+ "id": 137070,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/137070",
+ "nomeCivil": "VICENTE ALVES DE OLIVEIRA JUNIOR",
+ "ultimoStatus": {
+  "id": 137070,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/137070",
+  "nome": "Vicentinho Júnior",
+  "siglaPartido": "PSDB",
+  "uriPartido": null,
+  "siglaUf": "TO",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/137070.jpg",
+  "email": null,
+  "data": "2024-10-10",
+  "nomeEleitoral": "Vicentinho Júnior",
+  "gabinete": {
+   "nome": "204",
+   "predio": "4",
+   "sala": "204",
+   "andar": "2",
+   "telefone": "3215-5204",
+   "email": "dep.vicentinhojunior@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": ""
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [],
+ "dataNascimento": "1985-04-11",
+ "dataFalecimento": null,
+ "ufNascimento": "GO",
+ "municipioNascimento": "Goiânia",
+ "escolaridade": "Superior Incompleto"
+}

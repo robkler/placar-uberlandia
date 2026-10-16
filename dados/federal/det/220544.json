@@ -1,0 +1,41 @@
+{
+ "id": 220544,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220544",
+ "nomeCivil": "ANTONIO POINCARE ANDRADE FILHO",
+ "ultimoStatus": {
+  "id": 220544,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220544",
+  "nome": "Antonio Andrade",
+  "siglaPartido": "PSDB",
+  "uriPartido": null,
+  "siglaUf": "TO",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220544.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Antonio Andrade",
+  "gabinete": {
+   "nome": "540",
+   "predio": "4",
+   "sala": "540",
+   "andar": "5",
+   "telefone": "3215-5540",
+   "email": "dep.antonioandrade@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/antonioandradet",
+  "https://www.facebook.com/toinhoandradetocantins",
+  "https://www.instagram.com/toinhoandradeto"
+ ],
+ "dataNascimento": "1958-10-22",
+ "dataFalecimento": null,
+ "ufNascimento": "TO",
+ "municipioNascimento": "Porto Nacional",
+ "escolaridade": "Superior"
+}

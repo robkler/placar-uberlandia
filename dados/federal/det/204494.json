@@ -1,0 +1,41 @@
+{
+ "id": 204494,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204494",
+ "nomeCivil": "FREDERICO BORGES DA COSTA",
+ "ultimoStatus": {
+  "id": 204494,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204494",
+  "nome": "Fred Costa",
+  "siglaPartido": "PRD",
+  "uriPartido": null,
+  "siglaUf": "MG",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204494.jpg",
+  "email": null,
+  "data": "2024-04-12",
+  "nomeEleitoral": "Fred Costa",
+  "gabinete": {
+   "nome": "633",
+   "predio": "4",
+   "sala": "633",
+   "andar": "6",
+   "telefone": "3215-5633",
+   "email": "dep.fredcosta@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": ""
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/fredcostadep",
+  "https://www.facebook.com/FredCostaDEP",
+  "https://www.instagram.com/FredCostaDEP"
+ ],
+ "dataNascimento": "1977-07-12",
+ "dataFalecimento": null,
+ "ufNascimento": "MG",
+ "municipioNascimento": "Belo Horizonte",
+ "escolaridade": "Superior Incompleto"
+}

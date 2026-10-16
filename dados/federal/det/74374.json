@@ -1,0 +1,42 @@
+{
+ "id": 74374,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74374",
+ "nomeCivil": "GERALDO RESENDE PEREIRA",
+ "ultimoStatus": {
+  "id": 74374,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74374",
+  "nome": "Geraldo Resende",
+  "siglaPartido": "UNIÃO",
+  "uriPartido": null,
+  "siglaUf": "MS",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74374.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Geraldo Resende",
+  "gabinete": {
+   "nome": "304",
+   "predio": "4",
+   "sala": "304",
+   "andar": "3",
+   "telefone": "3215-5304",
+   "email": "dep.geraldoresende@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "http://twitter.com/dep_geraldo",
+  "https://www.facebook.com/geraldoresendems",
+  "https://www.instagram.com/geraldoresendems",
+  "https://youtube.com/channel/UCbnj5-ROiu04qLttEG6HNmQ"
+ ],
+ "dataNascimento": "1955-04-20",
+ "dataFalecimento": null,
+ "ufNascimento": "MG",
+ "municipioNascimento": "Córrego Danta",
+ "escolaridade": "Superior"
+}

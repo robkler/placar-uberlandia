@@ -1,0 +1,37 @@
+{
+ "id": 66828,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/66828",
+ "nomeCivil": "FAUSTO RUY PINATO",
+ "ultimoStatus": {
+  "id": 66828,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/66828",
+  "nome": "Fausto Pinato",
+  "siglaPartido": "UNIÃO",
+  "uriPartido": null,
+  "siglaUf": "SP",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/66828.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Fausto Pinato",
+  "gabinete": {
+   "nome": "562",
+   "predio": "4",
+   "sala": "562",
+   "andar": "5",
+   "telefone": "3215-5562",
+   "email": "dep.faustopinato@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [],
+ "dataNascimento": "1977-06-01",
+ "dataFalecimento": null,
+ "ufNascimento": "SP",
+ "municipioNascimento": "Fernandópolis",
+ "escolaridade": "Superior"
+}

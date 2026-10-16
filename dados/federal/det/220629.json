@@ -1,0 +1,40 @@
+{
+ "id": 220629,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220629",
+ "nomeCivil": "DANDARA TONANTZIN SILVA CASTRO",
+ "ultimoStatus": {
+  "id": 220629,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220629",
+  "nome": "Dandara",
+  "siglaPartido": "PT",
+  "uriPartido": null,
+  "siglaUf": "MG",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220629.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Dandara",
+  "gabinete": {
+   "nome": "233",
+   "predio": "4",
+   "sala": "233",
+   "andar": "2",
+   "telefone": "3215-5233",
+   "email": "dep.dandara@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "F",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/todandara",
+  "https://www.instagram.com/todandara"
+ ],
+ "dataNascimento": "1994-01-23",
+ "dataFalecimento": null,
+ "ufNascimento": "MG",
+ "municipioNascimento": "Gurinhatã",
+ "escolaridade": "Mestrado"
+}

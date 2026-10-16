@@ -1,0 +1,42 @@
+{
+ "id": 73441,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/73441",
+ "nomeCivil": "CELSO UBIRAJARA RUSSOMANNO",
+ "ultimoStatus": {
+  "id": 73441,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/73441",
+  "nome": "Celso Russomanno",
+  "siglaPartido": "REPUBLICANOS",
+  "uriPartido": null,
+  "siglaUf": "SP",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/73441.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Celso Russomanno",
+  "gabinete": {
+   "nome": "960",
+   "predio": "4",
+   "sala": "960",
+   "andar": "9",
+   "telefone": "3215-5960",
+   "email": "dep.celsorussomanno@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/celsorussomanno",
+  "https://www.facebook.com/celsorussomanno",
+  "https://www.instagram.com/celsorussomanno",
+  "https://youtube.com/celsorussomanno"
+ ],
+ "dataNascimento": "1956-08-20",
+ "dataFalecimento": null,
+ "ufNascimento": "SP",
+ "municipioNascimento": "São Paulo",
+ "escolaridade": "Superior"
+}

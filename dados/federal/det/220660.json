@@ -1,0 +1,40 @@
+{
+ "id": 220660,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220660",
+ "nomeCivil": "YURY BRUNO ALENCAR ARAUJO",
+ "ultimoStatus": {
+  "id": 220660,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220660",
+  "nome": "Yury Bruno",
+  "siglaPartido": "MDB",
+  "uriPartido": null,
+  "siglaUf": "CE",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220660.jpg",
+  "email": null,
+  "data": "2026-04-29",
+  "nomeEleitoral": "Yury Bruno",
+  "gabinete": {
+   "nome": "545",
+   "predio": "4",
+   "sala": "545",
+   "andar": "5",
+   "telefone": "3215-5545",
+   "email": "dep.yurybruno@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": ""
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/yurydoparedao",
+  "https://www.instagram.com/yurydoparedao"
+ ],
+ "dataNascimento": "1988-05-31",
+ "dataFalecimento": null,
+ "ufNascimento": "CE",
+ "municipioNascimento": "Juazeiro do Norte",
+ "escolaridade": "Superior"
+}

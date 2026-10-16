@@ -1,0 +1,37 @@
+{
+ "id": 220685,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220685",
+ "nomeCivil": "PAULO HENRIQUE COLETTI FERNANDES",
+ "ultimoStatus": {
+  "id": 220685,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220685",
+  "nome": "Paulo Litro",
+  "siglaPartido": "UNIÃO",
+  "uriPartido": null,
+  "siglaUf": "PR",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220685.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Paulo Litro",
+  "gabinete": {
+   "nome": "612",
+   "predio": "4",
+   "sala": "612",
+   "andar": "6",
+   "telefone": "3215-5612",
+   "email": "dep.paulolitro@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [],
+ "dataNascimento": "1991-10-30",
+ "dataFalecimento": null,
+ "ufNascimento": "PR",
+ "municipioNascimento": "Pato Branco",
+ "escolaridade": "Pós-Graduação"
+}

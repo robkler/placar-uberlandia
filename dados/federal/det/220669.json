@@ -1,0 +1,37 @@
+{
+ "id": 220669,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220669",
+ "nomeCivil": "LUIZ EDUARDO DE QUEIROZ CAMPOS DA FONTE ALBUQUERQUE",
+ "ultimoStatus": {
+  "id": 220669,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220669",
+  "nome": "Lula da Fonte",
+  "siglaPartido": "PP",
+  "uriPartido": null,
+  "siglaUf": "PE",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220669.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Lula da Fonte",
+  "gabinete": {
+   "nome": "626",
+   "predio": "4",
+   "sala": "626",
+   "andar": "6",
+   "telefone": "3215-5626",
+   "email": "dep.luladafonte@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [],
+ "dataNascimento": "2000-12-08",
+ "dataFalecimento": null,
+ "ufNascimento": "PE",
+ "municipioNascimento": "Recife",
+ "escolaridade": "Superior Incompleto"
+}

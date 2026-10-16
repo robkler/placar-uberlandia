@@ -2,16 +2,21 @@
 
 **No ar em: https://placar-uberlandia.vercel.app**
 
-Site estático que mostra os 27 vereadores de Uberlândia (presença, como votaram em cada
-projeto, proposições, patrimônio e campanha) e as contas da Prefeitura.
+Site estático com dois lados, escolhidos no seletor do topo:
 
-A página (`public/index.html`) lê os dados de `public/data.json`. Esse arquivo é gerado
-pelos scripts em `scripts/` a partir de fontes públicas e é atualizado todo dia
-automaticamente (veja [Atualização automática](#atualização-automática)).
+- **Uberlândia**: os 27 vereadores (presença, como votaram em cada projeto, proposições,
+  patrimônio e campanha) e as contas da Prefeitura. Dados em `public/data.json`.
+- **Câmara dos Deputados**: os 513 deputados federais, abrindo filtrado em Minas Gerais e
+  ordenado por votos recebidos em Uberlândia em 2022 (presença oficial, principais votações,
+  projetos, cota parlamentar). Dados em `public/federal.json`, carregado só quando a pessoa abre
+  esse lado.
+
+Os dois arquivos são gerados pelos scripts em `scripts/` a partir de fontes públicas e são
+atualizados todo dia automaticamente (veja [Atualização automática](#atualização-automática)).
 
 > **Aviso:** projeto independente, sem vínculo com a Câmara Municipal, a Prefeitura de
-> Uberlândia ou qualquer partido. Os dados são copiados de fontes oficiais e podem conter
-> erros ou atrasos; na dúvida, confira na fonte. Achou algo errado?
+> Uberlândia, a Câmara dos Deputados ou qualquer partido. Os dados são copiados de fontes
+> oficiais e podem conter erros ou atrasos; na dúvida, confira na fonte. Achou algo errado?
 > [Abra uma issue](https://github.com/robkler/placar-uberlandia/issues/new?template=dado-incorreto.yml).
 
 ## Atualizar os dados
@@ -20,7 +25,7 @@ Precisa só do `python3` (já vem no macOS). Se você usa o [mise](https://mise.
 `mise install` instala as versões do projeto (definidas em `mise.toml`). Na pasta do projeto:
 
 ```bash
-./atualizar.sh              # baixa os dados novos e gera public/data.json (~1 a 3 min)
+./atualizar.sh              # baixa os dados novos e gera data.json e federal.json (~5 a 10 min)
 ./atualizar.sh --publicar   # faz o mesmo e publica na Vercel
 ./ver.sh                    # abre o site no seu computador em http://localhost:8000
 ```
@@ -28,7 +33,9 @@ Precisa só do `python3` (já vem no macOS). Se você usa o [mise](https://mise.
 Outras opções:
 
 ```bash
-./atualizar.sh --tse        # recoleta dados do TSE (só depois de eleições ou troca de vereador)
+./atualizar.sh --so-uberlandia   # só Uberlândia (~1 min)
+./atualizar.sh --so-federal      # só a Câmara dos Deputados
+./atualizar.sh --tse        # recoleta dados do TSE (só depois de eleições ou troca de parlamentar)
 ./atualizar.sh --forcar     # grava o data.json mesmo se a checagem de segurança reclamar
 ```
 
@@ -65,14 +72,19 @@ scripts e dados brutos nos deploys pela CLI.
 ```
 public/                 o que vai para o ar
   index.html            a página
-  data.json             gerado por scripts/gerar_dados.py
-  fotos/                fotos oficiais do TSE (geradas por coletar_tse.py)
+  data.json             Uberlândia, gerado por scripts/gerar_dados.py
+  federal.json          Câmara dos Deputados, gerado por scripts/gerar_federal.py
+  fotos/                fotos oficiais do TSE (vereadores, prefeito, vice)
+  fotos/dep/            fotos oficiais da Câmara dos Deputados
 scripts/
   comum.py              configuração (município, legislatura) e funções comuns
   coletar_camara.py     vereadores e reuniões da Câmara (todo dia)
   coletar_tesouro.py    contas anuais da Prefeitura e população (todo dia, só baixa anos novos)
   coletar_tse.py        candidatos, bens, campanha e fotos (só após eleições)
   gerar_dados.py        junta tudo em public/data.json, com checagem de segurança
+  coletar_federal.py    deputados, presença oficial, votações, projetos e cota (Câmara dos Deputados)
+  coletar_tse_federal.py  votos em 2022 (total e em Uberlândia) e patrimônio dos deputados
+  gerar_federal.py      gera public/federal.json, com checagem de segurança
 dados/                  dados brutos e cache (não vão para o site)
 atualizar.sh            comando principal
 ver.sh                  servidor local para testar
@@ -87,6 +99,9 @@ vercel.json             configuração da Vercel (pasta public, cache)
 | Fotos, idade, patrimônio, campanha, votos | TSE, arquivos públicos em `cdn.tse.jus.br` |
 | Receitas e despesas | Tesouro Nacional, SICONFI (Declaração de Contas Anuais) |
 | População | IBGE, estimativas anuais |
+| Deputados federais, votações, projetos, cota | Dados Abertos da Câmara dos Deputados (`dadosabertos.camara.leg.br`) |
+| Presença oficial dos deputados | Página de cada deputado em `camara.leg.br` |
+| Votos dos deputados em Uberlândia, patrimônio | TSE, eleição de 2022 (ligado ao deputado pelo CPF, que é consultado na hora e não fica salvo no repositório) |
 
 - **Presença**: a lista de frequência oficial da Câmara não está sendo atualizada (vereadores que
   votaram aparecem com "falta"), por isso a presença é medida pelas votações nominais: o vereador
@@ -94,6 +109,10 @@ vercel.json             configuração da Vercel (pasta public, cache)
   Reuniões sem votação nominal ficam fora da conta.
 - **Votou contra a maioria**: votou sim quando a maioria votou não, ou o contrário.
 - **Vetos e pareceres**: nessas votações "sim" e "não" se referem ao veto ou ao parecer, não ao projeto.
+- **Presença dos deputados federais**: é a contagem oficial da Câmara (presenças, ausências
+  justificadas e não justificadas). A % conta ausência justificada como ausência.
+- **Principais votações federais**: votações do texto de PL, PLP, PEC, MP e PDL no plenário com
+  mais de 300 votos, sem requerimentos e destaques.
 - **Campanha**: mostramos a origem do dinheiro (fundo eleitoral, pessoas físicas etc.), sem
   nomes de doadores.
 
@@ -101,6 +120,8 @@ vercel.json             configuração da Vercel (pasta public, cache)
 
 - **Nova legislatura (2029)**: altere `LEGISLATURA_INICIO` em `scripts/comum.py` e rode
   `./atualizar.sh --tse` depois de ajustar `TSE_ANO_ELEICAO`.
+- **Nova legislatura federal (2027)**: altere `LEGISLATURA` e `INICIO` em
+  `scripts/coletar_federal.py` e `scripts/gerar_federal.py`, e `ANO` em `coletar_tse_federal.py`.
 - **Vereador novo (suplente assumiu)**: rode `./atualizar.sh --tse` para buscar foto e dados do TSE.
   Se o script avisar que não encontrou alguém, adicione o par em `CORRECOES` no
   `scripts/coletar_tse.py` (id da Câmara → número `SQ_CANDIDATO` do TSE).
@@ -125,8 +146,8 @@ vercel.json             configuração da Vercel (pasta public, cache)
 ## Licença
 
 - **Código** (scripts, página, configuração): [MIT](LICENSE).
-- **Dados** (`dados/`, `public/data.json`): dados públicos da Câmara Municipal de Uberlândia,
-  do TSE, do Tesouro Nacional (SICONFI) e do IBGE. Pertencem a essas fontes e não estão
-  sob a licença MIT; ao reutilizar, cite a fonte original.
-- **Fotos** (`public/fotos/`): fotos oficiais de candidatura divulgadas pelo TSE; também não
+- **Dados** (`dados/`, `public/data.json`, `public/federal.json`): dados públicos da Câmara
+  Municipal de Uberlândia, da Câmara dos Deputados, do TSE, do Tesouro Nacional (SICONFI) e do
+  IBGE. Pertencem a essas fontes e não estão sob a licença MIT; ao reutilizar, cite a fonte original.
+- **Fotos** (`public/fotos/`): fotos oficiais do TSE e da Câmara dos Deputados; também não
   estão sob a licença MIT.

@@ -1,0 +1,42 @@
+{
+ "id": 204387,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204387",
+ "nomeCivil": "GILSON CARDOSO FAHUR",
+ "ultimoStatus": {
+  "id": 204387,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204387",
+  "nome": "Sargento Fahur",
+  "siglaPartido": "PL",
+  "uriPartido": null,
+  "siglaUf": "PR",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204387.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Sargento Fahur",
+  "gabinete": {
+   "nome": "858",
+   "predio": "4",
+   "sala": "858",
+   "andar": "8",
+   "telefone": "3215-5858",
+   "email": "dep.sargentofahur@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/SargentoFAHUR",
+  "https://www.facebook.com/SargentoFahur10",
+  "https://www.instagram.com/sargentofahurpr",
+  "https://youtube.com/channel/UCGtU73VeRj9hY1P3PtVUERw"
+ ],
+ "dataNascimento": "1963-11-06",
+ "dataFalecimento": null,
+ "ufNascimento": "PR",
+ "municipioNascimento": "Londrina",
+ "escolaridade": "Ensino Fundamental"
+}

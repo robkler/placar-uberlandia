@@ -1,0 +1,40 @@
+{
+ "id": 220667,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220667",
+ "nomeCivil": "PEDRO HENRIQUE DE A. L. C. CAMPOS",
+ "ultimoStatus": {
+  "id": 220667,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220667",
+  "nome": "Pedro Campos",
+  "siglaPartido": "PSB",
+  "uriPartido": null,
+  "siglaUf": "PE",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220667.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Pedro Campos",
+  "gabinete": {
+   "nome": "846",
+   "predio": "4",
+   "sala": "846",
+   "andar": "8",
+   "telefone": "3215-5846",
+   "email": "dep.pedrocampos@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://www.facebook.com/pedrocampospe",
+  "https://www.instagram.com/pedrocampospe"
+ ],
+ "dataNascimento": "1995-10-28",
+ "dataFalecimento": null,
+ "ufNascimento": "PE",
+ "municipioNascimento": "Recife",
+ "escolaridade": null
+}

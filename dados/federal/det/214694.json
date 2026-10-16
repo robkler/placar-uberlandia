@@ -1,0 +1,41 @@
+{
+ "id": 214694,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/214694",
+ "nomeCivil": "JORGE GOETTEN DE LIMA",
+ "ultimoStatus": {
+  "id": 214694,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/214694",
+  "nome": "Jorge Goetten",
+  "siglaPartido": "REPUBLICANOS",
+  "uriPartido": null,
+  "siglaUf": "SC",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/214694.jpg",
+  "email": null,
+  "data": "2025-08-24",
+  "nomeEleitoral": "Jorge Goetten",
+  "gabinete": {
+   "nome": "983",
+   "predio": "3",
+   "sala": "983",
+   "andar": null,
+   "telefone": "3215-5983",
+   "email": "dep.jorgegoetten@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": ""
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/jorgegoetten",
+  "https://www.facebook.com/Jorgegoettenminister",
+  "https://www.instagram.com/jorgegoetten"
+ ],
+ "dataNascimento": "1962-04-10",
+ "dataFalecimento": null,
+ "ufNascimento": "SC",
+ "municipioNascimento": "Mirim Doce",
+ "escolaridade": "Superior"
+}

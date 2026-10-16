@@ -1,0 +1,39 @@
+{
+ "id": 178858,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178858",
+ "nomeCivil": "MARIO SILVIO MENDES NEGROMONTE JÚNIOR",
+ "ultimoStatus": {
+  "id": 178858,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178858",
+  "nome": "Mário Negromonte Jr.",
+  "siglaPartido": "PSB",
+  "uriPartido": null,
+  "siglaUf": "BA",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178858.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Mário Negromonte Jr.",
+  "gabinete": {
+   "nome": "424",
+   "predio": "4",
+   "sala": "424",
+   "andar": "4",
+   "telefone": "3215-5424",
+   "email": "dep.marionegromontejr@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://www.instagram.com/marionegromontejr"
+ ],
+ "dataNascimento": "1980-08-31",
+ "dataFalecimento": null,
+ "ufNascimento": "BA",
+ "municipioNascimento": "Paulo Afonso",
+ "escolaridade": "Superior"
+}

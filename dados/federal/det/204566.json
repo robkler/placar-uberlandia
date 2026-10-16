@@ -1,0 +1,41 @@
+{
+ "id": 204566,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204566",
+ "nomeCivil": "ANTONIO DA CRUZ FILGUEIRA NETO",
+ "ultimoStatus": {
+  "id": 204566,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204566",
+  "nome": "Marreca Filho",
+  "siglaPartido": "PRD",
+  "uriPartido": null,
+  "siglaUf": "MA",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204566.jpg",
+  "email": null,
+  "data": "2026-06-06",
+  "nomeEleitoral": "Marreca Filho",
+  "gabinete": {
+   "nome": "537",
+   "predio": "4",
+   "sala": "537",
+   "andar": "5",
+   "telefone": "3215-5537",
+   "email": "dep.marrecafilho@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": ""
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/depmarrecafilho",
+  "https://www.facebook.com/depmarrecafilho",
+  "https://www.instagram.com/depmarrecafilho"
+ ],
+ "dataNascimento": "1992-04-25",
+ "dataFalecimento": null,
+ "ufNascimento": "MA",
+ "municipioNascimento": "São Luís",
+ "escolaridade": "Superior Incompleto"
+}

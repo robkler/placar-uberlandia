@@ -1,0 +1,42 @@
+{
+ "id": 160665,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160665",
+ "nomeCivil": "AUGUSTO RODRIGUES COUTINHO DE MELO",
+ "ultimoStatus": {
+  "id": 160665,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160665",
+  "nome": "Augusto Coutinho",
+  "siglaPartido": "REPUBLICANOS",
+  "uriPartido": null,
+  "siglaUf": "PE",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160665.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Augusto Coutinho",
+  "gabinete": {
+   "nome": "314",
+   "predio": "4",
+   "sala": "314",
+   "andar": "3",
+   "telefone": "3215-5314",
+   "email": "dep.augustocoutinho@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/dep_acoutinho",
+  "https://www.facebook.com/augusto.coutinho",
+  "https://www.instagram.com/augustocoutinhope",
+  "https://youtube.com/featured"
+ ],
+ "dataNascimento": "1962-10-22",
+ "dataFalecimento": null,
+ "ufNascimento": "PE",
+ "municipioNascimento": "Recife",
+ "escolaridade": "Superior"
+}

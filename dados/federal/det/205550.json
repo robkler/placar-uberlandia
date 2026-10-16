@@ -1,0 +1,42 @@
+{
+ "id": 205550,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/205550",
+ "nomeCivil": "JORGE BRAZ DE OLIVEIRA",
+ "ultimoStatus": {
+  "id": 205550,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/205550",
+  "nome": "Jorge Braz",
+  "siglaPartido": "REPUBLICANOS",
+  "uriPartido": null,
+  "siglaUf": "RJ",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/205550.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Jorge Braz",
+  "gabinete": {
+   "nome": "213",
+   "predio": "4",
+   "sala": "213",
+   "andar": "2",
+   "telefone": "3215-5213",
+   "email": "dep.jorgebraz@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/Jorge_Braz",
+  "https://www.facebook.com/jorgebrazoficial",
+  "https://www.instagram.com/jorge_braz",
+  "https://youtube.com/VEREADORJORGEBRAZ"
+ ],
+ "dataNascimento": "1953-07-13",
+ "dataFalecimento": null,
+ "ufNascimento": "MG",
+ "municipioNascimento": "Palma",
+ "escolaridade": "Superior"
+}

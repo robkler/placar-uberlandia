@@ -1,0 +1,41 @@
+{
+ "id": 224333,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/224333",
+ "nomeCivil": "ELTON CARLOS WELTER",
+ "ultimoStatus": {
+  "id": 224333,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/224333",
+  "nome": "Welter",
+  "siglaPartido": "PT",
+  "uriPartido": null,
+  "siglaUf": "PR",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/224333.jpg",
+  "email": null,
+  "data": "2023-03-14",
+  "nomeEleitoral": "Welter",
+  "gabinete": {
+   "nome": "303",
+   "predio": "4",
+   "sala": "303",
+   "andar": "3",
+   "telefone": "3215-5303",
+   "email": "dep.welter@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Efetivado",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/DeputadoWelter",
+  "https://www.facebook.com/deputadowelter",
+  "https://www.instagram.com/eltonwelter"
+ ],
+ "dataNascimento": "1968-11-23",
+ "dataFalecimento": null,
+ "ufNascimento": "PR",
+ "municipioNascimento": "Toledo",
+ "escolaridade": "Superior"
+}

@@ -1,0 +1,42 @@
+{
+ "id": 162067,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/162067",
+ "nomeCivil": "FRANCISCO DANIEL CELEGUIM DE MORAIS",
+ "ultimoStatus": {
+  "id": 162067,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/162067",
+  "nome": "Kiko Celeguim",
+  "siglaPartido": "PT",
+  "uriPartido": null,
+  "siglaUf": "SP",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/162067.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Kiko Celeguim",
+  "gabinete": {
+   "nome": "337",
+   "predio": "4",
+   "sala": "337",
+   "andar": "3",
+   "telefone": "3215-5337",
+   "email": "dep.kikoceleguim@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/kikoceleguim",
+  "https://www.facebook.com/kikoceleguim",
+  "https://www.instagram.com/kiko.celeguim",
+  "https://youtube.com/KikoCeleguimoficial"
+ ],
+ "dataNascimento": "1984-05-05",
+ "dataFalecimento": null,
+ "ufNascimento": "SP",
+ "municipioNascimento": "São Paulo",
+ "escolaridade": "Superior"
+}

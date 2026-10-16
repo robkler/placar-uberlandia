@@ -1,0 +1,41 @@
+{
+ "id": 204498,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204498",
+ "nomeCivil": "OLIVAL HENRIQUE MARQUES DE SOUZA",
+ "ultimoStatus": {
+  "id": 204498,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204498",
+  "nome": "Olival Marques",
+  "siglaPartido": "PODE",
+  "uriPartido": null,
+  "siglaUf": "PA",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204498.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Olival Marques",
+  "gabinete": {
+   "nome": "982",
+   "predio": "3",
+   "sala": "982",
+   "andar": null,
+   "telefone": "3215-5982",
+   "email": "dep.olivalmarques@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/OlivalMarquesOf",
+  "https://www.facebook.com/OlivalMarquesOficial",
+  "https://www.instagram.com/OlivalMarques"
+ ],
+ "dataNascimento": "1982-01-09",
+ "dataFalecimento": null,
+ "ufNascimento": "PA",
+ "municipioNascimento": "Belém",
+ "escolaridade": "Superior"
+}

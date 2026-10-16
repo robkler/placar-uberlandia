@@ -1,0 +1,41 @@
+{
+ "id": 204436,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204436",
+ "nomeCivil": "ISNALDO BULHOES BARROS JUNIOR",
+ "ultimoStatus": {
+  "id": 204436,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204436",
+  "nome": "Isnaldo Bulhões Jr.",
+  "siglaPartido": "MDB",
+  "uriPartido": null,
+  "siglaUf": "AL",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204436.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Isnaldo Bulhões Jr.",
+  "gabinete": {
+   "nome": "639",
+   "predio": "4",
+   "sala": "639",
+   "andar": "6",
+   "telefone": "3215-5639",
+   "email": "dep.isnaldobulhoesjr@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/bulhoesjr",
+  "https://www.facebook.com/isnaldobulhoesjr",
+  "https://www.instagram.com/isnaldobulhoes"
+ ],
+ "dataNascimento": "1976-10-30",
+ "dataFalecimento": null,
+ "ufNascimento": "AL",
+ "municipioNascimento": "Maceió",
+ "escolaridade": "Superior"
+}

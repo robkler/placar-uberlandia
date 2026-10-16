@@ -1,0 +1,41 @@
+{
+ "id": 161440,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/161440",
+ "nomeCivil": "RAFAEL PEZENTI",
+ "ultimoStatus": {
+  "id": 161440,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/161440",
+  "nome": "Pezenti",
+  "siglaPartido": "MDB",
+  "uriPartido": null,
+  "siglaUf": "SC",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/161440.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Pezenti",
+  "gabinete": {
+   "nome": "801",
+   "predio": "4",
+   "sala": "801",
+   "andar": "8",
+   "telefone": "3215-5801",
+   "email": "dep.pezenti@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/deputadopezenti",
+  "https://www.facebook.com/deputadopezenti",
+  "https://www.instagram.com/deputadopezenti"
+ ],
+ "dataNascimento": "1987-06-06",
+ "dataFalecimento": null,
+ "ufNascimento": "SC",
+ "municipioNascimento": "Petrolândia",
+ "escolaridade": "Superior"
+}

@@ -1,0 +1,40 @@
+{
+ "id": 220612,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220612",
+ "nomeCivil": "Carlos Roberto Rodrigues",
+ "ultimoStatus": {
+  "id": 220612,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220612",
+  "nome": "Bebeto",
+  "siglaPartido": "PP",
+  "uriPartido": null,
+  "siglaUf": "RJ",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220612.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Bebeto",
+  "gabinete": {
+   "nome": "821",
+   "predio": "4",
+   "sala": "821",
+   "andar": "8",
+   "telefone": "3215-5821",
+   "email": "dep.bebeto@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://www.facebook.com/bebetodaveggi",
+  "https://www.instagram.com/bebetorj"
+ ],
+ "dataNascimento": "1963-07-31",
+ "dataFalecimento": null,
+ "ufNascimento": "MG",
+ "municipioNascimento": "Muriaé",
+ "escolaridade": "Ensino Médio"
+}

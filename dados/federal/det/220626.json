@@ -1,0 +1,41 @@
+{
+ "id": 220626,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220626",
+ "nomeCivil": "RAFAEL TADEU SIMÕES",
+ "ultimoStatus": {
+  "id": 220626,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220626",
+  "nome": "Rafael Simoes",
+  "siglaPartido": "UNIÃO",
+  "uriPartido": null,
+  "siglaUf": "MG",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220626.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Rafael Simoes",
+  "gabinete": {
+   "nome": "806",
+   "predio": "4",
+   "sala": "806",
+   "andar": "8",
+   "telefone": "3215-5806",
+   "email": "dep.rafaelsimoes@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/rafaelsimoesmg",
+  "https://www.facebook.com/rafaelsimoesmg",
+  "https://www.instagram.com/rafaelsimoesmg"
+ ],
+ "dataNascimento": "1964-11-29",
+ "dataFalecimento": null,
+ "ufNascimento": "MG",
+ "municipioNascimento": "Pouso Alegre",
+ "escolaridade": "Superior"
+}

@@ -1,0 +1,40 @@
+{
+ "id": 74581,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74581",
+ "nomeCivil": "GILMAR ALVES MACHADO",
+ "ultimoStatus": {
+  "id": 74581,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74581",
+  "nome": "Gilmar Machado",
+  "siglaPartido": "PT",
+  "uriPartido": null,
+  "siglaUf": "MG",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74581.jpg",
+  "email": null,
+  "data": "2026-09-15",
+  "nomeEleitoral": "Gilmar Machado",
+  "gabinete": {
+   "nome": "394",
+   "predio": "3",
+   "sala": "394",
+   "andar": null,
+   "telefone": "3215-5394",
+   "email": "dep.gilmarmachado@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Efetivado",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://www.facebook.com/gilmarmachadodep",
+  "https://www.instagram.com/gilmarmachadodep"
+ ],
+ "dataNascimento": "1961-11-06",
+ "dataFalecimento": null,
+ "ufNascimento": "MG",
+ "municipioNascimento": "Cascalho Rico",
+ "escolaridade": "Superior"
+}

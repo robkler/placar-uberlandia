@@ -1,0 +1,40 @@
+{
+ "id": 215043,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/215043",
+ "nomeCivil": "JOSIVALDO DOS SANTOS MELO",
+ "ultimoStatus": {
+  "id": 215043,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/215043",
+  "nome": "Josivaldo JP",
+  "siglaPartido": "UNIÃO",
+  "uriPartido": null,
+  "siglaUf": "MA",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/215043.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Josivaldo JP",
+  "gabinete": {
+   "nome": "778",
+   "predio": "3",
+   "sala": "778",
+   "andar": null,
+   "telefone": "3215-5778",
+   "email": "dep.josivaldojp@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://www.facebook.com/deputadojosivaldojp/",
+  "https://www.instagram.com/jpdeputado/"
+ ],
+ "dataNascimento": "1983-11-29",
+ "dataFalecimento": null,
+ "ufNascimento": "PA",
+ "municipioNascimento": "Jacundá",
+ "escolaridade": "Ensino Médio"
+}

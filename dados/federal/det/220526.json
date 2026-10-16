@@ -1,0 +1,39 @@
+{
+ "id": 220526,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220526",
+ "nomeCivil": "GILVAN AGUIAR COSTA",
+ "ultimoStatus": {
+  "id": 220526,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220526",
+  "nome": "Gilvan da Federal",
+  "siglaPartido": "PL",
+  "uriPartido": null,
+  "siglaUf": "ES",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220526.jpg",
+  "email": null,
+  "data": "2025-08-04",
+  "nomeEleitoral": "Gilvan da Federal",
+  "gabinete": {
+   "nome": "650",
+   "predio": "4",
+   "sala": "650",
+   "andar": "6",
+   "telefone": "3215-5650",
+   "email": "dep.gilvandafederal@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": "Of. 5/25-CEDPA/P, COETICA - edição extra ao DCD de 6/5/2025 - suspensão cautelar do exercício do mandato por três meses"
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://www.instagram.com/gilvandafederal"
+ ],
+ "dataNascimento": "1976-09-24",
+ "dataFalecimento": null,
+ "ufNascimento": "MA",
+ "municipioNascimento": "Araióses",
+ "escolaridade": "Superior"
+}

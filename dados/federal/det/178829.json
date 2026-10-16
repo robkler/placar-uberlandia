@@ -1,0 +1,37 @@
+{
+ "id": 178829,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178829",
+ "nomeCivil": "JOSE AUGUSTO ROSA",
+ "ultimoStatus": {
+  "id": 178829,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178829",
+  "nome": "Capitão Augusto",
+  "siglaPartido": "PL",
+  "uriPartido": null,
+  "siglaUf": "SP",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178829.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Capitão Augusto",
+  "gabinete": {
+   "nome": "883",
+   "predio": "3",
+   "sala": "883",
+   "andar": null,
+   "telefone": "3215-5883",
+   "email": "dep.capitaoaugusto@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [],
+ "dataNascimento": "1966-10-04",
+ "dataFalecimento": null,
+ "ufNascimento": "SP",
+ "municipioNascimento": "Ourinhos",
+ "escolaridade": "Mestrado"
+}

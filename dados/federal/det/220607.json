@@ -1,0 +1,42 @@
+{
+ "id": 220607,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220607",
+ "nomeCivil": "MAX RODRIGUES LEMOS",
+ "ultimoStatus": {
+  "id": 220607,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220607",
+  "nome": "Max Lemos",
+  "siglaPartido": "UNIÃO",
+  "uriPartido": null,
+  "siglaUf": "RJ",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220607.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Max Lemos",
+  "gabinete": {
+   "nome": "429",
+   "predio": "4",
+   "sala": "429",
+   "andar": "4",
+   "telefone": "3215-5429",
+   "email": "dep.maxlemos@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/maxlemosoficial",
+  "https://www.facebook.com/maxlemos.com.br",
+  "https://www.instagram.com/maxlemosoficial",
+  "https://youtube.com/@maxlemos9960"
+ ],
+ "dataNascimento": "1966-01-17",
+ "dataFalecimento": null,
+ "ufNascimento": "RJ",
+ "municipioNascimento": "Nova Iguaçu",
+ "escolaridade": "Superior"
+}

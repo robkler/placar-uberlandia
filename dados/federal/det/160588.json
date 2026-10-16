@@ -1,0 +1,41 @@
+{
+ "id": 160588,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160588",
+ "nomeCivil": "DIEGO LEONARDO DE ANDRADE CARVALHO",
+ "ultimoStatus": {
+  "id": 160588,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160588",
+  "nome": "Diego Andrade",
+  "siglaPartido": "PSD",
+  "uriPartido": null,
+  "siglaUf": "MG",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160588.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Diego Andrade",
+  "gabinete": {
+   "nome": "307",
+   "predio": "4",
+   "sala": "307",
+   "andar": "3",
+   "telefone": "3215-5307",
+   "email": "dep.diegoandrade@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/@diegoandrademg",
+  "https://www.facebook.com/diegoandrademg",
+  "https://www.instagram.com/diegoandrademg"
+ ],
+ "dataNascimento": "1977-08-08",
+ "dataFalecimento": null,
+ "ufNascimento": "MG",
+ "municipioNascimento": "Belo Horizonte",
+ "escolaridade": "Pós-Graduação"
+}

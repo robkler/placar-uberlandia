@@ -1,0 +1,42 @@
+{
+ "id": 154178,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/154178",
+ "nomeCivil": "MILTON VIEIRA PINTO",
+ "ultimoStatus": {
+  "id": 154178,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/154178",
+  "nome": "Milton Vieira",
+  "siglaPartido": "REPUBLICANOS",
+  "uriPartido": null,
+  "siglaUf": "SP",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/154178.jpg",
+  "email": null,
+  "data": "2026-03-31",
+  "nomeEleitoral": "Milton Vieira",
+  "gabinete": {
+   "nome": "926",
+   "predio": "4",
+   "sala": "926",
+   "andar": "9",
+   "telefone": "3215-5926",
+   "email": "dep.miltonvieira@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": ""
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/depmiltonvieira",
+  "https://www.facebook.com/miltonvieiraoficial",
+  "https://www.instagram.com/miltonvieiraoficial",
+  "https://www.youtube.com/user/depmiltonvieira/"
+ ],
+ "dataNascimento": "1962-09-16",
+ "dataFalecimento": null,
+ "ufNascimento": "SP",
+ "municipioNascimento": "Iepê",
+ "escolaridade": "Superior Incompleto"
+}

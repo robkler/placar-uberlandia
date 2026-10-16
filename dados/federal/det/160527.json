@@ -1,0 +1,41 @@
+{
+ "id": 160527,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160527",
+ "nomeCivil": "AGUINALDO VELLOSO BORGES RIBEIRO",
+ "ultimoStatus": {
+  "id": 160527,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160527",
+  "nome": "Aguinaldo Ribeiro",
+  "siglaPartido": "PP",
+  "uriPartido": null,
+  "siglaUf": "PB",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160527.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Aguinaldo Ribeiro",
+  "gabinete": {
+   "nome": "735",
+   "predio": "4",
+   "sala": "735",
+   "andar": "7",
+   "telefone": "3215-5735",
+   "email": "dep.aguinaldoribeiro@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/depaguinaldo11",
+  "https://www.facebook.com/depaguinaldoribeiro",
+  "https://www.instagram.com/depaguinaldoribeiro"
+ ],
+ "dataNascimento": "1969-02-13",
+ "dataFalecimento": null,
+ "ufNascimento": "PB",
+ "municipioNascimento": "Campina Grande",
+ "escolaridade": "Pós-Graduação"
+}

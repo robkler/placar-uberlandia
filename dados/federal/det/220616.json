@@ -1,0 +1,41 @@
+{
+ "id": 220616,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220616",
+ "nomeCivil": "LUCIANO VIEIRA MENDES",
+ "ultimoStatus": {
+  "id": 220616,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220616",
+  "nome": "Luciano Vieira",
+  "siglaPartido": "PSDB",
+  "uriPartido": null,
+  "siglaUf": "RJ",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220616.jpg",
+  "email": null,
+  "data": "2026-10-10",
+  "nomeEleitoral": "Luciano Vieira",
+  "gabinete": {
+   "nome": "329",
+   "predio": "4",
+   "sala": "329",
+   "andar": "3",
+   "telefone": "3215-5329",
+   "email": "dep.lucianovieira@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": ""
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/lucianovieirarj",
+  "https://www.facebook.com/lucianovieirarj",
+  "https://www.instagram.com/lucianovieirarj"
+ ],
+ "dataNascimento": "1988-04-26",
+ "dataFalecimento": null,
+ "ufNascimento": "RJ",
+ "municipioNascimento": "Rio de Janeiro",
+ "escolaridade": "Superior"
+}

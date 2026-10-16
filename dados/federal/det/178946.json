@@ -1,0 +1,41 @@
+{
+ "id": 178946,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178946",
+ "nomeCivil": "SORAYA ALENCAR DOS SANTOS",
+ "ultimoStatus": {
+  "id": 178946,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178946",
+  "nome": "Soraya Santos",
+  "siglaPartido": "PL",
+  "uriPartido": null,
+  "siglaUf": "RJ",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178946.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Soraya Santos",
+  "gabinete": {
+   "nome": "324",
+   "predio": "4",
+   "sala": "324",
+   "andar": "3",
+   "telefone": "3215-5324",
+   "email": "dep.sorayasantos@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "F",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/https:",
+  "https://www.instagram.com/dep.sorayasantos",
+  "https://www.youtube.com/channel/UCYJ_VrjZS7ISX0Ut0bU_AMA"
+ ],
+ "dataNascimento": "1958-12-04",
+ "dataFalecimento": null,
+ "ufNascimento": "RJ",
+ "municipioNascimento": "Macaé",
+ "escolaridade": "Superior"
+}

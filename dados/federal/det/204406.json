@@ -1,0 +1,37 @@
+{
+ "id": 204406,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204406",
+ "nomeCivil": "PEDRO BANDARRA WESTPHALEN",
+ "ultimoStatus": {
+  "id": 204406,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204406",
+  "nome": "Pedro Westphalen",
+  "siglaPartido": "PP",
+  "uriPartido": null,
+  "siglaUf": "RS",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204406.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Pedro Westphalen",
+  "gabinete": {
+   "nome": "526",
+   "predio": "4",
+   "sala": "526",
+   "andar": "5",
+   "telefone": "3215-5526",
+   "email": "dep.pedrowestphalen@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [],
+ "dataNascimento": "1950-12-19",
+ "dataFalecimento": null,
+ "ufNascimento": "RS",
+ "municipioNascimento": "Cruz Alta",
+ "escolaridade": "Superior"
+}

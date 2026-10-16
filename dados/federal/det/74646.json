@@ -1,0 +1,37 @@
+{
+ "id": 74646,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74646",
+ "nomeCivil": "AÉCIO NEVES DA CUNHA",
+ "ultimoStatus": {
+  "id": 74646,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74646",
+  "nome": "Aécio Neves",
+  "siglaPartido": "PSDB",
+  "uriPartido": null,
+  "siglaUf": "MG",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74646.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Aécio Neves",
+  "gabinete": {
+   "nome": "20",
+   "predio": "x",
+   "sala": "20",
+   "andar": null,
+   "telefone": "3215-5964",
+   "email": "dep.aecioneves@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [],
+ "dataNascimento": "1960-03-10",
+ "dataFalecimento": null,
+ "ufNascimento": "MG",
+ "municipioNascimento": "Belo Horizonte",
+ "escolaridade": "Superior"
+}

@@ -1,0 +1,42 @@
+{
+ "id": 74273,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74273",
+ "nomeCivil": "JEFFERSON ALVES DE CAMPOS",
+ "ultimoStatus": {
+  "id": 74273,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74273",
+  "nome": "Jefferson Campos",
+  "siglaPartido": "PL",
+  "uriPartido": null,
+  "siglaUf": "SP",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74273.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Jefferson Campos",
+  "gabinete": {
+   "nome": "346",
+   "predio": "4",
+   "sala": "346",
+   "andar": "3",
+   "telefone": "3215-5346",
+   "email": "dep.jeffersoncampos@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/depjefferson",
+  "https://www.facebook.com/depjefferson",
+  "https://www.instagram.com/depjefferson",
+  "https://youtube.com/DepJeffersonCampos"
+ ],
+ "dataNascimento": "1964-10-26",
+ "dataFalecimento": null,
+ "ufNascimento": "SP",
+ "municipioNascimento": "Ourinhos",
+ "escolaridade": "Superior"
+}

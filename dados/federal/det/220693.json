@@ -1,0 +1,37 @@
+{
+ "id": 220693,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220693",
+ "nomeCivil": "Roberta de Araujo Costa Roma",
+ "ultimoStatus": {
+  "id": 220693,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220693",
+  "nome": "Roberta Roma",
+  "siglaPartido": "PL",
+  "uriPartido": null,
+  "siglaUf": "BA",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220693.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Roberta Roma",
+  "gabinete": {
+   "nome": "670",
+   "predio": "3",
+   "sala": "670",
+   "andar": null,
+   "telefone": "3215-5670",
+   "email": "dep.robertaroma@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "F",
+ "urlWebsite": null,
+ "redeSocial": [],
+ "dataNascimento": "1980-05-11",
+ "dataFalecimento": null,
+ "ufNascimento": "BA",
+ "municipioNascimento": "Salvador",
+ "escolaridade": "Superior"
+}

@@ -1,0 +1,42 @@
+{
+ "id": 204355,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204355",
+ "nomeCivil": "JOSIAS MARIO DA VITORIA",
+ "ultimoStatus": {
+  "id": 204355,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204355",
+  "nome": "Da Vitoria",
+  "siglaPartido": "PP",
+  "uriPartido": null,
+  "siglaUf": "ES",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204355.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Da Vitoria",
+  "gabinete": {
+   "nome": "779",
+   "predio": "3",
+   "sala": "779",
+   "andar": null,
+   "telefone": "3215-5779",
+   "email": "dep.davitoria@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/depdavitoria",
+  "https://www.facebook.com/deputadodavitoria",
+  "https://www.instagram.com/deputadodavitoria",
+  "https://youtube.com/channel/UC4YSDb1Hfh-DtR1Wj0WQNWg?view_as=subscriber"
+ ],
+ "dataNascimento": "1971-06-02",
+ "dataFalecimento": null,
+ "ufNascimento": "ES",
+ "municipioNascimento": "Colatina",
+ "escolaridade": "Superior"
+}

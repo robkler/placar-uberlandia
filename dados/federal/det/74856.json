@@ -1,0 +1,37 @@
+{
+ "id": 74856,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74856",
+ "nomeCivil": "MARIA LAURA MONTEZA DE SOUZA CARNEIRO",
+ "ultimoStatus": {
+  "id": 74856,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74856",
+  "nome": "Laura Carneiro",
+  "siglaPartido": "PSD",
+  "uriPartido": null,
+  "siglaUf": "RJ",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74856.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Laura Carneiro",
+  "gabinete": {
+   "nome": "210",
+   "predio": "4",
+   "sala": "210",
+   "andar": "2",
+   "telefone": "3215-5210",
+   "email": "dep.lauracarneiro@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "F",
+ "urlWebsite": null,
+ "redeSocial": [],
+ "dataNascimento": "1963-05-01",
+ "dataFalecimento": null,
+ "ufNascimento": "RJ",
+ "municipioNascimento": "Rio de Janeiro",
+ "escolaridade": "Superior"
+}

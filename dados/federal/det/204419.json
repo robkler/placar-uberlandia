@@ -1,0 +1,37 @@
+{
+ "id": 204419,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204419",
+ "nomeCivil": "GLAUSKSTON BATISTA RIOS",
+ "ultimoStatus": {
+  "id": 204419,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204419",
+  "nome": "Glaustin da Fokus",
+  "siglaPartido": "PODE",
+  "uriPartido": null,
+  "siglaUf": "GO",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204419.jpg",
+  "email": null,
+  "data": "2025-12-03",
+  "nomeEleitoral": "Glaustin da Fokus",
+  "gabinete": {
+   "nome": "295",
+   "predio": "3",
+   "sala": "295",
+   "andar": null,
+   "telefone": "3215-5295",
+   "email": "dep.glaustindafokus@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": ""
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [],
+ "dataNascimento": "1973-12-22",
+ "dataFalecimento": null,
+ "ufNascimento": "GO",
+ "municipioNascimento": "Goiânia",
+ "escolaridade": "Superior"
+}

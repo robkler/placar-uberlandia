@@ -1,0 +1,37 @@
+{
+ "id": 160161,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160161",
+ "nomeCivil": "MARCELO ANDRE CID HERACLITO DO PORTO QUEIROZ",
+ "ultimoStatus": {
+  "id": 160161,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160161",
+  "nome": "Marcelo Queiroz",
+  "siglaPartido": "PSDB",
+  "uriPartido": null,
+  "siglaUf": "RJ",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160161.jpg",
+  "email": null,
+  "data": "2026-03-02",
+  "nomeEleitoral": "Marcelo Queiroz",
+  "gabinete": {
+   "nome": "929",
+   "predio": "4",
+   "sala": "929",
+   "andar": "9",
+   "telefone": "3215-5929",
+   "email": "dep.marceloqueiroz@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": ""
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [],
+ "dataNascimento": "1984-11-03",
+ "dataFalecimento": null,
+ "ufNascimento": "RJ",
+ "municipioNascimento": "Rio de Janeiro",
+ "escolaridade": "Mestrado"
+}

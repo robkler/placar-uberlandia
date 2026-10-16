@@ -1,0 +1,37 @@
+{
+ "id": 220606,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220606",
+ "nomeCivil": "REIMONT LUIZ OTONI SANTA BARBARA",
+ "ultimoStatus": {
+  "id": 220606,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220606",
+  "nome": "Reimont",
+  "siglaPartido": "PT",
+  "uriPartido": null,
+  "siglaUf": "RJ",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220606.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Reimont",
+  "gabinete": {
+   "nome": "348",
+   "predio": "4",
+   "sala": "348",
+   "andar": "3",
+   "telefone": "3215-5348",
+   "email": "dep.reimont@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [],
+ "dataNascimento": "1961-09-02",
+ "dataFalecimento": null,
+ "ufNascimento": "MG",
+ "municipioNascimento": "Conceição do Mato Dentro",
+ "escolaridade": "Doutorado Incompleto"
+}

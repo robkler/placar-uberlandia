@@ -1,0 +1,40 @@
+{
+ "id": 204518,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204518",
+ "nomeCivil": "FREDERICO DE CASTRO ESCALEIRA",
+ "ultimoStatus": {
+  "id": 204518,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204518",
+  "nome": "Dr. Frederico",
+  "siglaPartido": "PL",
+  "uriPartido": null,
+  "siglaUf": "MG",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204518.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Dr. Frederico",
+  "gabinete": {
+   "nome": "673",
+   "predio": "3",
+   "sala": "673",
+   "andar": null,
+   "telefone": "3215-5673",
+   "email": "dep.dr.frederico@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://www.facebook.com/drfredericomg",
+  "https://www.instagram.com/drfredericomg"
+ ],
+ "dataNascimento": "1977-03-24",
+ "dataFalecimento": null,
+ "ufNascimento": "RJ",
+ "municipioNascimento": "Teresópolis",
+ "escolaridade": "Superior"
+}

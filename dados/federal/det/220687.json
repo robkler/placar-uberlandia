@@ -1,0 +1,41 @@
+{
+ "id": 220687,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220687",
+ "nomeCivil": "MARCIO JOSE HONAISER",
+ "ultimoStatus": {
+  "id": 220687,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220687",
+  "nome": "Márcio Honaiser",
+  "siglaPartido": "SOLIDARIEDADE",
+  "uriPartido": null,
+  "siglaUf": "MA",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220687.jpg",
+  "email": null,
+  "data": "2024-10-16",
+  "nomeEleitoral": "Márcio Honaiser",
+  "gabinete": {
+   "nome": "643",
+   "predio": "4",
+   "sala": "643",
+   "andar": "6",
+   "telefone": "3215-5643",
+   "email": "dep.marciohonaiser@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": ""
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/Marcio_Honaiser",
+  "https://www.facebook.com/marciohonaiser/",
+  "https://www.instagram.com/marciohonaiser/"
+ ],
+ "dataNascimento": "1967-04-04",
+ "dataFalecimento": null,
+ "ufNascimento": "RS",
+ "municipioNascimento": "Carazinho",
+ "escolaridade": "Pós-Graduação"
+}

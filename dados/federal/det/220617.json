@@ -1,0 +1,41 @@
+{
+ "id": 220617,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220617",
+ "nomeCivil": "MURILLO GOUVEA RODRIGUES",
+ "ultimoStatus": {
+  "id": 220617,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220617",
+  "nome": "Murillo Gouvea",
+  "siglaPartido": "PSDB",
+  "uriPartido": null,
+  "siglaUf": "RJ",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220617.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Murillo Gouvea",
+  "gabinete": {
+   "nome": "496",
+   "predio": "3",
+   "sala": "496",
+   "andar": null,
+   "telefone": "3215-5496",
+   "email": "dep.murillogouvea@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/murillogouvea.rj",
+  "https://www.facebook.com/murillogouvea.rj",
+  "https://www.instagram.com/murillogouvea.rj"
+ ],
+ "dataNascimento": "1986-09-22",
+ "dataFalecimento": null,
+ "ufNascimento": "RJ",
+ "municipioNascimento": "Itaperuna",
+ "escolaridade": "Superior"
+}

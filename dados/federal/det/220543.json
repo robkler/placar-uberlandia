@@ -1,0 +1,41 @@
+{
+ "id": 220543,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220543",
+ "nomeCivil": "RICARDO AYRES DE CARVALHO",
+ "ultimoStatus": {
+  "id": 220543,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220543",
+  "nome": "Ricardo Ayres",
+  "siglaPartido": "REPUBLICANOS",
+  "uriPartido": null,
+  "siglaUf": "TO",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220543.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Ricardo Ayres",
+  "gabinete": {
+   "nome": "676",
+   "predio": "3",
+   "sala": "676",
+   "andar": null,
+   "telefone": "3215-5676",
+   "email": "dep.ricardoayres@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/ricardoayres_to",
+  "https://www.facebook.com/ricardoayres.to",
+  "https://www.instagram.com/ricardoayres_to"
+ ],
+ "dataNascimento": "1979-01-17",
+ "dataFalecimento": null,
+ "ufNascimento": "GO",
+ "municipioNascimento": "Goiânia",
+ "escolaridade": "Mestrado Incompleto"
+}

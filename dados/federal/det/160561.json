@@ -1,0 +1,37 @@
+{
+ "id": 160561,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160561",
+ "nomeCivil": "JOSÉ OLIMPIO SILVEIRA MORAES",
+ "ultimoStatus": {
+  "id": 160561,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160561",
+  "nome": "Missionário José Olimpio",
+  "siglaPartido": "PL",
+  "uriPartido": null,
+  "siglaUf": "SP",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160561.jpg",
+  "email": null,
+  "data": "2025-12-18",
+  "nomeEleitoral": "Missionário José Olimpio",
+  "gabinete": {
+   "nome": "785",
+   "predio": "3",
+   "sala": "785",
+   "andar": null,
+   "telefone": "3215-5785",
+   "email": "dep.missionariojoseolimpio@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Efetivado",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [],
+ "dataNascimento": "1956-12-11",
+ "dataFalecimento": null,
+ "ufNascimento": "SP",
+ "municipioNascimento": "Itu",
+ "escolaridade": "Superior"
+}

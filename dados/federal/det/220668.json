@@ -1,0 +1,41 @@
+{
+ "id": 220668,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220668",
+ "nomeCivil": "MARIA LEAL ARRAES DE ALENCAR",
+ "ultimoStatus": {
+  "id": 220668,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220668",
+  "nome": "Maria Arraes",
+  "siglaPartido": "PSB",
+  "uriPartido": null,
+  "siglaUf": "PE",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220668.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Maria Arraes",
+  "gabinete": {
+   "nome": "654",
+   "predio": "4",
+   "sala": "654",
+   "andar": "6",
+   "telefone": "3215-5654",
+   "email": "dep.mariaarraes@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "F",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/mariaarraespe",
+  "https://www.facebook.com//mariaarraespe",
+  "https://www.instagram.com/mariaarraes"
+ ],
+ "dataNascimento": "1994-02-24",
+ "dataFalecimento": null,
+ "ufNascimento": "PE",
+ "municipioNascimento": "Recife",
+ "escolaridade": "Pós-Graduação"
+}

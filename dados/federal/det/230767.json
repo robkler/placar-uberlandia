@@ -1,0 +1,37 @@
+{
+ "id": 230767,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/230767",
+ "nomeCivil": "RODRIGO LUGLI",
+ "ultimoStatus": {
+  "id": 230767,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/230767",
+  "nome": "Rodrigo da Zaeli",
+  "siglaPartido": "PL",
+  "uriPartido": null,
+  "siglaUf": "MT",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/230767.jpg",
+  "email": null,
+  "data": "2025-01-01",
+  "nomeEleitoral": "Rodrigo da Zaeli",
+  "gabinete": {
+   "nome": "648",
+   "predio": "4",
+   "sala": "648",
+   "andar": "6",
+   "telefone": "3215-5648",
+   "email": "dep.rodrigodazaeli@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Efetivado",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [],
+ "dataNascimento": "1975-11-26",
+ "dataFalecimento": null,
+ "ufNascimento": "PR",
+ "municipioNascimento": "Umuarama",
+ "escolaridade": "Superior"
+}

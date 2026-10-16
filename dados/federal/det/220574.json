@@ -1,0 +1,42 @@
+{
+ "id": 220574,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220574",
+ "nomeCivil": "GILBERTO GOMES DA SILVA",
+ "ultimoStatus": {
+  "id": 220574,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220574",
+  "nome": "Cabo Gilberto Silva",
+  "siglaPartido": "PL",
+  "uriPartido": null,
+  "siglaUf": "PB",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220574.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Cabo Gilberto Silva",
+  "gabinete": {
+   "nome": "350",
+   "predio": "4",
+   "sala": "350",
+   "andar": "3",
+   "telefone": "3215-5350",
+   "email": "dep.cabogilbertosilva@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/cabogilberto",
+  "https://www.facebook.com/CaboGilbertoSilva",
+  "https://www.instagram.com/CaboGilbertoSilva",
+  "https://youtube.com/cabogilberto"
+ ],
+ "dataNascimento": "1981-04-01",
+ "dataFalecimento": null,
+ "ufNascimento": "PB",
+ "municipioNascimento": "Santa Rita",
+ "escolaridade": "Superior"
+}

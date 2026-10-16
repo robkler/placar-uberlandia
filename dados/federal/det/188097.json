@@ -1,0 +1,41 @@
+{
+ "id": 188097,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/188097",
+ "nomeCivil": "MERLONG SOLANO NOGUEIRA",
+ "ultimoStatus": {
+  "id": 188097,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/188097",
+  "nome": "Merlong Solano",
+  "siglaPartido": "PT",
+  "uriPartido": null,
+  "siglaUf": "PI",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/188097.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Merlong Solano",
+  "gabinete": {
+   "nome": "624",
+   "predio": "4",
+   "sala": "624",
+   "andar": "6",
+   "telefone": "3215-5624",
+   "email": "dep.merlongsolano@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Efetivado",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/merlongsolano",
+  "https://www.facebook.com/merlongsolano",
+  "https://www.instagram.com/merlongsolano"
+ ],
+ "dataNascimento": "1958-09-17",
+ "dataFalecimento": null,
+ "ufNascimento": "PI",
+ "municipioNascimento": "Valença do Piauí",
+ "escolaridade": "Mestrado"
+}

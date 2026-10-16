@@ -1,0 +1,42 @@
+{
+ "id": 73486,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/73486",
+ "nomeCivil": "DARCI POMPEO DE MATTOS",
+ "ultimoStatus": {
+  "id": 73486,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/73486",
+  "nome": "Pompeo de Mattos",
+  "siglaPartido": "PDT",
+  "uriPartido": null,
+  "siglaUf": "RS",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/73486.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Pompeo de Mattos",
+  "gabinete": {
+   "nome": "704",
+   "predio": "4",
+   "sala": "704",
+   "andar": "7",
+   "telefone": "3215-5704",
+   "email": "dep.pompeodemattos@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/PompeodeMattos",
+  "https://www.facebook.com/PompeodeMattos",
+  "https://www.instagram.com/pompeodemattospdt",
+  "https://youtube.com/PompeodeMattos"
+ ],
+ "dataNascimento": "1958-07-12",
+ "dataFalecimento": null,
+ "ufNascimento": "RS",
+ "municipioNascimento": "Santo Augusto",
+ "escolaridade": "Superior"
+}

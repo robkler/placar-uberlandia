@@ -1,0 +1,50 @@
+[
+ {
+  "id": 220566,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220566",
+  "nome": "Lêda Borges",
+  "nomeEleitoral": "LÊDA BORGES",
+  "siglaPartido": "PSDB",
+  "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36835",
+  "siglaUf": "GO",
+  "idLegislatura": 57,
+  "email": null,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220566.jpg",
+  "dataHora": "2023-02-01T00:00",
+  "situacao": null,
+  "condicaoEleitoral": null,
+  "descricaoStatus": "Nome no início da legislatura / Partido no início da legislatura"
+ },
+ {
+  "id": 220566,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220566",
+  "nome": "Lêda Borges",
+  "nomeEleitoral": "LÊDA BORGES",
+  "siglaPartido": "PSDB",
+  "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36835",
+  "siglaUf": "GO",
+  "idLegislatura": 57,
+  "email": null,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220566.jpg",
+  "dataHora": "2023-02-01T12:05",
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": "Entrada - Posse de Eleito Titular - Posse na Sessão Preparatória"
+ },
+ {
+  "id": 220566,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220566",
+  "nome": "Lêda Borges",
+  "nomeEleitoral": "LÊDA BORGES",
+  "siglaPartido": "REPUBLICANOS",
+  "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37908",
+  "siglaUf": "GO",
+  "idLegislatura": 57,
+  "email": null,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220566.jpg",
+  "dataHora": "2026-04-07T11:45",
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": "Alteração de partido"
+ }
+]

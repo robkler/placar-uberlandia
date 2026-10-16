@@ -1,0 +1,42 @@
+{
+ "id": 204462,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204462",
+ "nomeCivil": "CHRISTINE NOGUEIRA DOS REIS TONIETTO",
+ "ultimoStatus": {
+  "id": 204462,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204462",
+  "nome": "Chris Tonietto",
+  "siglaPartido": "PL",
+  "uriPartido": null,
+  "siglaUf": "RJ",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204462.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Chris Tonietto",
+  "gabinete": {
+   "nome": "446",
+   "predio": "4",
+   "sala": "446",
+   "andar": "4",
+   "telefone": "3215-5446",
+   "email": "dep.christonietto@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "F",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/ToniettoChris",
+  "https://www.facebook.com/ChrisTonietto",
+  "https://www.instagram.com/christonietto",
+  "https://youtube.com/channel/UCqqG6AaU2hm2vLhMir4Jdlw"
+ ],
+ "dataNascimento": "1991-05-14",
+ "dataFalecimento": null,
+ "ufNascimento": "RJ",
+ "municipioNascimento": "Rio de Janeiro",
+ "escolaridade": "Superior"
+}

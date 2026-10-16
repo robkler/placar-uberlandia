@@ -1,0 +1,37 @@
+{
+ "id": 204563,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204563",
+ "nomeCivil": "JOSIMAR CUNHA RODRIGUES",
+ "ultimoStatus": {
+  "id": 204563,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204563",
+  "nome": "Josimar Maranhãozinho",
+  "siglaPartido": "PL",
+  "uriPartido": null,
+  "siglaUf": "MA",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204563.jpg",
+  "email": null,
+  "data": "2026-06-11",
+  "nomeEleitoral": "Josimar Maranhãozinho",
+  "gabinete": {
+   "nome": "715",
+   "predio": "4",
+   "sala": "715",
+   "andar": "7",
+   "telefone": "3215-5715",
+   "email": "dep.josimarmaranhaozinho@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": ""
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [],
+ "dataNascimento": "1976-11-13",
+ "dataFalecimento": null,
+ "ufNascimento": "CE",
+ "municipioNascimento": "Várzea Alegre",
+ "escolaridade": "Superior"
+}

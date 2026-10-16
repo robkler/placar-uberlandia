@@ -1,0 +1,40 @@
+{
+ "id": 178876,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178876",
+ "nomeCivil": "CELIO ANTONIO DA SILVEIRA",
+ "ultimoStatus": {
+  "id": 178876,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178876",
+  "nome": "Célio Silveira",
+  "siglaPartido": "MDB",
+  "uriPartido": null,
+  "siglaUf": "GO",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178876.jpg",
+  "email": null,
+  "data": "2023-12-06",
+  "nomeEleitoral": "Célio Silveira",
+  "gabinete": {
+   "nome": "511",
+   "predio": "4",
+   "sala": "511",
+   "andar": "5",
+   "telefone": "3215-5511",
+   "email": "dep.celiosilveira@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": ""
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://www.facebook.com/celiosilveiradeputado",
+  "https://www.instagram.com/celiosilveiradeputado"
+ ],
+ "dataNascimento": "1959-09-19",
+ "dataFalecimento": null,
+ "ufNascimento": "GO",
+ "municipioNascimento": "Luziânia",
+ "escolaridade": "Superior"
+}

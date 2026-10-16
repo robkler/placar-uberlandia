@@ -1,0 +1,41 @@
+{
+ "id": 204396,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204396",
+ "nomeCivil": "NELSI COGUETTO MARIA",
+ "ultimoStatus": {
+  "id": 204396,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204396",
+  "nome": "Vermelho",
+  "siglaPartido": "PL",
+  "uriPartido": null,
+  "siglaUf": "PR",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204396.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Vermelho",
+  "gabinete": {
+   "nome": "920",
+   "predio": "4",
+   "sala": "920",
+   "andar": "9",
+   "telefone": "3215-5920",
+   "email": "dep.vermelho@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/depvermelho",
+  "https://www.facebook.com/vermelhodeputadofederal",
+  "https://www.instagram.com/deputado_vermelho"
+ ],
+ "dataNascimento": "1959-03-01",
+ "dataFalecimento": null,
+ "ufNascimento": "PR",
+ "municipioNascimento": "Francisco Beltrão",
+ "escolaridade": "Superior"
+}

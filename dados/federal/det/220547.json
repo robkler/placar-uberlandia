@@ -1,0 +1,42 @@
+{
+ "id": 220547,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220547",
+ "nomeCivil": "MARCOS SBOROWSKI POLLON",
+ "ultimoStatus": {
+  "id": 220547,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220547",
+  "nome": "Marcos Pollon",
+  "siglaPartido": "PL",
+  "uriPartido": null,
+  "siglaUf": "MS",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220547.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Marcos Pollon",
+  "gabinete": {
+   "nome": "976",
+   "predio": "3",
+   "sala": "976",
+   "andar": null,
+   "telefone": "3215-5976",
+   "email": "dep.marcospollon@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/PollonMarcos",
+  "https://www.facebook.com/mpollon",
+  "https://www.instagram.com/pollonms",
+  "https://youtube.com/channel/UC8ioF4r2QoAp5mMp1epPAsg"
+ ],
+ "dataNascimento": "1981-01-19",
+ "dataFalecimento": null,
+ "ufNascimento": "MS",
+ "municipioNascimento": "Campo Grande",
+ "escolaridade": "Superior"
+}

@@ -1,0 +1,41 @@
+{
+ "id": 178945,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178945",
+ "nomeCivil": "ROSANGELA DE SOUZA GOMES",
+ "ultimoStatus": {
+  "id": 178945,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178945",
+  "nome": "Rosangela Gomes",
+  "siglaPartido": "REPUBLICANOS",
+  "uriPartido": null,
+  "siglaUf": "RJ",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178945.jpg",
+  "email": null,
+  "data": "2026-03-25",
+  "nomeEleitoral": "Rosangela Gomes",
+  "gabinete": {
+   "nome": "438",
+   "predio": "4",
+   "sala": "438",
+   "andar": "4",
+   "telefone": "3215-5438",
+   "email": "dep.rosangelagomes@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": ""
+ },
+ "sexo": "F",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/rosangelagomes",
+  "https://www.facebook.com/pages/Rosangela-Gomes",
+  "https://www.instagram.com/rosangelasgomes"
+ ],
+ "dataNascimento": "1966-12-27",
+ "dataFalecimento": null,
+ "ufNascimento": "RJ",
+ "municipioNascimento": "Rio de Janeiro",
+ "escolaridade": "Mestrado"
+}

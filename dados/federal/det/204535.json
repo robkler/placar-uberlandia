@@ -1,0 +1,42 @@
+{
+ "id": 204535,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204535",
+ "nomeCivil": "SAMIA DE SOUZA BOMFIM",
+ "ultimoStatus": {
+  "id": 204535,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204535",
+  "nome": "Sâmia Bomfim",
+  "siglaPartido": "PSOL",
+  "uriPartido": null,
+  "siglaUf": "SP",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204535.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Sâmia Bomfim",
+  "gabinete": {
+   "nome": "642",
+   "predio": "4",
+   "sala": "642",
+   "andar": "6",
+   "telefone": "3215-5642",
+   "email": "dep.samiabomfim@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "F",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/samiabomfim",
+  "https://www.facebook.com/samia.bomfim.psol",
+  "https://www.instagram.com/samiabomfim",
+  "https://youtube.com/samiabomfimpsol"
+ ],
+ "dataNascimento": "1989-08-22",
+ "dataFalecimento": null,
+ "ufNascimento": "SP",
+ "municipioNascimento": "Presidente Prudente",
+ "escolaridade": "Superior"
+}

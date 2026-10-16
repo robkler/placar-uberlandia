@@ -1,0 +1,37 @@
+{
+ "id": 74356,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74356",
+ "nomeCivil": "SILAS CÂMARA",
+ "ultimoStatus": {
+  "id": 74356,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74356",
+  "nome": "Silas Câmara",
+  "siglaPartido": "REPUBLICANOS",
+  "uriPartido": null,
+  "siglaUf": "AM",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74356.jpg",
+  "email": null,
+  "data": "2026-08-12",
+  "nomeEleitoral": "Silas Câmara",
+  "gabinete": {
+   "nome": "532",
+   "predio": "4",
+   "sala": "532",
+   "andar": "5",
+   "telefone": "3215-5532",
+   "email": "dep.silascamara@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": ""
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [],
+ "dataNascimento": "1962-12-15",
+ "dataFalecimento": null,
+ "ufNascimento": "AC",
+ "municipioNascimento": "Rio Branco",
+ "escolaridade": "Superior"
+}

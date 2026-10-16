@@ -1,0 +1,41 @@
+{
+ "id": 204508,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204508",
+ "nomeCivil": "IGOR TARCIANO TIMO",
+ "ultimoStatus": {
+  "id": 204508,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204508",
+  "nome": "Igor Timo",
+  "siglaPartido": "UNIÃO",
+  "uriPartido": null,
+  "siglaUf": "MG",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204508.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Igor Timo",
+  "gabinete": {
+   "nome": "726",
+   "predio": "4",
+   "sala": "726",
+   "andar": "7",
+   "telefone": "3215-5726",
+   "email": "dep.igortimo@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/oficialigortimo",
+  "https://www.facebook.com/oficialigortimo",
+  "https://www.instagram.com/oficialigortimo"
+ ],
+ "dataNascimento": "1982-04-10",
+ "dataFalecimento": null,
+ "ufNascimento": "MG",
+ "municipioNascimento": "Virgem da Lapa",
+ "escolaridade": "Superior Incompleto"
+}

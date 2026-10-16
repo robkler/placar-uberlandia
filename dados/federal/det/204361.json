@@ -1,0 +1,42 @@
+{
+ "id": 204361,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204361",
+ "nomeCivil": "CARLOS ALBERTO CHIODINI",
+ "ultimoStatus": {
+  "id": 204361,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204361",
+  "nome": "Carlos Chiodini",
+  "siglaPartido": "MDB",
+  "uriPartido": null,
+  "siglaUf": "SC",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204361.jpg",
+  "email": null,
+  "data": "2026-02-03",
+  "nomeEleitoral": "Carlos Chiodini",
+  "gabinete": {
+   "nome": "925",
+   "predio": "4",
+   "sala": "925",
+   "andar": "9",
+   "telefone": "3215-5925",
+   "email": "dep.carloschiodini@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": ""
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://pt-br.facebook.com/CarlosChiodini/",
+  "https://twitter.com/carloschiodini",
+  "https://www.instagram.com/carloschiodini",
+  "https://youtube.com/channel/UClnRgQbRinB3rSABMSePm7w"
+ ],
+ "dataNascimento": "1982-03-08",
+ "dataFalecimento": null,
+ "ufNascimento": "SC",
+ "municipioNascimento": "Jaraguá do Sul",
+ "escolaridade": "Superior"
+}

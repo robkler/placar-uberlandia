@@ -1,0 +1,42 @@
+{
+ "id": 204404,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204404",
+ "nomeCivil": "LUCAS BELLO REDECKER",
+ "ultimoStatus": {
+  "id": 204404,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204404",
+  "nome": "Lucas Redecker",
+  "siglaPartido": "PSD",
+  "uriPartido": null,
+  "siglaUf": "RS",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204404.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Lucas Redecker",
+  "gabinete": {
+   "nome": "905",
+   "predio": "4",
+   "sala": "905",
+   "andar": "9",
+   "telefone": "3215-5905",
+   "email": "dep.lucasredecker@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://facebook.com/lucasredecker",
+  "https://instagram.com/lucasredecker",
+  "https://twitter.com/lucasredecker",
+  "https://youtube.com/user/lucasredecker"
+ ],
+ "dataNascimento": "1981-05-26",
+ "dataFalecimento": null,
+ "ufNascimento": "RS",
+ "municipioNascimento": "Novo Hamburgo",
+ "escolaridade": "Superior"
+}

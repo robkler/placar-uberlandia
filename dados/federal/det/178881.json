@@ -1,0 +1,42 @@
+{
+ "id": 178881,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178881",
+ "nomeCivil": "ALUISIO GUIMARAES MENDES FILHO",
+ "ultimoStatus": {
+  "id": 178881,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178881",
+  "nome": "Aluisio Mendes",
+  "siglaPartido": "REPUBLICANOS",
+  "uriPartido": null,
+  "siglaUf": "MA",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178881.jpg",
+  "email": null,
+  "data": "2024-03-30",
+  "nomeEleitoral": "Aluisio Mendes",
+  "gabinete": {
+   "nome": "931",
+   "predio": "4",
+   "sala": "931",
+   "andar": "9",
+   "telefone": "3215-5931",
+   "email": "dep.aluisiomendes@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": ""
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/aluisiomendesma",
+  "https://www.facebook.com/aluisiomendesma",
+  "https://www.instagram.com/aluisiomendesma",
+  "https://youtube.com/aluisiomendesma"
+ ],
+ "dataNascimento": "1961-11-11",
+ "dataFalecimento": null,
+ "ufNascimento": "MG",
+ "municipioNascimento": "Belo Horizonte",
+ "escolaridade": "Superior"
+}

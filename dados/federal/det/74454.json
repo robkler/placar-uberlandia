@@ -1,0 +1,40 @@
+{
+ "id": 74454,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74454",
+ "nomeCivil": "EUNÍCIO LOPES DE OLIVEIRA",
+ "ultimoStatus": {
+  "id": 74454,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74454",
+  "nome": "Eunício Oliveira",
+  "siglaPartido": "MDB",
+  "uriPartido": null,
+  "siglaUf": "CE",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74454.jpg",
+  "email": null,
+  "data": "2025-10-11",
+  "nomeEleitoral": "Eunício Oliveira",
+  "gabinete": {
+   "nome": "5",
+   "predio": "x",
+   "sala": "5",
+   "andar": null,
+   "telefone": "3215-5965",
+   "email": "dep.euniciooliveira@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": ""
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/eunicio",
+  "https://www.instagram.com/euniciooliveira"
+ ],
+ "dataNascimento": "1952-09-30",
+ "dataFalecimento": null,
+ "ufNascimento": "CE",
+ "municipioNascimento": "Lavras da Mangabeira",
+ "escolaridade": "Superior"
+}

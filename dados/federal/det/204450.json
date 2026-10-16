@@ -1,0 +1,41 @@
+{
+ "id": 204450,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204450",
+ "nomeCivil": "LUIZ ANTONIO DE SOUZA TEIXEIRA JÚNIOR",
+ "ultimoStatus": {
+  "id": 204450,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204450",
+  "nome": "Doutor Luizinho",
+  "siglaPartido": "PP",
+  "uriPartido": null,
+  "siglaUf": "RJ",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204450.jpg",
+  "email": null,
+  "data": "2023-09-12",
+  "nomeEleitoral": "Doutor Luizinho",
+  "gabinete": {
+   "nome": "877",
+   "predio": "3",
+   "sala": "877",
+   "andar": null,
+   "telefone": "3215-5877",
+   "email": "dep.doutorluizinho@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": ""
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/Doutorluizinhot",
+  "https://www.facebook.com/doutorluizinho",
+  "https://www.instagram.com/doutorluizinho"
+ ],
+ "dataNascimento": "1973-12-15",
+ "dataFalecimento": null,
+ "ufNascimento": "RJ",
+ "municipioNascimento": "Nova Iguaçu",
+ "escolaridade": "Superior"
+}

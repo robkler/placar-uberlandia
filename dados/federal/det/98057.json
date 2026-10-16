@@ -1,0 +1,42 @@
+{
+ "id": 98057,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/98057",
+ "nomeCivil": "LAFAYETTE LUIZ DOORGAL DE ANDRADA",
+ "ultimoStatus": {
+  "id": 98057,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/98057",
+  "nome": "Lafayette de Andrada",
+  "siglaPartido": "PL",
+  "uriPartido": null,
+  "siglaUf": "MG",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/98057.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Lafayette de Andrada",
+  "gabinete": {
+   "nome": "208",
+   "predio": "4",
+   "sala": "208",
+   "andar": "2",
+   "telefone": "3215-5208",
+   "email": "dep.lafayettedeandrada@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/lafayetteandrad",
+  "https://www.facebook.com/lafayettedeandrada",
+  "https://www.instagram.com/lafayetteandrada",
+  "https://youtube.com/channel/UC5f8X2JAnafqV7bPLmDeZGw"
+ ],
+ "dataNascimento": "1966-10-17",
+ "dataFalecimento": null,
+ "ufNascimento": "MG",
+ "municipioNascimento": "Belo Horizonte",
+ "escolaridade": "Doutorado Incompleto"
+}

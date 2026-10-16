@@ -1,0 +1,37 @@
+{
+ "id": 204481,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204481",
+ "nomeCivil": "JAZIEL PEREIRA DE SOUSA",
+ "ultimoStatus": {
+  "id": 204481,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204481",
+  "nome": "Dr. Jaziel",
+  "siglaPartido": "PL",
+  "uriPartido": null,
+  "siglaUf": "CE",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204481.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Dr. Jaziel",
+  "gabinete": {
+   "nome": "705",
+   "predio": "4",
+   "sala": "705",
+   "andar": "7",
+   "telefone": "3215-5705",
+   "email": "dep.dr.jaziel@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [],
+ "dataNascimento": "1961-05-03",
+ "dataFalecimento": null,
+ "ufNascimento": "CE",
+ "municipioNascimento": "Camocim",
+ "escolaridade": "Superior"
+}

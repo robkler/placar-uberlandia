@@ -1,0 +1,37 @@
+{
+ "id": 141456,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141456",
+ "nomeCivil": "JILMAR AUGUSTINHO TATTO",
+ "ultimoStatus": {
+  "id": 141456,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141456",
+  "nome": "Jilmar Tatto",
+  "siglaPartido": "PT",
+  "uriPartido": null,
+  "siglaUf": "SP",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/141456.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Jilmar Tatto",
+  "gabinete": {
+   "nome": "548",
+   "predio": "4",
+   "sala": "548",
+   "andar": "5",
+   "telefone": "3215-5548",
+   "email": "dep.jilmartatto@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [],
+ "dataNascimento": "1965-06-25",
+ "dataFalecimento": null,
+ "ufNascimento": "PR",
+ "municipioNascimento": "Corbélia",
+ "escolaridade": "Superior"
+}

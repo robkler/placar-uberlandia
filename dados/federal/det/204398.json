@@ -1,0 +1,37 @@
+{
+ "id": 204398,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204398",
+ "nomeCivil": "LUIS FELIPE BONATTO FRANCISCHINI",
+ "ultimoStatus": {
+  "id": 204398,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204398",
+  "nome": "Felipe Francischini",
+  "siglaPartido": "PODE",
+  "uriPartido": null,
+  "siglaUf": "PR",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204398.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Felipe Francischini",
+  "gabinete": {
+   "nome": "395",
+   "predio": "3",
+   "sala": "395",
+   "andar": null,
+   "telefone": "3215-5395",
+   "email": "dep.felipefrancischini@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [],
+ "dataNascimento": "1991-10-02",
+ "dataFalecimento": null,
+ "ufNascimento": "PR",
+ "municipioNascimento": "Curitiba",
+ "escolaridade": "Superior"
+}

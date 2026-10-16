@@ -1,0 +1,40 @@
+{
+ "id": 141450,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141450",
+ "nomeCivil": "HUGO LEAL MELO DA SILVA",
+ "ultimoStatus": {
+  "id": 141450,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141450",
+  "nome": "Hugo Leal",
+  "siglaPartido": "PSD",
+  "uriPartido": null,
+  "siglaUf": "RJ",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/141450.jpg",
+  "email": null,
+  "data": "2024-01-30",
+  "nomeEleitoral": "Hugo Leal",
+  "gabinete": {
+   "nome": "886",
+   "predio": "3",
+   "sala": "886",
+   "andar": null,
+   "telefone": "3215-5886",
+   "email": "dep.hugoleal@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": ""
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/dephugoleal",
+  "https://www.instagram.com/dephugoleal"
+ ],
+ "dataNascimento": "1962-08-06",
+ "dataFalecimento": null,
+ "ufNascimento": "MG",
+ "municipioNascimento": "Ouro Fino",
+ "escolaridade": "Superior"
+}

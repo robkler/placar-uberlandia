@@ -1,0 +1,41 @@
+{
+ "id": 220702,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220702",
+ "nomeCivil": "GERALDO GABRIEL MENDES",
+ "ultimoStatus": {
+  "id": 220702,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220702",
+  "nome": "Geraldo Mendes",
+  "siglaPartido": "UNIÃO",
+  "uriPartido": null,
+  "siglaUf": "PR",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220702.jpg",
+  "email": null,
+  "data": "2024-12-26",
+  "nomeEleitoral": "Geraldo Mendes",
+  "gabinete": {
+   "nome": "392",
+   "predio": "3",
+   "sala": "392",
+   "andar": null,
+   "telefone": "3215-5392",
+   "email": "dep.geraldomendes@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": ""
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://www.facebook.com/geraldomendesoficial?mibextid=LQQJ4d",
+  "https://www.instagram.com/geraldomendesoficial/?igshid=YmMyMTA2M2Y%3D",
+  "https://www.youtube.com/@geraldomendes3450"
+ ],
+ "dataNascimento": "1985-12-05",
+ "dataFalecimento": null,
+ "ufNascimento": "SC",
+ "municipioNascimento": "Galvão",
+ "escolaridade": "Ensino Médio Incompleto"
+}

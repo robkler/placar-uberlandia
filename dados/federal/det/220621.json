@@ -1,0 +1,41 @@
+{
+ "id": 220621,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220621",
+ "nomeCivil": "EVANDRO GONÇALVES DA SILVA JÚNIOR",
+ "ultimoStatus": {
+  "id": 220621,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220621",
+  "nome": "Sargento Gonçalves",
+  "siglaPartido": "PL",
+  "uriPartido": null,
+  "siglaUf": "RN",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220621.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Sargento Gonçalves",
+  "gabinete": {
+   "nome": "494",
+   "predio": "3",
+   "sala": "494",
+   "andar": null,
+   "telefone": "3215-5494",
+   "email": "dep.sargentogoncalves@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/sgtgoncalves22",
+  "https://www.facebook.com/sargentogoncalves22",
+  "https://www.instagram.com/sargentogoncalves22"
+ ],
+ "dataNascimento": "1984-02-27",
+ "dataFalecimento": null,
+ "ufNascimento": "PB",
+ "municipioNascimento": "Campina Grande",
+ "escolaridade": "Superior"
+}

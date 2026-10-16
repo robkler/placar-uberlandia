@@ -1,0 +1,41 @@
+{
+ "id": 220630,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220630",
+ "nomeCivil": "PEDRO DOSHIKAZU PIANCHAO AIHARA",
+ "ultimoStatus": {
+  "id": 220630,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220630",
+  "nome": "Pedro Aihara",
+  "siglaPartido": "PP",
+  "uriPartido": null,
+  "siglaUf": "MG",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220630.jpg",
+  "email": null,
+  "data": "2026-02-28",
+  "nomeEleitoral": "Pedro Aihara",
+  "gabinete": {
+   "nome": "323",
+   "predio": "4",
+   "sala": "323",
+   "andar": "3",
+   "telefone": "3215-5323",
+   "email": "dep.pedroaihara@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": ""
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/https:",
+  "https://www.facebook.com/pedroaiharaoficial",
+  "https://www.instagram.com/pedroaihara"
+ ],
+ "dataNascimento": "1993-02-16",
+ "dataFalecimento": null,
+ "ufNascimento": "MG",
+ "municipioNascimento": "Belo Horizonte",
+ "escolaridade": "Mestrado"
+}

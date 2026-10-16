@@ -23,7 +23,7 @@ SOFTWARE.
 ---
 
 A licença MIT acima vale para o código deste repositório (scripts, página e
-arquivos de configuração). Ela NÃO se aplica aos dados em `dados/` e
-`public/data.json` nem às fotos em `public/fotos/`, que vêm de fontes públicas
-(Câmara Municipal de Uberlândia, TSE, Tesouro Nacional e IBGE) e pertencem a
-essas fontes. Veja a seção "Licença" do README.
+arquivos de configuração). Ela NÃO se aplica aos dados em `dados/`,
+`public/data.json` e `public/federal.json` nem às fotos em `public/fotos/`, que
+vêm de fontes públicas (Câmara Municipal de Uberlândia, Câmara dos Deputados,
+TSE, Tesouro Nacional e IBGE) e pertencem a essas fontes. Veja a seção "Licença" do README.

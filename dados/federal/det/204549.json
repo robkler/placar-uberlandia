@@ -1,0 +1,37 @@
+{
+ "id": 204549,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204549",
+ "nomeCivil": "ANTONIO JOSE AGUIAR ALBUQUERQUE",
+ "ultimoStatus": {
+  "id": 204549,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204549",
+  "nome": "AJ Albuquerque",
+  "siglaPartido": "PP",
+  "uriPartido": null,
+  "siglaUf": "CE",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204549.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "AJ Albuquerque",
+  "gabinete": {
+   "nome": "708",
+   "predio": "4",
+   "sala": "708",
+   "andar": "7",
+   "telefone": "3215-5708",
+   "email": "dep.ajalbuquerque@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [],
+ "dataNascimento": "1983-09-26",
+ "dataFalecimento": null,
+ "ufNascimento": "CE",
+ "municipioNascimento": "Fortaleza",
+ "escolaridade": "Superior"
+}

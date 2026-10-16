@@ -1,0 +1,42 @@
+{
+ "id": 220695,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220695",
+ "nomeCivil": "ROGÉRIA DE ALMEIDA PEREIRA DOS SANTOS",
+ "ultimoStatus": {
+  "id": 220695,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220695",
+  "nome": "Rogéria Santos",
+  "siglaPartido": "REPUBLICANOS",
+  "uriPartido": null,
+  "siglaUf": "BA",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220695.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Rogéria Santos",
+  "gabinete": {
+   "nome": "338",
+   "predio": "4",
+   "sala": "338",
+   "andar": "3",
+   "telefone": "3215-5338",
+   "email": "dep.rogeriasantos@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "F",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/drarogeria",
+  "https://www.facebook.com/rogeriasantosoficial",
+  "https://www.instagram.com/rogeriasantosoficial",
+  "https://youtube.com/channel/UCWe-7aMx_Q87rZIbh7ccbyw"
+ ],
+ "dataNascimento": "1966-08-19",
+ "dataFalecimento": null,
+ "ufNascimento": "RJ",
+ "municipioNascimento": "Rio de Janeiro",
+ "escolaridade": "Superior"
+}

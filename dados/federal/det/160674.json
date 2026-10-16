@@ -1,0 +1,37 @@
+{
+ "id": 160674,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160674",
+ "nomeCivil": "HUGO MOTTA WANDERLEY DA NÓBREGA",
+ "ultimoStatus": {
+  "id": 160674,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160674",
+  "nome": "Hugo Motta",
+  "siglaPartido": "REPUBLICANOS",
+  "uriPartido": null,
+  "siglaUf": "PB",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160674.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Hugo Motta",
+  "gabinete": {
+   "nome": "237",
+   "predio": "4",
+   "sala": "237",
+   "andar": "2",
+   "telefone": "3215-5237",
+   "email": "dep.hugomotta@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [],
+ "dataNascimento": "1989-09-11",
+ "dataFalecimento": null,
+ "ufNascimento": "PB",
+ "municipioNascimento": "João Pessoa",
+ "escolaridade": "Superior"
+}

@@ -1,0 +1,37 @@
+{
+ "id": 220567,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220567",
+ "nomeCivil": "JEFERSON RODRIGUES LEMOS",
+ "ultimoStatus": {
+  "id": 220567,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220567",
+  "nome": "Jeferson Rodrigues",
+  "siglaPartido": "PSDB",
+  "uriPartido": null,
+  "siglaUf": "GO",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220567.jpg",
+  "email": null,
+  "data": "2024-04-11",
+  "nomeEleitoral": "Jeferson Rodrigues",
+  "gabinete": {
+   "nome": "725",
+   "predio": "4",
+   "sala": "725",
+   "andar": "7",
+   "telefone": "3215-5725",
+   "email": "dep.jefersonrodrigues@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": ""
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [],
+ "dataNascimento": "1975-05-01",
+ "dataFalecimento": null,
+ "ufNascimento": "GO",
+ "municipioNascimento": "Goiânia",
+ "escolaridade": "Ensino Médio"
+}

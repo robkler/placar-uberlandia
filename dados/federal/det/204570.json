@@ -1,0 +1,40 @@
+{
+ "id": 204570,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204570",
+ "nomeCivil": "GILDENEMIR DE LIMA SOUSA",
+ "ultimoStatus": {
+  "id": 204570,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204570",
+  "nome": "Pastor Gil",
+  "siglaPartido": "PL",
+  "uriPartido": null,
+  "siglaUf": "MA",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204570.jpg",
+  "email": null,
+  "data": "2024-04-06",
+  "nomeEleitoral": "Pastor Gil",
+  "gabinete": {
+   "nome": "660",
+   "predio": "4",
+   "sala": "660",
+   "andar": "6",
+   "telefone": "3215-5660",
+   "email": "dep.pastorgil@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": ""
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://www.facebook.com/deputadopastorgil",
+  "https://www.instagram.com/deputadogildenemyr"
+ ],
+ "dataNascimento": "1971-11-08",
+ "dataFalecimento": null,
+ "ufNascimento": "MA",
+ "municipioNascimento": "São Luís",
+ "escolaridade": "Superior"
+}

@@ -1,0 +1,40 @@
+{
+ "id": 180214,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/180214",
+ "nomeCivil": "RAIMUNDO DINIZ ARAÚJO",
+ "ultimoStatus": {
+  "id": 180214,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/180214",
+  "nome": "Pastor Diniz",
+  "siglaPartido": "UNIÃO",
+  "uriPartido": null,
+  "siglaUf": "RR",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/180214.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Pastor Diniz",
+  "gabinete": {
+   "nome": "423",
+   "predio": "4",
+   "sala": "423",
+   "andar": "4",
+   "telefone": "3215-5423",
+   "email": "dep.pastordiniz@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://www.facebook.com/pr.diniz.rr",
+  "https://www.instagram.com/pastordiniz.ad"
+ ],
+ "dataNascimento": "1980-03-21",
+ "dataFalecimento": null,
+ "ufNascimento": "RR",
+ "municipioNascimento": "Boa Vista",
+ "escolaridade": "Superior"
+}

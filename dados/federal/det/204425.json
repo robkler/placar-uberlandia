@@ -1,0 +1,42 @@
+{
+ "id": 204425,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204425",
+ "nomeCivil": "SILVIO SERAFIM COSTA FILHO",
+ "ultimoStatus": {
+  "id": 204425,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204425",
+  "nome": "Silvio Costa Filho",
+  "siglaPartido": "REPUBLICANOS",
+  "uriPartido": null,
+  "siglaUf": "PE",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204425.jpg",
+  "email": null,
+  "data": "2026-03-31",
+  "nomeEleitoral": "Silvio Costa Filho",
+  "gabinete": {
+   "nome": "402",
+   "predio": "4",
+   "sala": "402",
+   "andar": "4",
+   "telefone": "3215-5402",
+   "email": "dep.silviocostafilho@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": ""
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/Silvio_CFilho",
+  "https://www.facebook.com/silvio.costafilhoi",
+  "https://www.instagram.com/silviocostafilho",
+  "https://youtube.com/SilvioCostaFilhooficial"
+ ],
+ "dataNascimento": "1982-03-05",
+ "dataFalecimento": null,
+ "ufNascimento": "PE",
+ "municipioNascimento": "Recife",
+ "escolaridade": "Superior"
+}

@@ -1,0 +1,42 @@
+{
+ "id": 160545,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160545",
+ "nomeCivil": "ALEXANDRE LEITE DA SILVA",
+ "ultimoStatus": {
+  "id": 160545,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160545",
+  "nome": "Alexandre Leite",
+  "siglaPartido": "UNIÃO",
+  "uriPartido": null,
+  "siglaUf": "SP",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160545.jpg",
+  "email": null,
+  "data": "2026-03-16",
+  "nomeEleitoral": "Alexandre Leite",
+  "gabinete": {
+   "nome": "841",
+   "predio": "4",
+   "sala": "841",
+   "andar": "8",
+   "telefone": "3215-5841",
+   "email": "dep.alexandreleite@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": ""
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/lexandreleite",
+  "https://www.facebook.com/AlexandreLeote.SP",
+  "https://www.instagram.com/alexandreleite.sp",
+  "https://youtube.com/depfedalexandreleite"
+ ],
+ "dataNascimento": "1989-04-18",
+ "dataFalecimento": null,
+ "ufNascimento": "SP",
+ "municipioNascimento": "São Paulo",
+ "escolaridade": "Superior"
+}

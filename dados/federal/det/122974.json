@@ -1,0 +1,37 @@
+{
+ "id": 122974,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/122974",
+ "nomeCivil": "PEDRO LUCAS ANDRADE FERNANDES RIBEIRO",
+ "ultimoStatus": {
+  "id": 122974,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/122974",
+  "nome": "Pedro Lucas Fernandes",
+  "siglaPartido": "UNIÃO",
+  "uriPartido": null,
+  "siglaUf": "MA",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/122974.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Pedro Lucas Fernandes",
+  "gabinete": {
+   "nome": "814",
+   "predio": "4",
+   "sala": "814",
+   "andar": "8",
+   "telefone": "3215-5814",
+   "email": "dep.pedrolucasfernandes@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [],
+ "dataNascimento": "1979-11-01",
+ "dataFalecimento": null,
+ "ufNascimento": "MA",
+ "municipioNascimento": "São Luís",
+ "escolaridade": "Superior"
+}

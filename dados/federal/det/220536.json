@@ -1,0 +1,37 @@
+{
+ "id": 220536,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220536",
+ "nomeCivil": "JOSÉ HAROLDO FIGUEIREDO CAMPOS",
+ "ultimoStatus": {
+  "id": 220536,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220536",
+  "nome": "Zé Haroldo Cathedral",
+  "siglaPartido": "UNIÃO",
+  "uriPartido": null,
+  "siglaUf": "RR",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220536.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Zé Haroldo Cathedral",
+  "gabinete": {
+   "nome": "782",
+   "predio": "3",
+   "sala": "782",
+   "andar": null,
+   "telefone": "3215-5782",
+   "email": "dep.zeharoldocathedral@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [],
+ "dataNascimento": "1982-03-22",
+ "dataFalecimento": null,
+ "ufNascimento": "MT",
+ "municipioNascimento": "Cuiabá",
+ "escolaridade": "Superior"
+}

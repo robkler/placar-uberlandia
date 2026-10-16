@@ -1,0 +1,41 @@
+{
+ "id": 141488,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141488",
+ "nomeCivil": "LUIZ PAULO TEIXEIRA FERREIRA",
+ "ultimoStatus": {
+  "id": 141488,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141488",
+  "nome": "Paulo Teixeira",
+  "siglaPartido": "PT",
+  "uriPartido": null,
+  "siglaUf": "SP",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/141488.jpg",
+  "email": null,
+  "data": "2026-03-31",
+  "nomeEleitoral": "Paulo Teixeira",
+  "gabinete": {
+   "nome": "684",
+   "predio": "3",
+   "sala": "684",
+   "andar": null,
+   "telefone": "3215-5684",
+   "email": "dep.pauloteixeira@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": ""
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/pauloteixeira13",
+  "https://www.facebook.com/pauloteixeira13",
+  "https://www.instagram.com/pauloteixeira13"
+ ],
+ "dataNascimento": "1961-05-06",
+ "dataFalecimento": null,
+ "ufNascimento": "SP",
+ "municipioNascimento": "Águas da Prata",
+ "escolaridade": "Mestrado"
+}

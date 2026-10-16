@@ -1,0 +1,42 @@
+{
+ "id": 204524,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204524",
+ "nomeCivil": "ANTÔNIO PINHEIRO NETO",
+ "ultimoStatus": {
+  "id": 204524,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204524",
+  "nome": "Pinheirinho",
+  "siglaPartido": "PP",
+  "uriPartido": null,
+  "siglaUf": "MG",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204524.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Pinheirinho",
+  "gabinete": {
+   "nome": "685",
+   "predio": "3",
+   "sala": "685",
+   "andar": null,
+   "telefone": "3215-5685",
+   "email": "dep.pinheirinho@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/pinheirinhomg",
+  "https://www.facebook.com/pinheirinhomg",
+  "https://www.instagram.com/pinheirinhomg",
+  "https://youtube.com/channel/UCrsQcx5F8S_gHJTpfiE8FfA"
+ ],
+ "dataNascimento": "1991-05-30",
+ "dataFalecimento": null,
+ "ufNascimento": "MG",
+ "municipioNascimento": "Belo Horizonte",
+ "escolaridade": "Superior"
+}

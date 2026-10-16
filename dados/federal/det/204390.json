@@ -1,0 +1,41 @@
+{
+ "id": 204390,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204390",
+ "nomeCivil": "ALCIDES RIBEIRO FILHO",
+ "ultimoStatus": {
+  "id": 204390,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204390",
+  "nome": "Professor Alcides",
+  "siglaPartido": "PSDB",
+  "uriPartido": null,
+  "siglaUf": "GO",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204390.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Professor Alcides",
+  "gabinete": {
+   "nome": "441",
+   "predio": "4",
+   "sala": "441",
+   "andar": "4",
+   "telefone": "3215-5441",
+   "email": "dep.professoralcides@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://www.facebook.com/ProfessorAlcidesoficial",
+  "https://www.instagram.com/professoralcidesoficial",
+  "https://youtube.com/DeputadoProfessorAlcides"
+ ],
+ "dataNascimento": "1953-10-25",
+ "dataFalecimento": null,
+ "ufNascimento": "BA",
+ "municipioNascimento": "Remanso",
+ "escolaridade": "Mestrado"
+}

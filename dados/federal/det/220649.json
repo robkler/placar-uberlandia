@@ -1,0 +1,42 @@
+{
+ "id": 220649,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220649",
+ "nomeCivil": "CARLOS ALBERTO DA CUNHA",
+ "ultimoStatus": {
+  "id": 220649,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220649",
+  "nome": "Delegado da Cunha",
+  "siglaPartido": "UNIÃO",
+  "uriPartido": null,
+  "siglaUf": "SP",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220649.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Delegado da Cunha",
+  "gabinete": {
+   "nome": "831",
+   "predio": "4",
+   "sala": "831",
+   "andar": "8",
+   "telefone": "3215-5831",
+   "email": "dep.delegadodacunha@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://instagram.com/delegadodacunha?igshid=ZDdkNTZiNTM=",
+  "https://m.facebook.com/delegadodacunha?mibextid=ZbWKwL",
+  "https://twitter.com/DacunhaDelegado",
+  "https://www.youtube.com/@DelegadodaCunha"
+ ],
+ "dataNascimento": "1977-10-14",
+ "dataFalecimento": null,
+ "ufNascimento": "SP",
+ "municipioNascimento": "Santos",
+ "escolaridade": "Pós-Graduação"
+}

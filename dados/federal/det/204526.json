@@ -1,0 +1,42 @@
+{
+ "id": 204526,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204526",
+ "nomeCivil": "LUIZ PHILIPPE DE ORLEANS BRAGANÇA",
+ "ultimoStatus": {
+  "id": 204526,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204526",
+  "nome": "Luiz Philippe de Orleans e Bragança",
+  "siglaPartido": "PL",
+  "uriPartido": null,
+  "siglaUf": "SP",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204526.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Luiz Philippe de Orleans e Bragança",
+  "gabinete": {
+   "nome": "719",
+   "predio": "4",
+   "sala": "719",
+   "andar": "7",
+   "telefone": "3215-5719",
+   "email": "dep.luizphilippedeorleansebraganca@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/lpbragancabr",
+  "https://www.facebook.com/luizphilippebr",
+  "https://www.instagram.com/lpbragancabr",
+  "https://youtube.com/luizphilippebr"
+ ],
+ "dataNascimento": "1969-04-03",
+ "dataFalecimento": null,
+ "ufNascimento": "RJ",
+ "municipioNascimento": "Rio de Janeiro",
+ "escolaridade": "Mestrado"
+}

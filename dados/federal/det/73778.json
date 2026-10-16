@@ -1,0 +1,40 @@
+{
+ "id": 73778,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/73778",
+ "nomeCivil": "LUIZ CARLOS JORGE HAULY",
+ "ultimoStatus": {
+  "id": 73778,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/73778",
+  "nome": "Luiz Carlos Hauly",
+  "siglaPartido": "PODE",
+  "uriPartido": null,
+  "siglaUf": "PR",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/73778.jpg",
+  "email": null,
+  "data": "2023-06-13",
+  "nomeEleitoral": "Luiz Carlos Hauly",
+  "gabinete": {
+   "nome": "421",
+   "predio": "4",
+   "sala": "421",
+   "andar": "4",
+   "telefone": "3215-5421",
+   "email": "dep.luizcarloshauly@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/deputadoHauly",
+  "https://www.instagram.com/deputadohauly"
+ ],
+ "dataNascimento": "1950-10-08",
+ "dataFalecimento": null,
+ "ufNascimento": "PR",
+ "municipioNascimento": "Cambé",
+ "escolaridade": "Superior"
+}

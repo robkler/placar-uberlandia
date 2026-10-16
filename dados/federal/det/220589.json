@@ -1,0 +1,42 @@
+{
+ "id": 220589,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220589",
+ "nomeCivil": "EDUARDO OVÍDIO BORGES DE VELLOSO VIANNA",
+ "ultimoStatus": {
+  "id": 220589,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220589",
+  "nome": "Eduardo Velloso",
+  "siglaPartido": "SOLIDARIEDADE",
+  "uriPartido": null,
+  "siglaUf": "AC",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220589.jpg",
+  "email": null,
+  "data": "2024-04-12",
+  "nomeEleitoral": "Eduardo Velloso",
+  "gabinete": {
+   "nome": "292",
+   "predio": "3",
+   "sala": "292",
+   "andar": null,
+   "telefone": "3215-5292",
+   "email": "dep.eduardovelloso@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": ""
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/_EduardoVelloso",
+  "https://www.facebook.com/dr.eduardovellosoo",
+  "https://www.instagram.com/dr.eduardovelloso",
+  "https://youtube.com/channel"
+ ],
+ "dataNascimento": "1976-07-08",
+ "dataFalecimento": null,
+ "ufNascimento": "AC",
+ "municipioNascimento": "Rio Branco",
+ "escolaridade": "Superior"
+}

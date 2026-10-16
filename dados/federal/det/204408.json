@@ -1,0 +1,37 @@
+{
+ "id": 204408,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204408",
+ "nomeCivil": "LUIZ AUGUSTO CARVALHO RIBEIRO FILHO",
+ "ultimoStatus": {
+  "id": 204408,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204408",
+  "nome": "Gustinho Ribeiro",
+  "siglaPartido": "PP",
+  "uriPartido": null,
+  "siglaUf": "SE",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204408.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Gustinho Ribeiro",
+  "gabinete": {
+   "nome": "784",
+   "predio": "3",
+   "sala": "784",
+   "andar": null,
+   "telefone": "3215-5784",
+   "email": "dep.gustinhoribeiro@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [],
+ "dataNascimento": "1982-02-16",
+ "dataFalecimento": null,
+ "ufNascimento": "SE",
+ "municipioNascimento": "Aracaju",
+ "escolaridade": "Superior"
+}

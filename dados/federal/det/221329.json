@@ -1,0 +1,41 @@
+{
+ "id": 221329,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/221329",
+ "nomeCivil": "RICARDO MARTINS DAVID",
+ "ultimoStatus": {
+  "id": 221329,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/221329",
+  "nome": "Ricardo Abrão",
+  "siglaPartido": "PSDB",
+  "uriPartido": null,
+  "siglaUf": "RJ",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/221329.jpg",
+  "email": null,
+  "data": "2025-04-25",
+  "nomeEleitoral": "Ricardo Abrão",
+  "gabinete": {
+   "nome": "507",
+   "predio": "4",
+   "sala": "507",
+   "andar": "5",
+   "telefone": "3215-5507",
+   "email": "dep.ricardoabrao@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Efetivado",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/RicardoAbrao_RJ",
+  "https://www.facebook.com/ricardoabraooficial",
+  "https://www.instagram.com/ricardoabraooficial"
+ ],
+ "dataNascimento": "1972-09-13",
+ "dataFalecimento": null,
+ "ufNascimento": "RJ",
+ "municipioNascimento": "Rio de Janeiro",
+ "escolaridade": "Superior"
+}

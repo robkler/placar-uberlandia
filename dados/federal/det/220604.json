@@ -1,0 +1,40 @@
+{
+ "id": 220604,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220604",
+ "nomeCivil": "MARCOS PAULO BARBOSA TAVARES",
+ "ultimoStatus": {
+  "id": 220604,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220604",
+  "nome": "Marcos Tavares",
+  "siglaPartido": "PDT",
+  "uriPartido": null,
+  "siglaUf": "RJ",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220604.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Marcos Tavares",
+  "gabinete": {
+   "nome": "611",
+   "predio": "4",
+   "sala": "611",
+   "andar": "6",
+   "telefone": "3215-5611",
+   "email": "dep.marcostavares@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://www.facebook.com/oficialmarcostavares",
+  "https://www.instagram.com/oficialmarcostavares"
+ ],
+ "dataNascimento": "1978-01-28",
+ "dataFalecimento": null,
+ "ufNascimento": "RJ",
+ "municipioNascimento": "Duque de Caxias",
+ "escolaridade": "Pós-Graduação"
+}

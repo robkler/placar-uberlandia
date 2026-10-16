@@ -1,0 +1,41 @@
+{
+ "id": 69871,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/69871",
+ "nomeCivil": "JOAO CARLOS BACELAR BATISTA",
+ "ultimoStatus": {
+  "id": 69871,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/69871",
+  "nome": "Bacelar",
+  "siglaPartido": "PV",
+  "uriPartido": null,
+  "siglaUf": "BA",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/69871.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Bacelar",
+  "gabinete": {
+   "nome": "783",
+   "predio": "3",
+   "sala": "783",
+   "andar": null,
+   "telefone": "3215-5783",
+   "email": "dep.bacelar@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/DEPUTADOBACELAR",
+  "https://www.facebook.com/DEPUTADOBACELAR",
+  "https://www.instagram.com/DEPUTADOBACELAR"
+ ],
+ "dataNascimento": "1957-07-09",
+ "dataFalecimento": null,
+ "ufNascimento": "BA",
+ "municipioNascimento": "Esplanada",
+ "escolaridade": "Pós-Graduação"
+}

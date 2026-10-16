@@ -1,0 +1,39 @@
+{
+ "id": 204489,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204489",
+ "nomeCivil": "MARCOS ROBERIO RIBEIRO MONTEIRO",
+ "ultimoStatus": {
+  "id": 204489,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204489",
+  "nome": "Robério Monteiro",
+  "siglaPartido": "PSB",
+  "uriPartido": null,
+  "siglaUf": "CE",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204489.jpg",
+  "email": null,
+  "data": "2024-06-21",
+  "nomeEleitoral": "Robério Monteiro",
+  "gabinete": {
+   "nome": "652",
+   "predio": "4",
+   "sala": "652",
+   "andar": "6",
+   "telefone": "3215-5652",
+   "email": "dep.roberiomonteiro@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": ""
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://www.instagram.com/dep.roberiomonteiro"
+ ],
+ "dataNascimento": "1970-02-15",
+ "dataFalecimento": null,
+ "ufNascimento": "CE",
+ "municipioNascimento": "Itarema",
+ "escolaridade": "Ensino Fundamental"
+}

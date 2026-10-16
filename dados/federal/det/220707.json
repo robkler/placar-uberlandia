@@ -1,0 +1,40 @@
+{
+ "id": 220707,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220707",
+ "nomeCivil": "AMANDA KELLY GENTIL GUIMARÃES ROSA",
+ "ultimoStatus": {
+  "id": 220707,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220707",
+  "nome": "Amanda Gentil",
+  "siglaPartido": "PP",
+  "uriPartido": null,
+  "siglaUf": "MA",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220707.jpg",
+  "email": null,
+  "data": "2024-09-04",
+  "nomeEleitoral": "Amanda Gentil",
+  "gabinete": {
+   "nome": "862",
+   "predio": "4",
+   "sala": "862",
+   "andar": "8",
+   "telefone": "3215-5862",
+   "email": "dep.amandagentil@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": ""
+ },
+ "sexo": "F",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/amandagentiI",
+  "https://www.instagram.com/amandagentill"
+ ],
+ "dataNascimento": "1998-12-25",
+ "dataFalecimento": null,
+ "ufNascimento": "MA",
+ "municipioNascimento": "Caxias",
+ "escolaridade": "Superior"
+}

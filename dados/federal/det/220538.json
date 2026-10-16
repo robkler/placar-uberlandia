@@ -1,0 +1,37 @@
+{
+ "id": 220538,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220538",
+ "nomeCivil": "JOSÉ FRANCISCO LOPES DE ALBUQUERQUE",
+ "ultimoStatus": {
+  "id": 220538,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220538",
+  "nome": "Albuquerque",
+  "siglaPartido": "REPUBLICANOS",
+  "uriPartido": null,
+  "siglaUf": "RR",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220538.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Albuquerque",
+  "gabinete": {
+   "nome": "675",
+   "predio": "3",
+   "sala": "675",
+   "andar": null,
+   "telefone": "3215-5675",
+   "email": "dep.albuquerque@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [],
+ "dataNascimento": "1974-01-25",
+ "dataFalecimento": null,
+ "ufNascimento": "CE",
+ "municipioNascimento": "Moraújo",
+ "escolaridade": "Superior"
+}

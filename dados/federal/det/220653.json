@@ -1,0 +1,41 @@
+{
+ "id": 220653,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220653",
+ "nomeCivil": "Fábio Eduardo de Oliveira Teruel",
+ "ultimoStatus": {
+  "id": 220653,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220653",
+  "nome": "Fábio Teruel",
+  "siglaPartido": "MDB",
+  "uriPartido": null,
+  "siglaUf": "SP",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220653.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Fábio Teruel",
+  "gabinete": {
+   "nome": "294",
+   "predio": "3",
+   "sala": "294",
+   "andar": null,
+   "telefone": "3215-5294",
+   "email": "dep.fabioteruel@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://www.facebook.com/TmjFabioTeruel",
+  "https://www.instagram.com/fabioterueloficial",
+  "https://youtube.com/FabioTeruelOficial"
+ ],
+ "dataNascimento": "1971-10-22",
+ "dataFalecimento": null,
+ "ufNascimento": "SP",
+ "municipioNascimento": "Santa Bárbara D'Oeste",
+ "escolaridade": "Superior"
+}

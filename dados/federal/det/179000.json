@@ -1,0 +1,41 @@
+{
+ "id": 179000,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/179000",
+ "nomeCivil": "MARCELO HENRIQUE TEIXEIRA DIAS",
+ "ultimoStatus": {
+  "id": 179000,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/179000",
+  "nome": "Marcelo Álvaro Antônio",
+  "siglaPartido": "PL",
+  "uriPartido": null,
+  "siglaUf": "MG",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/179000.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Marcelo Álvaro Antônio",
+  "gabinete": {
+   "nome": "824",
+   "predio": "4",
+   "sala": "824",
+   "andar": "8",
+   "telefone": "3215-5824",
+   "email": "dep.marceloalvaroantonio@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/marceloalvaroan",
+  "https://www.facebook.com/marceloalvaroantonio",
+  "https://www.instagram.com/marceloalvaroantonio"
+ ],
+ "dataNascimento": "1974-02-16",
+ "dataFalecimento": null,
+ "ufNascimento": "MG",
+ "municipioNascimento": "Belo Horizonte",
+ "escolaridade": "Superior"
+}

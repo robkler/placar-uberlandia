@@ -1,0 +1,42 @@
+{
+ "id": 233592,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/233592",
+ "nomeCivil": "PAULO CESAR LEMOS DE OLIVEIRA",
+ "ultimoStatus": {
+  "id": 233592,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/233592",
+  "nome": "Paulo Lemos",
+  "siglaPartido": "PT",
+  "uriPartido": null,
+  "siglaUf": "AP",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/233592.jpg",
+  "email": null,
+  "data": "2026-03-31",
+  "nomeEleitoral": "Paulo Lemos",
+  "gabinete": {
+   "nome": "503",
+   "predio": "4",
+   "sala": "503",
+   "andar": "5",
+   "telefone": "3215-5503",
+   "email": "dep.paulolemos@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": ""
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/paulolemosap",
+  "https://www.facebook.com/paulolemosap",
+  "https://www.instagram.com/paulolemosap",
+  "https://youtube.com/channel/UCPt5rQPkiVFL3kskxR0CP7Q"
+ ],
+ "dataNascimento": "1972-01-08",
+ "dataFalecimento": null,
+ "ufNascimento": "PA",
+ "municipioNascimento": "Baião",
+ "escolaridade": "Superior"
+}

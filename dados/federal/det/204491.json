@@ -1,0 +1,41 @@
+{
+ "id": 204491,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204491",
+ "nomeCivil": "GILBERTO APARECIDO ABRAMO",
+ "ultimoStatus": {
+  "id": 204491,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204491",
+  "nome": "Gilberto Abramo",
+  "siglaPartido": "REPUBLICANOS",
+  "uriPartido": null,
+  "siglaUf": "MG",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204491.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Gilberto Abramo",
+  "gabinete": {
+   "nome": "601",
+   "predio": "4",
+   "sala": "601",
+   "andar": "6",
+   "telefone": "3215-5601",
+   "email": "dep.gilbertoabramo@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/gilbertoabramo",
+  "https://www.facebook.com/gilbertoabramo",
+  "https://www.instagram.com/gilbertoabramo_"
+ ],
+ "dataNascimento": "1966-08-06",
+ "dataFalecimento": null,
+ "ufNascimento": "SP",
+ "municipioNascimento": "Porto Ferreira",
+ "escolaridade": "Pós-Graduação"
+}

@@ -1,0 +1,40 @@
+{
+ "id": 220666,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220666",
+ "nomeCivil": "LUIZ DE FRANÇA E SILVA MEIRA",
+ "ultimoStatus": {
+  "id": 220666,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220666",
+  "nome": "Coronel Meira",
+  "siglaPartido": "PL",
+  "uriPartido": null,
+  "siglaUf": "PE",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220666.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Coronel Meira",
+  "gabinete": {
+   "nome": "885",
+   "predio": "3",
+   "sala": "885",
+   "andar": null,
+   "telefone": "3215-5885",
+   "email": "dep.coronelmeira@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/coronel_meira",
+  "https://www.instagram.com/coronelmeiraoficial"
+ ],
+ "dataNascimento": "1958-01-07",
+ "dataFalecimento": null,
+ "ufNascimento": "PE",
+ "municipioNascimento": "Camaragibe",
+ "escolaridade": "Superior"
+}

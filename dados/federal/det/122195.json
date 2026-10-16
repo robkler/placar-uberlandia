@@ -1,0 +1,40 @@
+{
+ "id": 122195,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/122195",
+ "nomeCivil": "LEONARDO DE MELO GADELHA",
+ "ultimoStatus": {
+  "id": 122195,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/122195",
+  "nome": "Leonardo Gadelha",
+  "siglaPartido": "PODE",
+  "uriPartido": null,
+  "siglaUf": "PB",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/122195.jpg",
+  "email": null,
+  "data": "2026-07-09",
+  "nomeEleitoral": "Leonardo Gadelha",
+  "gabinete": {
+   "nome": "610",
+   "predio": "4",
+   "sala": "610",
+   "andar": "6",
+   "telefone": "3215-5610",
+   "email": "dep.leonardogadelha@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Suplente",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://www.facebook.com/leonardogadelhapb",
+  "https://www.instagram.com/leonardogadelhapb"
+ ],
+ "dataNascimento": "1975-05-12",
+ "dataFalecimento": null,
+ "ufNascimento": "DF",
+ "municipioNascimento": "Brasília",
+ "escolaridade": "Mestrado"
+}

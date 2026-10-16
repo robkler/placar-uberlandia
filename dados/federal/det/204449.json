@@ -1,0 +1,41 @@
+{
+ "id": 204449,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204449",
+ "nomeCivil": "NELSON NED PREVIDENTE",
+ "ultimoStatus": {
+  "id": 204449,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204449",
+  "nome": "Nelson Barbudo",
+  "siglaPartido": "PODE",
+  "uriPartido": null,
+  "siglaUf": "MT",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204449.jpg",
+  "email": null,
+  "data": "2024-05-21",
+  "nomeEleitoral": "Nelson Barbudo",
+  "gabinete": {
+   "nome": "739",
+   "predio": "4",
+   "sala": "739",
+   "andar": "7",
+   "telefone": "3215-5739",
+   "email": "dep.nelsonbarbudo@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Efetivado",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://www.facebook.com/onelsonbarbudo",
+  "https://www.instagram.com/nelsonbarbudo",
+  "https://youtube.com/channel/UC2wzaVfyw_DJ7Dw8vMqNoCw"
+ ],
+ "dataNascimento": "1960-02-14",
+ "dataFalecimento": null,
+ "ufNascimento": "SP",
+ "municipioNascimento": "Poloni",
+ "escolaridade": "Ensino Médio"
+}

@@ -1,0 +1,37 @@
+{
+ "id": 204407,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204407",
+ "nomeCivil": "FERNANDA MELCHIONNA E SILVA",
+ "ultimoStatus": {
+  "id": 204407,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204407",
+  "nome": "Fernanda Melchionna",
+  "siglaPartido": "PSOL",
+  "uriPartido": null,
+  "siglaUf": "RS",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204407.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Fernanda Melchionna",
+  "gabinete": {
+   "nome": "621",
+   "predio": "4",
+   "sala": "621",
+   "andar": "6",
+   "telefone": "3215-5621",
+   "email": "dep.fernandamelchionna@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "F",
+ "urlWebsite": null,
+ "redeSocial": [],
+ "dataNascimento": "1984-02-02",
+ "dataFalecimento": null,
+ "ufNascimento": "RS",
+ "municipioNascimento": "Alegrete",
+ "escolaridade": "Superior"
+}

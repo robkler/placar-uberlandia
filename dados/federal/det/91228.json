@@ -1,0 +1,41 @@
+{
+ "id": 91228,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/91228",
+ "nomeCivil": "WALDEMAR DE ANDRADA IGNÁCIO DE OLIVEIRA",
+ "ultimoStatus": {
+  "id": 91228,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/91228",
+  "nome": "Waldemar Oliveira",
+  "siglaPartido": "AVANTE",
+  "uriPartido": null,
+  "siglaUf": "PE",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/91228.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Waldemar Oliveira",
+  "gabinete": {
+   "nome": "225",
+   "predio": "4",
+   "sala": "225",
+   "andar": "2",
+   "telefone": "3215-5225",
+   "email": "dep.waldemaroliveira@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/waldemarolivei",
+  "https://www.facebook.com/waldemaroliveiraoficial",
+  "https://www.instagram.com/waldemaroliveiraoficial"
+ ],
+ "dataNascimento": "1972-11-29",
+ "dataFalecimento": null,
+ "ufNascimento": "PE",
+ "municipioNascimento": "Recife",
+ "escolaridade": "Superior"
+}

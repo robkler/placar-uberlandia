@@ -1,0 +1,40 @@
+{
+ "id": 204504,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204504",
+ "nomeCivil": "ANTONIO CEZAR CORREIA FREIRE",
+ "ultimoStatus": {
+  "id": 204504,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204504",
+  "nome": "Cezinha de Madureira",
+  "siglaPartido": "PL",
+  "uriPartido": null,
+  "siglaUf": "SP",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204504.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Cezinha de Madureira",
+  "gabinete": {
+   "nome": "533",
+   "predio": "4",
+   "sala": "533",
+   "andar": "5",
+   "telefone": "3215-5533",
+   "email": "dep.cezinhademadureira@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://www.facebook.com/cezinhademadureira",
+  "https://www.instagram.com/cezinhademadureira"
+ ],
+ "dataNascimento": "1973-12-12",
+ "dataFalecimento": null,
+ "ufNascimento": "BA",
+ "municipioNascimento": "Ipiaú",
+ "escolaridade": "Superior"
+}

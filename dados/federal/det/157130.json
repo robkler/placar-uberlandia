@@ -1,0 +1,41 @@
+{
+ "id": 157130,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/157130",
+ "nomeCivil": "TÚLIO GADÊLHA SALES DE MELO",
+ "ultimoStatus": {
+  "id": 157130,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/157130",
+  "nome": "Túlio Gadêlha",
+  "siglaPartido": "PSD",
+  "uriPartido": null,
+  "siglaUf": "PE",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/157130.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Túlio Gadêlha",
+  "gabinete": {
+   "nome": "360",
+   "predio": "4",
+   "sala": "360",
+   "andar": "3",
+   "telefone": "3215-5360",
+   "email": "dep.tuliogadelha@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/tuliogadelha",
+  "https://www.facebook.com/TulioGadelhaOficial",
+  "https://www.instagram.com/tulio.gadelha"
+ ],
+ "dataNascimento": "1987-11-12",
+ "dataFalecimento": null,
+ "ufNascimento": "PE",
+ "municipioNascimento": "Recife",
+ "escolaridade": "Superior"
+}

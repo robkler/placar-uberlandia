@@ -1,0 +1,37 @@
+{
+ "id": 74262,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74262",
+ "nomeCivil": "CARLOS HENRIQUE FOCESI SAMPAIO",
+ "ultimoStatus": {
+  "id": 74262,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74262",
+  "nome": "Carlos Sampaio",
+  "siglaPartido": "PSD",
+  "uriPartido": null,
+  "siglaUf": "SP",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74262.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Carlos Sampaio",
+  "gabinete": {
+   "nome": "207",
+   "predio": "4",
+   "sala": "207",
+   "andar": "2",
+   "telefone": "3215-5207",
+   "email": "dep.carlossampaio@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [],
+ "dataNascimento": "1963-03-31",
+ "dataFalecimento": null,
+ "ufNascimento": "SP",
+ "municipioNascimento": "Campinas",
+ "escolaridade": "Superior"
+}

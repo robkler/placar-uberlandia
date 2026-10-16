@@ -1,0 +1,41 @@
+{
+ "id": 109429,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/109429",
+ "nomeCivil": "LUIZ BENES LEOCADIO DE ARAUJO",
+ "ultimoStatus": {
+  "id": 109429,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/109429",
+  "nome": "Benes Leocádio",
+  "siglaPartido": "UNIÃO",
+  "uriPartido": null,
+  "siglaUf": "RN",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/109429.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Benes Leocádio",
+  "gabinete": {
+   "nome": "724",
+   "predio": "4",
+   "sala": "724",
+   "andar": "7",
+   "telefone": "3215-5724",
+   "email": "dep.benesleocadio@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/benesleocadiorn",
+  "https://www.facebook.com/BenesLeocadioRN",
+  "https://www.instagram.com/benesleocadiorn"
+ ],
+ "dataNascimento": "1966-04-22",
+ "dataFalecimento": null,
+ "ufNascimento": "RN",
+ "municipioNascimento": "Santana do Matos",
+ "escolaridade": "Superior"
+}

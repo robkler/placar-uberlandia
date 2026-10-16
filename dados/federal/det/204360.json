@@ -1,0 +1,37 @@
+{
+ "id": 204360,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204360",
+ "nomeCivil": "SILVIA CRISTINA AMANCIO CHAGAS",
+ "ultimoStatus": {
+  "id": 204360,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204360",
+  "nome": "Silvia Cristina",
+  "siglaPartido": "PP",
+  "uriPartido": null,
+  "siglaUf": "RO",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204360.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Silvia Cristina",
+  "gabinete": {
+   "nome": "524",
+   "predio": "4",
+   "sala": "524",
+   "andar": "5",
+   "telefone": "3215-5524",
+   "email": "dep.silviacristina@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "F",
+ "urlWebsite": null,
+ "redeSocial": [],
+ "dataNascimento": "1974-01-15",
+ "dataFalecimento": null,
+ "ufNascimento": "ES",
+ "municipioNascimento": "Linhares",
+ "escolaridade": "Superior"
+}

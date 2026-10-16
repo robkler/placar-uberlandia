@@ -1,0 +1,42 @@
+{
+ "id": 220528,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220528",
+ "nomeCivil": "VICTOR GAROZI LINHALIS",
+ "ultimoStatus": {
+  "id": 220528,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220528",
+  "nome": "Dr. Victor Linhalis",
+  "siglaPartido": "PSB",
+  "uriPartido": null,
+  "siglaUf": "ES",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220528.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Dr. Victor Linhalis",
+  "gabinete": {
+   "nome": "845",
+   "predio": "4",
+   "sala": "845",
+   "andar": "8",
+   "telefone": "3215-5845",
+   "email": "dep.dr.victorlinhalis@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/DepDrVictor",
+  "https://www.facebook.com/DrVictorLinhalis",
+  "https://www.instagram.com/drvictorlinhalis/",
+  "https://www.youtube.com/channel/UC9lrrW_04FxppALPdqqoUjw"
+ ],
+ "dataNascimento": "1986-01-02",
+ "dataFalecimento": null,
+ "ufNascimento": "ES",
+ "municipioNascimento": "Colatina",
+ "escolaridade": "Pós-Graduação"
+}

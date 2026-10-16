@@ -1,0 +1,42 @@
+{
+ "id": 141391,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141391",
+ "nomeCivil": "ARNALDO CALIL PEREIRA JARDIM",
+ "ultimoStatus": {
+  "id": 141391,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141391",
+  "nome": "Arnaldo Jardim",
+  "siglaPartido": "CIDADANIA",
+  "uriPartido": null,
+  "siglaUf": "SP",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/141391.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Arnaldo Jardim",
+  "gabinete": {
+   "nome": "245",
+   "predio": "4",
+   "sala": "245",
+   "andar": "2",
+   "telefone": "3215-5245",
+   "email": "dep.arnaldojardim@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/arnaldojardim",
+  "https://www.facebook.com/deputadoarnaldojardim",
+  "https://www.instagram.com/arnaldojardimoficial",
+  "https://youtube.com/channel/UCBmGmOqIcw_Dob8eq3VtjZQ"
+ ],
+ "dataNascimento": "1955-05-08",
+ "dataFalecimento": null,
+ "ufNascimento": "SP",
+ "municipioNascimento": "Altinópolis",
+ "escolaridade": "Superior"
+}

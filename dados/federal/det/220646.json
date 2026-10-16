@@ -1,0 +1,42 @@
+{
+ "id": 220646,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220646",
+ "nomeCivil": "FELIPE BECARI COMENALE",
+ "ultimoStatus": {
+  "id": 220646,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220646",
+  "nome": "Felipe Becari",
+  "siglaPartido": "PODE",
+  "uriPartido": null,
+  "siglaUf": "SP",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220646.jpg",
+  "email": null,
+  "data": "2025-01-02",
+  "nomeEleitoral": "Felipe Becari",
+  "gabinete": {
+   "nome": "978",
+   "predio": "3",
+   "sala": "978",
+   "andar": null,
+   "telefone": "3215-5978",
+   "email": "dep.felipebecari@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": ""
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/felipebecari",
+  "https://www.facebook.com/felipebecarisp",
+  "https://www.instagram.com/felipebecari",
+  "https://youtube.com/channel"
+ ],
+ "dataNascimento": "1987-03-06",
+ "dataFalecimento": null,
+ "ufNascimento": "SP",
+ "municipioNascimento": "São Paulo",
+ "escolaridade": "Superior"
+}

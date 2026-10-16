@@ -1,0 +1,42 @@
+{
+ "id": 204536,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204536",
+ "nomeCivil": "KIM PATROCA KATAGUIRI",
+ "ultimoStatus": {
+  "id": 204536,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204536",
+  "nome": "Kim Kataguiri",
+  "siglaPartido": "MISSÃO",
+  "uriPartido": null,
+  "siglaUf": "SP",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204536.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Kim Kataguiri",
+  "gabinete": {
+   "nome": "744",
+   "predio": "4",
+   "sala": "744",
+   "andar": "7",
+   "telefone": "3215-5744",
+   "email": "dep.kimkataguiri@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/kimkataguiri",
+  "https://www.facebook.com/Kim-Kataguiri-833053646745836",
+  "https://www.instagram.com/kimkataguiri",
+  "https://youtube.com/kimkataguiri"
+ ],
+ "dataNascimento": "1996-01-28",
+ "dataFalecimento": null,
+ "ufNascimento": "SP",
+ "municipioNascimento": "Salto",
+ "escolaridade": "Superior Incompleto"
+}

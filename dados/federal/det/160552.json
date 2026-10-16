@@ -1,0 +1,37 @@
+{
+ "id": 160552,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160552",
+ "nomeCivil": "DANRLEI DE DEUS HINTERHOLZ",
+ "ultimoStatus": {
+  "id": 160552,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160552",
+  "nome": "Danrlei de Deus Hinterholz",
+  "siglaPartido": "PSD",
+  "uriPartido": null,
+  "siglaUf": "RS",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160552.jpg",
+  "email": null,
+  "data": "2024-10-17",
+  "nomeEleitoral": "Danrlei de Deus Hinterholz",
+  "gabinete": {
+   "nome": "971",
+   "predio": "3",
+   "sala": "971",
+   "andar": null,
+   "telefone": "3215-5971",
+   "email": "dep.danrleidedeushinterholz@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": "Ofício s/n, de 17/10/2024, Dep Danrlei de Deus Hinterholz"
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [],
+ "dataNascimento": "1973-04-18",
+ "dataFalecimento": null,
+ "ufNascimento": "RS",
+ "municipioNascimento": "Crissiumal",
+ "escolaridade": "Ensino Médio"
+}

@@ -1,0 +1,42 @@
+{
+ "id": 220590,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220590",
+ "nomeCivil": "ULYSSES FREITAS PEREIRA DE ARAÚJO",
+ "ultimoStatus": {
+  "id": 220590,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220590",
+  "nome": "Coronel Ulysses",
+  "siglaPartido": "UNIÃO",
+  "uriPartido": null,
+  "siglaUf": "AC",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220590.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Coronel Ulysses",
+  "gabinete": {
+   "nome": "231",
+   "predio": "4",
+   "sala": "231",
+   "andar": "2",
+   "telefone": "3215-5231",
+   "email": "dep.coronelulysses@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/coronelulysses",
+  "https://www.facebook.com/coronelulysses",
+  "https://www.instagram.com/coronelulysses",
+  "https://youtube.com/coronelulysses"
+ ],
+ "dataNascimento": "1972-10-19",
+ "dataFalecimento": null,
+ "ufNascimento": "AC",
+ "municipioNascimento": "Cruzeiro do Sul",
+ "escolaridade": null
+}

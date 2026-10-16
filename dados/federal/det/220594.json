@@ -1,0 +1,42 @@
+{
+ "id": 220594,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220594",
+ "nomeCivil": "JONILDO JOSÉ DE ASSIS",
+ "ultimoStatus": {
+  "id": 220594,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220594",
+  "nome": "Coronel Assis",
+  "siglaPartido": "PL",
+  "uriPartido": null,
+  "siglaUf": "MT",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220594.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Coronel Assis",
+  "gabinete": {
+   "nome": "415",
+   "predio": "4",
+   "sala": "415",
+   "andar": "4",
+   "telefone": "3215-5415",
+   "email": "dep.coronelassis@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/coronelassismt",
+  "https://www.facebook.com/coronelassismt",
+  "https://www.instagram.com/coronelassis",
+  "https://youtube.com/coronelassis308"
+ ],
+ "dataNascimento": "1976-04-16",
+ "dataFalecimento": null,
+ "ufNascimento": "MT",
+ "municipioNascimento": "Cuiabá",
+ "escolaridade": "Superior"
+}

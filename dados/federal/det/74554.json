@@ -1,0 +1,37 @@
+{
+ "id": 74554,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74554",
+ "nomeCivil": "JOSÉ ALVES ROCHA",
+ "ultimoStatus": {
+  "id": 74554,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74554",
+  "nome": "José Rocha",
+  "siglaPartido": "UNIÃO",
+  "uriPartido": null,
+  "siglaUf": "BA",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74554.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "José Rocha",
+  "gabinete": {
+   "nome": "908",
+   "predio": "4",
+   "sala": "908",
+   "andar": "9",
+   "telefone": "3215-5908",
+   "email": "dep.joserocha@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [],
+ "dataNascimento": "1948-08-18",
+ "dataFalecimento": null,
+ "ufNascimento": "BA",
+ "municipioNascimento": "Coribe",
+ "escolaridade": "Pós-Graduação"
+}

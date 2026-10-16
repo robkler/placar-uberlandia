@@ -1,0 +1,41 @@
+{
+ "id": 220688,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220688",
+ "nomeCivil": "FRANCISCO DE ASSIS DE OLIVEIRA COSTA",
+ "ultimoStatus": {
+  "id": 220688,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220688",
+  "nome": "Dr. Francisco",
+  "siglaPartido": "PT",
+  "uriPartido": null,
+  "siglaUf": "PI",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220688.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Dr. Francisco",
+  "gabinete": {
+   "nome": "909",
+   "predio": "4",
+   "sala": "909",
+   "andar": "9",
+   "telefone": "3215-5909",
+   "email": "dep.dr.francisco@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/drfranciscopi",
+  "https://www.facebook.com/drfranciscopiaui",
+  "https://www.instagram.com/drfranciscopiaui"
+ ],
+ "dataNascimento": "1979-10-14",
+ "dataFalecimento": null,
+ "ufNascimento": "PI",
+ "municipioNascimento": "São Francisco do Piauí",
+ "escolaridade": "Pós-Graduação"
+}

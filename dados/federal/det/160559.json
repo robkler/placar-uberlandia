@@ -1,0 +1,39 @@
+{
+ "id": 160559,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160559",
+ "nomeCivil": "ALCEU MOREIRA DA SILVA",
+ "ultimoStatus": {
+  "id": 160559,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160559",
+  "nome": "Alceu Moreira",
+  "siglaPartido": "MDB",
+  "uriPartido": null,
+  "siglaUf": "RS",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160559.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Alceu Moreira",
+  "gabinete": {
+   "nome": "238",
+   "predio": "4",
+   "sala": "238",
+   "andar": "2",
+   "telefone": "3215-5238",
+   "email": "dep.alceumoreira@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "http://twitter.com/alceu_moreira"
+ ],
+ "dataNascimento": "1954-06-04",
+ "dataFalecimento": null,
+ "ufNascimento": "RS",
+ "municipioNascimento": "Osório",
+ "escolaridade": "Superior Incompleto"
+}

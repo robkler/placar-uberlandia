@@ -1,0 +1,40 @@
+{
+ "id": 220674,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220674",
+ "nomeCivil": "ALESSANDRA HABER CARVALHO SANTOS",
+ "ultimoStatus": {
+  "id": 220674,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220674",
+  "nome": "Dra. Alessandra Haber",
+  "siglaPartido": "PODE",
+  "uriPartido": null,
+  "siglaUf": "PA",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220674.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Dra. Alessandra Haber",
+  "gabinete": {
+   "nome": "432",
+   "predio": "4",
+   "sala": "432",
+   "andar": "4",
+   "telefone": "3215-5432",
+   "email": "dep.dra.alessandrahaber@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "F",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://www.facebook.com/draalessandrahaber",
+  "https://www.instagram.com/draalessandrahaber"
+ ],
+ "dataNascimento": "1988-09-15",
+ "dataFalecimento": null,
+ "ufNascimento": "PA",
+ "municipioNascimento": "Belém",
+ "escolaridade": "Superior"
+}

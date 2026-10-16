@@ -1,0 +1,42 @@
+{
+ "id": 220615,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220615",
+ "nomeCivil": "HENRIQUE DOS SANTOS VIEIRA LIMA",
+ "ultimoStatus": {
+  "id": 220615,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220615",
+  "nome": "Pastor Henrique Vieira",
+  "siglaPartido": "PSOL",
+  "uriPartido": null,
+  "siglaUf": "RJ",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220615.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Pastor Henrique Vieira",
+  "gabinete": {
+   "nome": "882",
+   "predio": "3",
+   "sala": "882",
+   "andar": null,
+   "telefone": "3215-5882",
+   "email": "dep.pastorhenriquevieira@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/pastorhenriquev",
+  "https://www.facebook.com/pastorhenriquevieira",
+  "https://www.instagram.com/pastorhenriquevieira",
+  "https://youtube.com/PastorHenriqueVieira"
+ ],
+ "dataNascimento": "1987-04-15",
+ "dataFalecimento": null,
+ "ufNascimento": "RJ",
+ "municipioNascimento": "Niterói",
+ "escolaridade": "Mestrado Incompleto"
+}

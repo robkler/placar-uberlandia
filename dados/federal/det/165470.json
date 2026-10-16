@@ -1,0 +1,42 @@
+{
+ "id": 165470,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/165470",
+ "nomeCivil": "RODRIGO SANTANA VALADARES",
+ "ultimoStatus": {
+  "id": 165470,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/165470",
+  "nome": "Rodrigo Valadares",
+  "siglaPartido": "PL",
+  "uriPartido": null,
+  "siglaUf": "SE",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/165470.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Rodrigo Valadares",
+  "gabinete": {
+   "nome": "945",
+   "predio": "4",
+   "sala": "945",
+   "andar": "9",
+   "telefone": "3215-5945",
+   "email": "dep.rodrigovaladares@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/DepRodrigo_",
+  "https://www.facebook.com/DeputadoRodrigo.SE",
+  "https://www.instagram.com/rodrigovaladares_",
+  "https://youtube.com/deputadorodrigovaladares1954"
+ ],
+ "dataNascimento": "1989-08-06",
+ "dataFalecimento": null,
+ "ufNascimento": "SE",
+ "municipioNascimento": "Aracaju",
+ "escolaridade": "Superior"
+}

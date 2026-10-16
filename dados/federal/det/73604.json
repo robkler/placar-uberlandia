@@ -1,0 +1,42 @@
+{
+ "id": 73604,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/73604",
+ "nomeCivil": "RUI GOETHE DA COSTA FALCÃO",
+ "ultimoStatus": {
+  "id": 73604,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/73604",
+  "nome": "Rui Falcão",
+  "siglaPartido": "PT",
+  "uriPartido": null,
+  "siglaUf": "SP",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/73604.jpg",
+  "email": null,
+  "data": "2024-11-02",
+  "nomeEleitoral": "Rui Falcão",
+  "gabinete": {
+   "nome": "819",
+   "predio": "4",
+   "sala": "819",
+   "andar": "8",
+   "telefone": "3215-5819",
+   "email": "dep.ruifalcao@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": ""
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/rfalcao13",
+  "https://www.facebook.com/rfalcao13",
+  "https://www.instagram.com/ruifalcao13",
+  "https://youtube.com/rfalcao13"
+ ],
+ "dataNascimento": "1943-11-26",
+ "dataFalecimento": null,
+ "ufNascimento": "MG",
+ "municipioNascimento": "Pitangui",
+ "escolaridade": "Superior"
+}

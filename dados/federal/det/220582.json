@@ -1,0 +1,40 @@
+{
+ "id": 220582,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220582",
+ "nomeCivil": "DANIEL BARBOSA DE ALMEIDA SILVA",
+ "ultimoStatus": {
+  "id": 220582,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220582",
+  "nome": "Daniel Barbosa",
+  "siglaPartido": "PP",
+  "uriPartido": null,
+  "siglaUf": "AL",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220582.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Daniel Barbosa",
+  "gabinete": {
+   "nome": "352",
+   "predio": "4",
+   "sala": "352",
+   "andar": "3",
+   "telefone": "3215-5352",
+   "email": "dep.danielbarbosa@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/DanielBarbosaAL",
+  "https://www.instagram.com/daniel.barbosa.al"
+ ],
+ "dataNascimento": "1984-10-27",
+ "dataFalecimento": null,
+ "ufNascimento": "AL",
+ "municipioNascimento": "Maceió",
+ "escolaridade": "Pós-Graduação"
+}

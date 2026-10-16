@@ -1,0 +1,37 @@
+{
+ "id": 73808,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/73808",
+ "nomeCivil": "SÉRGIO LUÍS LACERDA BRITO",
+ "ultimoStatus": {
+  "id": 73808,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/73808",
+  "nome": "Sérgio Brito",
+  "siglaPartido": "PSD",
+  "uriPartido": null,
+  "siglaUf": "BA",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/73808.jpg",
+  "email": null,
+  "data": "2025-11-11",
+  "nomeEleitoral": "Sérgio Brito",
+  "gabinete": {
+   "nome": "638",
+   "predio": "4",
+   "sala": "638",
+   "andar": "6",
+   "telefone": "3215-5638",
+   "email": "dep.sergiobrito@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": ""
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [],
+ "dataNascimento": "1961-06-08",
+ "dataFalecimento": null,
+ "ufNascimento": "BA",
+ "municipioNascimento": "Vitória da Conquista",
+ "escolaridade": "Superior"
+}

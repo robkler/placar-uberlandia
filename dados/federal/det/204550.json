@@ -1,0 +1,42 @@
+{
+ "id": 204550,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204550",
+ "nomeCivil": "ANTÔNIO LUIZ RODRIGUES MANO JÚNIOR",
+ "ultimoStatus": {
+  "id": 204550,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204550",
+  "nome": "Júnior Mano",
+  "siglaPartido": "PSB",
+  "uriPartido": null,
+  "siglaUf": "CE",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204550.jpg",
+  "email": null,
+  "data": "2025-01-18",
+  "nomeEleitoral": "Júnior Mano",
+  "gabinete": {
+   "nome": "807",
+   "predio": "4",
+   "sala": "807",
+   "andar": "8",
+   "telefone": "3215-5807",
+   "email": "dep.juniormano@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": ""
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/juniormanodep",
+  "https://www.facebook.com/juniormanodep",
+  "https://www.instagram.com/juniormanodep",
+  "https://youtube.com/deputadojuniormano"
+ ],
+ "dataNascimento": "1985-04-16",
+ "dataFalecimento": null,
+ "ufNascimento": "CE",
+ "municipioNascimento": "Nova Russas",
+ "escolaridade": "Superior"
+}

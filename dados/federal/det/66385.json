@@ -1,0 +1,42 @@
+{
+ "id": 66385,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/66385",
+ "nomeCivil": "JULIO FERRAZ ARCOVERDE",
+ "ultimoStatus": {
+  "id": 66385,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/66385",
+  "nome": "Julio Arcoverde",
+  "siglaPartido": "PP",
+  "uriPartido": null,
+  "siglaUf": "PI",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/66385.jpg",
+  "email": null,
+  "data": "2026-02-04",
+  "nomeEleitoral": "Julio Arcoverde",
+  "gabinete": {
+   "nome": "729",
+   "predio": "4",
+   "sala": "729",
+   "andar": "7",
+   "telefone": "3215-5729",
+   "email": "dep.julioarcoverde@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": ""
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/julioarcoverde",
+  "https://www.facebook.com/depjulioarcoverde",
+  "https://www.instagram.com/julioarcoverde",
+  "https://youtube.com/julioarcoverde"
+ ],
+ "dataNascimento": "1966-02-14",
+ "dataFalecimento": null,
+ "ufNascimento": "PI",
+ "municipioNascimento": "Teresina",
+ "escolaridade": "Superior"
+}

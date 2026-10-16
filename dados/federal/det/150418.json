@@ -1,0 +1,42 @@
+{
+ "id": 150418,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/150418",
+ "nomeCivil": "MÁRCIO CARLOS MARINHO",
+ "ultimoStatus": {
+  "id": 150418,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/150418",
+  "nome": "Márcio Marinho",
+  "siglaPartido": "REPUBLICANOS",
+  "uriPartido": null,
+  "siglaUf": "BA",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/150418.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Márcio Marinho",
+  "gabinete": {
+   "nome": "326",
+   "predio": "4",
+   "sala": "326",
+   "andar": "3",
+   "telefone": "3215-5326",
+   "email": "dep.marciomarinho@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/dpmarciomarinho?lang=pt-br",
+  "https://www.facebook.com/deputadomarciomarinho",
+  "https://www.instagram.com/deputadomarciomarinho",
+  "https://youtube.com/channel/UCx3t_YQx8H-93UD5k9Mt1lQ"
+ ],
+ "dataNascimento": "1970-12-12",
+ "dataFalecimento": null,
+ "ufNascimento": "RJ",
+ "municipioNascimento": "Cabo Frio",
+ "escolaridade": "Superior"
+}

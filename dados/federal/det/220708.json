@@ -1,0 +1,37 @@
+{
+ "id": 220708,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220708",
+ "nomeCivil": "GABRIEL JOSE MOURA NUNES SOARES",
+ "ultimoStatus": {
+  "id": 220708,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220708",
+  "nome": "Gabriel Nunes",
+  "siglaPartido": "PSD",
+  "uriPartido": null,
+  "siglaUf": "BA",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220708.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Gabriel Nunes",
+  "gabinete": {
+   "nome": "732",
+   "predio": "4",
+   "sala": "732",
+   "andar": "7",
+   "telefone": "3215-5732",
+   "email": "dep.gabrielnunes@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [],
+ "dataNascimento": "1983-07-23",
+ "dataFalecimento": null,
+ "ufNascimento": "PE",
+ "municipioNascimento": "Recife",
+ "escolaridade": "Pós-Graduação"
+}

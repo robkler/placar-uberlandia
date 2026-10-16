@@ -1,0 +1,37 @@
+{
+ "id": 74784,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74784",
+ "nomeCivil": "LUIZA ERUNDINA DE SOUSA",
+ "ultimoStatus": {
+  "id": 74784,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74784",
+  "nome": "Luiza Erundina",
+  "siglaPartido": "PSOL",
+  "uriPartido": null,
+  "siglaUf": "SP",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74784.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Luiza Erundina",
+  "gabinete": {
+   "nome": "620",
+   "predio": "4",
+   "sala": "620",
+   "andar": "6",
+   "telefone": "3215-5620",
+   "email": "dep.luizaerundina@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "F",
+ "urlWebsite": null,
+ "redeSocial": [],
+ "dataNascimento": "1934-11-30",
+ "dataFalecimento": null,
+ "ufNascimento": "PB",
+ "municipioNascimento": "Uiraúna",
+ "escolaridade": "Mestrado"
+}

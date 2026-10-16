@@ -1,0 +1,40 @@
+{
+ "id": 220652,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220652",
+ "nomeCivil": "MARIO PALUMBO JUNIOR",
+ "ultimoStatus": {
+  "id": 220652,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220652",
+  "nome": "Delegado Palumbo",
+  "siglaPartido": "PODE",
+  "uriPartido": null,
+  "siglaUf": "SP",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220652.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Delegado Palumbo",
+  "gabinete": {
+   "nome": "192",
+   "predio": "3",
+   "sala": "192",
+   "andar": null,
+   "telefone": "3215-5192",
+   "email": "dep.delegadopalumbo@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://www.facebook.com/delegadopalumbo",
+  "https://www.instagram.com/delegadopalumbo/"
+ ],
+ "dataNascimento": "1974-08-16",
+ "dataFalecimento": null,
+ "ufNascimento": "SP",
+ "municipioNascimento": "São Paulo",
+ "escolaridade": "Superior"
+}

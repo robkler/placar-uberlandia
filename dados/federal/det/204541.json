@@ -1,0 +1,42 @@
+{
+ "id": 204541,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204541",
+ "nomeCivil": "EDUARDO HENRIQUE MAIA BISMARCK",
+ "ultimoStatus": {
+  "id": 204541,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204541",
+  "nome": "Eduardo Bismarck",
+  "siglaPartido": "PV",
+  "uriPartido": null,
+  "siglaUf": "CE",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204541.jpg",
+  "email": null,
+  "data": "2026-04-01",
+  "nomeEleitoral": "Eduardo Bismarck",
+  "gabinete": {
+   "nome": "936",
+   "predio": "4",
+   "sala": "936",
+   "andar": "9",
+   "telefone": "3215-5936",
+   "email": "dep.eduardobismarck@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": ""
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/eduardobismarck",
+  "https://www.facebook.com/eduardobismarckce",
+  "https://www.instagram.com/eduardobismarckce",
+  "https://youtube.com/EduardoBismarckCE"
+ ],
+ "dataNascimento": "1981-11-14",
+ "dataFalecimento": null,
+ "ufNascimento": "CE",
+ "municipioNascimento": "Fortaleza",
+ "escolaridade": "Superior"
+}

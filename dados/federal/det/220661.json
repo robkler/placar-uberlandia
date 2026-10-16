@@ -1,0 +1,37 @@
+{
+ "id": 220661,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220661",
+ "nomeCivil": "MATHEUS SOARES NORONHA",
+ "ultimoStatus": {
+  "id": 220661,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220661",
+  "nome": "Matheus Noronha",
+  "siglaPartido": "PL",
+  "uriPartido": null,
+  "siglaUf": "CE",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220661.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Matheus Noronha",
+  "gabinete": {
+   "nome": "244",
+   "predio": "4",
+   "sala": "244",
+   "andar": "2",
+   "telefone": "3215-5244",
+   "email": "dep.matheusnoronha@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [],
+ "dataNascimento": "1998-09-10",
+ "dataFalecimento": null,
+ "ufNascimento": "PA",
+ "municipioNascimento": "Castanhal",
+ "escolaridade": "Superior Incompleto"
+}

@@ -1,0 +1,37 @@
+{
+ "id": 141431,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141431",
+ "nomeCivil": "FERNANDO BEZERRA DE SOUZA COELHO FILHO",
+ "ultimoStatus": {
+  "id": 141431,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141431",
+  "nome": "Fernando Coelho Filho",
+  "siglaPartido": "UNIÃO",
+  "uriPartido": null,
+  "siglaUf": "PE",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/141431.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Fernando Coelho Filho",
+  "gabinete": {
+   "nome": "662",
+   "predio": "4",
+   "sala": "662",
+   "andar": "6",
+   "telefone": "3215-5662",
+   "email": "dep.fernandocoelhofilho@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [],
+ "dataNascimento": "1984-02-28",
+ "dataFalecimento": null,
+ "ufNascimento": "PE",
+ "municipioNascimento": "Recife",
+ "escolaridade": "Superior"
+}

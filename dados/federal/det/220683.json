@@ -1,0 +1,42 @@
+{
+ "id": 220683,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220683",
+ "nomeCivil": "CARLOS ALBERTO RICHA",
+ "ultimoStatus": {
+  "id": 220683,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220683",
+  "nome": "Beto Richa",
+  "siglaPartido": "PSDB",
+  "uriPartido": null,
+  "siglaUf": "PR",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220683.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Beto Richa",
+  "gabinete": {
+   "nome": "521",
+   "predio": "4",
+   "sala": "521",
+   "andar": "5",
+   "telefone": "3215-5521",
+   "email": "dep.betoricha@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://pt-br.facebook.com/BetoRichaOficial",
+  "https://twitter.com/BetoRicha",
+  "https://www.instagram.com/betoricha/",
+  "https://www.youtube.com/channel/UC11K_Oia5ib5Zknm87oG1FQ"
+ ],
+ "dataNascimento": "1965-07-29",
+ "dataFalecimento": null,
+ "ufNascimento": "PR",
+ "municipioNascimento": "Londrina",
+ "escolaridade": "Superior"
+}

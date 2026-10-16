@@ -1,0 +1,42 @@
+{
+ "id": 74317,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74317",
+ "nomeCivil": "JÚLIO CÉSAR DE CARVALHO LIMA",
+ "ultimoStatus": {
+  "id": 74317,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74317",
+  "nome": "Júlio Cesar",
+  "siglaPartido": "PSD",
+  "uriPartido": null,
+  "siglaUf": "PI",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74317.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Júlio Cesar",
+  "gabinete": {
+   "nome": "944",
+   "predio": "4",
+   "sala": "944",
+   "andar": "9",
+   "telefone": "3215-5944",
+   "email": "dep.juliocesar@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/depjuliocesarPI",
+  "https://www.facebook.com/depjuliocesar",
+  "https://www.instagram.com/deputadojuliocesar",
+  "https://youtube.com/deputadojuliocesarpi"
+ ],
+ "dataNascimento": "1948-08-25",
+ "dataFalecimento": null,
+ "ufNascimento": "PI",
+ "municipioNascimento": "Guadalupe",
+ "escolaridade": "Superior"
+}

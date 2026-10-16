@@ -1,0 +1,37 @@
+{
+ "id": 74060,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74060",
+ "nomeCivil": "DANIEL GOMES DE ALMEIDA",
+ "ultimoStatus": {
+  "id": 74060,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74060",
+  "nome": "Daniel Almeida",
+  "siglaPartido": "PCdoB",
+  "uriPartido": null,
+  "siglaUf": "BA",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74060.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Daniel Almeida",
+  "gabinete": {
+   "nome": "317",
+   "predio": "4",
+   "sala": "317",
+   "andar": "3",
+   "telefone": "3215-5317",
+   "email": "dep.danielalmeida@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [],
+ "dataNascimento": "1955-01-21",
+ "dataFalecimento": null,
+ "ufNascimento": "BA",
+ "municipioNascimento": "Mairi",
+ "escolaridade": "Superior"
+}

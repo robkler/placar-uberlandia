@@ -1,0 +1,41 @@
+{
+ "id": 178937,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178937",
+ "nomeCivil": "ALTINEU CÔRTES FREITAS COUTINHO",
+ "ultimoStatus": {
+  "id": 178937,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178937",
+  "nome": "Altineu Côrtes",
+  "siglaPartido": "PL",
+  "uriPartido": null,
+  "siglaUf": "RJ",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178937.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Altineu Côrtes",
+  "gabinete": {
+   "nome": "336",
+   "predio": "4",
+   "sala": "336",
+   "andar": "3",
+   "telefone": "3215-5336",
+   "email": "dep.altineucortes@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/altineu",
+  "https://www.facebook.com/altineucortesrj",
+  "https://www.instagram.com/altineucortesrj"
+ ],
+ "dataNascimento": "1968-09-13",
+ "dataFalecimento": null,
+ "ufNascimento": "RJ",
+ "municipioNascimento": "Niterói",
+ "escolaridade": "Superior"
+}

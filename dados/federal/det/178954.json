@@ -1,0 +1,41 @@
+{
+ "id": 178954,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178954",
+ "nomeCivil": "LUCIO ANTONIO MOSQUINI",
+ "ultimoStatus": {
+  "id": 178954,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178954",
+  "nome": "Lucio Mosquini",
+  "siglaPartido": "PL",
+  "uriPartido": null,
+  "siglaUf": "RO",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178954.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Lucio Mosquini",
+  "gabinete": {
+   "nome": "918",
+   "predio": "4",
+   "sala": "918",
+   "andar": "9",
+   "telefone": "3215-5918",
+   "email": "dep.luciomosquini@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://www.facebook.com/deputadoluciomosquini",
+  "https://www.instagram.com/luciomosquini",
+  "https://youtube.com/lucioantoniomosquinimosqui7885"
+ ],
+ "dataNascimento": "1969-07-23",
+ "dataFalecimento": null,
+ "ufNascimento": "MT",
+ "municipioNascimento": "Rondonópolis",
+ "escolaridade": "Pós-Graduação"
+}

@@ -1,0 +1,42 @@
+{
+ "id": 74084,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74084",
+ "nomeCivil": "RAIMUNDO JOSÉ PEREIRA DOS SANTOS",
+ "ultimoStatus": {
+  "id": 74084,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74084",
+  "nome": "Raimundo Santos",
+  "siglaPartido": "PSD",
+  "uriPartido": null,
+  "siglaUf": "PA",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74084.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Raimundo Santos",
+  "gabinete": {
+   "nome": "787",
+   "predio": "3",
+   "sala": "787",
+   "andar": null,
+   "telefone": "3215-5787",
+   "email": "dep.raimundosantos@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/deprsantos",
+  "https://www.facebook.com/raimundosantosdep",
+  "https://www.instagram.com/depraimundosantos/",
+  "https://youtube.com/channel/UCDl2RREU083fkW3AR1PC3OQ"
+ ],
+ "dataNascimento": "1955-10-10",
+ "dataFalecimento": null,
+ "ufNascimento": "PA",
+ "municipioNascimento": "Santarém",
+ "escolaridade": "Superior"
+}

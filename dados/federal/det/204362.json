@@ -1,0 +1,41 @@
+{
+ "id": 204362,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204362",
+ "nomeCivil": "RICARDO ZANATTA GUIDI",
+ "ultimoStatus": {
+  "id": 204362,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204362",
+  "nome": "Ricardo Guidi",
+  "siglaPartido": "PL",
+  "uriPartido": null,
+  "siglaUf": "SC",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204362.jpg",
+  "email": null,
+  "data": "2024-11-02",
+  "nomeEleitoral": "Ricardo Guidi",
+  "gabinete": {
+   "nome": "407",
+   "predio": "4",
+   "sala": "407",
+   "andar": "4",
+   "telefone": "3215-5407",
+   "email": "dep.ricardoguidi@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": ""
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/ricardozguidi",
+  "https://www.facebook.com/deputadoricardoguidi",
+  "https://www.instagram.com/ricardozguidi"
+ ],
+ "dataNascimento": "1977-09-28",
+ "dataFalecimento": null,
+ "ufNascimento": "SC",
+ "municipioNascimento": "Criciúma",
+ "escolaridade": "Pós-Graduação"
+}

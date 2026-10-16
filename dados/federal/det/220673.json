@@ -1,0 +1,42 @@
+{
+ "id": 220673,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220673",
+ "nomeCivil": "LENILDO MENDES DOS SANTOS SERTÃO",
+ "ultimoStatus": {
+  "id": 220673,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220673",
+  "nome": "Delegado Caveira",
+  "siglaPartido": "PL",
+  "uriPartido": null,
+  "siglaUf": "PA",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220673.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Delegado Caveira",
+  "gabinete": {
+   "nome": "775",
+   "predio": "3",
+   "sala": "775",
+   "andar": null,
+   "telefone": "3215-5775",
+   "email": "dep.delegadocaveira@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/delegadocaveira",
+  "https://www.facebook.com/delegadocaveira",
+  "https://www.instagram.com/delegadocaveira",
+  "https://youtube.com/delegadocaveira"
+ ],
+ "dataNascimento": "1979-04-27",
+ "dataFalecimento": null,
+ "ufNascimento": "GO",
+ "municipioNascimento": "Rio Verde",
+ "escolaridade": "Superior"
+}

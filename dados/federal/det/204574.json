@@ -1,0 +1,39 @@
+{
+ "id": 204574,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204574",
+ "nomeCivil": "JOSE LOURENÇO BOMFIM JUNIOR",
+ "ultimoStatus": {
+  "id": 204574,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204574",
+  "nome": "Junior Lourenço",
+  "siglaPartido": "MDB",
+  "uriPartido": null,
+  "siglaUf": "MA",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204574.jpg",
+  "email": null,
+  "data": "2024-04-04",
+  "nomeEleitoral": "Junior Lourenço",
+  "gabinete": {
+   "nome": "513",
+   "predio": "4",
+   "sala": "513",
+   "andar": "5",
+   "telefone": "3215-5513",
+   "email": "dep.juniorlourenco@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": ""
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://www.instagram.com/juniorlourenco2200"
+ ],
+ "dataNascimento": "1978-10-18",
+ "dataFalecimento": null,
+ "ufNascimento": "MA",
+ "municipioNascimento": "São Luís",
+ "escolaridade": "Superior"
+}

@@ -1,0 +1,41 @@
+{
+ "id": 220595,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220595",
+ "nomeCivil": "RUBIA FERNANDA DINIZ ROBSON SANTOS DE SIQUEIRA",
+ "ultimoStatus": {
+  "id": 220595,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220595",
+  "nome": "Coronel Fernanda",
+  "siglaPartido": "PL",
+  "uriPartido": null,
+  "siglaUf": "MT",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220595.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Coronel Fernanda",
+  "gabinete": {
+   "nome": "242",
+   "predio": "4",
+   "sala": "242",
+   "andar": "2",
+   "telefone": "3215-5242",
+   "email": "dep.coronelfernanda@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "F",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/coronelfernand9",
+  "https://www.facebook.com/coronelfernandamt",
+  "https://www.instagram.com/coronelfernandamt"
+ ],
+ "dataNascimento": "1974-11-13",
+ "dataFalecimento": null,
+ "ufNascimento": "MT",
+ "municipioNascimento": "Cuiabá",
+ "escolaridade": "Superior"
+}

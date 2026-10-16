@@ -1,0 +1,40 @@
+{
+ "id": 220645,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220645",
+ "nomeCivil": "ERIKA SANTOS SILVA",
+ "ultimoStatus": {
+  "id": 220645,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220645",
+  "nome": "Erika Hilton",
+  "siglaPartido": "PSOL",
+  "uriPartido": null,
+  "siglaUf": "SP",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220645.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Erika Hilton",
+  "gabinete": {
+   "nome": "636",
+   "predio": "4",
+   "sala": "636",
+   "andar": "6",
+   "telefone": "3215-5636",
+   "email": "dep.erikahilton@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "F",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/erikakhilton",
+  "https://www.instagram.com/hilton_erika"
+ ],
+ "dataNascimento": "1992-12-09",
+ "dataFalecimento": null,
+ "ufNascimento": "SP",
+ "municipioNascimento": "Franco da Rocha",
+ "escolaridade": "Superior"
+}

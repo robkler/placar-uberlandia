@@ -1,0 +1,41 @@
+{
+ "id": 73433,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/73433",
+ "nomeCivil": "ARLINDO CHIGNALIA JUNIOR",
+ "ultimoStatus": {
+  "id": 73433,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/73433",
+  "nome": "Arlindo Chinaglia",
+  "siglaPartido": "PT",
+  "uriPartido": null,
+  "siglaUf": "SP",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/73433.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Arlindo Chinaglia",
+  "gabinete": {
+   "nome": "4",
+   "predio": "x",
+   "sala": "4",
+   "andar": null,
+   "telefone": "3215-5966",
+   "email": "dep.arlindochinaglia@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/achinaglia",
+  "https://www.facebook.com/depchinaglia",
+  "https://www.instagram.com/depchinaglia"
+ ],
+ "dataNascimento": "1949-12-24",
+ "dataFalecimento": null,
+ "ufNascimento": "SP",
+ "municipioNascimento": "Serra Azul",
+ "escolaridade": "Pós-Graduação"
+}

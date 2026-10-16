@@ -1,0 +1,42 @@
+{
+ "id": 220565,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220565",
+ "nomeCivil": "ADRIANA SAUTHIER ACCORSI",
+ "ultimoStatus": {
+  "id": 220565,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220565",
+  "nome": "Delegada Adriana Accorsi",
+  "siglaPartido": "PT",
+  "uriPartido": null,
+  "siglaUf": "GO",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220565.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Delegada Adriana Accorsi",
+  "gabinete": {
+   "nome": "740",
+   "predio": "4",
+   "sala": "740",
+   "andar": "7",
+   "telefone": "3215-5740",
+   "email": "dep.delegadaadrianaaccorsi@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "F",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/Adriana_Accorsi",
+  "https://www.facebook.com/delegadaadrianaaccorsi",
+  "https://www.instagram.com/adriana_accorsi/",
+  "https://www.youtube.com/channel/UCka3DO1hTh69qpZm27yjlmg"
+ ],
+ "dataNascimento": "1973-03-17",
+ "dataFalecimento": null,
+ "ufNascimento": "GO",
+ "municipioNascimento": "Itapuranga",
+ "escolaridade": "Superior"
+}

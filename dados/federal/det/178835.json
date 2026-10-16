@@ -1,0 +1,37 @@
+{
+ "id": 178835,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178835",
+ "nomeCivil": "AFONSO ANTUNES DA MOTTA",
+ "ultimoStatus": {
+  "id": 178835,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178835",
+  "nome": "Afonso Motta",
+  "siglaPartido": "PDT",
+  "uriPartido": null,
+  "siglaUf": "RS",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178835.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Afonso Motta",
+  "gabinete": {
+   "nome": "528",
+   "predio": "4",
+   "sala": "528",
+   "andar": "5",
+   "telefone": "3215-5528",
+   "email": "dep.afonsomotta@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [],
+ "dataNascimento": "1950-01-08",
+ "dataFalecimento": null,
+ "ufNascimento": "RS",
+ "municipioNascimento": "Porto Alegre",
+ "escolaridade": "Superior"
+}

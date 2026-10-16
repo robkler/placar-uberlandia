@@ -1,0 +1,42 @@
+{
+ "id": 204426,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204426",
+ "nomeCivil": "JOSÉ CARLOS VERAS DOS SANTOS",
+ "ultimoStatus": {
+  "id": 204426,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204426",
+  "nome": "Carlos Veras",
+  "siglaPartido": "PT",
+  "uriPartido": null,
+  "siglaUf": "PE",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204426.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Carlos Veras",
+  "gabinete": {
+   "nome": "870",
+   "predio": "3",
+   "sala": "870",
+   "andar": null,
+   "telefone": "3215-5870",
+   "email": "dep.carlosveras@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/carlosveraspt",
+  "https://www.facebook.com/deputadocarlosveras",
+  "https://www.instagram.com/carlosverass",
+  "https://youtube.com/channel/UC93PwCF8EVN4RYG-h2OpJLw"
+ ],
+ "dataNascimento": "1981-08-10",
+ "dataFalecimento": null,
+ "ufNascimento": "PE",
+ "municipioNascimento": "Tabira",
+ "escolaridade": "Superior"
+}

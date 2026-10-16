@@ -1,0 +1,40 @@
+{
+ "id": 139285,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/139285",
+ "nomeCivil": "LÍDICE DA MATA E SOUZA",
+ "ultimoStatus": {
+  "id": 139285,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/139285",
+  "nome": "Lídice da Mata",
+  "siglaPartido": "PSB",
+  "uriPartido": null,
+  "siglaUf": "BA",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/139285.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Lídice da Mata",
+  "gabinete": {
+   "nome": "913",
+   "predio": "4",
+   "sala": "913",
+   "andar": "9",
+   "telefone": "3215-5913",
+   "email": "dep.lidicedamata@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "F",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/lidicedamata",
+  "https://www.instagram.com/lidicedamata"
+ ],
+ "dataNascimento": "1956-03-12",
+ "dataFalecimento": null,
+ "ufNascimento": "BA",
+ "municipioNascimento": "Cachoeira",
+ "escolaridade": "Superior"
+}

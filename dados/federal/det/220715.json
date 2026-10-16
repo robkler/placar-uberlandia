@@ -1,0 +1,42 @@
+{
+ "id": 220715,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220715",
+ "nomeCivil": "AMOM MANDEL LINS FILHO",
+ "ultimoStatus": {
+  "id": 220715,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220715",
+  "nome": "Amom Mandel",
+  "siglaPartido": "REPUBLICANOS",
+  "uriPartido": null,
+  "siglaUf": "AM",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220715.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Amom Mandel",
+  "gabinete": {
+   "nome": "760",
+   "predio": "4",
+   "sala": "760",
+   "andar": "7",
+   "telefone": "3215-5760",
+   "email": "dep.amommandel@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/eusouamom",
+  "https://www.facebook.com/eusouamom",
+  "https://www.instagram.com/eusouamom",
+  "https://youtube.com/channel/UCwPEeCb9CuIqhqpUoGvGpvA"
+ ],
+ "dataNascimento": "2001-01-02",
+ "dataFalecimento": null,
+ "ufNascimento": "PE",
+ "municipioNascimento": "Recife",
+ "escolaridade": "Mestrado Incompleto"
+}

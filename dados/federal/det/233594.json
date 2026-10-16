@@ -1,0 +1,37 @@
+{
+ "id": 233594,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/233594",
+ "nomeCivil": "RAFAEL BENTO PEREIRA",
+ "ultimoStatus": {
+  "id": 233594,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/233594",
+  "nome": "Rafael Fera",
+  "siglaPartido": "PODE",
+  "uriPartido": null,
+  "siglaUf": "RO",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/233594.jpg",
+  "email": null,
+  "data": "2025-07-31",
+  "nomeEleitoral": "Rafael Fera",
+  "gabinete": {
+   "nome": "333",
+   "predio": "4",
+   "sala": "333",
+   "andar": "3",
+   "telefone": "3215-5333",
+   "email": "dep.rafaelfera@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [],
+ "dataNascimento": "1990-02-06",
+ "dataFalecimento": null,
+ "ufNascimento": "RO",
+ "municipioNascimento": "Ariquemes",
+ "escolaridade": null
+}

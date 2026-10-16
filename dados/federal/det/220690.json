@@ -1,0 +1,40 @@
+{
+ "id": 220690,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220690",
+ "nomeCivil": "ALDEN JOSE LAZARO DA SILVA",
+ "ultimoStatus": {
+  "id": 220690,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220690",
+  "nome": "Capitão Alden",
+  "siglaPartido": "PL",
+  "uriPartido": null,
+  "siglaUf": "BA",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220690.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Capitão Alden",
+  "gabinete": {
+   "nome": "977",
+   "predio": "3",
+   "sala": "977",
+   "andar": null,
+   "telefone": "3215-5977",
+   "email": "dep.capitaoalden@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/https:",
+  "https://www.facebook.com/deputadocapitaoalden"
+ ],
+ "dataNascimento": "1980-04-19",
+ "dataFalecimento": null,
+ "ufNascimento": "BA",
+ "municipioNascimento": "Salvador",
+ "escolaridade": "Superior"
+}

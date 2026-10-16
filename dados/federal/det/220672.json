@@ -1,0 +1,37 @@
+{
+ "id": 220672,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220672",
+ "nomeCivil": "HENDERSON LIRA PINTO",
+ "ultimoStatus": {
+  "id": 220672,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220672",
+  "nome": "Henderson Pinto",
+  "siglaPartido": "UNIÃO",
+  "uriPartido": null,
+  "siglaUf": "PA",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220672.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Henderson Pinto",
+  "gabinete": {
+   "nome": "625",
+   "predio": "4",
+   "sala": "625",
+   "andar": "6",
+   "telefone": "3215-5625",
+   "email": "dep.hendersonpinto@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [],
+ "dataNascimento": "1976-04-25",
+ "dataFalecimento": null,
+ "ufNascimento": "PA",
+ "municipioNascimento": "Santarém",
+ "escolaridade": "Superior Incompleto"
+}

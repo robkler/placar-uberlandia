@@ -1,0 +1,40 @@
+{
+ "id": 226075,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/226075",
+ "nomeCivil": "PRISCILA BEZERRA DA COSTA",
+ "ultimoStatus": {
+  "id": 226075,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/226075",
+  "nome": "Priscila Costa",
+  "siglaPartido": "PL",
+  "uriPartido": null,
+  "siglaUf": "CE",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/226075.jpg",
+  "email": null,
+  "data": "2026-08-06",
+  "nomeEleitoral": "Priscila Costa",
+  "gabinete": {
+   "nome": "711",
+   "predio": "4",
+   "sala": "711",
+   "andar": "7",
+   "telefone": "3215-5711",
+   "email": "dep.priscilacosta@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "F",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://www.facebook.com/priscilacostaoficial",
+  "https://www.instagram.com/priscilacosta"
+ ],
+ "dataNascimento": "1984-09-12",
+ "dataFalecimento": null,
+ "ufNascimento": "CE",
+ "municipioNascimento": "Fortaleza",
+ "escolaridade": "Superior"
+}

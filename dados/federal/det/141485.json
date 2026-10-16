@@ -1,0 +1,42 @@
+{
+ "id": 141485,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141485",
+ "nomeCivil": "LUIZ CARLOS GHIORZZI BUSATO",
+ "ultimoStatus": {
+  "id": 141485,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141485",
+  "nome": "Luiz Carlos Busato",
+  "siglaPartido": "UNIÃO",
+  "uriPartido": null,
+  "siglaUf": "RS",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/141485.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Luiz Carlos Busato",
+  "gabinete": {
+   "nome": "974",
+   "predio": "3",
+   "sala": "974",
+   "andar": null,
+   "telefone": "3215-5974",
+   "email": "dep.luizcarlosbusato@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/lcbusato",
+  "https://www.facebook.com/lcbusato",
+  "https://www.instagram.com/lcbusato",
+  "https://youtube.com/channel/UCI1WRKDHZA-6HQwN5_yWypw"
+ ],
+ "dataNascimento": "1948-11-06",
+ "dataFalecimento": null,
+ "ufNascimento": "SC",
+ "municipioNascimento": "Cacador",
+ "escolaridade": "Superior"
+}

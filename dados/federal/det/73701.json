@@ -1,0 +1,37 @@
+{
+ "id": 73701,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/73701",
+ "nomeCivil": "BENEDITA SOUZA DA SILVA SAMPAIO",
+ "ultimoStatus": {
+  "id": 73701,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/73701",
+  "nome": "Benedita da Silva",
+  "siglaPartido": "PT",
+  "uriPartido": null,
+  "siglaUf": "RJ",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/73701.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Benedita da Silva",
+  "gabinete": {
+   "nome": "330",
+   "predio": "4",
+   "sala": "330",
+   "andar": "3",
+   "telefone": "3215-5330",
+   "email": "dep.beneditadasilva@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "F",
+ "urlWebsite": null,
+ "redeSocial": [],
+ "dataNascimento": "1942-04-26",
+ "dataFalecimento": null,
+ "ufNascimento": "RJ",
+ "municipioNascimento": "Rio de Janeiro",
+ "escolaridade": "Superior"
+}

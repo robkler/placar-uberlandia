@@ -1,0 +1,42 @@
+{
+ "id": 220696,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220696",
+ "nomeCivil": "IVONEIDE SOUZA CAETANO",
+ "ultimoStatus": {
+  "id": 220696,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220696",
+  "nome": "Ivoneide Caetano",
+  "siglaPartido": "PT",
+  "uriPartido": null,
+  "siglaUf": "BA",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220696.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Ivoneide Caetano",
+  "gabinete": {
+   "nome": "224",
+   "predio": "4",
+   "sala": "224",
+   "andar": "2",
+   "telefone": "3215-5224",
+   "email": "dep.ivoneidecaetano@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "F",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/ivoneidecaetano",
+  "https://www.facebook.com/ivoneidecaetanooficial",
+  "https://www.instagram.com/ivoneidecaetanooficial",
+  "https://youtube.com/channel/UCG1OT1V0SGnvBIf_RRicnpg"
+ ],
+ "dataNascimento": "1972-09-10",
+ "dataFalecimento": null,
+ "ufNascimento": "BA",
+ "municipioNascimento": "Biritinga",
+ "escolaridade": "Superior"
+}

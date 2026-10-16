@@ -1,0 +1,41 @@
+{
+ "id": 204496,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204496",
+ "nomeCivil": "CELSO SABINO DE OLIVEIRA",
+ "ultimoStatus": {
+  "id": 204496,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204496",
+  "nome": "Celso Sabino",
+  "siglaPartido": "PDT",
+  "uriPartido": null,
+  "siglaUf": "PA",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204496.jpg",
+  "email": null,
+  "data": "2025-12-19",
+  "nomeEleitoral": "Celso Sabino",
+  "gabinete": {
+   "nome": "236",
+   "predio": "4",
+   "sala": "236",
+   "andar": "2",
+   "telefone": "3215-5236",
+   "email": "dep.celsosabino@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": ""
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/depcelsosabino",
+  "https://www.facebook.com/celsosabinooficial",
+  "https://www.instagram.com/celsosabinooficial"
+ ],
+ "dataNascimento": "1978-08-29",
+ "dataFalecimento": null,
+ "ufNascimento": "PA",
+ "municipioNascimento": "Belém",
+ "escolaridade": "Doutorado"
+}

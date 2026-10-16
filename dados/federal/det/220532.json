@@ -1,0 +1,42 @@
+{
+ "id": 220532,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220532",
+ "nomeCivil": "RAFAEL CAVALCANTI PRUDENTE",
+ "ultimoStatus": {
+  "id": 220532,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220532",
+  "nome": "Rafael Prudente",
+  "siglaPartido": "MDB",
+  "uriPartido": null,
+  "siglaUf": "DF",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220532.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Rafael Prudente",
+  "gabinete": {
+   "nome": "260",
+   "predio": "4",
+   "sala": "260",
+   "andar": "2",
+   "telefone": "3215-5260",
+   "email": "dep.rafaelprudente@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/rafaelprudente_",
+  "https://www.facebook.com/rafaelprudentedep",
+  "https://www.instagram.com/rafaelprudentedep",
+  "https://youtube.com/RafaelPrudente"
+ ],
+ "dataNascimento": "1983-11-05",
+ "dataFalecimento": null,
+ "ufNascimento": "DF",
+ "municipioNascimento": "Brasília",
+ "escolaridade": "Superior"
+}

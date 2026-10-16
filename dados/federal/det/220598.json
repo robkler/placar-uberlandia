@@ -1,0 +1,42 @@
+{
+ "id": 220598,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220598",
+ "nomeCivil": "TARCISIO MOTTA DE CARVALHO",
+ "ultimoStatus": {
+  "id": 220598,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220598",
+  "nome": "Tarcísio Motta",
+  "siglaPartido": "PSOL",
+  "uriPartido": null,
+  "siglaUf": "RJ",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220598.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Tarcísio Motta",
+  "gabinete": {
+   "nome": "413",
+   "predio": "4",
+   "sala": "413",
+   "andar": "4",
+   "telefone": "3215-5413",
+   "email": "dep.tarcisiomotta@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/MottaTarcisio",
+  "https://www.facebook.com/TarcisioMottaPSOL",
+  "https://www.instagram.com/tarcisiomottapsol",
+  "https://youtube.com/tarcisiomottapsol"
+ ],
+ "dataNascimento": "1975-01-28",
+ "dataFalecimento": null,
+ "ufNascimento": "RJ",
+ "municipioNascimento": "Petrópolis",
+ "escolaridade": "Doutorado"
+}

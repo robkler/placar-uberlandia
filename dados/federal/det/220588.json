@@ -1,0 +1,41 @@
+{
+ "id": 220588,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220588",
+ "nomeCivil": "ROBERTO DUARTE JUNIOR",
+ "ultimoStatus": {
+  "id": 220588,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220588",
+  "nome": "Roberto Duarte",
+  "siglaPartido": "REPUBLICANOS",
+  "uriPartido": null,
+  "siglaUf": "AC",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220588.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Roberto Duarte",
+  "gabinete": {
+   "nome": "827",
+   "predio": "4",
+   "sala": "827",
+   "andar": "8",
+   "telefone": "3215-5827",
+   "email": "dep.robertoduarte@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/rdnarede",
+  "https://www.facebook.com/robertoduartenarede",
+  "https://www.instagram.com/rdnarede"
+ ],
+ "dataNascimento": "1975-04-25",
+ "dataFalecimento": null,
+ "ufNascimento": "RS",
+ "municipioNascimento": "Porto Alegre",
+ "escolaridade": "Pós-Graduação"
+}

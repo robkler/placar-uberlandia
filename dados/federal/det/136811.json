@@ -1,0 +1,40 @@
+{
+ "id": 136811,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/136811",
+ "nomeCivil": "JOSÉ ALFONSO EBERT HAMM",
+ "ultimoStatus": {
+  "id": 136811,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/136811",
+  "nome": "Afonso Hamm",
+  "siglaPartido": "PP",
+  "uriPartido": null,
+  "siglaUf": "RS",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/136811.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Afonso Hamm",
+  "gabinete": {
+   "nome": "604",
+   "predio": "4",
+   "sala": "604",
+   "andar": "6",
+   "telefone": "3215-5604",
+   "email": "dep.afonsohamm@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://www.facebook.com/depafonsohamm",
+  "https://www.instagram.com/afonsohamm"
+ ],
+ "dataNascimento": "1962-04-25",
+ "dataFalecimento": null,
+ "ufNascimento": "RS",
+ "municipioNascimento": "Hulha Negra",
+ "escolaridade": "Superior"
+}

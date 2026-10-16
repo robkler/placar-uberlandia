@@ -1,0 +1,42 @@
+{
+ "id": 204460,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204460",
+ "nomeCivil": "Carlos Roberto Jordy Coelho de Mattos",
+ "ultimoStatus": {
+  "id": 204460,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204460",
+  "nome": "Carlos Jordy",
+  "siglaPartido": "PL",
+  "uriPartido": null,
+  "siglaUf": "RJ",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204460.jpg",
+  "email": null,
+  "data": "2024-09-04",
+  "nomeEleitoral": "Carlos Jordy",
+  "gabinete": {
+   "nome": "786",
+   "predio": "3",
+   "sala": "786",
+   "andar": null,
+   "telefone": "3215-5786",
+   "email": "dep.carlosjordy@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": ""
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/carlosjordy",
+  "https://www.facebook.com/carlosjordyoficial",
+  "https://www.instagram.com/carlosjordy",
+  "https://youtube.com/channel/UCkWU59eSRp41W6bCdyJlRdg"
+ ],
+ "dataNascimento": "1982-02-08",
+ "dataFalecimento": null,
+ "ufNascimento": "RJ",
+ "municipioNascimento": "Niterói",
+ "escolaridade": "Superior"
+}

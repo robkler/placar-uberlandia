@@ -1,0 +1,42 @@
+{
+ "id": 160512,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160512",
+ "nomeCivil": "AUREO LIDIO MOREIRA RIBEIRO",
+ "ultimoStatus": {
+  "id": 160512,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160512",
+  "nome": "Aureo Ribeiro",
+  "siglaPartido": "SOLIDARIEDADE",
+  "uriPartido": null,
+  "siglaUf": "RJ",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160512.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Aureo Ribeiro",
+  "gabinete": {
+   "nome": "212",
+   "predio": "4",
+   "sala": "212",
+   "andar": "2",
+   "telefone": "3215-5212",
+   "email": "dep.aureoribeiro@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/AureoRibeiroRJ",
+  "https://www.facebook.com/AureoRibeiroRJ",
+  "https://www.instagram.com/aureo.ribeiro",
+  "https://youtube.com/AureoRibeiro77"
+ ],
+ "dataNascimento": "1979-02-17",
+ "dataFalecimento": null,
+ "ufNascimento": "RJ",
+ "municipioNascimento": "Duque de Caxias",
+ "escolaridade": "Superior Incompleto"
+}

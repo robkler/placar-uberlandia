@@ -1,0 +1,41 @@
+{
+ "id": 204441,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204441",
+ "nomeCivil": "OTONI MOURA DE PAULO JUNIOR",
+ "ultimoStatus": {
+  "id": 204441,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204441",
+  "nome": "Otoni de Paula",
+  "siglaPartido": "PSD",
+  "uriPartido": null,
+  "siglaUf": "RJ",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204441.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Otoni de Paula",
+  "gabinete": {
+   "nome": "682",
+   "predio": "3",
+   "sala": "682",
+   "andar": null,
+   "telefone": "3215-5682",
+   "email": "dep.otonidepaula@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/otonidepfederal",
+  "https://www.facebook.com/OtoniDeputadoFederal",
+  "https://www.instagram.com/otonidepaulaoficial"
+ ],
+ "dataNascimento": "1976-11-22",
+ "dataFalecimento": null,
+ "ufNascimento": "RJ",
+ "municipioNascimento": "Niterói",
+ "escolaridade": "Superior Incompleto"
+}

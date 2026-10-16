@@ -1,0 +1,40 @@
+{
+ "id": 178871,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178871",
+ "nomeCivil": "EVAIR VIEIRA DE MELO",
+ "ultimoStatus": {
+  "id": 178871,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178871",
+  "nome": "Evair Vieira de Melo",
+  "siglaPartido": "REPUBLICANOS",
+  "uriPartido": null,
+  "siglaUf": "ES",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178871.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Evair Vieira de Melo",
+  "gabinete": {
+   "nome": "443",
+   "predio": "4",
+   "sala": "443",
+   "andar": "4",
+   "telefone": "3215-5443",
+   "email": "dep.evairvieirademelo@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://www.facebook.com/evair.vieirademelo",
+  "https://youtube.com/channel/UCT5EVLanh6IiCl01fzPSOBQ"
+ ],
+ "dataNascimento": "1972-04-02",
+ "dataFalecimento": null,
+ "ufNascimento": "ES",
+ "municipioNascimento": "Conceição do Castelo",
+ "escolaridade": "Pós-Graduação"
+}

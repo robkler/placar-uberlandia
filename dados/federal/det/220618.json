@@ -1,0 +1,40 @@
+{
+ "id": 220618,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220618",
+ "nomeCivil": "JOSÉ PORTUGAL NETO",
+ "ultimoStatus": {
+  "id": 220618,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220618",
+  "nome": "Sargento Portugal",
+  "siglaPartido": "PODE",
+  "uriPartido": null,
+  "siglaUf": "RJ",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220618.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Sargento Portugal",
+  "gabinete": {
+   "nome": "527",
+   "predio": "4",
+   "sala": "527",
+   "andar": "5",
+   "telefone": "3215-5527",
+   "email": "dep.sargentoportugal@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/sargentoportuga",
+  "https://www.facebook.com/DeputadoFederalSargentoPortugal"
+ ],
+ "dataNascimento": "1976-08-26",
+ "dataFalecimento": null,
+ "ufNascimento": "RJ",
+ "municipioNascimento": "Rio de Janeiro",
+ "escolaridade": "Pós-Graduação"
+}

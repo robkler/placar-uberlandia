@@ -1,0 +1,40 @@
+{
+ "id": 224117,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/224117",
+ "nomeCivil": "GABRIEL MOTA E SILVA",
+ "ultimoStatus": {
+  "id": 224117,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/224117",
+  "nome": "Gabriel Mota",
+  "siglaPartido": "UNIÃO",
+  "uriPartido": null,
+  "siglaUf": "RR",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/224117.jpg",
+  "email": null,
+  "data": "2023-03-08",
+  "nomeEleitoral": "Gabriel Mota",
+  "gabinete": {
+   "nome": "535",
+   "predio": "4",
+   "sala": "535",
+   "andar": "5",
+   "telefone": "3215-5535",
+   "email": "dep.gabrielmota@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Efetivado",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/gabrielmotarr",
+  "https://www.facebook.com/gabrielmotarr"
+ ],
+ "dataNascimento": "1982-12-24",
+ "dataFalecimento": null,
+ "ufNascimento": "RR",
+ "municipioNascimento": "Boa Vista",
+ "escolaridade": "Superior"
+}

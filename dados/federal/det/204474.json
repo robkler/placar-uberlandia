@@ -1,0 +1,42 @@
+{
+ "id": 204474,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204474",
+ "nomeCivil": "JUAREZ ALVES DA COSTA",
+ "ultimoStatus": {
+  "id": 204474,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204474",
+  "nome": "Juarez Costa",
+  "siglaPartido": "REPUBLICANOS",
+  "uriPartido": null,
+  "siglaUf": "MT",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204474.jpg",
+  "email": null,
+  "data": "2024-09-27",
+  "nomeEleitoral": "Juarez Costa",
+  "gabinete": {
+   "nome": "871",
+   "predio": "3",
+   "sala": "871",
+   "andar": null,
+   "telefone": "3215-5871",
+   "email": "dep.juarezcosta@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": ""
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/juarezcostamt",
+  "https://www.facebook.com/juarezcostamt",
+  "https://www.instagram.com/juarezcostamt",
+  "https://www.youtube.com/channel/UCKKA7s-2Lo6xKtZlgahT-aA"
+ ],
+ "dataNascimento": "1960-01-20",
+ "dataFalecimento": null,
+ "ufNascimento": "PR",
+ "municipioNascimento": "Londrina",
+ "escolaridade": "Ensino Médio Incompleto"
+}

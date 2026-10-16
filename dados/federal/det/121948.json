@@ -1,0 +1,41 @@
+{
+ "id": 121948,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/121948",
+ "nomeCivil": "ADRIANO ANTÔNIO AVELAR",
+ "ultimoStatus": {
+  "id": 121948,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/121948",
+  "nome": "Adriano do Baldy",
+  "siglaPartido": "PP",
+  "uriPartido": null,
+  "siglaUf": "GO",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/121948.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Adriano do Baldy",
+  "gabinete": {
+   "nome": "419",
+   "predio": "4",
+   "sala": "419",
+   "andar": "4",
+   "telefone": "3215-5419",
+   "email": "dep.adrianodobaldy@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/adrianodobaldy",
+  "https://www.facebook.com/AdrianoDoBaldyOficial",
+  "https://www.instagram.com/adrianodobaldyoficial"
+ ],
+ "dataNascimento": "1969-09-06",
+ "dataFalecimento": null,
+ "ufNascimento": "GO",
+ "municipioNascimento": "Goiás",
+ "escolaridade": "Ensino Médio"
+}

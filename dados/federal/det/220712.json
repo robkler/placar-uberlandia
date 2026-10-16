@@ -1,0 +1,37 @@
+{
+ "id": 220712,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220712",
+ "nomeCivil": "FAUSTO VIEIRA DOS SANTOS JUNIOR",
+ "ultimoStatus": {
+  "id": 220712,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220712",
+  "nome": "Fausto Jr.",
+  "siglaPartido": "UNIÃO",
+  "uriPartido": null,
+  "siglaUf": "AM",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220712.jpg",
+  "email": null,
+  "data": "2024-10-31",
+  "nomeEleitoral": "Fausto Jr.",
+  "gabinete": {
+   "nome": "777",
+   "predio": "3",
+   "sala": "777",
+   "andar": null,
+   "telefone": "3215-5777",
+   "email": "dep.faustosantosjr@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": ""
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [],
+ "dataNascimento": "1992-12-20",
+ "dataFalecimento": null,
+ "ufNascimento": "AM",
+ "municipioNascimento": "Manaus",
+ "escolaridade": "Superior"
+}

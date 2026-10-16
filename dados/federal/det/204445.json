@@ -1,0 +1,41 @@
+{
+ "id": 204445,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204445",
+ "nomeCivil": "FERNANDO WANDERLEY VARGAS DA SILVA",
+ "ultimoStatus": {
+  "id": 204445,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204445",
+  "nome": "Fernando Mineiro",
+  "siglaPartido": "PT",
+  "uriPartido": null,
+  "siglaUf": "RN",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204445.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Fernando Mineiro",
+  "gabinete": {
+   "nome": "987",
+   "predio": "3",
+   "sala": "987",
+   "andar": null,
+   "telefone": "3215-5987",
+   "email": "dep.fernandomineiro@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/mineiroptrn",
+  "https://www.facebook.com/fernandomineiro",
+  "https://www.instagram.com/mineiroptrn"
+ ],
+ "dataNascimento": "1956-12-06",
+ "dataFalecimento": null,
+ "ufNascimento": "MG",
+ "municipioNascimento": "Curvelo",
+ "escolaridade": "Superior"
+}

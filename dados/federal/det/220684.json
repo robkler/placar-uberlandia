@@ -1,0 +1,37 @@
+{
+ "id": 220684,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220684",
+ "nomeCivil": "SEBASTIÃO HENRIQUE DE MEDEIROS",
+ "ultimoStatus": {
+  "id": 220684,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220684",
+  "nome": "Tião Medeiros",
+  "siglaPartido": "PP",
+  "uriPartido": null,
+  "siglaUf": "PR",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220684.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Tião Medeiros",
+  "gabinete": {
+   "nome": "942",
+   "predio": "4",
+   "sala": "942",
+   "andar": "9",
+   "telefone": "3215-5942",
+   "email": "dep.tiaomedeiros@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [],
+ "dataNascimento": "1983-01-08",
+ "dataFalecimento": null,
+ "ufNascimento": "PR",
+ "municipioNascimento": "Paranavaí",
+ "escolaridade": "Superior"
+}

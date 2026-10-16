@@ -69,6 +69,13 @@ input:focus-visible,select:focus-visible,button:focus-visible{outline:2px solid 
 .mini b{color:var(--ink);font-weight:600}
 .c-ok{color:var(--ok)}.c-warn{color:var(--warn)}.c-bad{color:var(--bad)}
 .bg-ok{background:var(--ok)!important}.bg-warn{background:var(--warn)!important}.bg-bad{background:var(--bad)!important}
+.nivelbar{background:var(--ink);color:var(--surface)}
+.nivelbar .wrap{display:flex;align-items:center;gap:14px;padding-block:8px;flex-wrap:wrap}
+.marca{font-family:var(--f-display);font-stretch:80%;font-weight:800;font-size:18px;letter-spacing:.02em}
+.nivel{display:flex;gap:4px;background:color-mix(in srgb,var(--surface) 14%,transparent);padding:3px;border-radius:999px}
+.nivel button{font:inherit;font-size:13.5px;font-weight:600;border:0;background:transparent;color:var(--surface);padding:6px 14px;border-radius:999px;cursor:pointer;opacity:.8}
+.nivel button[aria-selected="true"]{background:var(--surface);color:var(--ink);opacity:1}
+.nivel button:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
 .empty{padding:40px 0;color:var(--muted)}
 .aviso{margin-top:18px;padding:14px 16px;border:1px dashed var(--line);border-radius:10px;color:var(--muted)}
 .aviso.erro{border-color:var(--bad);color:var(--bad)}
@@ -158,6 +165,14 @@ img{max-width:100%}
 </style>
 </head>
 <body>
+<div class="nivelbar"><div class="wrap">
+  <span class="marca">Placar</span>
+  <div class="nivel" role="tablist" aria-label="Escolha o que ver">
+    <button role="tab" id="n-udi" data-nivel="udi" aria-selected="true">Uberlândia</button>
+    <button role="tab" id="n-fed" data-nivel="fed" aria-selected="false">Câmara dos Deputados</button>
+  </div>
+</div></div>
+<div id="lvl-udi">
 <header class="top wrap">
   <div class="eyebrow">Uberlândia · MG · Legislatura 2025–2028</div>
   <h1>Placar de Uberlândia</h1>
@@ -208,11 +223,82 @@ img{max-width:100%}
   <p><b>Como os números foram calculados.</b> Presença: a Câmara publica uma lista de frequência, mas ela não está sendo atualizada (vereadores que votaram aparecem com "falta"). Por isso a presença aqui é medida pelas votações nominais: o vereador conta como presente na reunião em que registrou pelo menos um voto (sim, não, abstenção ou presidindo a mesa). Reuniões sem nenhuma votação nominal ficam de fora. "Votou contra a maioria" = votou sim quando a maioria votou não, ou o contrário. Em votações de veto e de parecer contrário da Comissão de Legislação, Justiça e Redação (CLJR), "sim" e "não" se referem ao veto ou ao parecer, não ao projeto. Proposições: total apresentado em 2025 e 2026, de todos os tipos; indicações e requerimentos são pedidos formais à Prefeitura e costumam ser a maior parte. Patrimônio e campanha: declarações e prestação de contas entregues ao TSE na eleição de 2024. Finanças da Prefeitura: Declaração de Contas Anuais (DCA) entregue ao Tesouro Nacional; despesas liquidadas; população estimada pelo IBGE.</p>
   <p>Fontes: <a href="https://www.camarauberlandia.mg.gov.br/vereadores" target="_blank" rel="noopener">Câmara Municipal de Uberlândia</a>, <a href="https://dadosabertos.tse.jus.br" target="_blank" rel="noopener">TSE Dados Abertos</a>, <a href="https://siconfi.tesouro.gov.br" target="_blank" rel="noopener">Tesouro Nacional (SICONFI)</a> e IBGE. Coletado em <span id="coleta">…</span>. Código e metodologia: scripts em /scripts deste projeto.</p>
 </footer>
+</div>
+<div id="lvl-fed" hidden>
+<header class="top wrap">
+  <div class="eyebrow">Câmara dos Deputados · 57ª legislatura (2023–2027)</div>
+  <h1>Deputados federais</h1>
+  <p class="lede">Os 513 deputados em exercício, com Minas Gerais em destaque: presença no plenário, como votaram nos principais projetos, o que apresentaram, quanto gastaram da cota e quantos votos tiveram em Uberlândia em 2022. Dados oficiais atualizados em <span id="f-dt">…</span>.</p>
+  <div class="aviso" id="f-carregando" role="status">Carregando dados dos deputados…</div>
+  <div class="board" id="f-board"></div>
+  <nav class="tabs" role="tablist">
+    <button role="tab" id="t-dep" aria-selected="true" data-ftab="dep">Deputados</button>
+    <button role="tab" id="t-fvot" aria-selected="false" data-ftab="fvot">Votações</button>
+  </nav>
+</header>
+
+<section id="p-dep">
+  <div class="bar"><div class="wrap">
+    <input id="fq" type="search" placeholder="Buscar deputado(a)…" aria-label="Buscar deputado">
+    <select id="fuf" aria-label="Estado"><option value="">Todos os estados</option></select>
+    <select id="fpt" aria-label="Partido"><option value="">Todos os partidos</option></select>
+    <select id="fso" aria-label="Ordenar">
+      <option value="local-desc">Mais votados em Uberlândia</option>
+      <option value="pres-asc">Menor presença</option>
+      <option value="pres-desc">Maior presença</option>
+      <option value="unj-desc">Mais faltas sem justificativa</option>
+      <option value="nome">Nome (A–Z)</option>
+      <option value="ceap-desc">Maior gasto da cota</option>
+      <option value="props-desc">Mais projetos apresentados</option>
+      <option value="leis-desc">Mais projetos que viraram lei</option>
+    </select>
+    <span class="count num" id="fcount"></span>
+  </div></div>
+  <main class="wrap"><div class="grid" id="fgrid"></div><button class="more" id="fmore" hidden>Mostrar mais</button></main>
+</section>
+
+<section id="p-fvot" hidden>
+  <div class="bar"><div class="wrap">
+    <input id="fvq" type="search" placeholder="Buscar projeto, número ou assunto…" aria-label="Buscar votação">
+    <select id="fvr" aria-label="Resultado"><option value="">Qualquer resultado</option><option value="Aprovado">Aprovados</option><option value="Rejeitado">Rejeitados</option></select>
+    <label class="chk"><input id="fvd" type="checkbox"> Só votações divididas</label>
+    <span class="count num" id="fvcount"></span>
+  </div></div>
+  <main class="wrap"><div class="vlist" id="fvlist"></div><button class="more" id="fvmore" hidden>Mostrar mais</button></main>
+</section>
+
+<footer class="wrap">
+  <p><b>Como os números foram calculados.</b> Presença em plenário e em comissões: contagem oficial publicada na página de cada deputado em camara.leg.br, somando 2023 até hoje. A % é presenças ÷ (presenças + ausências justificadas + ausências sem justificativa); ausências justificadas incluem licença médica e missões oficiais. Votações nominais: votações do plenário com voto individual registrado, contadas só no período em que o deputado estava em exercício (o presidente da Câmara normalmente não vota). "Principais votações" são as votações do texto de projetos de lei, PECs, medidas provisórias e decretos legislativos com mais de 300 votos, sem requerimentos e destaques. Projetos: PL, PLP, PEC e PDL apresentados desde fevereiro de 2023 com o deputado como autor ou coautor; "viraram lei" = situação "Transformado em Norma Jurídica". Cota: valor reembolsado pela Cota para o Exercício da Atividade Parlamentar (CEAP) desde 2023. Votos em Uberlândia e patrimônio: eleição de 2022, dados do TSE, ligados ao deputado pelo CPF.</p>
+  <p>Fontes: <a href="https://dadosabertos.camara.leg.br" target="_blank" rel="noopener">Dados Abertos da Câmara dos Deputados</a>, páginas oficiais dos deputados e <a href="https://dadosabertos.tse.jus.br" target="_blank" rel="noopener">TSE Dados Abertos</a>. Coletado em <span id="f-coleta">…</span>.</p>
+</footer>
+</div>
 
 <div class="scrim" id="scrim" hidden></div>
 <aside class="sheet" id="sheet" hidden role="dialog" aria-modal="true" aria-label="Detalhes"></aside>
 <div class="tip" id="tip" hidden></div>
 
+<script>
+/* compartilhado: painel lateral e troca entre Uberlândia e Câmara dos Deputados */
+(function(){
+const $=s=>document.querySelector(s);let last=null;
+window.openSheet=function(html){last=last||document.activeElement;$('#sheet').innerHTML='<button class="close" id="cl">Fechar</button>'+html;$('#sheet').hidden=false;$('#scrim').hidden=false;$('#sheet').scrollTop=0;document.body.style.overflow='hidden';$('#cl').addEventListener('click',window.closeSheet);$('#cl').focus()};
+window.closeSheet=function(){$('#sheet').hidden=true;$('#scrim').hidden=true;document.body.style.overflow='';if(last)last.focus();last=null};
+$('#scrim').addEventListener('click',window.closeSheet);
+document.addEventListener('keydown',e=>{if(e.key==='Escape'&&!$('#sheet').hidden)window.closeSheet()});
+const FED=['dep','fvot'];
+window.mostrarNivel=function(n,hash){
+  document.querySelectorAll('[data-nivel]').forEach(b=>b.setAttribute('aria-selected',b.dataset.nivel===n));
+  $('#lvl-udi').hidden=n!=='udi';$('#lvl-fed').hidden=n!=='fed';
+  if(n==='fed'){window.carregarFederal&&window.carregarFederal();const t=FED.includes(hash)?hash:'dep';window.fTab&&window.fTab(t);try{history.replaceState(null,'','#'+t)}catch(e){}}
+  else{try{if(FED.includes((location.hash||'').slice(1)))history.replaceState(null,'','#ver')}catch(e){}}
+  window.scrollTo({top:0});
+};
+document.querySelectorAll('[data-nivel]').forEach(b=>b.addEventListener('click',()=>window.mostrarNivel(b.dataset.nivel)));
+const h=(location.hash||'').slice(1);
+document.addEventListener('DOMContentLoaded',()=>{if(FED.includes(h))window.mostrarNivel('fed',h)});
+window.addEventListener('hashchange',()=>{const x=(location.hash||'').slice(1);if(FED.includes(x))window.mostrarNivel('fed',x)});
+})();
+</script>
 <script>
 function iniciar(D){
 const VER=D.vereadores, VOT=D.votacoes.slice().sort((a,b)=>b.data.localeCompare(a.data)), P=D.prefeitura;
@@ -242,10 +328,10 @@ $('#board').innerHTML=[
 ].map(([v,k])=>`<div><div class="v num">${v}</div><div class="k">${k}</div></div>`).join('');
 
 /* tabs */
-function showTab(t,push){document.querySelectorAll('.tabs button').forEach(b=>b.setAttribute('aria-selected',b.dataset.tab===t));
+function showTab(t,push){document.querySelectorAll('.tabs button[data-tab]').forEach(b=>b.setAttribute('aria-selected',b.dataset.tab===t));
  ['ver','vot','pref'].forEach(k=>$('#p-'+k).hidden=k!==t);
  if(push){try{history.replaceState(null,'','#'+t)}catch(e){}}}
-document.querySelectorAll('.tabs button').forEach(b=>b.addEventListener('click',()=>showTab(b.dataset.tab,true)));
+document.querySelectorAll('.tabs button[data-tab]').forEach(b=>b.addEventListener('click',()=>showTab(b.dataset.tab,true)));
 const h0=(location.hash||'').slice(1); if(['ver','vot','pref'].includes(h0)) showTab(h0);
 
 /* face helper */
@@ -292,11 +378,6 @@ $('#vmore').addEventListener('click',()=>{vShown+=60;renderVot()});
 $('#vlist').addEventListener('click',e=>{const c=e.target.closest('.vrow');if(c)openVot(c.dataset.v)});
 
 /* sheet */
-let lastFocus=null;
-function openSheet(html){lastFocus=lastFocus||document.activeElement;$('#sheet').innerHTML='<button class="close" id="cl">Fechar</button>'+html;$('#sheet').hidden=false;$('#scrim').hidden=false;$('#sheet').scrollTop=0;document.body.style.overflow='hidden';$('#cl').addEventListener('click',closeSheet);$('#cl').focus()}
-function closeSheet(){$('#sheet').hidden=true;$('#scrim').hidden=true;document.body.style.overflow='';if(lastFocus)lastFocus.focus();lastFocus=null}
-$('#scrim').addEventListener('click',closeSheet);
-document.addEventListener('keydown',e=>{if(e.key==='Escape'&&!$('#sheet').hidden)closeSheet()});
 const rows=(arr,fmt)=>{const mx=Math.max(...arr.map(a=>a[1]),1);return `<div class="rows">${arr.map(([k,v])=>`<span>${esc(k)}</span><span class="num">${fmt(v)}</span><div class="b"><span style="width:${v/mx*100}%"></span></div>`).join('')}</div>`};
 
 function openVer(id){
@@ -398,6 +479,164 @@ document.getElementById('carregando').hidden=true;
 fetch('data.json',{cache:'no-cache'}).then(r=>{if(!r.ok)throw new Error('HTTP '+r.status);return r.json()}).then(iniciar).catch(e=>{
  const el=document.getElementById('carregando');el.hidden=false;el.className='aviso erro';
  el.textContent='Não foi possível carregar os dados ('+e.message+'). Recarregue a página em alguns instantes.';console.error(e)});
+</script>
+<script>
+/* ===== Câmara dos Deputados ===== */
+(function(){
+const $=s=>document.querySelector(s);
+const esc=s=>String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const pct=x=>x==null||isNaN(x)?'—':(x*100).toFixed(0)+'%';
+const fdate=s=>s?s.slice(0,10).split('-').reverse().join('/'):'—';
+const brl=v=>v==null?'—':v.toLocaleString('pt-BR',{style:'currency',currency:'BRL',maximumFractionDigits:0});
+const nint=v=>v==null?'—':v.toLocaleString('pt-BR');
+const norm=s=>String(s||'').normalize('NFD').replace(/[̀-ͯ]/g,'').toLowerCase();
+const cls=p=>p==null?'':p>=.9?'ok':p>=.75?'warn':'bad';
+const cap1=s=>s?s.charAt(0).toUpperCase()+s.slice(1).toLowerCase():'';
+const VOTO={S:'Sim',N:'Não',A:'Abstenção',O:'Obstrução',P:'Art. 17','-':'Não votou'};
+const VCLS={S:'v-Sim',N:'v-Não',A:'v-Abstenção',O:'v-Abstenção',P:'v-Pres','-':'v-Ausente'};
+let F=null, carregando=null, byId={}, pos={};
+
+function seg(a){const t=a[0]+a[1]+a[2]||1;return `<div class="tally" aria-hidden="true" style="height:6px;margin-top:6px"><span style="flex:${a[0]/t};background:var(--ok)"></span>${a[1]?`<span style="flex:${a[1]/t};background:var(--aus)"></span>`:''}${a[2]?`<span style="flex:${a[2]/t};background:var(--bad)"></span>`:''}</div>`}
+function chip(c){return c==='P'?'<span class="chip v-Pres">Art. 17</span>':`<span class="chip ${VCLS[c]||'v-Ausente'}">${VOTO[c]||'—'}</span>`}
+
+window.carregarFederal=function(){
+  if(F) return Promise.resolve(F);
+  if(carregando) return carregando;
+  carregando=fetch('federal.json',{cache:'no-cache'}).then(r=>{if(!r.ok)throw new Error('HTTP '+r.status);return r.json()}).then(d=>{F=d;iniciar();return d}).catch(e=>{
+    carregando=null;const el=$('#f-carregando');el.hidden=false;el.className='aviso erro';
+    el.textContent='Não foi possível carregar os dados dos deputados ('+e.message+'). Recarregue a página em alguns instantes.';console.error(e)});
+  return carregando;
+};
+
+function iniciar(){
+  const D=F.deputados;
+  D.forEach((d,n)=>{byId[d.id]=d;pos[d.id]=F.ordem.indexOf(d.id);
+    const t=d.plen[0]+d.plen[1]+d.plen[2];d.tot=t;d.pct=t?d.plen[0]/t:null;
+    d.local=(d.tse||{}).votosLocal||0;d.key=norm(d.nome+' '+(d.nomeCivil||'')+' '+d.partido+' '+d.uf)});
+  F.votacoes.forEach(v=>{v.key=norm(v.prop+' '+v.ementa+' '+v.desc);v.div=Math.min(v.sim,v.nao)>=60});
+  $('#f-dt').textContent=fdate(F.gerado)+(F.gerado.length>10?' às '+F.gerado.slice(11,16):'');
+  $('#f-coleta').textContent=fdate(F.gerado);
+  const med=a=>{a=a.filter(x=>x!=null).sort((x,y)=>x-y);return a[Math.floor(a.length/2)]};
+  const mg=D.filter(d=>d.uf==='MG');
+  $('#f-board').innerHTML=[
+    [pct(med(D.map(d=>d.pct))),'Presença mediana no plenário'],
+    [pct(med(mg.map(d=>d.pct))),'Presença mediana da bancada de MG ('+mg.length+')'],
+    [nint(F.totalVotacoes),'Votações nominais no plenário'],
+    ['R$ '+(D.reduce((s,d)=>s+d.ceap,0)/1e6).toLocaleString('pt-BR',{maximumFractionDigits:0})+' mi','Gasto total da cota desde 2023']
+  ].map(([v,k])=>`<div><div class="v num">${v}</div><div class="k">${k}</div></div>`).join('');
+  [...new Set(D.map(d=>d.uf))].sort().forEach(u=>$('#fuf').insertAdjacentHTML('beforeend',`<option>${u}</option>`));
+  [...new Set(D.map(d=>d.partido))].sort().forEach(p=>$('#fpt').insertAdjacentHTML('beforeend',`<option>${esc(p)}</option>`));
+  $('#fuf').value='MG';
+  if(!F.tseMunicipio){$('#fso').querySelector('[value="local-desc"]').remove();$('#fso').value='pres-asc'}
+  ['fq','fuf','fpt','fso'].forEach(k=>$('#'+k).addEventListener('input',()=>{if(k==='fuf'&&$('#fuf').value!=='MG'&&$('#fso').value==='local-desc')$('#fso').value='pres-asc';renderDep(true)}));
+  $('#fmore').addEventListener('click',()=>{shown+=60;renderDep()});
+  $('#fgrid').addEventListener('click',e=>{const c=e.target.closest('.card');if(c)openDep(c.dataset.id)});
+  ['fvq','fvr','fvd'].forEach(k=>$('#'+k).addEventListener('input',()=>renderVot(true)));
+  $('#fvmore').addEventListener('click',()=>{vshown+=40;renderVot()});
+  $('#fvlist').addEventListener('click',e=>{const c=e.target.closest('.vrow');if(c)openVot(c.dataset.v)});
+  document.querySelectorAll('[data-ftab]').forEach(b=>b.addEventListener('click',()=>{fTab(b.dataset.ftab);try{history.replaceState(null,'','#'+b.dataset.ftab)}catch(e){}}));
+  $('#f-carregando').hidden=true;
+  renderDep(true);renderVot(true);
+}
+window.fTab=function(t){document.querySelectorAll('[data-ftab]').forEach(b=>b.setAttribute('aria-selected',b.dataset.ftab===t));$('#p-dep').hidden=t!=='dep';$('#p-fvot').hidden=t!=='fvot'};
+
+let shown=60;
+function card(d){const c=cls(d.pct);
+ return `<button class="card" data-id="${d.id}">${d.foto?`<img src="${d.foto}" alt="" loading="lazy" width="78" height="104">`:'<div class="ph"></div>'}
+ <div style="min-width:0"><p class="nm">${esc(d.nome)}</p>
+ <div class="pt">${esc(d.partido)} · ${d.uf}${d.condicao==='Suplente'?'<span class="tag">suplente</span>':''}</div>
+ <div class="pt">No mandato desde ${fdate(d.inicio)}</div>
+ <div class="pres"><span class="pct num c-${c}">${pct(d.pct)}</span><span class="lb num">${d.plen[0]} de ${d.tot} dias</span></div>
+ ${seg(d.plen)}
+ <div class="mini num">${d.local?`<span><b>${nint(d.local)}</b> votos em Uberlândia</span>`:''}<span><b>${d.plen[2]}</b> faltas s/ just.</span><span><b>${d.props.total}</b> projetos</span></div></div></button>`}
+function renderDep(reset){
+ if(reset)shown=60;
+ const q=norm($('#fq').value.trim()),u=$('#fuf').value,p=$('#fpt').value,so=$('#fso').value;
+ let L=F.deputados.filter(d=>(!q||d.key.includes(q))&&(!u||d.uf===u)&&(!p||d.partido===p));
+ const pv=d=>d.pct??2;
+ const S={'local-desc':(a,b)=>b.local-a.local||pv(a)-pv(b),'pres-asc':(a,b)=>pv(a)-pv(b),'pres-desc':(a,b)=>(b.pct??-1)-(a.pct??-1),'unj-desc':(a,b)=>b.plen[2]-a.plen[2]||pv(a)-pv(b),'nome':(a,b)=>a.nome.localeCompare(b.nome,'pt'),'ceap-desc':(a,b)=>b.ceap-a.ceap,'props-desc':(a,b)=>b.props.total-a.props.total,'leis-desc':(a,b)=>b.props.leis-a.props.leis||b.props.total-a.props.total};
+ L.sort(S[so]||S['pres-asc']);
+ $('#fcount').textContent=L.length+(L.length===1?' deputado':' deputados');
+ $('#fgrid').innerHTML=L.length?L.slice(0,shown).map(card).join(''):'<div class="empty">Nenhum deputado encontrado. Tente outro nome ou mude o estado e o partido.</div>';
+ $('#fmore').hidden=L.length<=shown;
+}
+
+let vshown=40;
+function tally(v){const t=v.sim+v.nao+v.outros||1;return `<div class="tally" role="img" aria-label="Sim ${v.sim}, Não ${v.nao}, outros ${v.outros}"><span style="flex:${v.sim};background:var(--sim)"></span><span style="flex:${v.nao};background:var(--nao)"></span>${v.outros?`<span style="flex:${v.outros};background:var(--aus)"></span>`:''}</div><div class="tl num"><span><b>${v.sim}</b> sim</span><span><b>${v.nao}</b> não</span>${v.outros?`<span><b>${v.outros}</b> outros</span>`:''}</div>`}
+function renderVot(reset){
+ if(reset)vshown=40;
+ const q=norm($('#fvq').value.trim()),r=$('#fvr').value,d=$('#fvd').checked;
+ const L=F.votacoes.filter(v=>(!q||v.key.includes(q))&&(!r||v.res===r)&&(!d||v.div));
+ $('#fvcount').textContent=nint(L.length)+' votações';
+ $('#fvlist').innerHTML=L.length?L.slice(0,vshown).map(v=>`<button class="vrow" data-v="${esc(v.id)}"><div><div class="d num">${fdate(v.data)}</div></div>
+  <div style="min-width:0"><div class="m">${esc(v.prop)} <span class="res ${v.res==='Aprovado'?'ap':''}">${v.res}</span></div><div class="e">${esc(v.ementa)}</div>${v.gov?`<div class="d">Governo orientou ${esc(v.gov)}</div>`:''}</div><div>${tally(v)}</div></button>`).join(''):'<div class="empty">Nenhuma votação com esses filtros.</div>';
+ $('#fvmore').hidden=L.length<=vshown;
+}
+
+function rows(arr,fmt){const mx=Math.max(...arr.map(a=>a[1]),1);return `<div class="rows">${arr.map(([k,v])=>`<span>${esc(k)}</span><span class="num">${fmt(v)}</span><div class="b"><span style="width:${v/mx*100}%"></span></div>`).join('')}</div>`}
+function openDep(id){
+ const d=byId[id], t=d.tse, p=pos[id], c=cls(d.pct);
+ const years=Object.entries(d.anos).map(([y,a])=>{const tt=a[0]+a[1]+a[2];return `<div class="hbar num" style="grid-template-columns:44px minmax(0,1fr) 110px"><span>${y}</span>${tt?seg(a).replace('margin-top:6px','margin-top:0;height:10px'):'<div></div>'}<span class="val">${tt?`${a[0]}/${tt} · ${pct(a[0]/tt)}`:'fora do exercício'}</span></div>`}).join('');
+ const ct=d.com[0]+d.com[1]+d.com[2];
+ const leis=d.props.leisLista.length?`<ul style="margin:8px 0 0;padding-left:18px;font-size:13px">${d.props.leisLista.map(l=>`<li style="margin-bottom:6px"><a href="https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=${l.id}" target="_blank" rel="noopener">${esc(l.p)}</a> · ${esc(l.e)}</li>`).join('')}</ul>`:'<p class="sub">Nenhum projeto de autoria apresentado nesta legislatura virou lei até agora.</p>';
+ window.openSheet(`<div class="hd">${d.foto?`<img src="${d.foto}" alt="Foto de ${esc(d.nome)}">`:''}<div><h2>${esc(d.nome)}</h2>
+  <div class="meta">${esc(d.partido)} · ${d.uf}${d.condicao==='Suplente'?' · suplente':''}<br>No mandato desde ${fdate(d.inicio)}${d.nomeCivil?`<br>${esc(d.nomeCivil)}`:''}${d.escolaridade?` · ${esc(d.escolaridade)}`:''}</div></div></div>
+  <div class="sec"><h3>Presença no plenário</h3><div class="kv num">
+   <div><div class="v c-${c}">${pct(d.pct)}</div><div class="k">dos dias de sessão</div></div>
+   <div><div class="v">${d.plen[1]}</div><div class="k">ausências justificadas</div></div>
+   <div><div class="v ${d.plen[2]?'c-bad':''}">${d.plen[2]}</div><div class="k">ausências sem justificativa</div></div></div>
+   <div style="display:grid;gap:6px;margin-top:12px">${years}</div>
+   <p class="sub">Comissões: presente em ${d.com[0]} de ${ct} reuniões${ct?` (${pct(d.com[0]/ct)})`:''}, ${d.com[2]} ausências sem justificativa.</p></div>
+  <div class="sec"><h3>Votações</h3><div class="kv num">
+   <div><div class="v">${pct(d.votacoes?d.votou/d.votacoes:null)}</div><div class="k">das votações nominais em que votou (${nint(d.votou)} de ${nint(d.votacoes)})</div></div>
+   <div><div class="v">${pct(d.govN?d.govAl/d.govN:null)}</div><div class="k">votou como o governo orientou</div></div>
+   <div><div class="v">${nint(F.votacoes.filter(v=>'SNAO'.includes(v.v[p])).length)}</div><div class="k">votou em ${F.votacoes.length} principais</div></div></div>
+   <div class="seg-btns" id="dvf" role="group" aria-label="Filtrar votações"><button aria-pressed="true" data-f="todas">Todas</button><button aria-pressed="false" data-f="S">Votou sim</button><button aria-pressed="false" data-f="N">Votou não</button><button aria-pressed="false" data-f="gov">Contra o governo</button><button aria-pressed="false" data-f="-">Não votou</button></div>
+   <input id="dvq" type="search" placeholder="Buscar nas principais votações…" style="width:100%;margin-bottom:6px">
+   <div style="overflow-x:auto"><table class="vt" id="dvt"></table></div><p class="sub" id="dvm"></p></div>
+  <div class="sec"><h3>Projetos (desde 2023)</h3><div class="kv num">
+   <div><div class="v">${d.props.total}</div><div class="k">como autor ou coautor</div></div>
+   <div><div class="v">${d.props.principal}</div><div class="k">como primeiro autor</div></div>
+   <div><div class="v">${d.props.leis}</div><div class="k">viraram lei</div></div></div>${leis}</div>
+  <div class="sec"><h3>Cota parlamentar</h3><div class="kv num" style="grid-template-columns:1fr"><div><div class="v">${brl(d.ceap)}</div><div class="k">reembolsado desde 2023</div></div></div>
+   <div style="margin-top:12px">${rows(d.ceapCat.map(([k,v])=>[cap1(k),v]),brl)}</div></div>
+  ${t?`<div class="sec"><h3>Eleição de 2022 (TSE)</h3><div class="kv num">
+   <div><div class="v">${nint(t.votos2022)}</div><div class="k">votos no total${t.uf2022?' em '+t.uf2022:''}</div></div>
+   <div><div class="v">${t.votosLocal?nint(t.votosLocal):'—'}</div><div class="k">votos em ${esc(F.tseMunicipio||'')}</div></div>
+   <div><div class="v" style="font-size:20px">${brl(t.patrimonio)}</div><div class="k">patrimônio declarado</div></div></div></div>`:''}
+  <p class="sub" style="margin-top:20px"><a href="https://www.camara.leg.br/deputados/${d.id}" target="_blank" rel="noopener">Ver página oficial na Câmara ↗</a></p>`);
+ let f='todas';
+ const draw=()=>{const q=norm($('#dvq').value.trim());
+  const L=F.votacoes.filter(v=>{const c=v.v[p];if(f==='gov')return v.gov&&(c==='S'||c==='N')&&VOTO[c]!==v.gov;if(f==='S'||f==='N'||f==='-')return c===f;return true}).filter(v=>!q||v.key.includes(q));
+  $('#dvt').innerHTML=L.slice(0,80).map(v=>`<tr data-v="${esc(v.id)}"><td><div class="p">${esc(v.prop)}</div><div class="e">${esc(v.ementa)}</div><div class="sub" style="margin-top:2px">${fdate(v.data)} · ${v.res} (${v.sim} × ${v.nao})${v.gov?' · Governo orientou '+esc(v.gov):''}</div></td><td style="text-align:right">${chip(v.v[p])}</td></tr>`).join('')||'<tr><td class="sub">Nenhuma votação neste filtro.</td></tr>';
+  $('#dvm').textContent=L.length>80?`Mostrando 80 de ${L.length}. Use a busca para achar uma votação específica.`:''};
+ $('#dvf').addEventListener('click',e=>{const b=e.target.closest('button');if(!b)return;f=b.dataset.f;$('#dvf').querySelectorAll('button').forEach(x=>x.setAttribute('aria-pressed',x===b));draw()});
+ $('#dvq').addEventListener('input',draw);
+ $('#dvt').addEventListener('click',e=>{const r=e.target.closest('tr[data-v]');if(r)openVot(r.dataset.v)});
+ draw();
+}
+
+function openVot(vid){
+ const v=F.votacoes.find(x=>x.id===vid);if(!v)return;
+ const deps=F.ordem.map((id,i)=>({d:byId[id],c:v.v[i]})).filter(x=>x.d);
+ const part={};deps.forEach(({d,c})=>{const p=part[d.partido]||(part[d.partido]={S:0,N:0,o:0});if(c==='S')p.S++;else if(c==='N')p.N++;else p.o++});
+ const pr=Object.entries(part).sort((a,b)=>(b[1].S+b[1].N+b[1].o)-(a[1].S+a[1].N+a[1].o));
+ const ufs=[...new Set(deps.map(x=>x.d.uf))].sort();
+ window.openSheet(`<div class="eyebrow">${fdate(v.data)} · Plenário da Câmara dos Deputados</div><h2 style="margin-top:6px">${esc(v.prop)}</h2>
+  <p style="margin:6px 0 10px">${esc(v.ementa)}</p><p class="sub">${esc(v.desc)}</p>
+  <div class="sec"><h3>Resultado: ${v.res}${v.gov?' · governo orientou '+esc(v.gov):''}</h3>${tally(v)}</div>
+  <div class="sec"><h3>Por partido</h3><div style="overflow-x:auto"><table class="vt num" style="cursor:default"><tr style="cursor:default"><td><b>Partido</b></td><td style="text-align:right"><b>Sim</b></td><td style="text-align:right"><b>Não</b></td><td style="text-align:right"><b>Outros / não votou</b></td></tr>${pr.map(([p,x])=>`<tr style="cursor:default"><td>${esc(p)}</td><td style="text-align:right;color:var(--sim)">${x.S}</td><td style="text-align:right;color:var(--nao)">${x.N}</td><td style="text-align:right">${x.o}</td></tr>`).join('')}</table></div></div>
+  <div class="sec"><h3>Quem votou em quê</h3><select id="vuf" aria-label="Estado" style="margin-bottom:12px"><option value="">Todos os estados</option>${ufs.map(u=>`<option ${u==='MG'?'selected':''}>${u}</option>`).join('')}</select><div id="vgr"></div></div>
+  ${v.pid?`<p class="sub"><a href="https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=${v.pid}" target="_blank" rel="noopener">Ver o projeto no site da Câmara ↗</a></p>`:''}`);
+ const draw=()=>{const u=$('#vuf').value;const L=deps.filter(x=>!u||x.d.uf===u);
+  const G=[['S','Votaram sim'],['N','Votaram não'],['A','Abstenção'],['O','Obstrução'],['P','Art. 17 (presidente, não vota)'],['-','Não votaram']];
+  $('#vgr').innerHTML=G.map(([k,lbl])=>{const g=L.filter(x=>(x.c||'-')===k).sort((a,b)=>a.d.nome.localeCompare(b.d.nome,'pt'));if(!g.length)return '';
+   const col=k==='S'?'var(--sim)':k==='N'?'var(--nao)':'var(--line)';
+   return `<div class="grp"><h4><span class="chip ${VCLS[k]}" style="min-width:0">${g.length}</span>${lbl}</h4><div class="faces">${g.map(({d})=>`<button class="face" data-id="${d.id}">${d.foto?`<img src="${d.foto}" alt="" loading="lazy" style="border-color:${col}">`:`<div class="ini" style="border-color:${col}">${esc(d.nome[0])}</div>`}<span class="fn">${esc(d.nome)}</span><span class="fp">${esc(d.partido)} · ${d.uf}</span></button>`).join('')}</div></div>`}).join('');
+  $('#vgr').querySelectorAll('.face').forEach(b=>b.addEventListener('click',()=>openDep(b.dataset.id)))};
+ $('#vuf').addEventListener('input',draw);draw();
+}
+})();
 </script>
 </body>
 </html>

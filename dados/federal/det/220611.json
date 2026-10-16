@@ -1,0 +1,37 @@
+{
+ "id": 220611,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220611",
+ "nomeCivil": "EDUARDO PAZUELLO",
+ "ultimoStatus": {
+  "id": 220611,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220611",
+  "nome": "General Pazuello",
+  "siglaPartido": "PL",
+  "uriPartido": null,
+  "siglaUf": "RJ",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220611.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "General Pazuello",
+  "gabinete": {
+   "nome": "919",
+   "predio": "4",
+   "sala": "919",
+   "andar": "9",
+   "telefone": "3215-5919",
+   "email": "dep.generalpazuello@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [],
+ "dataNascimento": "1963-07-19",
+ "dataFalecimento": null,
+ "ufNascimento": "RJ",
+ "municipioNascimento": "Rio de Janeiro",
+ "escolaridade": "Mestrado"
+}

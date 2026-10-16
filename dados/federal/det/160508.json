@@ -1,0 +1,37 @@
+{
+ "id": 160508,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160508",
+ "nomeCivil": "AFONSO BANDEIRA FLORENCE",
+ "ultimoStatus": {
+  "id": 160508,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160508",
+  "nome": "Afonso Florence",
+  "siglaPartido": "PT",
+  "uriPartido": null,
+  "siglaUf": "BA",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160508.jpg",
+  "email": null,
+  "data": "2026-04-01",
+  "nomeEleitoral": "Afonso Florence",
+  "gabinete": {
+   "nome": "305",
+   "predio": "4",
+   "sala": "305",
+   "andar": "3",
+   "telefone": "3215-5305",
+   "email": "dep.afonsoflorence@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": ""
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [],
+ "dataNascimento": "1960-10-15",
+ "dataFalecimento": null,
+ "ufNascimento": "BA",
+ "municipioNascimento": "Salvador",
+ "escolaridade": "Mestrado"
+}

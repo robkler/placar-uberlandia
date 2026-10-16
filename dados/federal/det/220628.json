@@ -1,0 +1,41 @@
+{
+ "id": 220628,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220628",
+ "nomeCivil": "MAURICIO LUIZ DE SOUZA",
+ "ultimoStatus": {
+  "id": 220628,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220628",
+  "nome": "Mauricio do Vôlei",
+  "siglaPartido": "PL",
+  "uriPartido": null,
+  "siglaUf": "MG",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220628.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Mauricio do Vôlei",
+  "gabinete": {
+   "nome": "539",
+   "predio": "4",
+   "sala": "539",
+   "andar": "5",
+   "telefone": "3215-5539",
+   "email": "dep.mauriciodovolei@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/mauriciodovolei",
+  "https://www.facebook.com/mauriciodovolei",
+  "https://www.instagram.com/mauriciodovolei"
+ ],
+ "dataNascimento": "1988-09-29",
+ "dataFalecimento": null,
+ "ufNascimento": "MG",
+ "municipioNascimento": "Iturama",
+ "escolaridade": "Superior Incompleto"
+}

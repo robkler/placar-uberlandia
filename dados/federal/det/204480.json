@@ -1,0 +1,42 @@
+{
+ "id": 204480,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204480",
+ "nomeCivil": "ROGÉRIO CORREIA DE MOURA BAPTISTA",
+ "ultimoStatus": {
+  "id": 204480,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204480",
+  "nome": "Rogério Correia",
+  "siglaPartido": "PT",
+  "uriPartido": null,
+  "siglaUf": "MG",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204480.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Rogério Correia",
+  "gabinete": {
+   "nome": "614",
+   "predio": "4",
+   "sala": "614",
+   "andar": "6",
+   "telefone": "3215-5614",
+   "email": "dep.rogeriocorreia@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/RogerioCorreia_",
+  "https://www.facebook.com/deputadorogeriocorreia",
+  "https://www.instagram.com/rogeriocorreia_",
+  "https://youtube.com/channel/UC6AVYYHC-GswIhS2xlYUb5g"
+ ],
+ "dataNascimento": "1958-01-11",
+ "dataFalecimento": null,
+ "ufNascimento": "MG",
+ "municipioNascimento": "Belo Horizonte",
+ "escolaridade": "Superior"
+}

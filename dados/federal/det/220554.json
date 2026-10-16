@@ -1,0 +1,37 @@
+{
+ "id": 220554,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220554",
+ "nomeCivil": "ALEXANDRE DUARTE LINDENMEYER",
+ "ultimoStatus": {
+  "id": 220554,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220554",
+  "nome": "Alexandre Lindenmeyer",
+  "siglaPartido": "PT",
+  "uriPartido": null,
+  "siglaUf": "RS",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220554.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Alexandre Lindenmeyer",
+  "gabinete": {
+   "nome": "452",
+   "predio": "4",
+   "sala": "452",
+   "andar": "4",
+   "telefone": "3215-5452",
+   "email": "dep.alexandrelindenmeyer@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [],
+ "dataNascimento": "1963-12-23",
+ "dataFalecimento": null,
+ "ufNascimento": "RS",
+ "municipioNascimento": "Rio Grande",
+ "escolaridade": "Superior"
+}

@@ -1,0 +1,42 @@
+{
+ "id": 204488,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204488",
+ "nomeCivil": "CELIO STUDART BARBOSA",
+ "ultimoStatus": {
+  "id": 204488,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204488",
+  "nome": "Célio Studart",
+  "siglaPartido": "PSD",
+  "uriPartido": null,
+  "siglaUf": "CE",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204488.jpg",
+  "email": null,
+  "data": "2024-03-27",
+  "nomeEleitoral": "Célio Studart",
+  "gabinete": {
+   "nome": "634",
+   "predio": "4",
+   "sala": "634",
+   "andar": "6",
+   "telefone": "3215-5634",
+   "email": "dep.celiostudart@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": "Ofício sn/2024, Dep. Célio Studart, de 27/3/2024."
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/CelioStudart",
+  "https://www.facebook.com/celio.studart",
+  "https://www.instagram.com/celiostudart",
+  "https://youtube.com/channel/UCHEI0XtQiyNwR5x7bVTewGQ"
+ ],
+ "dataNascimento": "1987-06-19",
+ "dataFalecimento": null,
+ "ufNascimento": "CE",
+ "municipioNascimento": "Fortaleza",
+ "escolaridade": "Superior"
+}

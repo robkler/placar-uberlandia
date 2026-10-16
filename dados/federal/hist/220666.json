@@ -1,0 +1,34 @@
+[
+ {
+  "id": 220666,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220666",
+  "nome": "Coronel Meira",
+  "nomeEleitoral": "CORONEL MEIRA",
+  "siglaPartido": "PL",
+  "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+  "siglaUf": "PE",
+  "idLegislatura": 57,
+  "email": null,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220666.jpg",
+  "dataHora": "2023-02-01T00:00",
+  "situacao": null,
+  "condicaoEleitoral": null,
+  "descricaoStatus": "Nome no início da legislatura / Partido no início da legislatura"
+ },
+ {
+  "id": 220666,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220666",
+  "nome": "Coronel Meira",
+  "nomeEleitoral": "CORONEL MEIRA",
+  "siglaPartido": "PL",
+  "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+  "siglaUf": "PE",
+  "idLegislatura": 57,
+  "email": null,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220666.jpg",
+  "dataHora": "2023-02-01T12:05",
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": "Entrada - Posse de Eleito Titular - Posse na Sessão Preparatória"
+ }
+]

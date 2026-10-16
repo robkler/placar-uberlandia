@@ -1,0 +1,37 @@
+{
+ "id": 220552,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220552",
+ "nomeCivil": "LUCIANO LORENZINI ZUCCO",
+ "ultimoStatus": {
+  "id": 220552,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220552",
+  "nome": "Zucco",
+  "siglaPartido": "PL",
+  "uriPartido": null,
+  "siglaUf": "RS",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220552.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Zucco",
+  "gabinete": {
+   "nome": "962",
+   "predio": "4",
+   "sala": "962",
+   "andar": "9",
+   "telefone": "3215-5962",
+   "email": "dep.zucco@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [],
+ "dataNascimento": "1974-03-09",
+ "dataFalecimento": null,
+ "ufNascimento": "RS",
+ "municipioNascimento": "Alegrete",
+ "escolaridade": "Mestrado"
+}

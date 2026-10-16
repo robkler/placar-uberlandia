@@ -1,0 +1,39 @@
+{
+ "id": 178975,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178975",
+ "nomeCivil": "LUIZ FELIPE BALEIA TENUTO ROSSI",
+ "ultimoStatus": {
+  "id": 178975,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178975",
+  "nome": "Baleia Rossi",
+  "siglaPartido": "MDB",
+  "uriPartido": null,
+  "siglaUf": "SP",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178975.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Baleia Rossi",
+  "gabinete": {
+   "nome": "829",
+   "predio": "4",
+   "sala": "829",
+   "andar": "8",
+   "telefone": "3215-5829",
+   "email": "dep.baleiarossi@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://www.instagram.com/baleia.rossi"
+ ],
+ "dataNascimento": "1972-06-09",
+ "dataFalecimento": null,
+ "ufNascimento": "SP",
+ "municipioNascimento": "São Paulo",
+ "escolaridade": "Superior"
+}

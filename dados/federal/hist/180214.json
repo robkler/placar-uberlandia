@@ -1,0 +1,34 @@
+[
+ {
+  "id": 180214,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/180214",
+  "nome": "Pastor Diniz",
+  "nomeEleitoral": "PASTOR DINIZ",
+  "siglaPartido": "UNIÃO",
+  "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/38009",
+  "siglaUf": "RR",
+  "idLegislatura": 57,
+  "email": null,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/180214.jpg",
+  "dataHora": "2023-02-01T00:00",
+  "situacao": null,
+  "condicaoEleitoral": null,
+  "descricaoStatus": "Nome no início da legislatura / Partido no início da legislatura"
+ },
+ {
+  "id": 180214,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/180214",
+  "nome": "Pastor Diniz",
+  "nomeEleitoral": "PASTOR DINIZ",
+  "siglaPartido": "UNIÃO",
+  "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/38009",
+  "siglaUf": "RR",
+  "idLegislatura": 57,
+  "email": null,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/180214.jpg",
+  "dataHora": "2023-02-01T12:05",
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": "Entrada - Posse de Eleito Titular - Posse na Sessão Preparatória"
+ }
+]

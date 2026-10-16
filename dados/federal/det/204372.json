@@ -1,0 +1,42 @@
+{
+ "id": 204372,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204372",
+ "nomeCivil": "JULIO CESAR RIBEIRO",
+ "ultimoStatus": {
+  "id": 204372,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204372",
+  "nome": "Julio Cesar Ribeiro",
+  "siglaPartido": "REPUBLICANOS",
+  "uriPartido": null,
+  "siglaUf": "DF",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204372.jpg",
+  "email": null,
+  "data": "2024-01-04",
+  "nomeEleitoral": "Julio Cesar Ribeiro",
+  "gabinete": {
+   "nome": "328",
+   "predio": "4",
+   "sala": "328",
+   "andar": "3",
+   "telefone": "3215-5328",
+   "email": "dep.juliocesarribeiro@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": ""
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/JulioCesarRib",
+  "https://www.facebook.com/JulioCesarRibeiro",
+  "https://www.instagram.com/juliocesarribeiro",
+  "https://youtube.com/JulioCesarRibeiro"
+ ],
+ "dataNascimento": "1975-02-24",
+ "dataFalecimento": null,
+ "ufNascimento": "SP",
+ "municipioNascimento": "São Bernardo do Campo",
+ "escolaridade": "Superior"
+}

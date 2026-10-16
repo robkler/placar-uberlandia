@@ -1,0 +1,41 @@
+{
+ "id": 220545,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220545",
+ "nomeCivil": "FILIPE MARTINS DOS SANTOS",
+ "ultimoStatus": {
+  "id": 220545,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220545",
+  "nome": "Filipe Martins",
+  "siglaPartido": "PL",
+  "uriPartido": null,
+  "siglaUf": "TO",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220545.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Filipe Martins",
+  "gabinete": {
+   "nome": "517",
+   "predio": "4",
+   "sala": "517",
+   "andar": "5",
+   "telefone": "3215-5517",
+   "email": "dep.filipemartins@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://www.facebook.com/filipemartinsto",
+  "https://www.instagram.com/filipemartinsto",
+  "https://youtube.com/filipemartinsto"
+ ],
+ "dataNascimento": "1984-04-01",
+ "dataFalecimento": null,
+ "ufNascimento": "GO",
+ "municipioNascimento": "Goiânia",
+ "escolaridade": "Superior"
+}

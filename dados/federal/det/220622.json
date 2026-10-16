@@ -1,0 +1,41 @@
+{
+ "id": 220622,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220622",
+ "nomeCivil": "NELI PEREIRA DE AQUINO",
+ "ultimoStatus": {
+  "id": 220622,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220622",
+  "nome": "Nely Aquino",
+  "siglaPartido": "PODE",
+  "uriPartido": null,
+  "siglaUf": "MG",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220622.jpg",
+  "email": null,
+  "data": "2026-03-19",
+  "nomeEleitoral": "Nely Aquino",
+  "gabinete": {
+   "nome": "943",
+   "predio": "4",
+   "sala": "943",
+   "andar": "9",
+   "telefone": "3215-5943",
+   "email": "dep.nelyaquino@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": ""
+ },
+ "sexo": "F",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://www.facebook.com/NelyAquinoOficial",
+  "https://www.instagram.com/nelyaquinooficial",
+  "https://youtube.com/NelyAquino"
+ ],
+ "dataNascimento": "1972-11-17",
+ "dataFalecimento": null,
+ "ufNascimento": "MG",
+ "municipioNascimento": "São Sebastião do Maranhão",
+ "escolaridade": "Superior Incompleto"
+}

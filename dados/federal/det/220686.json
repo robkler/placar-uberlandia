@@ -1,0 +1,41 @@
+{
+ "id": 220686,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220686",
+ "nomeCivil": "HILDELIS SILVA DUARTE JUNIOR",
+ "ultimoStatus": {
+  "id": 220686,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220686",
+  "nome": "Duarte Jr.",
+  "siglaPartido": "AVANTE",
+  "uriPartido": null,
+  "siglaUf": "MA",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220686.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Duarte Jr.",
+  "gabinete": {
+   "nome": "344",
+   "predio": "4",
+   "sala": "344",
+   "andar": "3",
+   "telefone": "3215-5344",
+   "email": "dep.duartejr@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/DuarteJr_",
+  "https://www.facebook.com/ProfessorDuarteJr",
+  "https://www.instagram.com/duartejr70"
+ ],
+ "dataNascimento": "1986-09-15",
+ "dataFalecimento": null,
+ "ufNascimento": "RJ",
+ "municipioNascimento": "Rio de Janeiro",
+ "escolaridade": "Doutorado Incompleto"
+}

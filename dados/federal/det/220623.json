@@ -1,0 +1,41 @@
+{
+ "id": 220623,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220623",
+ "nomeCivil": "DUDA SALABERT ROSA",
+ "ultimoStatus": {
+  "id": 220623,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220623",
+  "nome": "Duda Salabert",
+  "siglaPartido": "PSOL",
+  "uriPartido": null,
+  "siglaUf": "MG",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220623.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Duda Salabert",
+  "gabinete": {
+   "nome": "840",
+   "predio": "4",
+   "sala": "840",
+   "andar": "8",
+   "telefone": "3215-5840",
+   "email": "dep.dudasalabert@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "F",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/DudaSalabert",
+  "https://www.facebook.com/DudaSalabert",
+  "https://www.instagram.com/duda_salabert"
+ ],
+ "dataNascimento": "1981-05-02",
+ "dataFalecimento": null,
+ "ufNascimento": "MG",
+ "municipioNascimento": "Belo Horizonte",
+ "escolaridade": "Superior"
+}

@@ -1,0 +1,40 @@
+{
+ "id": 204427,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204427",
+ "nomeCivil": "FERNANDO RODOLFO TENORIO DE VASCONCELOS",
+ "ultimoStatus": {
+  "id": 204427,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204427",
+  "nome": "Fernando Rodolfo",
+  "siglaPartido": "PRD",
+  "uriPartido": null,
+  "siglaUf": "PE",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204427.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Fernando Rodolfo",
+  "gabinete": {
+   "nome": "554",
+   "predio": "4",
+   "sala": "554",
+   "andar": "5",
+   "telefone": "3215-5554",
+   "email": "dep.fernandorodolfo@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://www.facebook.com/FernandoRodolfoTV",
+  "https://www.instagram.com/fernandorodolfooficial"
+ ],
+ "dataNascimento": "1983-11-17",
+ "dataFalecimento": null,
+ "ufNascimento": "PE",
+ "municipioNascimento": "Garanhuns",
+ "escolaridade": "Superior"
+}

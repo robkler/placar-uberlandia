@@ -1,0 +1,37 @@
+{
+ "id": 204368,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204368",
+ "nomeCivil": "FÁBIO LUIZ SCHIOCHET FILHO",
+ "ultimoStatus": {
+  "id": 204368,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204368",
+  "nome": "Fabio Schiochet",
+  "siglaPartido": "UNIÃO",
+  "uriPartido": null,
+  "siglaUf": "SC",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204368.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Fabio Schiochet",
+  "gabinete": {
+   "nome": "758",
+   "predio": "4",
+   "sala": "758",
+   "andar": "7",
+   "telefone": "3215-5758",
+   "email": "dep.fabioschiochet@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [],
+ "dataNascimento": "1988-05-31",
+ "dataFalecimento": null,
+ "ufNascimento": "SC",
+ "municipioNascimento": "Jaraguá do Sul",
+ "escolaridade": "Superior"
+}

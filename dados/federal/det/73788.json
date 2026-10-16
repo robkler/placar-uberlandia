@@ -1,0 +1,41 @@
+{
+ "id": 73788,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/73788",
+ "nomeCivil": "RICARDO JOSÉ MAGALHÃES BARROS",
+ "ultimoStatus": {
+  "id": 73788,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/73788",
+  "nome": "Ricardo Barros",
+  "siglaPartido": "PP",
+  "uriPartido": null,
+  "siglaUf": "PR",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/73788.jpg",
+  "email": null,
+  "data": "2025-03-19",
+  "nomeEleitoral": "Ricardo Barros",
+  "gabinete": {
+   "nome": "412",
+   "predio": "4",
+   "sala": "412",
+   "andar": "4",
+   "telefone": "3215-5412",
+   "email": "dep.ricardobarros@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": ""
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://www.facebook.com/RicardoBarros",
+  "https://www.facebook.com/RicardoBarrosOficial",
+  "https://www.instagram.com/ricardobarros.oficial"
+ ],
+ "dataNascimento": "1959-11-15",
+ "dataFalecimento": null,
+ "ufNascimento": "PR",
+ "municipioNascimento": "Maringá",
+ "escolaridade": "Superior"
+}

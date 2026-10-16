@@ -1,0 +1,42 @@
+{
+ "id": 220605,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220605",
+ "nomeCivil": "EDUARDO CARVALHO BANDEIRA DE MELLO",
+ "ultimoStatus": {
+  "id": 220605,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220605",
+  "nome": "Bandeira de Mello",
+  "siglaPartido": "PV",
+  "uriPartido": null,
+  "siglaUf": "RJ",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220605.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Bandeira de Mello",
+  "gabinete": {
+   "nome": "804",
+   "predio": "4",
+   "sala": "804",
+   "andar": "8",
+   "telefone": "3215-5804",
+   "email": "dep.bandeirademello@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/mello_bandeira",
+  "https://www.facebook.com/eduardobandeirademello",
+  "https://www.instagram.com/eduardobandeirademello",
+  "https://youtube.com/bandeirademello.oficial"
+ ],
+ "dataNascimento": "1953-03-22",
+ "dataFalecimento": null,
+ "ufNascimento": "RJ",
+ "municipioNascimento": "Rio de Janeiro",
+ "escolaridade": "Superior"
+}

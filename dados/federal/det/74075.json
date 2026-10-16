@@ -1,0 +1,41 @@
+{
+ "id": 74075,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74075",
+ "nomeCivil": "ELCIONE THEREZINHA ZAHLUTH BARBALHO",
+ "ultimoStatus": {
+  "id": 74075,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74075",
+  "nome": "Elcione Barbalho",
+  "siglaPartido": "MDB",
+  "uriPartido": null,
+  "siglaUf": "PA",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74075.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Elcione Barbalho",
+  "gabinete": {
+   "nome": "216",
+   "predio": "4",
+   "sala": "216",
+   "andar": "2",
+   "telefone": "3215-5216",
+   "email": "dep.elcionebarbalho@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "F",
+ "urlWebsite": null,
+ "redeSocial": [
+  "http://twitter.com/elcionepmdb",
+  "http://www.facebook.com/elcionepmdb",
+  "https://www.instagram.com/elcionebarbalho"
+ ],
+ "dataNascimento": "1944-10-05",
+ "dataFalecimento": null,
+ "ufNascimento": "PA",
+ "municipioNascimento": "Belém",
+ "escolaridade": "Pós-Graduação"
+}

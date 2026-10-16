@@ -1,0 +1,41 @@
+{
+ "id": 88256,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/88256",
+ "nomeCivil": "CLODOALDO MAGALHÃES OLIVEIRA LYRA",
+ "ultimoStatus": {
+  "id": 88256,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/88256",
+  "nome": "Clodoaldo Magalhães",
+  "siglaPartido": "PV",
+  "uriPartido": null,
+  "siglaUf": "PE",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/88256.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Clodoaldo Magalhães",
+  "gabinete": {
+   "nome": "492",
+   "predio": "3",
+   "sala": "492",
+   "andar": null,
+   "telefone": "3215-5492",
+   "email": "dep.clodoaldomagalhaes@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/depclodoaldom",
+  "https://www.facebook.com/deputadoclodoaldomagalhaes",
+  "https://www.instagram.com/deputadoclodoaldomagalhaes"
+ ],
+ "dataNascimento": "1975-11-13",
+ "dataFalecimento": null,
+ "ufNascimento": "PE",
+ "municipioNascimento": "Palmares",
+ "escolaridade": "Superior"
+}

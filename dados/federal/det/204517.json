@@ -1,0 +1,40 @@
+{
+ "id": 204517,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204517",
+ "nomeCivil": "JOSE VITOR DE RESENDE AGUIAR",
+ "ultimoStatus": {
+  "id": 204517,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204517",
+  "nome": "Zé Vitor",
+  "siglaPartido": "PL",
+  "uriPartido": null,
+  "siglaUf": "MG",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204517.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Zé Vitor",
+  "gabinete": {
+   "nome": "525",
+   "predio": "4",
+   "sala": "525",
+   "andar": "5",
+   "telefone": "3215-5525",
+   "email": "dep.zevitor@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://www.facebook.com/zevitorMG",
+  "https://www.instagram.com/zevitormg"
+ ],
+ "dataNascimento": "1984-11-01",
+ "dataFalecimento": null,
+ "ufNascimento": "MG",
+ "municipioNascimento": "Araguari",
+ "escolaridade": "Superior"
+}

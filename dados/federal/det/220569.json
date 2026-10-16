@@ -1,0 +1,41 @@
+{
+ "id": 220569,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220569",
+ "nomeCivil": "SILVYE ALVES DA SILVA",
+ "ultimoStatus": {
+  "id": 220569,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220569",
+  "nome": "Silvye Alves",
+  "siglaPartido": "UNIÃO",
+  "uriPartido": null,
+  "siglaUf": "GO",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220569.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Silvye Alves",
+  "gabinete": {
+   "nome": "850",
+   "predio": "4",
+   "sala": "850",
+   "andar": "8",
+   "telefone": "3215-5850",
+   "email": "dep.silvyealves@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "F",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/silvyealves",
+  "https://www.facebook.com/SilvyeeAlves",
+  "https://www.instagram.com/silvyealves"
+ ],
+ "dataNascimento": "1980-11-08",
+ "dataFalecimento": null,
+ "ufNascimento": "GO",
+ "municipioNascimento": "Goiânia",
+ "escolaridade": "Superior"
+}

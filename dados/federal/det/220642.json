@@ -1,0 +1,41 @@
+{
+ "id": 220642,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220642",
+ "nomeCivil": "BRUNO MARCELLO DE OLIVEIRA LIMA",
+ "ultimoStatus": {
+  "id": 220642,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220642",
+  "nome": "Delegado Bruno Lima",
+  "siglaPartido": "PODE",
+  "uriPartido": null,
+  "siglaUf": "SP",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220642.jpg",
+  "email": null,
+  "data": "2024-08-01",
+  "nomeEleitoral": "Delegado Bruno Lima",
+  "gabinete": {
+   "nome": "933",
+   "predio": "4",
+   "sala": "933",
+   "andar": "9",
+   "telefone": "3215-5933",
+   "email": "dep.delegadobrunolima@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": ""
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/https:",
+  "https://www.facebook.com/profile.php",
+  "https://www.instagram.com/del.brunolima"
+ ],
+ "dataNascimento": "1986-08-25",
+ "dataFalecimento": null,
+ "ufNascimento": "SP",
+ "municipioNascimento": "São Paulo",
+ "escolaridade": "Pós-Graduação"
+}

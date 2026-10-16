@@ -1,0 +1,42 @@
+{
+ "id": 220602,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220602",
+ "nomeCivil": "DIMAS DE PAIVA GADELHA JUNIOR",
+ "ultimoStatus": {
+  "id": 220602,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220602",
+  "nome": "Dimas Gadelha",
+  "siglaPartido": "PT",
+  "uriPartido": null,
+  "siglaUf": "RJ",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220602.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Dimas Gadelha",
+  "gabinete": {
+   "nome": "512",
+   "predio": "4",
+   "sala": "512",
+   "andar": "5",
+   "telefone": "3215-5512",
+   "email": "dep.dimasgadelha@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/drdimasgadelha",
+  "https://www.facebook.com/dimasgadelha13",
+  "https://www.instagram.com/dimasgadelha13",
+  "https://youtube.com/channel/UCgGSnpuEXdYKaeE7ZyPgjqw"
+ ],
+ "dataNascimento": "1975-05-03",
+ "dataFalecimento": null,
+ "ufNascimento": "PB",
+ "municipioNascimento": "Sousa",
+ "escolaridade": "Pós-Graduação"
+}

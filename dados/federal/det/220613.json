@@ -1,0 +1,37 @@
+{
+ "id": 220613,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220613",
+ "nomeCivil": "ROBERTO LUIZ RODRIGUES DE OLIVEIRA",
+ "ultimoStatus": {
+  "id": 220613,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220613",
+  "nome": "Roberto Monteiro Pai",
+  "siglaPartido": "PL",
+  "uriPartido": null,
+  "siglaUf": "RJ",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220613.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Roberto Monteiro Pai",
+  "gabinete": {
+   "nome": "316",
+   "predio": "4",
+   "sala": "316",
+   "andar": "3",
+   "telefone": "3215-5316",
+   "email": "dep.robertomonteiropai@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [],
+ "dataNascimento": "1956-12-08",
+ "dataFalecimento": null,
+ "ufNascimento": "RJ",
+ "municipioNascimento": "Rio de Janeiro",
+ "escolaridade": "Superior Incompleto"
+}

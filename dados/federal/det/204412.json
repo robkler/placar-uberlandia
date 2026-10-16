@@ -1,0 +1,41 @@
+{
+ "id": 204412,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204412",
+ "nomeCivil": "ZACARIAS CALIL HAMU",
+ "ultimoStatus": {
+  "id": 204412,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204412",
+  "nome": "Dr. Zacharias Calil",
+  "siglaPartido": "MDB",
+  "uriPartido": null,
+  "siglaUf": "GO",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204412.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Dr. Zacharias Calil",
+  "gabinete": {
+   "nome": "616",
+   "predio": "4",
+   "sala": "616",
+   "andar": "6",
+   "telefone": "3215-5616",
+   "email": "dep.dr.zachariascalil@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/zachariascalil",
+  "https://www.facebook.com/drzachariascalil",
+  "https://www.instagram.com/drzachariascalil"
+ ],
+ "dataNascimento": "1953-11-05",
+ "dataFalecimento": null,
+ "ufNascimento": "GO",
+ "municipioNascimento": "Goiânia",
+ "escolaridade": "Superior"
+}

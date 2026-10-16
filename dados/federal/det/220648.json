@@ -1,0 +1,42 @@
+{
+ "id": 220648,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220648",
+ "nomeCivil": "FERNANDO JOSE DE SOUZA MARANGONI",
+ "ultimoStatus": {
+  "id": 220648,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220648",
+  "nome": "Marangoni",
+  "siglaPartido": "PODE",
+  "uriPartido": null,
+  "siglaUf": "SP",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220648.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Marangoni",
+  "gabinete": {
+   "nome": "609",
+   "predio": "4",
+   "sala": "609",
+   "andar": "6",
+   "telefone": "3215-5609",
+   "email": "dep.marangoni@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/marangoni_fer",
+  "https://www.facebook.com/marangoni.oficial",
+  "https://www.instagram.com/marangoni.oficial",
+  "https://www.youtube.com/@fernandomarangoni99/"
+ ],
+ "dataNascimento": "1980-01-22",
+ "dataFalecimento": null,
+ "ufNascimento": "SP",
+ "municipioNascimento": "São Paulo",
+ "escolaridade": "Doutorado"
+}

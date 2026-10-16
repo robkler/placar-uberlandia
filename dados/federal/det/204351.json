@@ -1,0 +1,42 @@
+{
+ "id": 204351,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204351",
+ "nomeCivil": "LUIZ ALBERTO OVANDO",
+ "ultimoStatus": {
+  "id": 204351,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204351",
+  "nome": "Dr. Luiz Ovando",
+  "siglaPartido": "PP",
+  "uriPartido": null,
+  "siglaUf": "MS",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204351.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Dr. Luiz Ovando",
+  "gabinete": {
+   "nome": "644",
+   "predio": "4",
+   "sala": "644",
+   "andar": "6",
+   "telefone": "3215-5644",
+   "email": "dep.dr.luizovando@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/drluizovando",
+  "https://www.facebook.com/drluizovando",
+  "https://www.instagram.com/drluizovando",
+  "https://youtube.com/channel/UCQ1v5nEfElt-ztWZkpxZdBQ"
+ ],
+ "dataNascimento": "1949-09-25",
+ "dataFalecimento": null,
+ "ufNascimento": "MS",
+ "municipioNascimento": "Corumbá",
+ "escolaridade": "Superior"
+}

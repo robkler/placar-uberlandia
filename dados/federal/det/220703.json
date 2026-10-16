@@ -1,0 +1,41 @@
+{
+ "id": 220703,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220703",
+ "nomeCivil": "ORLANDO SULZ DE ALMEIDA NETO",
+ "ultimoStatus": {
+  "id": 220703,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220703",
+  "nome": "Neto Carletto",
+  "siglaPartido": "AVANTE",
+  "uriPartido": null,
+  "siglaUf": "BA",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220703.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Neto Carletto",
+  "gabinete": {
+   "nome": "262",
+   "predio": "4",
+   "sala": "262",
+   "andar": "2",
+   "telefone": "3215-5262",
+   "email": "dep.netocarletto@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/carlettoneto",
+  "https://www.facebook.com/netocarletto",
+  "https://www.instagram.com/netocarletto"
+ ],
+ "dataNascimento": "1996-05-28",
+ "dataFalecimento": null,
+ "ufNascimento": "BA",
+ "municipioNascimento": "Teixeira de Freitas",
+ "escolaridade": "Superior"
+}

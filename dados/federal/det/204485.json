@@ -1,0 +1,42 @@
+{
+ "id": 204485,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204485",
+ "nomeCivil": "LUIZ CARLOS MOTTA",
+ "ultimoStatus": {
+  "id": 204485,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204485",
+  "nome": "Luiz Carlos Motta",
+  "siglaPartido": "PL",
+  "uriPartido": null,
+  "siglaUf": "SP",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204485.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Luiz Carlos Motta",
+  "gabinete": {
+   "nome": "818",
+   "predio": "4",
+   "sala": "818",
+   "andar": "8",
+   "telefone": "3215-5818",
+   "email": "dep.luizcarlosmotta@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/deputadomotta",
+  "https://www.facebook.com/mottadoscomerciarios",
+  "https://www.instagram.com/deputadomotta",
+  "https://www.youtube.com/@DeputadoMotta"
+ ],
+ "dataNascimento": "1959-04-24",
+ "dataFalecimento": null,
+ "ufNascimento": "SP",
+ "municipioNascimento": "Ribeirão Preto",
+ "escolaridade": "Superior"
+}

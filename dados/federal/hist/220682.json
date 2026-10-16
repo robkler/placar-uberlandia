@@ -1,0 +1,34 @@
+[
+ {
+  "id": 220682,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220682",
+  "nome": "Tadeu Veneri",
+  "nomeEleitoral": "TADEU VENERI",
+  "siglaPartido": "PT",
+  "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36844",
+  "siglaUf": "PR",
+  "idLegislatura": 57,
+  "email": null,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220682.jpg",
+  "dataHora": "2023-02-01T00:00",
+  "situacao": null,
+  "condicaoEleitoral": null,
+  "descricaoStatus": "Nome no início da legislatura / Partido no início da legislatura"
+ },
+ {
+  "id": 220682,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220682",
+  "nome": "Tadeu Veneri",
+  "nomeEleitoral": "TADEU VENERI",
+  "siglaPartido": "PT",
+  "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36844",
+  "siglaUf": "PR",
+  "idLegislatura": 57,
+  "email": null,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220682.jpg",
+  "dataHora": "2023-02-01T12:05",
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": "Entrada - Posse de Eleito Titular - Posse na Sessão Preparatória"
+ }
+]

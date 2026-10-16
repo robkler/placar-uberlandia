@@ -1,0 +1,41 @@
+{
+ "id": 178964,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178964",
+ "nomeCivil": "HEITOR JOSE SCHUCH",
+ "ultimoStatus": {
+  "id": 178964,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178964",
+  "nome": "Heitor Schuch",
+  "siglaPartido": "PSD",
+  "uriPartido": null,
+  "siglaUf": "RS",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178964.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Heitor Schuch",
+  "gabinete": {
+   "nome": "680",
+   "predio": "3",
+   "sala": "680",
+   "andar": null,
+   "telefone": "3215-5680",
+   "email": "dep.heitorschuch@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/HeitorSchuch",
+  "https://www.facebook.com/heitorschuchoficial",
+  "https://www.instagram.com/heitorschuch"
+ ],
+ "dataNascimento": "1962-03-25",
+ "dataFalecimento": null,
+ "ufNascimento": "RS",
+ "municipioNascimento": "Santa Cruz do Sul",
+ "escolaridade": "Superior Incompleto"
+}

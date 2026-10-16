@@ -1,0 +1,42 @@
+{
+ "id": 178887,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178887",
+ "nomeCivil": "RUBENS PEREIRA E SILVA JUNIOR",
+ "ultimoStatus": {
+  "id": 178887,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178887",
+  "nome": "Rubens Pereira Júnior",
+  "siglaPartido": "PT",
+  "uriPartido": null,
+  "siglaUf": "MA",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178887.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Rubens Pereira Júnior",
+  "gabinete": {
+   "nome": "773",
+   "predio": "3",
+   "sala": "773",
+   "andar": null,
+   "telefone": "3215-5773",
+   "email": "dep.rubenspereirajunior@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/https:",
+  "https://www.facebook.com/share",
+  "https://www.instagram.com/rubenspereirajr",
+  "https://youtube.com/channel/UCovkVrGdzXbAHaV6ODAWbeA"
+ ],
+ "dataNascimento": "1984-03-16",
+ "dataFalecimento": null,
+ "ufNascimento": "MA",
+ "municipioNascimento": "São Luís",
+ "escolaridade": "Superior"
+}

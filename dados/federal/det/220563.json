@@ -1,0 +1,40 @@
+{
+ "id": 220563,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220563",
+ "nomeCivil": "ICARO BARBOSA COSTA",
+ "ultimoStatus": {
+  "id": 220563,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220563",
+  "nome": "Icaro de Valmir",
+  "siglaPartido": "REPUBLICANOS",
+  "uriPartido": null,
+  "siglaUf": "SE",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220563.jpg",
+  "email": null,
+  "data": "2024-11-04",
+  "nomeEleitoral": "Icaro de Valmir",
+  "gabinete": {
+   "nome": "878",
+   "predio": "3",
+   "sala": "878",
+   "andar": null,
+   "telefone": "3215-5878",
+   "email": "dep.icarodevalmir@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": ""
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/icarodevalmir",
+  "https://www.instagram.com/icarodevalmir"
+ ],
+ "dataNascimento": "2001-04-10",
+ "dataFalecimento": null,
+ "ufNascimento": "SE",
+ "municipioNascimento": "Itabaiana",
+ "escolaridade": "Ensino Médio"
+}

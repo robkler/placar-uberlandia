@@ -1,0 +1,37 @@
+{
+ "id": 74156,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74156",
+ "nomeCivil": "JOSÉ LEONARDO COSTA MONTEIRO",
+ "ultimoStatus": {
+  "id": 74156,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74156",
+  "nome": "Leonardo Monteiro",
+  "siglaPartido": "PT",
+  "uriPartido": null,
+  "siglaUf": "MG",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74156.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Leonardo Monteiro",
+  "gabinete": {
+   "nome": "922",
+   "predio": "4",
+   "sala": "922",
+   "andar": "9",
+   "telefone": "3215-5922",
+   "email": "dep.leonardomonteiro@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [],
+ "dataNascimento": "1951-10-09",
+ "dataFalecimento": null,
+ "ufNascimento": "MG",
+ "municipioNascimento": "Governador Valadares",
+ "escolaridade": "Superior"
+}

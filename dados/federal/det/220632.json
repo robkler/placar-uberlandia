@@ -1,0 +1,37 @@
+{
+ "id": 220632,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220632",
+ "nomeCivil": "ANA CRISTINA DE LIMA PIMENTEL",
+ "ultimoStatus": {
+  "id": 220632,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220632",
+  "nome": "Ana Pimentel",
+  "siglaPartido": "PT",
+  "uriPartido": null,
+  "siglaUf": "MG",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220632.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Ana Pimentel",
+  "gabinete": {
+   "nome": "234",
+   "predio": "4",
+   "sala": "234",
+   "andar": "2",
+   "telefone": "3215-5234",
+   "email": "dep.anapimentel@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "F",
+ "urlWebsite": null,
+ "redeSocial": [],
+ "dataNascimento": "1982-05-15",
+ "dataFalecimento": null,
+ "ufNascimento": "MG",
+ "municipioNascimento": "Congonhas",
+ "escolaridade": "Doutorado"
+}

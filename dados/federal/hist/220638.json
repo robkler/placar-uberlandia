@@ -1,0 +1,50 @@
+[
+ {
+  "id": 220638,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220638",
+  "nome": "Antonio Carlos Rodrigues",
+  "nomeEleitoral": "ANTONIO CARLOS RODRIGUES",
+  "siglaPartido": "PL",
+  "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+  "siglaUf": "SP",
+  "idLegislatura": 57,
+  "email": null,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220638.jpg",
+  "dataHora": "2023-02-01T00:00",
+  "situacao": null,
+  "condicaoEleitoral": null,
+  "descricaoStatus": "Nome no início da legislatura / Partido no início da legislatura"
+ },
+ {
+  "id": 220638,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220638",
+  "nome": "Antonio Carlos Rodrigues",
+  "nomeEleitoral": "ANTONIO CARLOS RODRIGUES",
+  "siglaPartido": "PL",
+  "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+  "siglaUf": "SP",
+  "idLegislatura": 57,
+  "email": null,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220638.jpg",
+  "dataHora": "2023-02-01T12:05",
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": "Entrada - Posse de Eleito Titular - Posse na Sessão Preparatória"
+ },
+ {
+  "id": 220638,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220638",
+  "nome": "Antonio Carlos Rodrigues",
+  "nomeEleitoral": "ANTONIO CARLOS RODRIGUES",
+  "siglaPartido": "PODE",
+  "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36896",
+  "siglaUf": "SP",
+  "idLegislatura": 57,
+  "email": null,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220638.jpg",
+  "dataHora": "2026-05-15T10:00",
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": "Alteração de partido"
+ }
+]

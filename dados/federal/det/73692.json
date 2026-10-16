@@ -1,0 +1,42 @@
+{
+ "id": 73692,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/73692",
+ "nomeCivil": "OSMAR GASPARINI TERRA",
+ "ultimoStatus": {
+  "id": 73692,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/73692",
+  "nome": "Osmar Terra",
+  "siglaPartido": "PL",
+  "uriPartido": null,
+  "siglaUf": "RS",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/73692.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Osmar Terra",
+  "gabinete": {
+   "nome": "927",
+   "predio": "4",
+   "sala": "927",
+   "andar": "9",
+   "telefone": "3215-5927",
+   "email": "dep.osmarterra@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/OsmarTerra",
+  "https://www.facebook.com/DeputadoOsmarTerra",
+  "https://www.instagram.com/terra.osmar",
+  "https://youtube.com/channel/UCZdKvhFxyXQm-JmyvHUYojA"
+ ],
+ "dataNascimento": "1950-02-18",
+ "dataFalecimento": null,
+ "ufNascimento": "RS",
+ "municipioNascimento": "Porto Alegre",
+ "escolaridade": "Pós-Graduação"
+}

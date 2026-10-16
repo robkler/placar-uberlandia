@@ -1,0 +1,39 @@
+{
+ "id": 220592,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220592",
+ "nomeCivil": "JOSÉ ESTEPHAN AMORIM BARBARY FILHO",
+ "ultimoStatus": {
+  "id": 220592,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220592",
+  "nome": "Zezinho Barbary",
+  "siglaPartido": "PP",
+  "uriPartido": null,
+  "siglaUf": "AC",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220592.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Zezinho Barbary",
+  "gabinete": {
+   "nome": "239",
+   "predio": "4",
+   "sala": "239",
+   "andar": "2",
+   "telefone": "3215-5239",
+   "email": "dep.zezinhobarbary@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://www.facebook.com/ZezinhoBarbary"
+ ],
+ "dataNascimento": "1966-05-28",
+ "dataFalecimento": null,
+ "ufNascimento": "AC",
+ "municipioNascimento": "Porto Walter",
+ "escolaridade": "Ensino Fundamental"
+}

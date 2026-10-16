@@ -1,0 +1,41 @@
+{
+ "id": 160592,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160592",
+ "nomeCivil": "JOSÉ CARLOS BECKER DE OLIVEIRA E SILVA",
+ "ultimoStatus": {
+  "id": 160592,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160592",
+  "nome": "Zeca Dirceu",
+  "siglaPartido": "PT",
+  "uriPartido": null,
+  "siglaUf": "PR",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160592.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Zeca Dirceu",
+  "gabinete": {
+   "nome": "613",
+   "predio": "4",
+   "sala": "613",
+   "andar": "6",
+   "telefone": "3215-5613",
+   "email": "dep.zecadirceu@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "http://www.twitter.com/zeca_dirceu",
+  "https://www.facebook.com/deputadofederalzecadirceu/",
+  "https://www.instagram.com/zecadirceuoficial"
+ ],
+ "dataNascimento": "1978-06-21",
+ "dataFalecimento": null,
+ "ufNascimento": "PR",
+ "municipioNascimento": "Umuarama",
+ "escolaridade": "Superior"
+}

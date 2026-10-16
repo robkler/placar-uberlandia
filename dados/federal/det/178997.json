@@ -1,0 +1,41 @@
+{
+ "id": 178997,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178997",
+ "nomeCivil": "MOSES HAENDEL MELO RODRIGUES",
+ "ultimoStatus": {
+  "id": 178997,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178997",
+  "nome": "Moses Rodrigues",
+  "siglaPartido": "UNIÃO",
+  "uriPartido": null,
+  "siglaUf": "CE",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178997.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Moses Rodrigues",
+  "gabinete": {
+   "nome": "809",
+   "predio": "4",
+   "sala": "809",
+   "andar": "8",
+   "telefone": "3215-5809",
+   "email": "dep.mosesrodrigues@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/DepFederalMoses",
+  "https://www.facebook.com/MosesRodriguesOficial",
+  "https://www.instagram.com/mosesrodriguesoficial"
+ ],
+ "dataNascimento": "1978-06-06",
+ "dataFalecimento": null,
+ "ufNascimento": "CE",
+ "municipioNascimento": "Sobral",
+ "escolaridade": "Doutorado"
+}

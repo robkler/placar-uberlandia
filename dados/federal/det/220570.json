@@ -1,0 +1,41 @@
+{
+ "id": 220570,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220570",
+ "nomeCivil": "ISMAEL ALEXANDRINO JUNIOR",
+ "ultimoStatus": {
+  "id": 220570,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220570",
+  "nome": "Dr. Ismael Alexandrino",
+  "siglaPartido": "PSD",
+  "uriPartido": null,
+  "siglaUf": "GO",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220570.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Dr. Ismael Alexandrino",
+  "gabinete": {
+   "nome": "854",
+   "predio": "4",
+   "sala": "854",
+   "andar": "8",
+   "telefone": "3215-5854",
+   "email": "dep.dr.ismaelalexandrino@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/IsmAlexandrino",
+  "https://www.facebook.com/IsmaelAlexandrino",
+  "https://www.instagram.com/ismael.alexandrino"
+ ],
+ "dataNascimento": "1983-07-26",
+ "dataFalecimento": null,
+ "ufNascimento": "GO",
+ "municipioNascimento": "São Luís de Montes Belos",
+ "escolaridade": "Pós-Graduação"
+}

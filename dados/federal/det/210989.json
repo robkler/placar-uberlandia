@@ -1,0 +1,40 @@
+{
+ "id": 210989,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/210989",
+ "nomeCivil": "BRUNO SOUZA FARIAS",
+ "ultimoStatus": {
+  "id": 210989,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/210989",
+  "nome": "Bruno Farias",
+  "siglaPartido": "REPUBLICANOS",
+  "uriPartido": null,
+  "siglaUf": "MG",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/210989.jpg",
+  "email": null,
+  "data": "2023-02-01",
+  "nomeEleitoral": "Bruno Farias",
+  "gabinete": {
+   "nome": "637",
+   "predio": "4",
+   "sala": "637",
+   "andar": "6",
+   "telefone": "3215-5637",
+   "email": "dep.brunofarias@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": null
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://www.facebook.com/brunofariasmg",
+  "https://www.instagram.com/brunofariasmg"
+ ],
+ "dataNascimento": "1982-10-07",
+ "dataFalecimento": null,
+ "ufNascimento": "MG",
+ "municipioNascimento": "Teófilo Otoni",
+ "escolaridade": "Mestrado"
+}

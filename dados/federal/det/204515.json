@@ -1,0 +1,42 @@
+{
+ "id": 204515,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204515",
+ "nomeCivil": "ANDRE LUIS GASPAR JANONES",
+ "ultimoStatus": {
+  "id": 204515,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204515",
+  "nome": "André Janones",
+  "siglaPartido": "REDE",
+  "uriPartido": null,
+  "siglaUf": "MG",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204515.jpg",
+  "email": null,
+  "data": "2025-10-16",
+  "nomeEleitoral": "André Janones",
+  "gabinete": {
+   "nome": "687",
+   "predio": "3",
+   "sala": "687",
+   "andar": null,
+   "telefone": "3215-5687",
+   "email": "dep.andrejanones@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": ""
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/AndreJanonesAdv",
+  "https://www.facebook.com/andrejanones",
+  "https://www.instagram.com/andrejanones",
+  "https://youtube.com/AndreJanonesAdv"
+ ],
+ "dataNascimento": "1984-05-05",
+ "dataFalecimento": null,
+ "ufNascimento": "MG",
+ "municipioNascimento": "Ituiutaba",
+ "escolaridade": "Superior"
+}
