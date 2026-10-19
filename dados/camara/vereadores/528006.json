@@ -26,7 +26,7 @@
  "cod_autor": "528006",
  "comissoes": [
   {
-   "@id": "http://camara-prod_backend:8080/Plone/vereadores/comissoes/22",
+   "@id": "https://www.camarauberlandia.mg.gov.br/vereadores/comissoes/22",
    "@type": "ParticipanteComissao",
    "cod_cargo": 10,
    "comissao": "Comissão Especial",
@@ -38,7 +38,7 @@
    "title": "ad hoc"
   },
   {
-   "@id": "http://camara-prod_backend:8080/Plone/vereadores/comissoes/3",
+   "@id": "https://www.camarauberlandia.mg.gov.br/vereadores/comissoes/3",
    "@type": "ParticipanteComissao",
    "cod_cargo": 1,
    "comissao": "Comissão de Legislação, Justiça e Redação",
@@ -50,7 +50,7 @@
    "title": "Presidente"
   },
   {
-   "@id": "http://camara-prod_backend:8080/Plone/vereadores/comissoes/12",
+   "@id": "https://www.camarauberlandia.mg.gov.br/vereadores/comissoes/12",
    "@type": "ParticipanteComissao",
    "cod_cargo": 1,
    "comissao": "Comissão de Administração Pública",
@@ -62,7 +62,7 @@
    "title": "Presidente"
   },
   {
-   "@id": "http://camara-prod_backend:8080/Plone/vereadores/comissoes/17",
+   "@id": "https://www.camarauberlandia.mg.gov.br/vereadores/comissoes/17",
    "@type": "ParticipanteComissao",
    "cod_cargo": 7,
    "comissao": "Comissão de Promoção da Igualdade Racial",
@@ -74,7 +74,7 @@
    "title": "Relator"
   },
   {
-   "@id": "http://camara-prod_backend:8080/Plone/vereadores/comissoes/5",
+   "@id": "https://www.camarauberlandia.mg.gov.br/vereadores/comissoes/5",
    "@type": "ParticipanteComissao",
    "cod_cargo": 9,
    "comissao": "Comissão de Finanças, Orçamento e Tributos",
@@ -86,7 +86,7 @@
    "title": "Suplente"
   },
   {
-   "@id": "http://camara-prod_backend:8080/Plone/vereadores/comissoes/25",
+   "@id": "https://www.camarauberlandia.mg.gov.br/vereadores/comissoes/25",
    "@type": "ParticipanteComissao",
    "cod_cargo": 9,
    "comissao": "Comissão de Micro e Pequenas Empresas",
@@ -98,7 +98,7 @@
    "title": "Suplente"
   },
   {
-   "@id": "http://camara-prod_backend:8080/Plone/vereadores/comissoes/27",
+   "@id": "https://www.camarauberlandia.mg.gov.br/vereadores/comissoes/27",
    "@type": "ParticipanteComissao",
    "cod_cargo": 9,
    "comissao": "Comissão de Inovação, Tecnologia e Juventude",
@@ -110,7 +110,7 @@
    "title": "Suplente"
   },
   {
-   "@id": "http://camara-prod_backend:8080/Plone/vereadores/comissoes/31",
+   "@id": "https://www.camarauberlandia.mg.gov.br/vereadores/comissoes/31",
    "@type": "ParticipanteComissao",
    "cod_cargo": 9,
    "comissao": "Comissão de Diversidade",
@@ -122,7 +122,7 @@
    "title": "Suplente"
   },
   {
-   "@id": "http://camara-prod_backend:8080/Plone/vereadores/comissoes/28",
+   "@id": "https://www.camarauberlandia.mg.gov.br/vereadores/comissoes/28",
    "@type": "ParticipanteComissao",
    "cod_cargo": 9,
    "comissao": "Comissão de Ética e Decoro Parlamentar",
@@ -134,7 +134,7 @@
    "title": "Suplente"
   },
   {
-   "@id": "http://camara-prod_backend:8080/Plone/vereadores/comissoes/3",
+   "@id": "https://www.camarauberlandia.mg.gov.br/vereadores/comissoes/3",
    "@type": "ParticipanteComissao",
    "cod_cargo": 1,
    "comissao": "Comissão de Legislação, Justiça e Redação",
@@ -146,7 +146,7 @@
    "title": "Presidente"
   },
   {
-   "@id": "http://camara-prod_backend:8080/Plone/vereadores/comissoes/4",
+   "@id": "https://www.camarauberlandia.mg.gov.br/vereadores/comissoes/4",
    "@type": "ParticipanteComissao",
    "cod_cargo": 7,
    "comissao": "Comissão de Saúde e Saneamento",
@@ -158,7 +158,7 @@
    "title": "Relator"
   },
   {
-   "@id": "http://camara-prod_backend:8080/Plone/vereadores/comissoes/12",
+   "@id": "https://www.camarauberlandia.mg.gov.br/vereadores/comissoes/12",
    "@type": "ParticipanteComissao",
    "cod_cargo": 8,
    "comissao": "Comissão de Administração Pública",
@@ -170,7 +170,7 @@
    "title": "Membro"
   },
   {
-   "@id": "http://camara-prod_backend:8080/Plone/vereadores/comissoes/22",
+   "@id": "https://www.camarauberlandia.mg.gov.br/vereadores/comissoes/22",
    "@type": "ParticipanteComissao",
    "cod_cargo": 8,
    "comissao": "Comissão Especial",
@@ -182,7 +182,7 @@
    "title": "Membro"
   },
   {
-   "@id": "http://camara-prod_backend:8080/Plone/vereadores/comissoes/26",
+   "@id": "https://www.camarauberlandia.mg.gov.br/vereadores/comissoes/26",
    "@type": "ParticipanteComissao",
    "cod_cargo": 9,
    "comissao": "Comissão de Esporte, Lazer e Paradesporto",
@@ -194,7 +194,7 @@
    "title": "Suplente"
   },
   {
-   "@id": "http://camara-prod_backend:8080/Plone/vereadores/comissoes/32",
+   "@id": "https://www.camarauberlandia.mg.gov.br/vereadores/comissoes/32",
    "@type": "ParticipanteComissao",
    "cod_cargo": 9,
    "comissao": "Comissão de Políticas Públicas de Prevenção, Combate e Enfrentamento ao Câncer",
@@ -206,7 +206,7 @@
    "title": "Suplente"
   },
   {
-   "@id": "http://camara-prod_backend:8080/Plone/vereadores/comissoes/12",
+   "@id": "https://www.camarauberlandia.mg.gov.br/vereadores/comissoes/12",
    "@type": "ParticipanteComissao",
    "cod_cargo": 1,
    "comissao": "Comissão de Administração Pública",
@@ -218,7 +218,7 @@
    "title": "Presidente"
   },
   {
-   "@id": "http://camara-prod_backend:8080/Plone/vereadores/comissoes/29",
+   "@id": "https://www.camarauberlandia.mg.gov.br/vereadores/comissoes/29",
    "@type": "ParticipanteComissao",
    "cod_cargo": 7,
    "comissao": "Comissão da Pessoa com Deficiência e da Pessoa com Doença Rara",
@@ -230,7 +230,7 @@
    "title": "Relator"
   },
   {
-   "@id": "http://camara-prod_backend:8080/Plone/vereadores/comissoes/28",
+   "@id": "https://www.camarauberlandia.mg.gov.br/vereadores/comissoes/28",
    "@type": "ParticipanteComissao",
    "cod_cargo": 7,
    "comissao": "Comissão de Ética e Decoro Parlamentar",
@@ -242,7 +242,7 @@
    "title": "Relator"
   },
   {
-   "@id": "http://camara-prod_backend:8080/Plone/vereadores/comissoes/13",
+   "@id": "https://www.camarauberlandia.mg.gov.br/vereadores/comissoes/13",
    "@type": "ParticipanteComissao",
    "cod_cargo": 9,
    "comissao": "Comissão de Indústria, Comércio, Turismo e Trabalho",
@@ -254,7 +254,7 @@
    "title": "Suplente"
   },
   {
-   "@id": "http://camara-prod_backend:8080/Plone/vereadores/comissoes/22",
+   "@id": "https://www.camarauberlandia.mg.gov.br/vereadores/comissoes/22",
    "@type": "ParticipanteComissao",
    "cod_cargo": 8,
    "comissao": "Comissão Especial",
@@ -266,7 +266,7 @@
    "title": "Membro"
   },
   {
-   "@id": "http://camara-prod_backend:8080/Plone/vereadores/comissoes/29",
+   "@id": "https://www.camarauberlandia.mg.gov.br/vereadores/comissoes/29",
    "@type": "ParticipanteComissao",
    "cod_cargo": 7,
    "comissao": "Comissão da Pessoa com Deficiência e da Pessoa com Doença Rara",
@@ -278,7 +278,7 @@
    "title": "Relator"
   },
   {
-   "@id": "http://camara-prod_backend:8080/Plone/vereadores/comissoes/4",
+   "@id": "https://www.camarauberlandia.mg.gov.br/vereadores/comissoes/4",
    "@type": "ParticipanteComissao",
    "cod_cargo": 9,
    "comissao": "Comissão de Saúde e Saneamento",
@@ -290,7 +290,7 @@
    "title": "Suplente"
   },
   {
-   "@id": "http://camara-prod_backend:8080/Plone/vereadores/comissoes/13",
+   "@id": "https://www.camarauberlandia.mg.gov.br/vereadores/comissoes/13",
    "@type": "ParticipanteComissao",
    "cod_cargo": 9,
    "comissao": "Comissão de Indústria, Comércio, Turismo e Trabalho",
@@ -302,7 +302,7 @@
    "title": "Suplente"
   },
   {
-   "@id": "http://camara-prod_backend:8080/Plone/vereadores/comissoes/28",
+   "@id": "https://www.camarauberlandia.mg.gov.br/vereadores/comissoes/28",
    "@type": "ParticipanteComissao",
    "cod_cargo": 7,
    "comissao": "Comissão de Ética e Decoro Parlamentar",
@@ -314,7 +314,7 @@
    "title": "Relator"
   },
   {
-   "@id": "http://camara-prod_backend:8080/Plone/vereadores/comissoes/13",
+   "@id": "https://www.camarauberlandia.mg.gov.br/vereadores/comissoes/13",
    "@type": "ParticipanteComissao",
    "cod_cargo": 1,
    "comissao": "Comissão de Indústria, Comércio, Turismo e Trabalho",
@@ -326,7 +326,7 @@
    "title": "Presidente"
   },
   {
-   "@id": "http://camara-prod_backend:8080/Plone/vereadores/comissoes/17",
+   "@id": "https://www.camarauberlandia.mg.gov.br/vereadores/comissoes/17",
    "@type": "ParticipanteComissao",
    "cod_cargo": 1,
    "comissao": "Comissão de Promoção da Igualdade Racial",
@@ -338,7 +338,7 @@
    "title": "Presidente"
   },
   {
-   "@id": "http://camara-prod_backend:8080/Plone/vereadores/comissoes/25",
+   "@id": "https://www.camarauberlandia.mg.gov.br/vereadores/comissoes/25",
    "@type": "ParticipanteComissao",
    "cod_cargo": 7,
    "comissao": "Comissão de Micro e Pequenas Empresas",
@@ -350,7 +350,7 @@
    "title": "Relator"
   },
   {
-   "@id": "http://camara-prod_backend:8080/Plone/vereadores/comissoes/26",
+   "@id": "https://www.camarauberlandia.mg.gov.br/vereadores/comissoes/26",
    "@type": "ParticipanteComissao",
    "cod_cargo": 7,
    "comissao": "Comissão de Esporte, Lazer e Paradesporto",
@@ -362,7 +362,7 @@
    "title": "Relator"
   },
   {
-   "@id": "http://camara-prod_backend:8080/Plone/vereadores/comissoes/16",
+   "@id": "https://www.camarauberlandia.mg.gov.br/vereadores/comissoes/16",
    "@type": "ParticipanteComissao",
    "cod_cargo": 8,
    "comissao": "Comissão Mista de Participação Popular",
@@ -374,7 +374,7 @@
    "title": "Membro"
   },
   {
-   "@id": "http://camara-prod_backend:8080/Plone/vereadores/comissoes/5",
+   "@id": "https://www.camarauberlandia.mg.gov.br/vereadores/comissoes/5",
    "@type": "ParticipanteComissao",
    "cod_cargo": 9,
    "comissao": "Comissão de Finanças, Orçamento e Tributos",
@@ -386,7 +386,7 @@
    "title": "Suplente"
   },
   {
-   "@id": "http://camara-prod_backend:8080/Plone/vereadores/comissoes/4",
+   "@id": "https://www.camarauberlandia.mg.gov.br/vereadores/comissoes/4",
    "@type": "ParticipanteComissao",
    "cod_cargo": 9,
    "comissao": "Comissão de Saúde e Saneamento",
@@ -398,7 +398,7 @@
    "title": "Suplente"
   },
   {
-   "@id": "http://camara-prod_backend:8080/Plone/vereadores/comissoes/27",
+   "@id": "https://www.camarauberlandia.mg.gov.br/vereadores/comissoes/27",
    "@type": "ParticipanteComissao",
    "cod_cargo": 9,
    "comissao": "Comissão de Inovação, Tecnologia e Juventude",
@@ -1099,7 +1099,7 @@
  ],
  "mesas": [
   {
-   "@id": "http://camara-prod_backend:8080/Plone/vereadores/mesa-diretora/5",
+   "@id": "https://www.camarauberlandia.mg.gov.br/vereadores/mesa-diretora/5",
    "@type": "ParticipanteMesa",
    "cod_cargo": 4,
    "description": "01/01/2021 a 31/12/2022",
@@ -1109,7 +1109,7 @@
    "title": "3ª Vice-Presidente"
   },
   {
-   "@id": "http://camara-prod_backend:8080/Plone/vereadores/mesa-diretora/4",
+   "@id": "https://www.camarauberlandia.mg.gov.br/vereadores/mesa-diretora/4",
    "@type": "ParticipanteMesa",
    "cod_cargo": 1,
    "description": "17/02/2020 a 31/12/2020",

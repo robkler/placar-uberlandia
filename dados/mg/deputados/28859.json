@@ -80,7 +80,7 @@
    "numeroLegislatura": 20,
    "inicioLegislatura": {
     "@class": "sql-timestamp",
-    "$": "2023-02-01"
+    "$": "2024-06-11"
    },
    "terminoLegislatura": {
     "@class": "sql-timestamp",

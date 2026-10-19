@@ -107,7 +107,7 @@
     {
      "dataInicio": {
       "@class": "sql-timestamp",
-      "$": "2019-02-01"
+      "$": "2023-02-01"
      },
      "status": "Em exercício",
      "dataTermino": {
