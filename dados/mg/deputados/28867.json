@@ -48,11 +48,11 @@
   {
    "dataInicio": {
     "@class": "sql-timestamp",
-    "$": "2022-10-02"
+    "$": "2022-10-03"
    },
    "dataTermino": {
     "@class": "sql-timestamp",
-    "$": "2023-01-31"
+    "$": "2018-09-10"
    },
    "partido": {
     "id": 33,
@@ -62,7 +62,7 @@
   {
    "dataInicio": {
     "@class": "sql-timestamp",
-    "$": "2023-02-01"
+    "$": "2020-03-23"
    },
    "dataTermino": {
     "@class": "sql-timestamp",
@@ -150,7 +150,7 @@
      "status": "Em exercício",
      "dataTermino": {
       "@class": "sql-timestamp",
-      "$": "2027-01-31"
+      "$": "2027-01-30"
      }
     }
    ]

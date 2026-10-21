@@ -90,7 +90,7 @@
    },
    "terminoLegislatura": {
     "@class": "sql-timestamp",
-    "$": "2027-01-31"
+    "$": "2014-04-04"
    },
    "tipoMandato": "Efetiva",
    "inicioExercicio": {
@@ -99,7 +99,7 @@
    },
    "terminoExercicio": {
     "@class": "sql-timestamp",
-    "$": "2027-01-31"
+    "$": "2027-01-30"
    },
    "deputadoAfastado": "Fábio Avelar",
    "situacoes": [

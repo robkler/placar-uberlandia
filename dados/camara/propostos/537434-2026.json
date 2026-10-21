@@ -3,7 +3,7 @@
  "codAutor": "537434",
  "ano": 2026,
  "total": 25,
- "coletadoEm": "2026-10-20T09:19",
+ "coletadoEm": "2026-10-21T09:19",
  "itens": [
   {
    "cod_materia": 271341,
@@ -147,15 +147,24 @@
    "dat_apresentacao": "21/07/2026",
    "autores": "Neemias Miquéias - PODEMOS",
    "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=265601",
-   "ind_tramitacao": 1,
+   "ind_tramitacao": 0,
    "ult_tramitacao": {
-    "des_status": "Aprovado - Art. 102-A, RI",
-    "nom_unidade": "Seção de Controle de Processo Legislativo",
-    "dat_tramitacao": "05/10/2026 08:45:06",
+    "des_status": "Arquivado",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "20/10/2026 10:10:12",
     "dat_fim_prazo": "",
     "txt_tramitacao": ""
    },
-   "norma_derivada": null,
+   "norma_derivada": {
+    "sgl_norma": "LEI",
+    "num_norma": 14873,
+    "ano_norma": 2026,
+    "cod_norma": 19064,
+    "tip_norma": 6,
+    "ind_publico": 1,
+    "pode_cadastrar_norma": false,
+    "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=19064"
+   },
    "anexadoras": [
     {
      "identificacao": "Proposição de Lei n° 544/2026",

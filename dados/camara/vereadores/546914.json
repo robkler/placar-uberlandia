@@ -1020,7 +1020,7 @@
   "facets": {
    "ano": [
     {
-     "count": 2541,
+     "count": 2566,
      "label": "2026",
      "value": "2026"
     },
@@ -1062,7 +1062,7 @@
      "value": "EMEI"
     },
     {
-     "count": 2632,
+     "count": 2657,
      "label": "Indicação",
      "value": "IND"
     },
@@ -1290,7 +1290,7 @@
     },
     {
      "ano": "2026",
-     "count": 2364,
+     "count": 2389,
      "tipo": "IND"
     },
     {
@@ -1343,7 +1343,7 @@
   "facets_todos": {
    "ano": [
     {
-     "count": 2541,
+     "count": 2566,
      "label": "2026",
      "value": "2026"
     },
@@ -1385,7 +1385,7 @@
      "value": "EMEI"
     },
     {
-     "count": 2632,
+     "count": 2657,
      "label": "Indicação",
      "value": "IND"
     },
@@ -1443,132 +1443,132 @@
   },
   "items": [
    {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272189",
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272237",
     "ano": "2026",
-    "data_apresentacao": "16/10/2026",
+    "data_apresentacao": "20/10/2026",
     "emenda_impositiva": false,
-    "ementa": "Solicitando à Secretaria Municipal de Infraestrutura a realização de tapa buraco na Rua Lisboa, esq Av Suécia, no bairro Tibery, CEP 38405-072.",
-    "id": "272189",
+    "ementa": "Solicitando ao DMAE a realização de tapa buraco após obra dmae na Avenida Nicomedes Alves dos Santos, no bairro Shopping Park, CEP 38425-377.",
+    "id": "272237",
     "item_kind": "materia",
     "tipo": "Indicação",
-    "title": "IND 40019/2026",
+    "title": "IND 40062/2026",
     "ultima_votacao_kind": "",
     "ultima_votacao_resultado": ""
    },
    {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272188",
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272236",
     "ano": "2026",
-    "data_apresentacao": "16/10/2026",
+    "data_apresentacao": "20/10/2026",
     "emenda_impositiva": false,
-    "ementa": "Solicitando à Secretaria Municipal de Infraestrutura a realização de tapa buraco na Avenida Fernando Vilela, entre Rua Monlevade e Av Geraldo Motta Batista, no bairro Daniel Fonseca, CEP 38400-327.",
-    "id": "272188",
+    "ementa": "Solicitando ao DMAE a realização de tapa buraco após obra dmae na Rua Ari de Souza Neves, 690, no bairro Shopping Park, CEP 38425-543.",
+    "id": "272236",
     "item_kind": "materia",
     "tipo": "Indicação",
-    "title": "IND 40018/2026",
+    "title": "IND 40061/2026",
     "ultima_votacao_kind": "",
     "ultima_votacao_resultado": ""
    },
    {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272182",
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272235",
     "ano": "2026",
-    "data_apresentacao": "16/10/2026",
+    "data_apresentacao": "20/10/2026",
     "emenda_impositiva": false,
-    "ementa": "Solicitando à Secretaria Municipal de Infraestrutura a realização de tapa buraco na Avenida César Finotti, esq Rua Maria Dória Cunha, no bairro Santa Mônica, CEP 38408-138.",
-    "id": "272182",
+    "ementa": "Solicitando à Secretaria Municipal de Serviços Urbanos a realização de lixo - fiscalização descarte irregular de lixo na Avenida Nicomedes Alves dos Santos, 06, no bairro Shopping Park, CEP 38425-377.",
+    "id": "272235",
     "item_kind": "materia",
     "tipo": "Indicação",
-    "title": "IND 40012/2026",
+    "title": "IND 40060/2026",
     "ultima_votacao_kind": "",
     "ultima_votacao_resultado": ""
    },
    {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272181",
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272234",
     "ano": "2026",
-    "data_apresentacao": "16/10/2026",
+    "data_apresentacao": "20/10/2026",
     "emenda_impositiva": false,
-    "ementa": "Solicitando à Secretaria Municipal de Infraestrutura a realização de tapa buraco na Rua Professor Chafi Ayub Jacob, 229, no bairro Morada da Colina, CEP 38411-024.",
-    "id": "272181",
+    "ementa": "Solicitando à Secretaria Municipal de Trânsito e Transportes a realização de sinalização - área escolar na Rua Paraná, 226,1. ao lado da E. E. Hortêncio Diniz, no bairro Marta Helena, CEP 38402-233.",
+    "id": "272234",
     "item_kind": "materia",
     "tipo": "Indicação",
-    "title": "IND 40011/2026",
+    "title": "IND 40059/2026",
     "ultima_votacao_kind": "",
     "ultima_votacao_resultado": ""
    },
    {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272180",
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272233",
     "ano": "2026",
-    "data_apresentacao": "16/10/2026",
+    "data_apresentacao": "20/10/2026",
     "emenda_impositiva": false,
-    "ementa": "Solicitando à Secretaria Municipal de Infraestrutura a realização de tapa buraco na Rua dos Emigrantes, esq Rua Prof Chafi Ayube Jacob, no bairro Morada da Colina, CEP 38411-022.",
-    "id": "272180",
+    "ementa": "Solicitando à Secretaria Municipal de Serviços Urbanos a realização de capina / limpeza - lotes / canteiro central na Rua José Eduardo Gadia, em toda a extensão da via, no bairro Santa Rosa, CEP 38401-810.",
+    "id": "272233",
     "item_kind": "materia",
     "tipo": "Indicação",
-    "title": "IND 40010/2026",
+    "title": "IND 40058/2026",
     "ultima_votacao_kind": "",
     "ultima_votacao_resultado": ""
    },
    {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272177",
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272232",
     "ano": "2026",
-    "data_apresentacao": "16/10/2026",
+    "data_apresentacao": "20/10/2026",
     "emenda_impositiva": false,
-    "ementa": "Solicitando à Secretaria Municipal de Infraestrutura a realização de tapa buraco na Avenida Fernando Vilela, esq Rua Arlindo Teixeira, no bairro Martins, CEP 38400-456.",
-    "id": "272177",
+    "ementa": "Solicitando ao FUTEL a realização de poliesportivo - construção / manutenção / reforma / ampliação na Avenida Anália Resende Siquieroli, 2625, Poliesportivo Jardim América, no bairro Santa Rosa, CEP 38401-799.",
+    "id": "272232",
     "item_kind": "materia",
     "tipo": "Indicação",
-    "title": "IND 40008/2026",
+    "title": "IND 40057/2026",
     "ultima_votacao_kind": "",
     "ultima_votacao_resultado": ""
    },
    {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272176",
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272231",
     "ano": "2026",
-    "data_apresentacao": "16/10/2026",
+    "data_apresentacao": "20/10/2026",
     "emenda_impositiva": false,
-    "ementa": "Solicitando à Secretaria Municipal de Trânsito e Transportes a realização de sinalização / implantação / manutenção de sinalização estatigráfica na Rua do Encanador, esq Rodovia Uberlândia-Prata, no bairro Planalto, CEP 38413-155.",
-    "id": "272176",
+    "ementa": "Solicitando à Secretaria Municipal de Infraestrutura a realização de tapa buraco na Rua do Frevo, em toda a extensão da via, no bairro Guarani, CEP 38415-393.",
+    "id": "272231",
     "item_kind": "materia",
     "tipo": "Indicação",
-    "title": "IND 40007/2026",
+    "title": "IND 40056/2026",
     "ultima_votacao_kind": "",
     "ultima_votacao_resultado": ""
    },
    {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272175",
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272230",
     "ano": "2026",
-    "data_apresentacao": "16/10/2026",
+    "data_apresentacao": "20/10/2026",
     "emenda_impositiva": false,
-    "ementa": "Solicitando à Secretaria Municipal de Serviços Urbanos a realização de capina / limpeza - lotes / canteiro central na Rua do Carpinteiro, em toda a extensão da via, no bairro Planalto, CEP 38413-177.",
-    "id": "272175",
+    "ementa": "Solicitando à Secretaria Municipal de Gestão Ambiental e Sustentabilidade a realização de praça - limpeza / capina / roçagem na Avenida Carnaval, PRAÇA CARNAVAL, no bairro Guarani, CEP 38415-396.",
+    "id": "272230",
     "item_kind": "materia",
     "tipo": "Indicação",
-    "title": "IND 40006/2026",
+    "title": "IND 40055/2026",
     "ultima_votacao_kind": "",
     "ultima_votacao_resultado": ""
    },
    {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272174",
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272229",
     "ano": "2026",
-    "data_apresentacao": "16/10/2026",
+    "data_apresentacao": "20/10/2026",
     "emenda_impositiva": false,
-    "ementa": "Solicitando ao DMAE a realização de água e esgoto - construção / manutenção / reforma de rede na Rua Vitalino Rezende do Carmo, 215, no bairro Saraiva, CEP 38408-028.",
-    "id": "272174",
+    "ementa": "Solicitando à Secretaria Municipal de Trânsito e Transportes a realização de sinalização / implantação / manutenção de sinalização estatigráfica na Rua do Estivador, esq Rua da Enfermeira, no bairro Jardim das Palmeiras, CEP 38412-344.",
+    "id": "272229",
     "item_kind": "materia",
     "tipo": "Indicação",
-    "title": "IND 40005/2026",
+    "title": "IND 40054/2026",
     "ultima_votacao_kind": "",
     "ultima_votacao_resultado": ""
    },
    {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272173",
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272228",
     "ano": "2026",
-    "data_apresentacao": "16/10/2026",
+    "data_apresentacao": "20/10/2026",
     "emenda_impositiva": false,
-    "ementa": "Solicitando à Secretaria Municipal de Trânsito e Transportes a realização de sinalização / implantação / manutenção de sinalização estatigráfica na Rua do Gari, 1259, no bairro Jardim das Palmeiras, CEP 38412-314.",
-    "id": "272173",
+    "ementa": "Solicitando à Secretaria Municipal de Trânsito e Transportes a realização de sinalização - implantação / reforma de faixa de pedestre na Rua do Estivador, esq Rua da Enfermeira, no bairro Jardim das Palmeiras, CEP 38412-344.",
+    "id": "272228",
     "item_kind": "materia",
     "tipo": "Indicação",
-    "title": "IND 40004/2026",
+    "title": "IND 40053/2026",
     "ultima_votacao_kind": "",
     "ultima_votacao_resultado": ""
    }
@@ -1576,7 +1576,7 @@
   "ordem_dat_apresentacao": "desc",
   "page": 1,
   "page_size": 10,
-  "total": 5068
+  "total": 5093
  },
  "relatorias": {
   "facets": {
