@@ -200,7 +200,7 @@
    },
    "terminoLegislatura": {
     "@class": "sql-timestamp",
-    "$": "2023-01-31"
+    "$": "2023-10-02"
    },
    "tipoMandato": "Efetivo",
    "situacoes": [
@@ -212,7 +212,7 @@
      "status": "Em exercício",
      "dataTermino": {
       "@class": "sql-timestamp",
-      "$": "2023-01-31"
+      "$": "2999-12-31"
      }
     }
    ]
@@ -237,7 +237,7 @@
      "status": "Em exercício",
      "dataTermino": {
       "@class": "sql-timestamp",
-      "$": "2027-01-31"
+      "$": "2027-02-01"
      }
     }
    ]

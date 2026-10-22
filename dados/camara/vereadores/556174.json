@@ -1258,7 +1258,7 @@
   "facets": {
    "ano": [
     {
-     "count": 84,
+     "count": 86,
      "label": "2026",
      "value": "2026"
     },
@@ -1310,7 +1310,7 @@
      "value": "PLC"
     },
     {
-     "count": 212,
+     "count": 214,
      "label": "Projeto de Lei Ordinária",
      "value": "PL"
     },
@@ -1408,7 +1408,7 @@
     },
     {
      "ano": "2026",
-     "count": 67,
+     "count": 69,
      "tipo": "PL"
     },
     {
@@ -1421,7 +1421,7 @@
   "facets_todos": {
    "ano": [
     {
-     "count": 84,
+     "count": 86,
      "label": "2026",
      "value": "2026"
     },
@@ -1473,7 +1473,7 @@
      "value": "PLC"
     },
     {
-     "count": 212,
+     "count": 214,
      "label": "Projeto de Lei Ordinária",
      "value": "PL"
     },
@@ -1649,7 +1649,7 @@
   "ordem_dat_apresentacao": "desc",
   "page": 1,
   "page_size": 10,
-  "total": 284
+  "total": 286
  },
  "telefone_gabinete": "(34) 3239-1121",
  "title": "Jair Ferraz",

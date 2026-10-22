@@ -1800,7 +1800,7 @@
   "facets": {
    "ano": [
     {
-     "count": 25,
+     "count": 26,
      "label": "2026",
      "value": "2026"
     },
@@ -1827,7 +1827,7 @@
      "value": "PLC"
     },
     {
-     "count": 171,
+     "count": 172,
      "label": "Projeto de Lei Ordinária",
      "value": "PL"
     }
@@ -1860,7 +1860,7 @@
     },
     {
      "ano": "2026",
-     "count": 25,
+     "count": 26,
      "tipo": "PL"
     }
    ]
@@ -1868,7 +1868,7 @@
   "facets_todos": {
    "ano": [
     {
-     "count": 25,
+     "count": 26,
      "label": "2026",
      "value": "2026"
     },
@@ -1895,7 +1895,7 @@
      "value": "PLC"
     },
     {
-     "count": 171,
+     "count": 172,
      "label": "Projeto de Lei Ordinária",
      "value": "PL"
     }
@@ -2061,7 +2061,7 @@
   "ordem_dat_apresentacao": "desc",
   "page": 1,
   "page_size": 10,
-  "total": 174
+  "total": 175
  },
  "telefone_gabinete": "(34) 3239-1111",
  "title": "Amanda Gondim",

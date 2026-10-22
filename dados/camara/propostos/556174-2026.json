@@ -3,7 +3,7 @@
  "codAutor": "556174",
  "ano": 2026,
  "total": 9,
- "coletadoEm": "2026-10-21T09:18",
+ "coletadoEm": "2026-10-22T09:19",
  "itens": [
   {
    "cod_materia": 268906,
@@ -71,14 +71,20 @@
    "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=263935",
    "ind_tramitacao": 1,
    "ult_tramitacao": {
-    "des_status": "Juntada - Documento",
-    "nom_unidade": "Seção de Apoio às Comissões",
-    "dat_tramitacao": "16/09/2026 15:15:17",
+    "des_status": "Aprovado - Art. 102-A, RI",
+    "nom_unidade": "Seção de Controle de Processo Legislativo",
+    "dat_tramitacao": "21/10/2026 10:21:13",
     "dat_fim_prazo": "",
-    "txt_tramitacao": "<p>CMC anexado em 16/09/2026 às 15:15</p>"
+    "txt_tramitacao": ""
    },
    "norma_derivada": null,
-   "anexadoras": []
+   "anexadoras": [
+    {
+     "identificacao": "Proposição de Lei n° 569/2026",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272238",
+     "is_veto": false
+    }
+   ]
   },
   {
    "cod_materia": 263244,
