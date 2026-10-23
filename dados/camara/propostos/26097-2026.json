@@ -2,9 +2,32 @@
  "id": "26097",
  "codAutor": "26097",
  "ano": 2026,
- "total": 5,
- "coletadoEm": "2026-10-22T09:19",
+ "total": 6,
+ "coletadoEm": "2026-10-23T09:18",
  "itens": [
+  {
+   "cod_materia": 272256,
+   "tipo_item": "principal",
+   "sgl_tipo_materia": "PL",
+   "des_tipo_materia": "Projeto de Lei Ordinária",
+   "num_ident_basica": 1411,
+   "ano_ident_basica": 2026,
+   "identificacao": "Projeto de Lei Ordinária n° 1411/2026",
+   "txt_ementa": "DENOMINA DE JOSEFINA VILLAR NEVES O LOGRADOURO QUE ESPECIFICA.",
+   "dat_apresentacao": "22/10/2026",
+   "autores": "Zezinho Mendonça - PP",
+   "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272256",
+   "ind_tramitacao": 1,
+   "ult_tramitacao": {
+    "des_status": "Recebimento no Protocolo",
+    "nom_unidade": "Departamento Técnico Legislativo",
+    "dat_tramitacao": "22/10/2026 08:50:55",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": "<p>Proposição eletrônica enviada em 21/10/2026 16:26:07. Matéria incorporada em 22/10/2026 08:50:54 sob protocolo nº 85244/2026</p>"
+   },
+   "norma_derivada": null,
+   "anexadoras": []
+  },
   {
    "cod_materia": 270181,
    "tipo_item": "principal",

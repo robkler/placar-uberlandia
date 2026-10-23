@@ -3,7 +3,7 @@
  "codAutor": "556181",
  "ano": 2026,
  "total": 12,
- "coletadoEm": "2026-10-22T09:18",
+ "coletadoEm": "2026-10-23T09:18",
  "itens": [
   {
    "cod_materia": 271946,
@@ -42,11 +42,11 @@
    "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=269568",
    "ind_tramitacao": 1,
    "ult_tramitacao": {
-    "des_status": "Encaminhado à Comissão",
+    "des_status": "Ciência de Parecer Contrário - Art. 172, Regimento Interno",
     "nom_unidade": "Seção de Apoio às Comissões",
-    "dat_tramitacao": "10/09/2026 10:35:44",
-    "dat_fim_prazo": "24/09/2026",
-    "txt_tramitacao": "<p>Comissão de Legislação, Justiça e Redação</p> <p></p>"
+    "dat_tramitacao": "22/10/2026 11:16:08",
+    "dat_fim_prazo": "05/11/2026",
+    "txt_tramitacao": ""
    },
    "norma_derivada": null,
    "anexadoras": []

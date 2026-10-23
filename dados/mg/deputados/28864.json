@@ -40,7 +40,7 @@
    },
    "dataTermino": {
     "@class": "sql-timestamp",
-    "$": "2026-03-21"
+    "$": "2999-12-31"
    },
    "partido": {
     "id": 41,

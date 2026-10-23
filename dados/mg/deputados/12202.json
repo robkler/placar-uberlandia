@@ -112,11 +112,11 @@
   {
    "dataInicio": {
     "@class": "sql-timestamp",
-    "$": "2013-10-01"
+    "$": "2013-10-02"
    },
    "dataTermino": {
     "@class": "sql-timestamp",
-    "$": "2013-10-01"
+    "$": "2013-10-02"
    },
    "partido": {
     "id": 1,
@@ -130,7 +130,7 @@
    },
    "dataTermino": {
     "@class": "sql-timestamp",
-    "$": "2022-12-13"
+    "$": "2022-04-25"
    },
    "partido": {
     "id": 45,
@@ -140,7 +140,7 @@
   {
    "dataInicio": {
     "@class": "sql-timestamp",
-    "$": "2022-01-30"
+    "$": "2022-04-26"
    },
    "dataTermino": {
     "@class": "sql-timestamp",
@@ -154,7 +154,7 @@
   {
    "dataInicio": {
     "@class": "sql-timestamp",
-    "$": "2025-09-14"
+    "$": "2025-09-15"
    },
    "dataTermino": {
     "@class": "sql-timestamp",

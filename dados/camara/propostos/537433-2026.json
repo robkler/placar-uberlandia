@@ -3,7 +3,7 @@
  "codAutor": "537433",
  "ano": 2026,
  "total": 4,
- "coletadoEm": "2026-10-22T09:19",
+ "coletadoEm": "2026-10-23T09:18",
  "itens": [
   {
    "cod_materia": 269576,
@@ -17,15 +17,24 @@
    "dat_apresentacao": "09/09/2026",
    "autores": "Ivan Nunes - PP",
    "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=269576",
-   "ind_tramitacao": 1,
+   "ind_tramitacao": 0,
    "ult_tramitacao": {
-    "des_status": "Aprovado - Art. 102-A, RI",
-    "nom_unidade": "Seção de Controle de Processo Legislativo",
-    "dat_tramitacao": "24/09/2026 16:22:57",
+    "des_status": "Arquivado",
+    "nom_unidade": "Arquivo",
+    "dat_tramitacao": "22/10/2026 12:04:49",
     "dat_fim_prazo": "",
     "txt_tramitacao": ""
    },
-   "norma_derivada": null,
+   "norma_derivada": {
+    "sgl_norma": "LEI",
+    "num_norma": 14878,
+    "ano_norma": 2026,
+    "cod_norma": 19071,
+    "tip_norma": 6,
+    "ind_publico": 1,
+    "pode_cadastrar_norma": false,
+    "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=19071"
+   },
    "anexadoras": [
     {
      "identificacao": "Proposição de Lei n° 540/2026",

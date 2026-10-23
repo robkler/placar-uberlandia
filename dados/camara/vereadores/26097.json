@@ -817,7 +817,7 @@
   "facets": {
    "ano": [
     {
-     "count": 1888,
+     "count": 1905,
      "label": "2026",
      "value": "2026"
     },
@@ -874,7 +874,7 @@
      "value": "EMEI"
     },
     {
-     "count": 2286,
+     "count": 2302,
      "label": "Indicação",
      "value": "IND"
     },
@@ -899,7 +899,7 @@
      "value": "PLC"
     },
     {
-     "count": 199,
+     "count": 200,
      "label": "Projeto de Lei Ordinária",
      "value": "PL"
     },
@@ -1217,7 +1217,7 @@
     },
     {
      "ano": "2026",
-     "count": 1795,
+     "count": 1811,
      "tipo": "IND"
     },
     {
@@ -1237,7 +1237,7 @@
     },
     {
      "ano": "2026",
-     "count": 8,
+     "count": 9,
      "tipo": "PL"
     },
     {
@@ -1260,7 +1260,7 @@
   "facets_todos": {
    "ano": [
     {
-     "count": 1888,
+     "count": 1905,
      "label": "2026",
      "value": "2026"
     },
@@ -1317,7 +1317,7 @@
      "value": "EMEI"
     },
     {
-     "count": 2286,
+     "count": 2302,
      "label": "Indicação",
      "value": "IND"
     },
@@ -1342,7 +1342,7 @@
      "value": "PLC"
     },
     {
-     "count": 199,
+     "count": 200,
      "label": "Projeto de Lei Ordinária",
      "value": "PL"
     },
@@ -1380,140 +1380,140 @@
   },
   "items": [
    {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272156",
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272257",
     "ano": "2026",
-    "data_apresentacao": "16/10/2026",
+    "data_apresentacao": "22/10/2026",
     "emenda_impositiva": false,
-    "ementa": "Solicitando à Secretaria Municipal de Trânsito e Transportes a realização de ponto de ônibus - implantação / manutenção / mudança de local na Avenida Comendador Alexandrino Garcia, Nº 635 , MUDANÇA DE LOCAL COM O NOVO MODELO PADRONIZADO PELA PREFEITURA, no bairro Marta Helena, CEP 38402-228.",
-    "id": "272156",
+    "ementa": "Solicitando à Secretaria Municipal de Serviços Urbanos a realização de varrição de vias públicas e praças na Rua Ruth Rocha, E POR TODO BAIRRO, no bairro Minas Gerais, CEP 38402-758.",
+    "id": "272257",
     "item_kind": "materia",
     "tipo": "Indicação",
-    "title": "IND 39987/2026",
+    "title": "IND 40078/2026",
     "ultima_votacao_kind": "",
     "ultima_votacao_resultado": ""
    },
    {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272146",
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272256",
     "ano": "2026",
-    "data_apresentacao": "16/10/2026",
+    "data_apresentacao": "22/10/2026",
     "emenda_impositiva": false,
-    "ementa": "Solicitando à Secretaria Municipal de Gestão Ambiental e Sustentabilidade a realização de árvores e galhos - poda / corte / destocamento / recolhimento na Avenida Comendador Alexandrino Garcia, Nº 635 / NAS LATERAIS DA ESCOLA ESTADUAL PRES. TANCREDO NEVES / RUA BAHIA E RUA ESPIRITO SANTO, no bairro Marta Helena, CEP 38402-228.",
-    "id": "272146",
+    "ementa": "DENOMINA DE JOSEFINA VILLAR NEVES O LOGRADOURO QUE ESPECIFICA.",
+    "id": "272256",
     "item_kind": "materia",
-    "tipo": "Indicação",
-    "title": "IND 39977/2026",
+    "tipo": "Projeto de Lei Ordinária",
+    "title": "PL 1411/2026",
     "ultima_votacao_kind": "",
     "ultima_votacao_resultado": ""
    },
    {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272137",
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272255",
     "ano": "2026",
-    "data_apresentacao": "16/10/2026",
+    "data_apresentacao": "22/10/2026",
     "emenda_impositiva": false,
-    "ementa": "Solicitando à Secretaria Municipal de Infraestrutura a realização de tapa buraco na Rua Roberto Margonari, Nº 1096, no bairro Luizote de Freitas, CEP 38414-465.",
-    "id": "272137",
+    "ementa": "Solicitando à Secretaria Municipal de Trânsito e Transportes a realização de sinalização - implantação / reforma de faixa de pedestre na Rua Pedro Quirino da Silva, Nº 2225, no bairro Nossa Senhora das Graças, CEP 38402-075.",
+    "id": "272255",
     "item_kind": "materia",
     "tipo": "Indicação",
-    "title": "IND 39968/2026",
+    "title": "IND 40077/2026",
     "ultima_votacao_kind": "",
     "ultima_votacao_resultado": ""
    },
    {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272032",
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272254",
     "ano": "2026",
-    "data_apresentacao": "16/10/2026",
+    "data_apresentacao": "22/10/2026",
     "emenda_impositiva": false,
-    "ementa": "Solicitando à Secretaria Municipal de Infraestrutura a realização de tapa buraco na Rua Rio Negro, Nº 231, no bairro Mansour, CEP 38414-476.",
-    "id": "272032",
+    "ementa": "Solicitando à Secretaria Municipal de Serviços Urbanos a realização de capina / limpeza - lotes / canteiro central na Rua Geralda Francisca Borges, POR TODO CANTEIRO, no bairro São Jorge, CEP 38410-178.",
+    "id": "272254",
     "item_kind": "materia",
     "tipo": "Indicação",
-    "title": "IND 39872/2026",
+    "title": "IND 40076/2026",
     "ultima_votacao_kind": "",
     "ultima_votacao_resultado": ""
    },
    {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272023",
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272253",
     "ano": "2026",
-    "data_apresentacao": "16/10/2026",
+    "data_apresentacao": "22/10/2026",
     "emenda_impositiva": false,
-    "ementa": "Solicitando ao DMAE a realização de tapa buraco após obra dmae na Rua Rio Jequitinhonha, Nº 222, no bairro Mansour, CEP 38414-490.",
-    "id": "272023",
+    "ementa": "Solicitando à Secretaria Municipal de Serviços Urbanos a realização de capina / limpeza - lotes / canteiro central na Avenida dos Tito, POR TODO CANTEIRO, no bairro Laranjeiras, CEP 38410-524.",
+    "id": "272253",
     "item_kind": "materia",
     "tipo": "Indicação",
-    "title": "IND 39863/2026",
+    "title": "IND 40075/2026",
     "ultima_votacao_kind": "",
     "ultima_votacao_resultado": ""
    },
    {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272022",
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272252",
     "ano": "2026",
-    "data_apresentacao": "16/10/2026",
+    "data_apresentacao": "22/10/2026",
     "emenda_impositiva": false,
-    "ementa": "Solicitando à Secretaria Municipal de Infraestrutura a realização de vias públicas - nivelamento / recapeamento asfáltico na Avenida Jaime de Barros, COM AVENIDA NAJLA ALÍPIO ABRÃO, no bairro Santa Luzia, CEP 38408-704.",
-    "id": "272022",
+    "ementa": "Solicitando à Secretaria Municipal de Planejamento Urbano a realização de rampa de acessibilidade - construção na Rua Cobertura, Nº 932, no bairro Laranjeiras, CEP 38410-480.",
+    "id": "272252",
     "item_kind": "materia",
     "tipo": "Indicação",
-    "title": "IND 39862/2026",
+    "title": "IND 40074/2026",
     "ultima_votacao_kind": "",
     "ultima_votacao_resultado": ""
    },
    {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272021",
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272251",
     "ano": "2026",
-    "data_apresentacao": "16/10/2026",
+    "data_apresentacao": "22/10/2026",
     "emenda_impositiva": false,
-    "ementa": "Solicitando à Secretaria Municipal de Serviços Urbanos a realização de iluminação pública - melhoria na Rua Rio Albany, PRÓXIMO AO Nº 14, no bairro Mansour, CEP 38414-416.",
-    "id": "272021",
+    "ementa": "Solicitando à Secretaria Municipal de Infraestrutura a realização de vias públicas - nivelamento / recapeamento asfáltico na Rua Serra Gradaus, Nº 218, no bairro São Jorge, CEP 38410-390.",
+    "id": "272251",
     "item_kind": "materia",
     "tipo": "Indicação",
-    "title": "IND 39861/2026",
+    "title": "IND 40073/2026",
     "ultima_votacao_kind": "",
     "ultima_votacao_resultado": ""
    },
    {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=271928",
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272250",
     "ano": "2026",
-    "data_apresentacao": "14/10/2026",
+    "data_apresentacao": "22/10/2026",
     "emenda_impositiva": false,
-    "ementa": "Solicitando à Secretaria Municipal de Infraestrutura a realização de tapa buraco na Rua Alcione Zago, POR TODA EXTENSÃO, no bairro Luizote de Freitas, CEP 38414-386.",
-    "id": "271928",
+    "ementa": "Solicitando à Secretaria Municipal de Saúde a realização de ações de prevenção e controle de zoonoses na Avenida Eliseu Pereira de Oliveira, Nº 130, no bairro Shopping Park, CEP 38425-334.",
+    "id": "272250",
     "item_kind": "materia",
     "tipo": "Indicação",
-    "title": "IND 39802/2026",
-    "ultima_votacao_kind": "votacao",
-    "ultima_votacao_resultado": "Aprovado"
+    "title": "IND 40072/2026",
+    "ultima_votacao_kind": "",
+    "ultima_votacao_resultado": ""
    },
    {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=271926",
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272249",
     "ano": "2026",
-    "data_apresentacao": "14/10/2026",
+    "data_apresentacao": "22/10/2026",
     "emenda_impositiva": false,
-    "ementa": "Solicitando à Secretaria Municipal de Infraestrutura a realização de tapa buraco na Rua Nélida Abrão Cecílio, POR TODA EXTENSÃO, no bairro Luizote de Freitas, CEP 38414-400.",
-    "id": "271926",
+    "ementa": "Solicitando à Secretaria Municipal de Infraestrutura a realização de tapa buraco na Rua Severina Maria de Oliveira, Nº 67, no bairro Residencial Viviane, CEP 38410-104.",
+    "id": "272249",
     "item_kind": "materia",
     "tipo": "Indicação",
-    "title": "IND 39800/2026",
-    "ultima_votacao_kind": "votacao",
-    "ultima_votacao_resultado": "Aprovado"
+    "title": "IND 40071/2026",
+    "ultima_votacao_kind": "",
+    "ultima_votacao_resultado": ""
    },
    {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=271924",
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272248",
     "ano": "2026",
-    "data_apresentacao": "14/10/2026",
+    "data_apresentacao": "22/10/2026",
     "emenda_impositiva": false,
-    "ementa": "Solicitando à Secretaria Municipal de Infraestrutura a realização de tapa buraco na Rua Paulo Luiz Rotelli, Nº 375, no bairro Luizote de Freitas, CEP 38414-314.",
-    "id": "271924",
+    "ementa": "Solicitando à Secretaria Municipal de Serviços Urbanos a realização de efetuar retirada de entulhos na Rua Maria Jerônima Santana, Nº 157, no bairro Santa Luzia, CEP 38408-716.",
+    "id": "272248",
     "item_kind": "materia",
     "tipo": "Indicação",
-    "title": "IND 39798/2026",
-    "ultima_votacao_kind": "votacao",
-    "ultima_votacao_resultado": "Aprovado"
+    "title": "IND 40070/2026",
+    "ultima_votacao_kind": "",
+    "ultima_votacao_resultado": ""
    }
   ],
   "ordem_dat_apresentacao": "desc",
   "page": 1,
   "page_size": 10,
-  "total": 10259
+  "total": 10276
  },
  "relatorias": {
   "facets": {

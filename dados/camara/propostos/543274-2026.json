@@ -3,7 +3,7 @@
  "codAutor": "543274",
  "ano": 2026,
  "total": 7,
- "coletadoEm": "2026-10-22T09:19",
+ "coletadoEm": "2026-10-23T09:18",
  "itens": [
   {
    "cod_materia": 269629,
@@ -19,14 +19,20 @@
    "detail_url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=269629",
    "ind_tramitacao": 1,
    "ult_tramitacao": {
-    "des_status": "Encaminhado à Comissão",
-    "nom_unidade": "Seção de Apoio às Comissões",
-    "dat_tramitacao": "11/09/2026 09:24:05",
-    "dat_fim_prazo": "25/09/2026",
-    "txt_tramitacao": "Comissão de Legislação, Justiça e Redação<p></p> Comissão de Direitos Humanos, Sociais e do Consumidor<p></p> <p></p>"
+    "des_status": "Aprovado - Art. 102-A, RI",
+    "nom_unidade": "Seção de Controle de Processo Legislativo",
+    "dat_tramitacao": "22/10/2026 13:40:45",
+    "dat_fim_prazo": "",
+    "txt_tramitacao": ""
    },
    "norma_derivada": null,
-   "anexadoras": []
+   "anexadoras": [
+    {
+     "identificacao": "Proposição de Lei n° 573/2026",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272259",
+     "is_veto": false
+    }
+   ]
   },
   {
    "cod_materia": 265663,
