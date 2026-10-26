@@ -1020,7 +1020,7 @@
   "facets": {
    "ano": [
     {
-     "count": 2587,
+     "count": 2598,
      "label": "2026",
      "value": "2026"
     },
@@ -1062,7 +1062,7 @@
      "value": "EMEI"
     },
     {
-     "count": 2676,
+     "count": 2685,
      "label": "Indicação",
      "value": "IND"
     },
@@ -1102,7 +1102,7 @@
      "value": "PELO"
     },
     {
-     "count": 1978,
+     "count": 1980,
      "label": "Requerimento",
      "value": "REQ"
     },
@@ -1290,7 +1290,7 @@
     },
     {
      "ano": "2026",
-     "count": 2408,
+     "count": 2417,
      "tipo": "IND"
     },
     {
@@ -1330,7 +1330,7 @@
     },
     {
      "ano": "2026",
-     "count": 63,
+     "count": 65,
      "tipo": "REQ"
     },
     {
@@ -1343,7 +1343,7 @@
   "facets_todos": {
    "ano": [
     {
-     "count": 2587,
+     "count": 2598,
      "label": "2026",
      "value": "2026"
     },
@@ -1385,7 +1385,7 @@
      "value": "EMEI"
     },
     {
-     "count": 2676,
+     "count": 2685,
      "label": "Indicação",
      "value": "IND"
     },
@@ -1425,7 +1425,7 @@
      "value": "PELO"
     },
     {
-     "count": 1978,
+     "count": 1980,
      "label": "Requerimento",
      "value": "REQ"
     },
@@ -1443,132 +1443,132 @@
   },
   "items": [
    {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272280",
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272291",
     "ano": "2026",
-    "data_apresentacao": "22/10/2026",
+    "data_apresentacao": "23/10/2026",
     "emenda_impositiva": false,
-    "ementa": "solicitando dados oficiais, cópia integral do contrato e esclarecimentos orçamentários sobre a mudança de sede da Secretaria Municipal de Gestão Ambiental e Sustentabilidade (SMGAS) para o empreendimento Pátio Sabiá",
-    "id": "272280",
-    "item_kind": "materia",
-    "tipo": "Pedido de Informação",
-    "title": "PINFO 1260/2026",
-    "ultima_votacao_kind": "",
-    "ultima_votacao_resultado": ""
-   },
-   {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272279",
-    "ano": "2026",
-    "data_apresentacao": "22/10/2026",
-    "emenda_impositiva": false,
-    "ementa": "Solicitando à Secretaria Municipal de Infraestrutura a realização de tapa buraco na Rua Namem Muchail, 455, no bairro Maria Rezende, CEP 38401-843.",
-    "id": "272279",
+    "ementa": "Solicitando à Secretaria Municipal de Infraestrutura a realização de tapa buraco na Rua Cassimiro de Abreu, 398, no bairro Saraiva, CEP 38408-400.",
+    "id": "272291",
     "item_kind": "materia",
     "tipo": "Indicação",
-    "title": "IND 40097/2026",
+    "title": "IND 40106/2026",
     "ultima_votacao_kind": "",
     "ultima_votacao_resultado": ""
    },
    {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272278",
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272290",
     "ano": "2026",
-    "data_apresentacao": "22/10/2026",
+    "data_apresentacao": "23/10/2026",
     "emenda_impositiva": false,
-    "ementa": "Solicitando à Secretaria Municipal de Serviços Urbanos a realização de capina / limpeza - lotes / canteiro central na Rua Feliciana Donata de Macedo, em toda a extensão da via, no bairro Maria Rezende, CEP 38401-844.",
-    "id": "272278",
-    "item_kind": "materia",
-    "tipo": "Indicação",
-    "title": "IND 40096/2026",
-    "ultima_votacao_kind": "",
-    "ultima_votacao_resultado": ""
-   },
-   {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272277",
-    "ano": "2026",
-    "data_apresentacao": "22/10/2026",
-    "emenda_impositiva": false,
-    "ementa": "Solicitando à Secretaria Municipal de Infraestrutura a realização de tapa buraco na Rua José de Oliveira Pinto, 870, no bairro Tubalina, CEP 38412-098.",
-    "id": "272277",
-    "item_kind": "materia",
-    "tipo": "Indicação",
-    "title": "IND 40095/2026",
-    "ultima_votacao_kind": "",
-    "ultima_votacao_resultado": ""
-   },
-   {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272276",
-    "ano": "2026",
-    "data_apresentacao": "22/10/2026",
-    "emenda_impositiva": false,
-    "ementa": "Solicitando o retorno de vigilantes patrimoniais nas Unidades Básicas de Saúde.",
-    "id": "272276",
+    "ementa": "Solicitando a implementação de especialidades médicas, com foco na saúde da mulher, bem como a otimização do sistema de encaminhamento para a Unidade Básica de Saúde da Família (UBSF) do Residencial Pequis.",
+    "id": "272290",
     "item_kind": "materia",
     "tipo": "Requerimento",
-    "title": "REQ 21368/2026",
+    "title": "REQ 21370/2026",
     "ultima_votacao_kind": "",
     "ultima_votacao_resultado": ""
    },
    {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272275",
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272289",
     "ano": "2026",
-    "data_apresentacao": "22/10/2026",
+    "data_apresentacao": "23/10/2026",
     "emenda_impositiva": false,
-    "ementa": "Solicitando à Secretaria Municipal de Serviços Urbanos a realização de lixo - fiscalização descarte irregular de lixo na Rua João de Oliveira Andrade, em local habitualmente utilizado para descarte irregular, no bairro Tocantins, CEP 38415-294.",
-    "id": "272275",
+    "ementa": "Solicitando a adoção de providências urgentes para a melhoria dos atendimentos prestados na Unidade Básica de Saúde da Família (UBSF) do Residencial Pequis.",
+    "id": "272289",
     "item_kind": "materia",
-    "tipo": "Indicação",
-    "title": "IND 40094/2026",
+    "tipo": "Requerimento",
+    "title": "REQ 21369/2026",
     "ultima_votacao_kind": "",
     "ultima_votacao_resultado": ""
    },
    {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272274",
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272288",
     "ano": "2026",
-    "data_apresentacao": "22/10/2026",
+    "data_apresentacao": "23/10/2026",
     "emenda_impositiva": false,
-    "ementa": "Solicitando à Secretaria Municipal de Trânsito e Transportes a realização de ponto de ônibus - construção de cobertura na Rua Nordau Gonçalves de Melo, esq Av Berlarmino Cotta Pacheco, no bairro Santa Mônica, CEP 38408-218.",
-    "id": "272274",
+    "ementa": "Solicitando à Secretaria Municipal de Infraestrutura a realização de tapa buraco na Avenida Geraldo Motta Batista, Rotatória com Av Afrânio Rodrigues da Cunha, no bairro Daniel Fonseca, CEP 38400-316.",
+    "id": "272288",
     "item_kind": "materia",
     "tipo": "Indicação",
-    "title": "IND 40093/2026",
+    "title": "IND 40105/2026",
     "ultima_votacao_kind": "",
     "ultima_votacao_resultado": ""
    },
    {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272273",
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272287",
     "ano": "2026",
-    "data_apresentacao": "22/10/2026",
+    "data_apresentacao": "23/10/2026",
     "emenda_impositiva": false,
-    "ementa": "Solicitando à Secretaria Municipal de Trânsito e Transportes a realização de sinalização - implantação / reforma de faixa de pedestre na Avenida Getúlio Vargas, esq Santos Dumont, no bairro Centro, CEP 38400-299.",
-    "id": "272273",
+    "ementa": "Solicitando à Secretaria Municipal de Infraestrutura a realização de tapa buraco na Rua Rotary Clube, 459, no bairro Tibery, CEP 38405-004.",
+    "id": "272287",
     "item_kind": "materia",
     "tipo": "Indicação",
-    "title": "IND 40092/2026",
+    "title": "IND 40104/2026",
     "ultima_votacao_kind": "",
     "ultima_votacao_resultado": ""
    },
    {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272272",
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272286",
     "ano": "2026",
-    "data_apresentacao": "22/10/2026",
+    "data_apresentacao": "23/10/2026",
     "emenda_impositiva": false,
-    "ementa": "Solicitando ao DMAE a realização de tapa buraco após obra dmae na Avenida Alexi Abrahão, no bairro Nova Uberlândia, CEP 38412-622.",
-    "id": "272272",
+    "ementa": "Solicitando à Secretaria Municipal de Serviços Urbanos a realização de capina / limpeza - lotes / canteiro central na Rua Rotary Clube, em toda a extensão da via, no bairro Tibery, CEP 38405-004.",
+    "id": "272286",
     "item_kind": "materia",
     "tipo": "Indicação",
-    "title": "IND 40091/2026",
+    "title": "IND 40103/2026",
     "ultima_votacao_kind": "",
     "ultima_votacao_resultado": ""
    },
    {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272271",
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272285",
     "ano": "2026",
-    "data_apresentacao": "22/10/2026",
+    "data_apresentacao": "23/10/2026",
     "emenda_impositiva": false,
-    "ementa": "Solicitando à Secretaria Municipal de Infraestrutura a realização de tapa buraco na Avenida Alexi Abrahão, em toda a extensão da via, no bairro Nova Uberlândia, CEP 38412-622.",
-    "id": "272271",
+    "ementa": "Solicitando à Secretaria Municipal de Infraestrutura a realização de tapa buraco na Avenida Suíça, em frente ao Supermercado BH, no bairro Tibery, CEP 38405-024.",
+    "id": "272285",
     "item_kind": "materia",
     "tipo": "Indicação",
-    "title": "IND 40090/2026",
+    "title": "IND 40102/2026",
+    "ultima_votacao_kind": "",
+    "ultima_votacao_resultado": ""
+   },
+   {
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272284",
+    "ano": "2026",
+    "data_apresentacao": "23/10/2026",
+    "emenda_impositiva": false,
+    "ementa": "Solicitando à Secretaria Municipal de Infraestrutura a realização de tapa buraco na Rua Nicarágua, 80, no bairro Tibery, CEP 38405-100.",
+    "id": "272284",
+    "item_kind": "materia",
+    "tipo": "Indicação",
+    "title": "IND 40101/2026",
+    "ultima_votacao_kind": "",
+    "ultima_votacao_resultado": ""
+   },
+   {
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272283",
+    "ano": "2026",
+    "data_apresentacao": "23/10/2026",
+    "emenda_impositiva": false,
+    "ementa": "Solicitando à Secretaria Municipal de Infraestrutura a realização de tapa buraco na Avenida Aldo Borges Leão, 1979, no bairro Morada Nova, CEP 38412-739.",
+    "id": "272283",
+    "item_kind": "materia",
+    "tipo": "Indicação",
+    "title": "IND 40100/2026",
+    "ultima_votacao_kind": "",
+    "ultima_votacao_resultado": ""
+   },
+   {
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272282",
+    "ano": "2026",
+    "data_apresentacao": "23/10/2026",
+    "emenda_impositiva": false,
+    "ementa": "Solicitando ao DMAE a realização de boca de lobo / bueiro - construção / manutenção / reforma / desentupimento na Avenida Anselmo Alves dos Santos, 108, no bairro Santa Mônica, CEP 38408-097.",
+    "id": "272282",
+    "item_kind": "materia",
+    "tipo": "Indicação",
+    "title": "IND 40099/2026",
     "ultima_votacao_kind": "",
     "ultima_votacao_resultado": ""
    }
@@ -1576,7 +1576,7 @@
   "ordem_dat_apresentacao": "desc",
   "page": 1,
   "page_size": 10,
-  "total": 5114
+  "total": 5125
  },
  "relatorias": {
   "facets": {
