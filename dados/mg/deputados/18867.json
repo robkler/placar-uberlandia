@@ -27,6 +27,8 @@
  "naturalidadeMunicipio": "Itajubá",
  "naturalidadeUf": "MG",
  "dataNascimento": "27/06/1977",
+ "emailPessoal": "ulyssesgomes13@yahoo.com.br",
+ "sitePessoal": "http://www.ulyssesgomes.com.br/",
  "apresentarEmail": "G",
  "atividadeProfissional": "Gestor e administrador público",
  "codigoSituacao": 1,
@@ -35,6 +37,56 @@
   {
    "tipo": "1",
    "endereco": "dep.ulysses.gomes"
+  }
+ ],
+ "redesSociais": [
+  {
+   "redeSocial": {
+    "id": 0,
+    "nome": "Facebook",
+    "url": "http://www.facebook.com"
+   },
+   "url": "https://www.facebook.com/ulyssesgomes"
+  },
+  {
+   "redeSocial": {
+    "id": 5,
+    "nome": "Flickr",
+    "url": "http://www.flickr.com"
+   },
+   "url": "http://www.flickr.com/photos/depulyssesgomes"
+  },
+  {
+   "redeSocial": {
+    "id": 19,
+    "nome": "Instagram",
+    "url": "http://instagram.com"
+   },
+   "url": "https://instagram.com/ulyssesgomes"
+  },
+  {
+   "redeSocial": {
+    "id": 18,
+    "nome": "SoundCloud",
+    "url": "http://soundcloud.com"
+   },
+   "url": "https://soundcloud.com/deputadoulysses"
+  },
+  {
+   "redeSocial": {
+    "id": 1,
+    "nome": "Twitter",
+    "url": "http://twitter.com"
+   },
+   "url": "https://twitter.com/depulyssesgomes"
+  },
+  {
+   "redeSocial": {
+    "id": 3,
+    "nome": "Youtube",
+    "url": "http://www.youtube.com"
+   },
+   "url": "http://www.youtube.com/user/depulyssesgomes"
   }
  ],
  "vidaProfissionalPolitica": "É graduado em Administração Pública e também formou-se em Metalurgia pelo Senai. Foi vereador em Itajubá de 2002 a 2004 e chefe do gabinete do deputado federal Odair Cunha, em Brasília, a partir de 2005. \r\n\r\nFoi coordenador diocesano da Pastoral da Juventude da Arquidiocese de Pouso Alegre (1999), fundador do Diretório Central dos Estudantes da Fundação de Ensino e Pesquisa de Itajubá e membro da Coordenação da Frente Estadual dos Direitos da Criança e do Adolescente (2000).\r\n\r\nPrincipal região de atuação política é o Sul de Minas, atuando também no Sudoeste e Centro-Oeste mineiros.",

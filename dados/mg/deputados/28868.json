@@ -25,6 +25,24 @@
    "endereco": "dep.grego"
   }
  ],
+ "redesSociais": [
+  {
+   "redeSocial": {
+    "id": 0,
+    "nome": "Facebook",
+    "url": "http://www.facebook.com"
+   },
+   "url": "https://www.facebook.com/gregodafundacao"
+  },
+  {
+   "redeSocial": {
+    "id": 19,
+    "nome": "Instagram",
+    "url": "http://instagram.com"
+   },
+   "url": "https://www.instagram.com/gregodafundacao/"
+  }
+ ],
  "vidaProfissionalPolitica": "É filho de imigrante grego e de uma mineira de Muriaé (Zona da Mata). Foi eleito prefeito do município em 2016, sendo o mais bem votado da história da cidade. É também voluntário do setor de humanização do Hospital do Câncer de Muriaé, da Fundação Cristiano Varella, que atende mais de 3 milhões de pessoas em quase 200 municípios. Em sua atuação parlamentar, pretende priorizar a área da saúde.",
  "atuacaoParlamentar": "Assume, em 2023, seu primeiro mandato como deputado estadual na Assembleia Legislativa de Minas Gerais. Em 2025, foi designado pelo presidente da ALMG para exercer as funções de ouvidor-geral, com mandato de 2 anos.",
  "candidaturas": [

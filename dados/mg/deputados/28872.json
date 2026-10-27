@@ -22,6 +22,40 @@
    "endereco": "dep.luizinho"
   }
  ],
+ "redesSociais": [
+  {
+   "redeSocial": {
+    "id": 0,
+    "nome": "Facebook",
+    "url": "http://www.facebook.com"
+   },
+   "url": "https://www.facebook.com/luizinhominas"
+  },
+  {
+   "redeSocial": {
+    "id": 19,
+    "nome": "Instagram",
+    "url": "http://instagram.com"
+   },
+   "url": "https://www.instagram.com/luizinho.minas/"
+  },
+  {
+   "redeSocial": {
+    "id": 23,
+    "nome": "TikTok",
+    "url": "www.tiktok.com"
+   },
+   "url": "https://www.tiktok.com/@luizinhominas"
+  },
+  {
+   "redeSocial": {
+    "id": 1,
+    "nome": "Twitter",
+    "url": "http://twitter.com"
+   },
+   "url": "https://twitter.com/LuizinhoMinas"
+  }
+ ],
  "vidaProfissionalPolitica": "Prefeito de Alfenas (Sul de Minas) por três mandatos, dois deles consecutivos, vai ocupar pela primeira vez uma vaga de deputado estadual na ALMG. Pretende aproveitar a boa avaliação como gestor municipal, sobretudo no combate coordenado à Covid-19 na sua região, para propor políticas públicas voltadas para a saúde pública e para minimizar os efeitos nocivos da pandemia sobre a população. Ele também deve seguir o exemplo do que foi feito em Alfenas para impulsionar o Estado em áreas como a geração de empregos, atração de novas indústrias, desenvolvimento social e, consequentemente, a diminuição dos índices de violência. Ele promete empenhar seu mandato em prol de mais benefícios para todo Sul de Minas, em especial para a região de Alfenas, que, na visão dele, carece de maior articulação política junto aos Executivos estadual e federal.",
  "atuacaoParlamentar": "Assume, em 2023, seu primeiro mandato na Assembleia Legislativa de Minas Gerais.",
  "candidaturas": [

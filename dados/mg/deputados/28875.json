@@ -14,6 +14,7 @@
  "naturalidadeMunicipio": "Patos de Minas",
  "naturalidadeUf": "MG",
  "dataNascimento": "08/09/1964",
+ "emailPessoal": "assessoriamarliribeiro@gmail.com",
  "apresentarEmail": "A",
  "codigoSituacao": 1,
  "partidoEleicao": "PSC",
@@ -21,6 +22,24 @@
   {
    "tipo": "1",
    "endereco": "dep.marli.ribeiro"
+  }
+ ],
+ "redesSociais": [
+  {
+   "redeSocial": {
+    "id": 0,
+    "nome": "Facebook",
+    "url": "http://www.facebook.com"
+   },
+   "url": "https://www.facebook.com/marliribeiromg1"
+  },
+  {
+   "redeSocial": {
+    "id": 19,
+    "nome": "Instagram",
+    "url": "http://instagram.com"
+   },
+   "url": "https://www.instagram.com/marliribeiromg/"
   }
  ],
  "vidaProfissionalPolitica": "Vereadora mais votada em Paracatu (Noroeste de Minas), exercia seu terceiro mandato na Câmara Municipal e foi eleita pela primeira vez deputada estadual. Além de política, apresenta-se como pedagoga, psicanalista, missionária e coach. Trabalha há 30 anos com projetos sociais de prevenção, recuperação e reinserção social. Sob o lema \"Deus, Pátria, Família e Vida\", apresenta várias propostas para seu mandato na ALMG. Entre elas, defesa da saúde e do meio ambiente, causa animal, ampliação de projetos sociais e esportivos, luta por mais infraestrutura para o agronegócio e para a agricultura familiar.",

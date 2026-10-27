@@ -14,6 +14,7 @@
  "naturalidadeMunicipio": "Belo Horizonte",
  "naturalidadeUf": "MG",
  "dataNascimento": "30/08/1977",
+ "sitePessoal": "http://gustavovaladares.com.br",
  "apresentarEmail": "G",
  "atividadeProfissional": "Bacharel em Direito e empresário",
  "codigoSituacao": 1,
@@ -22,6 +23,32 @@
   {
    "tipo": "1",
    "endereco": "dep.gustavo.valadares"
+  }
+ ],
+ "redesSociais": [
+  {
+   "redeSocial": {
+    "id": 0,
+    "nome": "Facebook",
+    "url": "http://www.facebook.com"
+   },
+   "url": "https://www.facebook.com/DeputadoGustavoValadares"
+  },
+  {
+   "redeSocial": {
+    "id": 19,
+    "nome": "Instagram",
+    "url": "http://instagram.com"
+   },
+   "url": "https://www.instagram.com/valadaresgustavo/"
+  },
+  {
+   "redeSocial": {
+    "id": 1,
+    "nome": "Twitter",
+    "url": "http://twitter.com"
+   },
+   "url": "https://twitter.com/depgustavo"
   }
  ],
  "vidaProfissionalPolitica": "Bacharel em Direito pela PUC Minas, é natural de Belo Horizonte e filho do ex-deputado Ziza Valadares. As principais regiões de atuação política são Central, os Vales do Rio Doce, Jequitinhonha e Mucuri, Centro-Oeste e Zona da Mata. Os municípios de maior votação foram Sabará, Belo Horizonte, Guanhães, Capelinha, Ouro Verde de Minas, São João Evangelista, São Sebastião do Maranhão, Campos Gerais, Rio Vermelho, Caeté e Peçanha.",

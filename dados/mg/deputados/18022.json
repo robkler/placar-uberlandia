@@ -26,6 +26,7 @@
  "naturalidadeMunicipio": "Vespasiano",
  "naturalidadeUf": "MG",
  "dataNascimento": "24/07/1990",
+ "emailPessoal": "naya_perdigao@hotmail.com",
  "apresentarEmail": "A",
  "codigoSituacao": 1,
  "partidoEleicao": "PP",
@@ -33,6 +34,24 @@
   {
    "tipo": "1",
    "endereco": "dep.nayara.rocha"
+  }
+ ],
+ "redesSociais": [
+  {
+   "redeSocial": {
+    "id": 0,
+    "nome": "Facebook",
+    "url": "http://www.facebook.com"
+   },
+   "url": "https://www.facebook.com/nayara.perdigao.5"
+  },
+  {
+   "redeSocial": {
+    "id": 19,
+    "nome": "Instagram",
+    "url": "http://instagram.com"
+   },
+   "url": "https://www.instagram.com/nayararochamg/"
   }
  ],
  "vidaProfissionalPolitica": "Deputada estadual eleita em Minas Gerais com 44.619 votos. Filha de Ilce Rocha Perdigão e Sérgio Perdigão. Casada, mamãe de Áurea e Daniel.\r\n\r\nFormada em Direito pelo Centro Universitário Newton Paiva, é doutoranda em Direito pela Universidade de Salamanca e mestre em Administração Pública pela Fundação Pedro Leopoldo. Possui pós-graduação em Direito Público e cursa pós-graduação em Direito Administrativo na Pontifícia Universidade Católica de Minas Gerais (PUC-Minas).\r\n\r\nAtualmente, é vice-líder do Governo na ALMG e membro efetivo da Comissão de Administração Pública. Preside a Comissão de Defesa dos Direitos das Pessoas com Deficiência da União Nacional dos Legisladores e Legislativos Estaduais (Unale).\r\n\r\nÉ uma grande defensora dos direitos das pessoas com deficiência, idosos, crianças e mulheres, com destaque para a causa autista. Foi eleita uma das deputadas mais atuantes da ALMG, tendo apresentado, em pouco mais de um ano de mandato, mais de 160 projetos de lei, além de diversos requerimentos.\r\n\r\nAnteriormente, exerceu os cargos de secretária de Governo e de Desenvolvimento Social em Vespasiano, Região Metropolitana de Belo Horizonte. Na pasta de Desenvolvimento Social, conseguiu implantar abrigo para acolher moradores em situação de rua; a Casa Rosa; a Escolinha do Galo; o Projeto Sada Voley; o Conselho Municipal da Pessoa com Deficiência; a carteirinha do Autismo; o Kart Educacional Automobilístico e o Projeto Iluminar, que promove inclusão social. Também ampliou as vagas do projeto Avança Judô e das oficinas voltadas para a terceira idade.\r\n\r\nEm suas redes sociais, destaca que o gosto pela política veio pelo exemplo materno. Sua mãe, Ilce Rocha, é diretora-geral da Agência Metropolitana de Belo Horizonte, foi prefeita de Vespasiano por dois mandatos, presidente reeleita da Granbel, além de ter exercido três mandatos como vereadora, sido presidente da Câmara Municipal e vice-prefeita da cidade.",

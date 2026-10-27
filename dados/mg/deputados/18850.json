@@ -14,6 +14,7 @@
  "naturalidadeMunicipio": "São João del Rei",
  "naturalidadeUf": "MG",
  "dataNascimento": "21/05/1969",
+ "emailPessoal": "wilsonbatista@hotmail.com",
  "apresentarEmail": "G",
  "atividadeProfissional": "Médico-cirurgião",
  "codigoSituacao": 1,
@@ -22,6 +23,40 @@
   {
    "tipo": "1",
    "endereco": "dep.doutor.wilson.batista"
+  }
+ ],
+ "redesSociais": [
+  {
+   "redeSocial": {
+    "id": 0,
+    "nome": "Facebook",
+    "url": "http://www.facebook.com"
+   },
+   "url": "http://pt-br.facebook.com/doutorwilsonbatista"
+  },
+  {
+   "redeSocial": {
+    "id": 19,
+    "nome": "Instagram",
+    "url": "http://instagram.com"
+   },
+   "url": "https://www.instagram.com/drwilsonbatista/"
+  },
+  {
+   "redeSocial": {
+    "id": 1,
+    "nome": "Twitter",
+    "url": "http://twitter.com"
+   },
+   "url": "http://twitter.com/drwilsonbatista"
+  },
+  {
+   "redeSocial": {
+    "id": 3,
+    "nome": "Youtube",
+    "url": "http://www.youtube.com"
+   },
+   "url": "https://www.youtube.com/user/doutorwilsonbatista"
   }
  ],
  "vidaProfissionalPolitica": "Médico do câncer e cirurgião oncológico em Muriaé há mais de 20 anos. Atua Na Casa de Caridade Hospital São Paulo e já realizou mais de 15 mil cirurgias pelo SUS.\r\nÉ doutor em medicina Interna e Terapêutica pela Universidade Federal de São Paulo, Fellow no Instituto Europeu de Oncologia, em Milão, Itália. Pós-graduado em Saúde pública e Gestão Hospitalar pela Universidade Federal de Juiz de Fora.\r\nAutor da Lei que implantou o programa de prevenção e enfrentamento ao câncer em Minas Gerais, através das carretas adaptadas que percorrem o estado para realização de exames aliados ao diagnóstico inicial do câncer, aumentando as chances de cura da doença.\r\nSua principal área de atuação politica é a Zona da Mata e Campo das Vertentes, no pleito de 2022 foi o deputado mais votado da Zona da Mata e sua pauta é a saúde e educação.",

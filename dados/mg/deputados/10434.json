@@ -27,6 +27,7 @@
  "naturalidadeMunicipio": "Contagem",
  "naturalidadeUf": "MG",
  "dataNascimento": "3/7/1981",
+ "sitePessoal": "http://www.leandrogenaro.com.br/",
  "atividadeProfissional": "Pastor",
  "codigoSituacao": 1,
  "partidoEleicao": "PSD",
@@ -34,6 +35,24 @@
   {
    "tipo": "1",
    "endereco": "dep.leandro.genaro"
+  }
+ ],
+ "redesSociais": [
+  {
+   "redeSocial": {
+    "id": 0,
+    "nome": "Facebook",
+    "url": "http://www.facebook.com"
+   },
+   "url": "https://www.facebook.com/dep.leandrogenaro"
+  },
+  {
+   "redeSocial": {
+    "id": 19,
+    "nome": "Instagram",
+    "url": "http://instagram.com"
+   },
+   "url": "https://instagram.com/leandro.genaro/"
   }
  ],
  "vidaProfissionalPolitica": "Leandro Genaro assume, em 2019, seu segundo mandato na Assembleia Legislativa de Minas. É pastor da Igreja do Evangelho Quadrangular desde 2000 e superintendente da mesma igreja na grande BH. Apresenta o programa \"À Luz da Palavra\", pela rádio 107 FM de Belo Horizonte. Leandro Genaro é filho do ex-deputado estadual e também pastor Antônio Genaro. Foi reeleito com 98.717 votos.",

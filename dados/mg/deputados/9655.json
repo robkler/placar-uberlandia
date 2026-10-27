@@ -14,6 +14,7 @@
  "naturalidadeMunicipio": "Ouro Fino",
  "naturalidadeUf": "MG",
  "dataNascimento": "31/01/1949",
+ "sitePessoal": "http://deputadodalmoribeiro.com.br/",
  "atividadeProfissional": "Advogado e professor",
  "codigoSituacao": 1,
  "partidoEleicao": "PSDB",
@@ -21,6 +22,24 @@
   {
    "tipo": "1",
    "endereco": "dep.dalmo.ribeiro.silva"
+  }
+ ],
+ "redesSociais": [
+  {
+   "redeSocial": {
+    "id": 0,
+    "nome": "Facebook",
+    "url": "http://www.facebook.com"
+   },
+   "url": "https://www.facebook.com/DepDalmo"
+  },
+  {
+   "redeSocial": {
+    "id": 19,
+    "nome": "Instagram",
+    "url": "http://instagram.com"
+   },
+   "url": "https://www.instagram.com/depdalmoribeiro/"
   }
  ],
  "vidaProfissionalPolitica": "O deputado Dalmo Ribeiro retorna à Assembleia Legislativa de Minas Gerais (ALMG) para exercer o seu 7º mandato, após seis mandatos consecutivos entre 1999 e 2023. Formado em Pedagogia e Direito, foi vice-prefeito de Ouro Fino (1976-1982), presidente da 39ª Subseção da OAB/MG de Ouro Fino (1989-1994) e professor da Faculdade de Direito da Universidade de São Francisco, em Bragança Paulista (SP). Sua principal região de atuação política é o Sul de Minas. Dalmo Ribeiro assumiu a secretaria executiva do Banco de Desenvolvimento de Minas Gerais (BDMG) de 2022 a 2025. Ao longo de sua trajetória, aprovou, na ALMG, cerca de 300 projetos de lei e três Propostas de Emenda à Constituição. Na 19ª Legislatura (2019-2023), foi presidente da Comissão de Constituição e Justiça e vice-presidente da Comissão de Desenvolvimento Econômico. Ao longo dos mandatos anteriores, exerceu a 2°-vice-presidência da Mesa da Assembleia e presidiu as Comissões de Constituição e Justiça e do Trabalho, da Previdência e da Ação Social. Foi, ainda, o primeiro presidente da Comissão de Ética e Decoro Parlamentar.",

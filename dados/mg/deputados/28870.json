@@ -14,7 +14,7 @@
  ],
  "dataCargoRepresentacaoPartidaria": {
   "@class": "sql-timestamp",
-  "$": "2026-02-02"
+  "$": "2026-02-01"
  },
  "sexo": "M",
  "situacao": "Em exercício",
@@ -34,6 +34,40 @@
   {
    "tipo": "1",
    "endereco": "dep.lucas.lasmar"
+  }
+ ],
+ "redesSociais": [
+  {
+   "redeSocial": {
+    "id": 0,
+    "nome": "Facebook",
+    "url": "http://www.facebook.com"
+   },
+   "url": "https://www.facebook.com/LucasLasmarMG"
+  },
+  {
+   "redeSocial": {
+    "id": 19,
+    "nome": "Instagram",
+    "url": "http://instagram.com"
+   },
+   "url": "https://www.instagram.com/lucaslasmarmg"
+  },
+  {
+   "redeSocial": {
+    "id": 23,
+    "nome": "TikTok",
+    "url": "www.tiktok.com"
+   },
+   "url": "https://www.tiktok.com/@lucaslasmarmg"
+  },
+  {
+   "redeSocial": {
+    "id": 1,
+    "nome": "Twitter",
+    "url": "http://twitter.com"
+   },
+   "url": "https://twitter.com/lucaslasmarmg"
   }
  ],
  "vidaProfissionalPolitica": "Lucas Lasmar é administrador de empresas e foi o vereador mais bem votado em Oliveira (Centro-Oeste de Minas) no pleito de 2016. Ex-secretário municipal de Saúde mais jovem do município, entre 2017 e 2022, quando deixou o cargo para se candidatar a uma vaga no Parlamento mineiro. Defende a implantação de um tratamento mais humanizado na saúde e o fortalecimento do Sistema Único da Saúde (SUS).",

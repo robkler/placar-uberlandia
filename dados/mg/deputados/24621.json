@@ -28,6 +28,32 @@
    "endereco": "dep.gustavo.santana"
   }
  ],
+ "redesSociais": [
+  {
+   "redeSocial": {
+    "id": 0,
+    "nome": "Facebook",
+    "url": "http://www.facebook.com"
+   },
+   "url": "https://www.facebook.com/gustavosantanaplmg"
+  },
+  {
+   "redeSocial": {
+    "id": 19,
+    "nome": "Instagram",
+    "url": "http://instagram.com"
+   },
+   "url": "https://www.instagram.com/gustavosantanaplmg/"
+  },
+  {
+   "redeSocial": {
+    "id": 1,
+    "nome": "Twitter",
+    "url": "http://twitter.com"
+   },
+   "url": "https://twitter.com/DepGuSantana"
+  }
+ ],
  "vidaProfissionalPolitica": "Gustavo Santana é empresário e produtor rural. Nascido em Belo Horizonte, pai de Gustavo Santana Silva de Vasconcellos e casado com Vivian Ribeiro, o parlamentar é filho de Lourdes Rocha e do ex-deputado federal e estadual por dez mandatos, José Santana de Vasconcellos Moreira.",
  "atuacaoParlamentar": "Atuou como membro efetivo nas comissões de Meio Ambiente e Desenvolvimento Sustentável e Agropecuária e Agroindústria durante a 19ª Legislatura, sendo, também, suplente nas comissões de Segurança Pública e de Transporte, Comunicação e Obras Públicas. Reeleito em 2022, assumiu em 2023 seu terceiro mandato consecutivo na ALMG, exercendo por dois anos a função de Líder do Bloco Avança Minas e membro efetivo das comissões de Meio Ambiente e de Transportes, Comunicação e Obras Públicas. Atualmente, o parlamentar exerce a função de 1º Secretário da Assembleia Legislativa de Minas Gerais.",
  "condecoracao": "Foi agraciado com as seguintes condecorações: prêmio 100 melhores de 2016 de João Monlevade; Grande Medalha da Inconfidência; Grande Medalha Presidente Juscelino Kubitschek; Medalha Santos Dumont; Medalha do Mérito do Ministério Público; Colar do Mérito da Corte de Contas ministro José Maria de Alkmin, do Tribunal de Contas; Diploma de Honra ao Mérito Legislativo da cidade de Bom Jesus do Amparo; Certificado de Honra (pelos serviços prestados) da cidade de Malacacheta; Comenda Martins da Costa, no evento em homenagem ao muriaeense; Moeda Comemorativa dos 10 anos da Academia de Bombeiros Militar em agradecimento ao apoio à corporação; Título de Cidadão Benfeitor da cidade de Espinosa; homenageado pelo 3º Batalhão de Bombeiros Militar como \"Guardião da Pampulha\"; Medalha Comemorativa dos 120 anos de Itaúna; e Medalha do Mérito Legislativo no Grau Mérito Especial; Medalha Ordem do Mérito Imperador Dom Pedro II, do Corpo de Bombeiros de Minas Gerais. É também cidadão honorário dos municípios de Ubaporanga, Teófilo Otoni, Cabeceira Grande, Itaúna, Nanuque e Ipanema.",

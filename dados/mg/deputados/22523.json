@@ -35,6 +35,40 @@
    "endereco": "dep.cristiano.silveira"
   }
  ],
+ "redesSociais": [
+  {
+   "redeSocial": {
+    "id": 0,
+    "nome": "Facebook",
+    "url": "http://www.facebook.com"
+   },
+   "url": "https://www.facebook.com/cristianosilveiramg"
+  },
+  {
+   "redeSocial": {
+    "id": 19,
+    "nome": "Instagram",
+    "url": "http://instagram.com"
+   },
+   "url": "https://www.instagram.com/cristianosilveiramg/"
+  },
+  {
+   "redeSocial": {
+    "id": 1,
+    "nome": "Twitter",
+    "url": "http://twitter.com"
+   },
+   "url": "https://twitter.com/cristianominas"
+  },
+  {
+   "redeSocial": {
+    "id": 3,
+    "nome": "Youtube",
+    "url": "http://www.youtube.com"
+   },
+   "url": "https://www.youtube.com/channel/UCrJGvNzEn2ye-xD0kgsRPMQ"
+  }
+ ],
  "vidaProfissionalPolitica": "Natural de São João del-Rei (Central), é graduado em Filosofia e pós graduado em Planejamento e Gestão Estratégica. Iniciou sua carreira política como líder estudantil da União Municipal dos Estudantes (Umes), do Diretório Central dos Estudantes (DCE) e da União Estadual dos estudantes (UEE). Em 2000, foi eleito, aos 22 anos, vereador de São João del-Rei, sendo o mais jovem político eleito na história da cidade. \r\nEm 2004, elegeu-se vice-prefeito do município. Atuou como coordenador da Comissão Regional de Segurança Alimentar do Campo das Vertentes, durante dois mandatos. Entre 2009 e 2011, foi consultor da Unesco no monitoramento das ações de prevenção e enfrentamento à criminalidade em Minas Gerais por meio do Programa Nacional de Segurança Pública com Cidadania (Pronasci) do Ministério da Justiça.",
  "atuacaoParlamentar": "Reeleito para seu terceiro mandato na Assembleia Legislativa de Minas Gerais (ALMG). Na 19ª Legislatura, foi o 2º-vice-presidente da Assembleia no biênio 2019-2021. A partir do segundo biênio, atuou como membro da Comissão de Constituição e Justiça e da Comissão de Cultura. Na 18ª Legislatura, foi presidente da Comissão de Direitos Humanos e membro da Comissão de Administração Pública.",
  "candidaturas": [
@@ -55,7 +89,7 @@
   {
    "dataInicio": {
     "@class": "sql-timestamp",
-    "$": "2015-02-01"
+    "$": "2015-03-04"
    },
    "dataTermino": {
     "@class": "sql-timestamp",

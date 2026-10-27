@@ -36,6 +36,32 @@
    "endereco": "dep.rafael.martins"
   }
  ],
+ "redesSociais": [
+  {
+   "redeSocial": {
+    "id": 0,
+    "nome": "Facebook",
+    "url": "http://www.facebook.com"
+   },
+   "url": "https://www.facebook.com/rafaelmartinstv/"
+  },
+  {
+   "redeSocial": {
+    "id": 19,
+    "nome": "Instagram",
+    "url": "http://instagram.com"
+   },
+   "url": "https://www.instagram.com/rafaelmartinstv/"
+  },
+  {
+   "redeSocial": {
+    "id": 1,
+    "nome": "Twitter",
+    "url": "http://twitter.com"
+   },
+   "url": "https://twitter.com/rafaelmartinstv"
+  }
+ ],
  "vidaProfissionalPolitica": "Foi vereador na Câmara Municipal de Belo Horizonte, onde ingressou em 2017. No Legislativo municipal, foi presidente da Comissão de Meio Ambiente e Política Urbana e membro efetivo da Comissão Parlamentar de Inquérito (CPI) da Serra do Curral. Também participou da Comissão de Educação, Ciência, Tecnologia, Cultura, Desporto, Lazer e Turismo. É jornalista há 17 anos e trabalha como repórter na TV Alterosa de Belo Horizonte.",
  "atuacaoParlamentar": "Assume, em 2023, seu segundo mandato consecutivo na Assembleia Legislativa de Minas Gerais. Na 19ª Legislatura, foi presidente da Comissão de Minas e Energia e membro da CPI dos Fura-Filas da Vacinação.",
  "candidaturas": [

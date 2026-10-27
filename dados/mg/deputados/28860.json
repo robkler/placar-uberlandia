@@ -14,6 +14,7 @@
  "naturalidadeMunicipio": "Belo Horizonte",
  "naturalidadeUf": "MG",
  "dataNascimento": "20/11/1988",
+ "sitePessoal": "https://bellagoncalves.com.br/",
  "atividadeProfissional": "Cientista política",
  "codigoSituacao": 1,
  "partidoEleicao": "PSOL",
@@ -21,6 +22,48 @@
   {
    "tipo": "1",
    "endereco": "dep.bella.goncalves"
+  }
+ ],
+ "redesSociais": [
+  {
+   "redeSocial": {
+    "id": 0,
+    "nome": "Facebook",
+    "url": "http://www.facebook.com"
+   },
+   "url": "https://www.facebook.com/bellagoncalves.oficial.mg"
+  },
+  {
+   "redeSocial": {
+    "id": 19,
+    "nome": "Instagram",
+    "url": "http://instagram.com"
+   },
+   "url": "https://www.instagram.com/bellagoncalves.oficial/"
+  },
+  {
+   "redeSocial": {
+    "id": 23,
+    "nome": "TikTok",
+    "url": "www.tiktok.com"
+   },
+   "url": "https://www.tiktok.com/@bellagoncalves.oficial"
+  },
+  {
+   "redeSocial": {
+    "id": 1,
+    "nome": "Twitter",
+    "url": "http://twitter.com"
+   },
+   "url": "https://twitter.com/bellagoncalvs"
+  },
+  {
+   "redeSocial": {
+    "id": 3,
+    "nome": "Youtube",
+    "url": "http://www.youtube.com"
+   },
+   "url": "https://www.youtube.com/c/bellagoncalves"
   }
  ],
  "vidaProfissionalPolitica": "Foi vereadora de Belo Horizonte. Cientista política e doutora pela UFMG, atua nas lutas pelo direito à cidade e por uma reforma urbana popular e feminista. Sua experiência é marcada pelo trabalho junto a movimentos sociais, ocupações urbanas, vilas e favelas, diversos segmentos de trabalhadores informais e ainda junto a movimentos pela agroecologia e contra a mineração predatória. Antes de se tornar vereadora, atuou como assessora na Gabinetona, mandato coletivo e com ações compartilhadas, em covereança com Áurea Carolina e Cida Falabella. Mulher lésbica e jovem, foi a terceira mais votada da Federação Psol/PCB em 2016, ficando como primeira suplente em sua estreia eleitoral, como vereadora. Assumiu em novembro de 2018, com a eleição da vereadora Áurea Carolina para a Câmara dos Deputados. Já na eleição de 2020, Bella Gonçalves se elegeu vereadora com votação ampliada, tendo como propósitos fortalecer a luta pela democracia e por maior participação e poder às mulheres, negras, indígenas e LGBTQIA+.",

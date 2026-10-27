@@ -37,6 +37,32 @@
    "endereco": "dep.carol.caram"
   }
  ],
+ "redesSociais": [
+  {
+   "redeSocial": {
+    "id": 0,
+    "nome": "Facebook",
+    "url": "http://www.facebook.com"
+   },
+   "url": "https://www.facebook.com/carolcarammg/"
+  },
+  {
+   "redeSocial": {
+    "id": 19,
+    "nome": "Instagram",
+    "url": "http://instagram.com"
+   },
+   "url": "https://www.instagram.com/depcarolcaram/"
+  },
+  {
+   "redeSocial": {
+    "id": 3,
+    "nome": "Youtube",
+    "url": "http://www.youtube.com"
+   },
+   "url": "https://youtube.com/@carolcaram9157?si=L0SwOLBOr2-4yoz"
+  }
+ ],
  "vidaProfissionalPolitica": "Advogada com mestrado em Direito pela PUC Minas. Foi integrante da Comissão de Direitos do Consumidor e\r\nconselheira da seccional mineira da Ordem dos Advogados do Brasil (OAB-MG). Foi presidente da Fundação de Ensino de Contagem, procuradora-geral do município de Sabará, diretora do Procon de Contagem,\r\ndiretora do Departamento de Proteção e Defesa do Consumidor do Ministério da Justiça e Secretária Nacional do Consumidor. Atuou como professora de Direito na PUC Minas e na Fumec e como comentarista da TV Alterosa e da Rádio Itatiaia.",
  "filiacoes": [
   {

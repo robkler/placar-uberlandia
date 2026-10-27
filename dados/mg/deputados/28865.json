@@ -27,6 +27,7 @@
  "naturalidadeMunicipio": "Santa Rita de Caldas",
  "naturalidadeUf": "MG",
  "dataNascimento": "27/01/1950",
+ "emailPessoal": "mauriciolcarvalho1@gmail.com",
  "apresentarEmail": "A",
  "codigoSituacao": 1,
  "partidoEleicao": "NOVO",
@@ -34,6 +35,32 @@
   {
    "tipo": "1",
    "endereco": "dep.dr.mauricio"
+  }
+ ],
+ "redesSociais": [
+  {
+   "redeSocial": {
+    "id": 0,
+    "nome": "Facebook",
+    "url": "http://www.facebook.com"
+   },
+   "url": "https://www.facebook.com/dep.dr.mauricio"
+  },
+  {
+   "redeSocial": {
+    "id": 19,
+    "nome": "Instagram",
+    "url": "http://instagram.com"
+   },
+   "url": "https://www.instagram.com/drmauricio/"
+  },
+  {
+   "redeSocial": {
+    "id": 3,
+    "nome": "Youtube",
+    "url": "http://www.youtube.com"
+   },
+   "url": "https://www.youtube.com/@dep.dr.mauricio"
   }
  ],
  "vidaProfissionalPolitica": "Médico ortopedista, foi diretor clínico da Santa Casa de Ouro Fino (Sul de Minas) na década de 1990. Produtor rural e empresário, foi eleito para o seu primeiro mandato na ALMG. Anteriormente, foi prefeito de Ouro Fino por dois mandatos (2013/2020), reeleito com quase 90% dos votos e encerrando o mandato com aprovação de 92% da população. Foi premiado pela Associação dos Municípios Mineiros (AMM) com o prêmio de Melhor Gestão de Recursos Públicos. Consolidou sua liderança política no Sul de Minas como presidente da Associação dos Municípios do Alto do Rio Pardo (Amarp) por dois mandatos e como presidente do Conselho Fiscal no consórcio Samu regional de Varginha, também por duas ocasiões. Em seu mandato parlamentar se propõe a ampliar a representação do Sul de Minas, tendo como pautas o desenvolvimento econômico da região, o fortalecimento dos hospitais regionais e locais e a recuperação da infraestrutura rodoviária.",

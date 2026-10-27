@@ -14,7 +14,7 @@
  ],
  "dataCargoRepresentacaoPartidaria": {
   "@class": "sql-timestamp",
-  "$": "2026-02-02"
+  "$": "2023-01-31"
  },
  "sexo": "M",
  "situacao": "Em exercício",
@@ -27,6 +27,7 @@
  "naturalidadeMunicipio": "Pavão",
  "naturalidadeUf": "MG",
  "dataNascimento": "11/07/1971",
+ "sitePessoal": "http://www.drjeanfreire.com.br/",
  "atividadeProfissional": "Médico",
  "codigoSituacao": 1,
  "partidoEleicao": "PT",
@@ -34,6 +35,48 @@
   {
    "tipo": "1",
    "endereco": "dep.doutor.jean.freire"
+  }
+ ],
+ "redesSociais": [
+  {
+   "redeSocial": {
+    "id": 0,
+    "nome": "Facebook",
+    "url": "http://www.facebook.com"
+   },
+   "url": "https://www.facebook.com/drjeanfreire"
+  },
+  {
+   "redeSocial": {
+    "id": 5,
+    "nome": "Flickr",
+    "url": "http://www.flickr.com"
+   },
+   "url": "https://www.flickr.com/photos/drjeanfreire"
+  },
+  {
+   "redeSocial": {
+    "id": 19,
+    "nome": "Instagram",
+    "url": "http://instagram.com"
+   },
+   "url": "https://www.instagram.com/drjeanfreire/"
+  },
+  {
+   "redeSocial": {
+    "id": 1,
+    "nome": "Twitter",
+    "url": "http://twitter.com"
+   },
+   "url": "https://twitter.com/drjeanfreire"
+  },
+  {
+   "redeSocial": {
+    "id": 3,
+    "nome": "Youtube",
+    "url": "http://www.youtube.com"
+   },
+   "url": "https://www.youtube.com/channel/UCKefehRQCU8EWXPoDelhXWA"
   }
  ],
  "vidaProfissionalPolitica": "Jean Mark Freire Silva foi vereador em Itaobim (Vale do Jequitinhonha) por três mandatos consecutivos. Como vereador, trabalhou pela expansão da Universidade Federal dos Vales do Mucuri e Jequitinhonha. Desenvolveu por dez anos o projeto Casa do Estudante, renunciando à sua remuneração de vereador em prol da manutenção de moradias estudantis em cidades universitárias. Filho de trabalhadores rurais, iniciou a carreira na área médica como porteiro de hospital, atendente de enfermagem no Hospital Vale do Jequitinhonha e depois formou-se em Medicina, dedicando-se ao atendimento da população de Itaobim.",

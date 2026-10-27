@@ -27,12 +27,31 @@
  "naturalidadeMunicipio": "Andradas",
  "naturalidadeUf": "MG",
  "dataNascimento": "08/09/1983",
+ "sitePessoal": "http://rodrigolopesmg.com.br/",
  "codigoSituacao": 1,
  "partidoEleicao": "UNIÃO",
  "emails": [
   {
    "tipo": "1",
    "endereco": "dep.rodrigo.lopes"
+  }
+ ],
+ "redesSociais": [
+  {
+   "redeSocial": {
+    "id": 0,
+    "nome": "Facebook",
+    "url": "http://www.facebook.com"
+   },
+   "url": "https://www.facebook.com/rodrigolopes.minasgerais"
+  },
+  {
+   "redeSocial": {
+    "id": 19,
+    "nome": "Instagram",
+    "url": "http://instagram.com"
+   },
+   "url": "https://www.instagram.com/rodrigolopes.mg/"
   }
  ],
  "vidaProfissionalPolitica": "Casado com Elisangela Aparecida de Oliveira Lopes, pai de Miguel e Ariella. Começou sua trajetória nas atividades da agricultura familiar ainda criança. Formou-se em geografia e se tornou professor efetivo da rede estadual de ensino. É também formado em Gestão Pública. Em 2012 foi eleito o prefeito mais jovem da história de Andradas, com 29 anos, e reeleito em 2016 com a maior votação já registrada no município. Foi diretor da Associação Mineira de Municípios (AMM) e ferrenho defensor da causa do municipalismo. Também foi presidente do Cismarpa (Consórcio Intermunicipal de Saúde Eletiva dos Municípios do Alto do Rio Pardo), e presidente do Cissul, o maior Samu do Brasil.",

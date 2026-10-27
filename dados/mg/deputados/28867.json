@@ -36,6 +36,32 @@
    "endereco": "dep.enes.candido"
   }
  ],
+ "redesSociais": [
+  {
+   "redeSocial": {
+    "id": 0,
+    "nome": "Facebook",
+    "url": "http://www.facebook.com"
+   },
+   "url": "https://www.facebook.com/enes.candido"
+  },
+  {
+   "redeSocial": {
+    "id": 19,
+    "nome": "Instagram",
+    "url": "http://instagram.com"
+   },
+   "url": "https://www.instagram.com/enescandido/"
+  },
+  {
+   "redeSocial": {
+    "id": 1,
+    "nome": "Twitter",
+    "url": "http://twitter.com"
+   },
+   "url": "https://twitter.com/EnesCandido"
+  }
+ ],
  "vidaProfissionalPolitica": "Ex-secretário municipal de Saúde de Governador Valadares (Rio Doce), Enes Cândido foi eleito para seu primeiro mandato como deputado estadual. Foi o vereador mais votado daquele município por dois mandatos, eleito em 2016 e 2020. Nessa segunda eleição municipal, foi o vereador com maior número de votos da história de Governador Valadares. É formado pela Universidade Vale do Rio Doce (Univale), com pós-graduação pelo Centro Universitário de Patos, extinta Faculdade Integrada de Patos, nas especialidades de Enfermagem em Urgência e Emergência e Enfermagem do Trabalho. É também pós-graduado em Gestão Hospitalar pela Escola de Saúde Pública, mestre em Administração e Gestão Hospitalar pela Universidade Interamericana e doutorando em Ciências da Educação pela Utic. Foi diretor executivo do Hospital Municipal de Governador Valadares, gerente assistencial do Hospital Bom Samaritano, e professor em disciplinas de urgência e emergência em cursos de pós-graduação.",
  "atuacaoParlamentar": "Assume, em 2023, seu primeiro mandato na Assembleia Legislativa de Minas Gerais.",
  "candidaturas": [

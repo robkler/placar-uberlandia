@@ -27,6 +27,8 @@
  "naturalidadeMunicipio": "Vila Velha",
  "naturalidadeUf": "ES",
  "dataNascimento": "31/01/1995",
+ "emailPessoal": "equipelohanna@gmail.com",
+ "sitePessoal": "https://lohannafranca.com.br/",
  "apresentarEmail": "A",
  "atividadeProfissional": "Professora",
  "codigoSituacao": 1,
@@ -35,6 +37,72 @@
   {
    "tipo": "1",
    "endereco": "dep.lohanna"
+  }
+ ],
+ "redesSociais": [
+  {
+   "redeSocial": {
+    "id": 0,
+    "nome": "Facebook",
+    "url": "http://www.facebook.com"
+   },
+   "url": "https://www.facebook.com/lohannasfranca"
+  },
+  {
+   "redeSocial": {
+    "id": 5,
+    "nome": "Flickr",
+    "url": "http://www.flickr.com"
+   },
+   "url": "https://www.flickr.com/photos/lohannaf"
+  },
+  {
+   "redeSocial": {
+    "id": 19,
+    "nome": "Instagram",
+    "url": "http://instagram.com"
+   },
+   "url": "https://www.instagram.com/lohanna.franca/"
+  },
+  {
+   "redeSocial": {
+    "id": 22,
+    "nome": "Telegram",
+    "url": "https://web.telegram.org"
+   },
+   "url": "https://t.me/+XS8kz_UESgthN2Rh"
+  },
+  {
+   "redeSocial": {
+    "id": 23,
+    "nome": "TikTok",
+    "url": "www.tiktok.com"
+   },
+   "url": "https://www.tiktok.com/@lohanna.franca"
+  },
+  {
+   "redeSocial": {
+    "id": 1,
+    "nome": "Twitter",
+    "url": "http://twitter.com"
+   },
+   "url": "https://twitter.com/lohannaf"
+  },
+  {
+   "redeSocial": {
+    "id": 21,
+    "nome": "WhatsApp",
+    "url": "https://www.whatsapp.com/"
+   },
+   "url": "https://wa.me/5537991867994"
+  },
+  {
+   "redeSocial": {
+    "id": 3,
+    "nome": "Youtube",
+    "url": "http://www.youtube.com"
+   },
+   "url": "https://www.youtube.com/@lohannaf"
   }
  ],
  "vidaProfissionalPolitica": "Nascida em janeiro de 1995 em Vila Velha, Espírito Santo, Lohanna fez de Minas Gerais sua casa desde os primeiros anos, crescendo entre Itaúna e Divinópolis. Fixou residência definitiva em Divinópolis quando jovem, onde se envolveu ativamente em movimentos sociais, incluindo o Rotaract e o Movimento Acredito. Por considerar que a forma mais eficiente de fazer mudanças de longo prazo na sociedade é pela política institucional, decidiu se candidatar a vereadora, a mais jovem e mais votada na história de Divinópolis. Foi eleita deputada estadual com expressivos 67 mil votos pelo Partido Verde. Sua atuação política pauta-se em temas relacionados à educação, cultura, meio ambiente e representatividade feminina. Lohanna é formada em Bioquímica e atuou como professora, tendo se graduado pela UFSJ.",

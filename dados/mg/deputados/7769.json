@@ -24,6 +24,48 @@
    "endereco": "dep.leonidio.boucas"
   }
  ],
+ "redesSociais": [
+  {
+   "redeSocial": {
+    "id": 0,
+    "nome": "Facebook",
+    "url": "http://www.facebook.com"
+   },
+   "url": "https://www.facebook.com/leonidioboucas"
+  },
+  {
+   "redeSocial": {
+    "id": 19,
+    "nome": "Instagram",
+    "url": "http://instagram.com"
+   },
+   "url": "https://www.instagram.com/leonidioboucas/?hl=pt-br"
+  },
+  {
+   "redeSocial": {
+    "id": 23,
+    "nome": "TikTok",
+    "url": "www.tiktok.com"
+   },
+   "url": "https://www.tiktok.com/@leonidioboucas?_t=8f5MlnLn4VB&_"
+  },
+  {
+   "redeSocial": {
+    "id": 1,
+    "nome": "Twitter",
+    "url": "http://twitter.com"
+   },
+   "url": "https://twitter.com/leonidio_boucas"
+  },
+  {
+   "redeSocial": {
+    "id": 3,
+    "nome": "Youtube",
+    "url": "http://www.youtube.com"
+   },
+   "url": "https://www.youtube.com/channel/UCK4n3GtsizBE0bvBUgzPtJg"
+  }
+ ],
  "vidaProfissionalPolitica": "Empresário, produtor rural, professor e médico, eleito vereador em 1988, vice-presidente da Câmara Municipal de Uberlândia em 1989 e 1990, assumindo em 1991 a presidência da Casa. Em 1992, ingressou no Executivo como vice-prefeito de Uberlândia. Exerceu também o cargo de Secretário Municipal de Habitação e Meio Ambiente em 1994, ano este que elegeu-se deputado estadual por Minas Gerais, pela primeira vez, sendo o mais votado no Triângulo Mineiro. Entre 2001 e 2002, ocupou a Secretaria Municipal de Serviços Urbanos, eleito novamente deputado estadual para o mandato de 2003/2006. No ano de 2007, foi diretor do Instituto de Desenvolvimento Integrado do Estado (Indi). Em 2009, ocupou a Secretaria Municipal de Agropecuária e Abastecimento. Voltando, em 2012, a assumir o cargo de deputado estadual, reeleito para um novo mandato em 2015, ano este que foi também o presidente da Comissão de Constituição e Justiça da ALMG. Atualmente, cumpre seu sexto mandato (2023-2026), nesta mesma Casa. No setor privado, atua como empresário na área da educação e do agronegócio, por meio da produção de grãos e carne.",
  "atuacaoParlamentar": "Reeleito, assume, em 2023, o seu sexto mandato na Assembleia Legislativa de Minas Gerais (ALMG), onde atualmente preside as comissões de Administração Pública e de Ética e Decoro Parlamentar. Em seu primeiro mandato, foi o parlamentar mais votado no Triângulo Mineiro.",
  "candidaturas": [

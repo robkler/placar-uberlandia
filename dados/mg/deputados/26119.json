@@ -22,6 +22,24 @@
    "endereco": "dep.professor.cleiton"
   }
  ],
+ "redesSociais": [
+  {
+   "redeSocial": {
+    "id": 0,
+    "nome": "Facebook",
+    "url": "http://www.facebook.com"
+   },
+   "url": "https://www.facebook.com/Professor.Cleiton.RCC/"
+  },
+  {
+   "redeSocial": {
+    "id": 19,
+    "nome": "Instagram",
+    "url": "http://instagram.com"
+   },
+   "url": "https://www.instagram.com/depprofessorcleiton/"
+  }
+ ],
  "vidaProfissionalPolitica": "Em 2018 disputou pela primeira vez as eleições, tendo sido eleito para seu primeiro mandato. Nascido em Boa Esperança, mora em Varginha, ambas no Sul de Minas, onde tem uma trajetória na área de assistência social, sendo ainda professor em várias instituições de ensino em todo Sul de Minas. É formado em História pela Universidade Federal de Minas Gerais (UFMG), especialista em História da África, da Cultura Negra e do negro no Brasil (UFT), mestre em História do Brasil pela PUC-SP e mestre em História Ibérica pela Universidade Federal de Alfenas. É membro da Sociedade São Vicente de Paulo, da RCC, do movimento de Fé e Política da Igreja Católica e da Academia Latino Americana de Líderes Católicos.",
  "atuacaoParlamentar": "Assume, em 2023, seu segundo mandato consecutivo na Assembleia Legislativa de Minas Gerais (ALMG). Na 19ª Legislatura, atuou como vice-presidente da CPI da Cemig e da Comissão de Participação Popular, além de ter sido membro efetivo da Comissão de Educação, Ciência e Tecnologia. Atualmente é membro efetivo da Comissão de Administração Pública e presidente da Comissão de Cultura. Professor Cleiton é o líder do PV na Assembleia.",
  "candidaturas": [

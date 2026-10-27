@@ -14,6 +14,8 @@
  "naturalidadeMunicipio": "Rio Casca",
  "naturalidadeUf": "MG",
  "dataNascimento": "05/11/1988",
+ "emailPessoal": "adrianoaalvarenga@hotmail.com",
+ "sitePessoal": "https://adrianoalvarenga.com/",
  "apresentarEmail": "A",
  "atividadeProfissional": "Produtor agropecuário",
  "codigoSituacao": 1,
@@ -22,6 +24,24 @@
   {
    "tipo": "1",
    "endereco": "dep.adriano.alvarenga"
+  }
+ ],
+ "redesSociais": [
+  {
+   "redeSocial": {
+    "id": 0,
+    "nome": "Facebook",
+    "url": "http://www.facebook.com"
+   },
+   "url": "https://www.facebook.com/adriano.alvarenga.50"
+  },
+  {
+   "redeSocial": {
+    "id": 19,
+    "nome": "Instagram",
+    "url": "http://instagram.com"
+   },
+   "url": "https://www.instagram.com/adriano_aalvarenga/"
   }
  ],
  "vidaProfissionalPolitica": "Foi prefeito do município de Rio Casca (Mata) por dois mandatos consecutivos. Em 2016 foi eleito pelo PDT e em 2020 pelo PP, seu atual partido. Renunciou ao cargo para disputar a vaga no Parlamento mineiro. Antes disso, já havia sido eleito vice-prefeito do mesmo município em 2012, pelo PRB. Durante o seu último mandato como prefeito de Rio Casca, também exerceu a presidência do Consórcio Intermunicipal Multissetorial do Vale do Piranga (Cimvalpi) e do Consórcio Intermunicipal de Saúde da Microrregião do Vale do Piranga (Cisamapi).",

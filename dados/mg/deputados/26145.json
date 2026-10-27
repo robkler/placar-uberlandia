@@ -14,6 +14,7 @@
  "naturalidadeMunicipio": "Juiz de Fora",
  "naturalidadeUf": "MG",
  "dataNascimento": "5/9/1964",
+ "sitePessoal": "https://nalutacombetao.com.br/",
  "atividadeProfissional": "Professor",
  "codigoSituacao": 1,
  "partidoEleicao": "PT",
@@ -21,6 +22,32 @@
   {
    "tipo": "1",
    "endereco": "dep.betao"
+  }
+ ],
+ "redesSociais": [
+  {
+   "redeSocial": {
+    "id": 0,
+    "nome": "Facebook",
+    "url": "http://www.facebook.com"
+   },
+   "url": "https://www.facebook.com/betaopt"
+  },
+  {
+   "redeSocial": {
+    "id": 19,
+    "nome": "Instagram",
+    "url": "http://instagram.com"
+   },
+   "url": "https://www.instagram.com/betaopt/"
+  },
+  {
+   "redeSocial": {
+    "id": 1,
+    "nome": "Twitter",
+    "url": "http://twitter.com"
+   },
+   "url": "https://twitter.com/betaopt"
   }
  ],
  "vidaProfissionalPolitica": "Foi vereador na Câmara Municipal de Juiz de Fora (Mata), onde ingressou em 2009, tendo exercido três mandatos consecutivos. Formado em geografia, é professor efetivo no Estado, na rede municipal de Juiz de Fora e também atua na rede privada. Foi integrante do Diretório Acadêmico (DA) de Geografia e do Diretório Central dos Estudantes (DCE) da Universidade Federal de Juiz de Fora (UFJF). Grande parte de sua trajetória política foi no Sindicato dos Professores (Sinpro), no qual permaneceu de 1988 a 1995 e retornou em 1998. Cumpriu dois mandatos na Confederação Nacional dos Trabalhadores em Estabelecimentos de Ensino (Contee), entidade que reúne professores e auxiliares de administração de escolas privadas, e dirigiu a Central Única dos Trabalhadores na Zona da Mata e em Minas Gerais. Desde 1986, é filiado ao Partido dos Trabalhadores (PT), e é membro do Diálogo e Ação Petista (DAP). Presidiu o partido entre 1990 e 1991.",

@@ -27,6 +27,7 @@
  "naturalidadeMunicipio": "Juiz de Fora",
  "naturalidadeUf": "MG",
  "dataNascimento": "20/11/1975",
+ "sitePessoal": "http://www.noraldinojunior.com.br/",
  "atividadeProfissional": "Administrador público",
  "codigoSituacao": 1,
  "partidoEleicao": "PSC",
@@ -34,6 +35,40 @@
   {
    "tipo": "1",
    "endereco": "dep.noraldino.junior"
+  }
+ ],
+ "redesSociais": [
+  {
+   "redeSocial": {
+    "id": 0,
+    "nome": "Facebook",
+    "url": "http://www.facebook.com"
+   },
+   "url": "https://www.facebook.com/noraldinojunior"
+  },
+  {
+   "redeSocial": {
+    "id": 19,
+    "nome": "Instagram",
+    "url": "http://instagram.com"
+   },
+   "url": "https://www.instagram.com/noraldinojr/"
+  },
+  {
+   "redeSocial": {
+    "id": 1,
+    "nome": "Twitter",
+    "url": "http://twitter.com"
+   },
+   "url": "https://twitter.com/noraldinojunior"
+  },
+  {
+   "redeSocial": {
+    "id": 3,
+    "nome": "Youtube",
+    "url": "http://www.youtube.com"
+   },
+   "url": "https://www.youtube.com/noraldinojunior"
   }
  ],
  "vidaProfissionalPolitica": "Natural de Juiz de Fora (Zona da Mata), em 2012 foi eleito pela segunda vez vereador daquele município. Graduado em Turismo e pós-graduado em Gestão Ambiental em Problemas Urbanos, foi superintendente da Agência de Gestão Ambiental de Juiz de Fora (Agenda-JF) entre 2006 e 2008; presidente do Comitê da Bacia Hidrográfica dos Afluentes Mineiros dos Rios Preto e Paraibuna e do Consórcio Intermunicipal da Bacia dos Rios Preto e Paraibuna (Conpar). Atuou ainda como secretário executivo do Conselho Municipal de Meio Ambiente (Comdema) e chefe do Departamento de Gestão da Informação da Prefeitura, responsável pelo gerenciamento do Bolsa Família, da Secretaria de Política Social (SPS).",

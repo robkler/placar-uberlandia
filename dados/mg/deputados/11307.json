@@ -14,6 +14,7 @@
  "naturalidadeMunicipio": "São João da Ponte",
  "naturalidadeUf": "MG",
  "dataNascimento": "17/06/1983",
+ "emailPessoal": "ricardocostacampos@gmail.com",
  "apresentarEmail": "A",
  "codigoSituacao": 1,
  "partidoEleicao": "PT",
@@ -21,6 +22,24 @@
   {
    "tipo": "1",
    "endereco": "dep.ricardo.campos"
+  }
+ ],
+ "redesSociais": [
+  {
+   "redeSocial": {
+    "id": 0,
+    "nome": "Facebook",
+    "url": "http://www.facebook.com"
+   },
+   "url": "https://www.facebook.com/ricardocamposdeputado"
+  },
+  {
+   "redeSocial": {
+    "id": 19,
+    "nome": "Instagram",
+    "url": "http://instagram.com"
+   },
+   "url": "https://www.instagram.com/ricardocamposdeputado/"
   }
  ],
  "vidaProfissionalPolitica": "Já foi chefe de gabinete e assessor parlamentar na ALMG, onde na juventude havia atuado como adolescente trabalhador por meio da Associação Profissionalizante do Menor (Assprom). Agora retorna ao Parlamento estadual para assumir em 2023 seu primeiro mandato como deputado estadual. Nasceu em São João da Ponte (Norte), onde morou até os 14 anos de idade. Hoje reside em Contagem, na Região Metropolitana de Belo Horizonte (RMBH). Formou-se em Administração pela Pontifícia Universidade Católica de Minas Gerais (PUC/MG), com ênfase em Comércio Exterior, tendo sido presidente do Diretório Central dos Estudantes. Foi diretor geral do Instituto de Desenvolvimento do Norte e Nordeste de Minas Gerais (Idene), órgão que coordena ações voltadas para o desenvolvimento sustentável e a redução das desigualdades dos Vales do Jequitinhonha e Mucuri e do Norte de Minas. Passou ainda pela diretoria de operação Norte da Copasa.",

@@ -27,6 +27,7 @@
  "naturalidadeMunicipio": "Medeiros Neto",
  "naturalidadeUf": "BA",
  "dataNascimento": "30/05/1964",
+ "sitePessoal": "http://www.sargentorodrigues.com.br/",
  "apresentarEmail": "G",
  "atividadeProfissional": "Advogado e bacharel em Comunicação Social (habilitação em produção editorial) e pós-graduado em Estudos de Criminalidade e Segurança Pública pela UFMG",
  "codigoSituacao": 1,
@@ -35,6 +36,40 @@
   {
    "tipo": "1",
    "endereco": "dep.sargento.rodrigues"
+  }
+ ],
+ "redesSociais": [
+  {
+   "redeSocial": {
+    "id": 0,
+    "nome": "Facebook",
+    "url": "http://www.facebook.com"
+   },
+   "url": "https://www.facebook.com/depsargentorodrigues"
+  },
+  {
+   "redeSocial": {
+    "id": 19,
+    "nome": "Instagram",
+    "url": "http://instagram.com"
+   },
+   "url": "https://www.instagram.com/sargentorodriguesoficial/"
+  },
+  {
+   "redeSocial": {
+    "id": 1,
+    "nome": "Twitter",
+    "url": "http://twitter.com"
+   },
+   "url": "https://twitter.com/depsgtrodrigues"
+  },
+  {
+   "redeSocial": {
+    "id": 3,
+    "nome": "Youtube",
+    "url": "http://www.youtube.com"
+   },
+   "url": "http://www.youtube.com/user/depsargentorodrigues"
   }
  ],
  "vidaProfissionalPolitica": "Washington Fernando Rodrigues, mais conhecido como Sargento Rodrigues, é um policial militar e político brasileiro do estado de Minas Gerais, filiado ao PTB. Atualmente exerce o mandato de deputado estadual em Minas Gerais. Nasceu em Itupeva, distrito de Medeiros Neto, no dia 30 de maio de 1964.\n\nExerce o sexto mandato consecutivo como Deputado Estadual em Minas Gerais. Foi eleito a primeira vez em 1998, pelo PL. Foi reeleito em 2002, 2006, 2010 e 2014, pelo PDT. Em 2018, foi reeleito para o sexto mandato, pelo PTB, sendo o segundo deputado estadual mais bem votado em Minas Gerais, com 123.648 votos.\n\nBacharel em Direito pelo Centro Universitário Una (2011) e Comunicação Social pelo Centro Universitário Uni-BH (2004). Pós-graduado em Estudos de Criminalidade e Segurança Pública, pela Universidade Federal de Minas Gerais, e em Gestão Pública, pela Fundação João Pinheiro (2018).\r\n\r\nRodrigues também foi membro do Conselho Estadual Anti-Drogas - Conead, nos anos de 2001, 2002 e 2003, e do Conselho de Defesa Social de Minas Gerais, em 2003 e 2004.\r\n\r\n\n\nA família mudou-se para Belo Horizonte em 1968, quando, aos 4 anos de idade, Rodrigues tornou-se órfão de pai. Oriundo de uma família humilde, começou a trabalhar aos 13 anos como vendedor ambulante de jornal e, aos 15, trabalhou como auxiliar de produção da Ranel Bijouterias. Com 16 anos, foi vigilante mirim do Centro Salesiano do Menor - CESAM e, aos 18, office boy e auxiliar de tesouraria na Cisa Veículos.\n\nIngressou na carreira policial militar aos 20 anos, como soldado no Batalhão de Trânsito, onde permaneceu por três anos. Após ter sido aprovado no concurso para Cabo, foi transferido para o 5º Batalhão, no qual obteve o primeiro certificado de destaque operacional de sua carreira de policial militar. Devido ao empenho no exercício da profissão, foi transferido para o antigo Batalhão de Choque, para atuar na Companhia ROTAM. Em 1989, foi para a Academia de Polícia Militar e, em julho do mesmo ano, se formou Sargento, permanecendo na ROTAM até 1993. Nesse ano, passou a trabalhar no COPOM - Central de Operações da Polícia Militar, como operador de rádio. Em junho de 1997, voltou para o 5º BPM, no radiopatrulhamento.\r\n\r\nNo dia 13 de junho de 1997, a Polícia Militar mineira saiu às ruas para reivindicar seus direitos, fato este que se tornou parte da história de Minas. O Movimento nasceu do sofrimento vivido pelos policiais que clamavam por justiça e igualdade. O Sargento Rodrigues, um dos líderes de Movimento, foi aclamado pelas praças, na Praça da Liberdade, para fazer parte da Comissão de Negociação e se destacou pela coragem e determinação em defender os interesses da classe. Por liderar esse movimento histórico, foi expulso da PMMG, juntamente com outros 185 companheiros.\r\n\r\n\n\nAntes mesmo do Movimento de 1997, Rodrigues já se interessava pela carreira política, por acreditar que era a única forma de lutar contra as injustiças e por melhores condições de trabalho para os militares mineiros, sem ser perseguido e tolhido por superiores. Munido por esse sonho, candidatou-se a vereador em Belo Horizonte no ano de 1996, pelo PMN. Obteve 2.674 votos, ficando como primeiro suplente. Já naquela época, apesar do anonimato, Rodrigues foi o policial mais votado do Estado. Em 1998, desempregado, mas já conhecido como Líder do Movimento Reivindicatório das Praças da PMMG, candidatou-se a Deputado Estadual pelo PL e foi eleito pela primeira vez.",

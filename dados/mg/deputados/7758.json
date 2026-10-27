@@ -27,6 +27,7 @@
  "naturalidadeMunicipio": "Belo Horizonte",
  "naturalidadeUf": "MG",
  "dataNascimento": "11/10/1954",
+ "sitePessoal": "http://www.depcarlospimenta.com.br/home/",
  "atividadeProfissional": "Médico",
  "codigoSituacao": 1,
  "partidoEleicao": "PDT",
@@ -34,6 +35,32 @@
   {
    "tipo": "1",
    "endereco": "dep.carlos.pimenta"
+  }
+ ],
+ "redesSociais": [
+  {
+   "redeSocial": {
+    "id": 0,
+    "nome": "Facebook",
+    "url": "http://www.facebook.com"
+   },
+   "url": "https://www.facebook.com/deputadocarlospimenta"
+  },
+  {
+   "redeSocial": {
+    "id": 19,
+    "nome": "Instagram",
+    "url": "http://instagram.com"
+   },
+   "url": "https://www.instagram.com/dr.carlospimenta/"
+  },
+  {
+   "redeSocial": {
+    "id": 1,
+    "nome": "Twitter",
+    "url": "http://twitter.com"
+   },
+   "url": "https://twitter.com/CarlosPimentaMG"
   }
  ],
  "vidaProfissionalPolitica": "Carlos Pimenta retorna à Assembleia Legislativa para seu oitavo mandato de deputado estadual. É médico, formado pela Universidade Estadual de Montes Claros (Unimontes). Na ALMG, foi presidente da Comissão de Saúde entre 1995 e 1996 e entre 2017 e 2021, tendo sido ainda vice-presidente da mesma comissão. Também já integrou as Comissões de Meio Ambiente e Desenvolvimento Sustentável, de Direitos Humanos e de Cultura, entre outras. Entre janeiro de 2011 e maio de 2012, afastou-se do exercício do mandato parlamentar para ocupar o cargo de secretário de Estado de Trabalho e Emprego. Ex-secretário municipal de Governo da Prefeitura de Montes Claros (1991), foi vereador por três mandatos (1977 a 1992) nesta cidade e presidente da Câmara Municipal (1989-1990). As principais regiões de atuação política são o Norte de Minas e os Vales do Jequitinhonha e do Mucuri.",
@@ -83,7 +110,7 @@
   {
    "dataInicio": {
     "@class": "sql-timestamp",
-    "$": "2023-02-01"
+    "$": "1997-10-01"
    },
    "dataTermino": {
     "@class": "sql-timestamp",

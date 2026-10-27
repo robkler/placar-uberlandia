@@ -34,6 +34,24 @@
    "endereco": "dep.ze.laviola"
   }
  ],
+ "redesSociais": [
+  {
+   "redeSocial": {
+    "id": 0,
+    "nome": "Facebook",
+    "url": "http://www.facebook.com"
+   },
+   "url": "https://www.facebook.com/jose.laviola.7"
+  },
+  {
+   "redeSocial": {
+    "id": 19,
+    "nome": "Instagram",
+    "url": "http://instagram.com"
+   },
+   "url": "https://www.instagram.com/joselaviola/"
+  }
+ ],
  "vidaProfissionalPolitica": "Filho da deputada estadual Celise Laviola, elegeu-se pela primeira vez para a ALMG. Graduado em Direito pelo Centro Universitário de Belo Horizonte (UNI-BH) e produtor agropecuário, sua proposta é continuar o legado político da família e assim trabalhar para levar mais qualidade de vida à população do interior de Minas Gerais, sobretudo o Leste de Minas, onde passou quase toda infância e adolescência. Sua mãe, Celise Laviola, é filha do falecido deputado estadual José Laviola, que ocupou uma cadeira na ALMG por seis legislaturas consecutivas, sendo recordista de votos durante quatro mandatos. A irmã de Celise casou-se com José Henrique Lisboa Rosa, falecido em 2013, que também foi deputado estadual por cinco legislaturas e chegou a ser vice-presidente da ALMG em duas delas. Tem como meta estimular o empreendedorismo e diminuir a burocracia que compromete as atividades que geram renda e contribuem para a liberdade de crescimento econômico.",
  "atuacaoParlamentar": "Assume, em 2023, seu primeiro mandato na Assembleia Legislativa de Minas Gerais.",
  "candidaturas": [

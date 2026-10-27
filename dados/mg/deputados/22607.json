@@ -26,6 +26,7 @@
  "naturalidadeMunicipio": "Viçosa",
  "naturalidadeUf": "MG",
  "dataNascimento": "27/03/1958",
+ "sitePessoal": "http://www.robertoandrade.net.br/",
  "atividadeProfissional": "Oficial do Registro de Imóveis de Viçosa",
  "codigoSituacao": 1,
  "partidoEleicao": "AVANTE",
@@ -33,6 +34,40 @@
   {
    "tipo": "1",
    "endereco": "dep.roberto.andrade"
+  }
+ ],
+ "redesSociais": [
+  {
+   "redeSocial": {
+    "id": 0,
+    "nome": "Facebook",
+    "url": "http://www.facebook.com"
+   },
+   "url": "https://www.facebook.com/robertoandrade.mg/"
+  },
+  {
+   "redeSocial": {
+    "id": 19,
+    "nome": "Instagram",
+    "url": "http://instagram.com"
+   },
+   "url": "https://www.instagram.com/deprobertoandrade/"
+  },
+  {
+   "redeSocial": {
+    "id": 1,
+    "nome": "Twitter",
+    "url": "http://twitter.com"
+   },
+   "url": "https://twitter.com/dep_roberto"
+  },
+  {
+   "redeSocial": {
+    "id": 3,
+    "nome": "Youtube",
+    "url": "http://www.youtube.com"
+   },
+   "url": "https://www.youtube.com/channel/UCsrQAJauPg65W-m6vr07KOw"
   }
  ],
  "vidaProfissionalPolitica": "Foi presidente, por três mandatos consecutivos (2007 a 2018), da Serjus-Anoreg/MG, entidade que congrega os mais de 3 mil cartórios mineiros do serviço extrajudicial. Natural de Viçosa. É empresário do ramo da construção civil e membro do Conselho Consultivo da Fundação CDL/MG. Foi presidente, por dois mandatos, da Associação Comercial de Viçosa (ACV), nos anos de 1998 e 1999. Foi vice-presidente do Conselho Integrado de Desenvolvimento Regional e Comercial de Minas Gerais (Consider), em 1999. Entre 2011 e 2013, foi diretor administrativo-financeiro da Companhia Mineira de Turismo (Prominas) - empresa pública responsável por fomentar o turismo no Estado.",

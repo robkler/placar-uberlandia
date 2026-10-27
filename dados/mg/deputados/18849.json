@@ -27,6 +27,8 @@
  "naturalidadeMunicipio": "Timóteo",
  "naturalidadeUf": "MG",
  "dataNascimento": "19/07/1960",
+ "emailPessoal": "sinttocel@sinttrocel.org.br",
+ "sitePessoal": "http://www.celinhosinttrocel.com.br/",
  "apresentarEmail": "G",
  "atividadeProfissional": "Escriturário",
  "codigoSituacao": 1,
@@ -35,6 +37,32 @@
   {
    "tipo": "1",
    "endereco": "dep.celinho.sintrocel"
+  }
+ ],
+ "redesSociais": [
+  {
+   "redeSocial": {
+    "id": 0,
+    "nome": "Facebook",
+    "url": "http://www.facebook.com"
+   },
+   "url": "https://www.facebook.com/DeputadoCelinho"
+  },
+  {
+   "redeSocial": {
+    "id": 19,
+    "nome": "Instagram",
+    "url": "http://instagram.com"
+   },
+   "url": "https://www.instagram.com/deputadocelinho"
+  },
+  {
+   "redeSocial": {
+    "id": 1,
+    "nome": "Twitter",
+    "url": "http://twitter.com"
+   },
+   "url": "https://twitter.com/DepCelinho"
   }
  ],
  "vidaProfissionalPolitica": "José Célio de Alvarenga, o Celinho Sintrocel, tem atuação na Assembleia marcada pela defesa dos direitos dos trabalhadores e causas populares. O deputado traz em sua história uma forte atuação sindical: é diretor licenciado do Sindicato dos Trabalhadores em Transportes Rodoviários do Vale do Aço (Sinttrocel), da Federação dos Trabalhadores em Transportes Rodoviários de Minas Gerais (Fettrominas), da Confederação Nacional dos Trabalhadores em Transportes Terrestres (CNTTT) e da Nova Central Sindical dos Trabalhadores em Minas Gerais.",

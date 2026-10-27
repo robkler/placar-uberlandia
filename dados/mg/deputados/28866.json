@@ -14,6 +14,7 @@
  "naturalidadeMunicipio": "Divinópolis",
  "naturalidadeUf": "MG",
  "dataNascimento": "03/05/1979",
+ "emailPessoal": "eduardohenriqueazevedomg@gmail.com",
  "apresentarEmail": "A",
  "codigoSituacao": 1,
  "partidoEleicao": "PSC",
@@ -21,6 +22,56 @@
   {
    "tipo": "1",
    "endereco": "dep.eduardo.azevedo"
+  }
+ ],
+ "redesSociais": [
+  {
+   "redeSocial": {
+    "id": 0,
+    "nome": "Facebook",
+    "url": "http://www.facebook.com"
+   },
+   "url": "https://www.facebook.com/eduardoazevedomg"
+  },
+  {
+   "redeSocial": {
+    "id": 19,
+    "nome": "Instagram",
+    "url": "http://instagram.com"
+   },
+   "url": "https://www.instagram.com/eduardoazevedomg/"
+  },
+  {
+   "redeSocial": {
+    "id": 22,
+    "nome": "Telegram",
+    "url": "https://web.telegram.org"
+   },
+   "url": "https://t.me/37998647777"
+  },
+  {
+   "redeSocial": {
+    "id": 23,
+    "nome": "TikTok",
+    "url": "www.tiktok.com"
+   },
+   "url": "https://www.tiktok.com/@eduardoazevedomg"
+  },
+  {
+   "redeSocial": {
+    "id": 1,
+    "nome": "Twitter",
+    "url": "http://twitter.com"
+   },
+   "url": "https://twitter.com/eduardoazevemg"
+  },
+  {
+   "redeSocial": {
+    "id": 21,
+    "nome": "WhatsApp",
+    "url": "https://www.whatsapp.com/"
+   },
+   "url": "https://wa.me/537988007777"
   }
  ],
  "vidaProfissionalPolitica": "Foi vereador em Divinópolis (Centro-oeste), eleito em 2020. Éengenheiro civil, comerciante e irmão de Cleitinho Azevedo, deputado eleito para a 19ª Legislatura na ALMG e eleito senador por Minas Gerais em 2022. Cristão e conservador, se autodefine defensor da família e da vida. Os compromissos assumidos em campanha são fortalecer os valores cristãos, lutar pela redução de impostos, pelo livre mercado e contra as regalias sustentadas pelo dinheiro público.",
@@ -35,7 +86,7 @@
   {
    "dataInicio": {
     "@class": "sql-timestamp",
-    "$": "2022-10-02"
+    "$": "2024-04-06"
    },
    "dataTermino": {
     "@class": "sql-timestamp",
@@ -109,7 +160,7 @@
      "status": "Em exercício",
      "dataTermino": {
       "@class": "sql-timestamp",
-      "$": "2027-01-31"
+      "$": "2027-01-30"
      }
     }
    ]

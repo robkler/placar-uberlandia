@@ -2893,17 +2893,6 @@
   "email": "dep.joseairtonfelixcirilo@camara.leg.br"
  },
  {
-  "id": 74140,
-  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74140",
-  "nome": "José Carlos Araujo",
-  "siglaPartido": "DC",
-  "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36786",
-  "siglaUf": "BA",
-  "idLegislatura": 57,
-  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74140.jpg",
-  "email": "dep.josecarlosaraujo@camara.leg.br"
- },
- {
   "id": 204472,
   "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204472",
   "nome": "José Medeiros",
@@ -3210,6 +3199,17 @@
   "idLegislatura": 57,
   "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220566.jpg",
   "email": "dep.ledaborges@camara.leg.br"
+ },
+ {
+  "id": 80815,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/80815",
+  "nome": "Leo Prates",
+  "siglaPartido": "REPUBLICANOS",
+  "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37908",
+  "siglaUf": "BA",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/80815.jpg",
+  "email": "dep.leoprates@camara.leg.br"
  },
  {
   "id": 122195,

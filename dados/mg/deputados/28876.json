@@ -14,6 +14,7 @@
  "naturalidadeMunicipio": "Porteirinha",
  "naturalidadeUf": "MG",
  "dataNascimento": "10/06/1974",
+ "emailPessoal": "oscarteixeiraregional@gmail.com",
  "apresentarEmail": "A",
  "codigoSituacao": 1,
  "partidoEleicao": "PP",
@@ -21,6 +22,24 @@
   {
    "tipo": "1",
    "endereco": "dep.oscar.teixeira"
+  }
+ ],
+ "redesSociais": [
+  {
+   "redeSocial": {
+    "id": 0,
+    "nome": "Facebook",
+    "url": "http://www.facebook.com"
+   },
+   "url": "https://www.facebook.com/oscar.teixeira.526"
+  },
+  {
+   "redeSocial": {
+    "id": 19,
+    "nome": "Instagram",
+    "url": "http://instagram.com"
+   },
+   "url": "https://www.instagram.com/oscarlteixeira/"
   }
  ],
  "vidaProfissionalPolitica": "Ex-prefeito de Mato Verde (Norte de Minas) eleito por duas vezes, este será seu primeiro mandato como deputado estadual na (ALMG. Professor de Geografia, é empresário dos setores educacional e hoteleiro. Nasceu e foi criado no Norte de Minas. Oriundo de família humilde, iniciou sua vida profissional como educador, paixão que ele destaca como o tendo levado a investir na área educacional, iniciando sua vida empresarial neste segmento e se tornando referência regional na área. É diretor da Faculdade Favenorte em Mato Verde e da Rede OLT Hotéis. Entre suas várias propostas, defende a expansão do Projeto Jaíba, de agricultura irrigada, mais investimentos em infraestrutura e melhorias de vias de acesso à região da Serra Geral e do Alto Rio Pardo, além de iniciativas capazes de promover a melhoria das condições de saúde da população; a elaboração de roteiros turísticos para fomentar a criação de emprego e renda em municípios como os da Serra Geral e do Alto Rio Pardo; e a formação de mão de obra por meio de cursos profissionalizantes, etc.",

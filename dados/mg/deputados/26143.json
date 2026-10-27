@@ -14,12 +14,55 @@
  "naturalidadeMunicipio": "Belo Horizonte",
  "naturalidadeUf": "MG",
  "dataNascimento": "28/06/1978",
+ "sitePessoal": "https://andreiadejesus.com.br/",
  "codigoSituacao": 1,
  "partidoEleicao": "PT",
  "emails": [
   {
    "tipo": "1",
    "endereco": "dep.andreia.de.jesus"
+  }
+ ],
+ "redesSociais": [
+  {
+   "redeSocial": {
+    "id": 0,
+    "nome": "Facebook",
+    "url": "http://www.facebook.com"
+   },
+   "url": "https://www.facebook.com/andreiadejesuus"
+  },
+  {
+   "redeSocial": {
+    "id": 19,
+    "nome": "Instagram",
+    "url": "http://instagram.com"
+   },
+   "url": "https://www.instagram.com/andreiadejesuus/"
+  },
+  {
+   "redeSocial": {
+    "id": 1,
+    "nome": "Twitter",
+    "url": "http://twitter.com"
+   },
+   "url": "https://twitter.com/andreiadejesuus"
+  },
+  {
+   "redeSocial": {
+    "id": 21,
+    "nome": "WhatsApp",
+    "url": "https://www.whatsapp.com/"
+   },
+   "url": "https://api.whatsapp.com/send?phone=5531995161879"
+  },
+  {
+   "redeSocial": {
+    "id": 3,
+    "nome": "Youtube",
+    "url": "http://www.youtube.com"
+   },
+   "url": "https://www.youtube.com/channel/UCNdiW-HKhFWTVQto8BzP1Lw"
   }
  ],
  "vidaProfissionalPolitica": "Andreia de Jesus é advogada popular, educadora infantil, funcionária pública e mãe-solo. Nascida no distrito de Venda Nova, em Belo Horizonte, é moradora de Ribeirão das Neves, na Região Metropolitana de Belo Horizonte (RMBH). Trabalhou como doméstica na juventude e é a primeira pessoa de sua família com curso superior, tendo seu ingresso na Universidade garantido pelas políticas de ações afirmativas. Integrou as Comunidades Eclesiais de Base (CEBs) e as pastorais de rua e carcerária. Militante das Brigadas Populares e da #partidA, segue ao lado das pessoas privadas de liberdade e das ocupações urbanas, pela vida da juventude negra, por segurança pública cidadã e por melhores condições de vida nas periferias.",

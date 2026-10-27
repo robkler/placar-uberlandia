@@ -19,6 +19,8 @@
  "naturalidadeMunicipio": "Montes Claros",
  "naturalidadeUf": "MG",
  "dataNascimento": "02/09/1986",
+ "emailPessoal": "luitzta@hotmail.com",
+ "sitePessoal": "http://www.tadeumartinsleite.com.br",
  "apresentarEmail": "G",
  "codigoSituacao": 1,
  "partidoEleicao": "MDB",
@@ -26,6 +28,32 @@
   {
    "tipo": "1",
    "endereco": "dep.tadeu.leite"
+  }
+ ],
+ "redesSociais": [
+  {
+   "redeSocial": {
+    "id": 0,
+    "nome": "Facebook",
+    "url": "http://www.facebook.com"
+   },
+   "url": "https://www.facebook.com/deputadotadeuzinho/"
+  },
+  {
+   "redeSocial": {
+    "id": 19,
+    "nome": "Instagram",
+    "url": "http://instagram.com"
+   },
+   "url": "https://www.instagram.com/tadeumartinsleite/"
+  },
+  {
+   "redeSocial": {
+    "id": 1,
+    "nome": "Twitter",
+    "url": "http://twitter.com"
+   },
+   "url": "http://www.twitter.com/_tadeuzinho"
   }
  ],
  "vidaProfissionalPolitica": "Foi o mais jovem secretário de Estado de Minas Gerais, ao ser nomeado em fevereiro de 2015 para assumir a Secretaria de Estado de Desenvolvimento Regional, Política Urbana e Gestão Metropolitana, onde, entre outras ações, coordenou a Força Tarefa criada pelo Governo de Minas para avaliar as consequências da tragédia de Mariana e reativou o processo de regularização fundiária urbana no Estado. Suas principais regiões de atuação política são o Norte de Minas, Jequitinhonha e Noroeste.",

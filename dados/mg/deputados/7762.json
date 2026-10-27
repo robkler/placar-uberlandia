@@ -14,6 +14,7 @@
  "naturalidadeMunicipio": "Montes Claros",
  "naturalidadeUf": "MG",
  "dataNascimento": "13/06/1961",
+ "sitePessoal": "http://www.gilpereiramg.com.br/",
  "atividadeProfissional": "Administrador de empresas",
  "codigoSituacao": 1,
  "partidoEleicao": "PSD",
@@ -21,6 +22,48 @@
   {
    "tipo": "1",
    "endereco": "dep.gil.pereira"
+  }
+ ],
+ "redesSociais": [
+  {
+   "redeSocial": {
+    "id": 0,
+    "nome": "Facebook",
+    "url": "http://www.facebook.com"
+   },
+   "url": "https://www.facebook.com/gilpereira.mg/"
+  },
+  {
+   "redeSocial": {
+    "id": 19,
+    "nome": "Instagram",
+    "url": "http://instagram.com"
+   },
+   "url": "https://www.instagram.com/gilpereira.mg/"
+  },
+  {
+   "redeSocial": {
+    "id": 6,
+    "nome": "LinkedIn",
+    "url": "http://br.linkedin.com"
+   },
+   "url": "https://www.linkedin.com/in/gilpereiramg/"
+  },
+  {
+   "redeSocial": {
+    "id": 21,
+    "nome": "WhatsApp",
+    "url": "https://www.whatsapp.com/"
+   },
+   "url": "https://wa.me/5538997445577?text=Olá, Gil! Quero receber seus conteúdos aqui no WhatsApp. Meu nome e minha cidade:"
+  },
+  {
+   "redeSocial": {
+    "id": 3,
+    "nome": "Youtube",
+    "url": "http://www.youtube.com"
+   },
+   "url": "https://www.youtube.com/channel/UCmS1HYcs8zexvHzFunCTnrg"
   }
  ],
  "vidaProfissionalPolitica": "Bacharel em Administração com especialização em Comércio Exterior, iniciou a vida pública como vereador em Montes Claros em 1988, quando presidiu a comissão que elaborou a Lei Orgânica do município (1989/90). Foi secretário municipal de Governo na gestão do Prefeito Mário Ribeiro (1991/1992) e presidente da Câmara Municipal (1993/1994). É um dos deputados estaduais mais bem votados na história do Norte de Minas, tendo sido eleito, em 1994, com 26.345 votos; reeleito em 1998, com 56.540 votos; em 2002, com 74.502 votos; em 2006, com 100.442 votos e em 2010, com 95.450 votos; e, em 2014, com 104.730 votos. Em 2011, foi chamado pelo então governador Antonio Anastasia para ocupar o cargo de secretário de Estado de Desenvolvimento e Integração do Norte e Nordeste de Minas (Sedinor), no qual permaneceu até abril de 2014, quando retornou à Assembleia. As principais regiões de atuação política são o Norte de Minas e o Vale do Jequitinhonha.",

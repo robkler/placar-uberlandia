@@ -14,6 +14,7 @@
  "naturalidadeMunicipio": "Jacuí",
  "naturalidadeUf": "MG",
  "dataNascimento": "06/08/1960",
+ "sitePessoal": "http://antoniocarlosarantes.com.br/",
  "atividadeProfissional": "Produtor rural",
  "codigoSituacao": 1,
  "partidoEleicao": "PL",
@@ -21,6 +22,32 @@
   {
    "tipo": "1",
    "endereco": "dep.antonio.carlos.arantes"
+  }
+ ],
+ "redesSociais": [
+  {
+   "redeSocial": {
+    "id": 0,
+    "nome": "Facebook",
+    "url": "http://www.facebook.com"
+   },
+   "url": "https://www.facebook.com/DeputadoAntonioCarlosArantes"
+  },
+  {
+   "redeSocial": {
+    "id": 19,
+    "nome": "Instagram",
+    "url": "http://instagram.com"
+   },
+   "url": "https://www.instagram.com/antoniocarlosarantes/?hl=pt-br"
+  },
+  {
+   "redeSocial": {
+    "id": 1,
+    "nome": "Twitter",
+    "url": "http://twitter.com"
+   },
+   "url": "https://twitter.com/DeputadoArantes"
   }
  ],
  "vidaProfissionalPolitica": "Foi prefeito de Jacuí por três mandatos (1989-1992, 1997-2000 e 2001-2002). Presidiu o Clube dos Jovens 4S - Emater (1977-1983) e a Associação de Produtores Rurais do Mato Dentro e Jacuí. Foi assessor do deputado federal e ex-ministro Carlos Melles (1994-1996) e do ex-governador Aécio Neves (2005-2006). Atuou como diretor-geral da Prefeitura de São Sebastião do Paraíso na gestão Marilda Melles (2003-2004). Além disso, presidiu o Consórcio Intermunicipal de Preservação das Bacias dos Rios São João e Santana e a Agência de Desenvolvimento Sustentável do Sudoeste Mineiro (Adebras). Foi ainda coordenador do Programa de Renovação da Cafeicultura Regional em 17 municípios e conselheiro administrativo da Cooparaíso. Foi membro titular do Conselho Estadual do Cooperativismo (Cecoop), do Conselho Integrado de Desenvolvimento (Coind) junto à Secretaria de Estado de Desenvolvimento Econômico e ao Banco de Desenvolvimento de Minas Gerais (BDMG) e do Conselho Estadual de Turismo. Principais regiões de atuação política: Sudoeste, Sul e Centro-Oeste. Municípios de maior votação: São Sebastião do Paraíso, Guaxupé, Arcos, Paraguaçu, Jacuí, Bom Despacho, Belo Horizonte, Itaú de Minas, Cássia, Nova Resende, Botelhos, Oliveira, Muzambinho, Monte Santo de Minas, Pimenta, São Roque de Minas.",
@@ -98,7 +125,7 @@
   {
    "dataInicio": {
     "@class": "sql-timestamp",
-    "$": "2007-05-01"
+    "$": "2007-04-12"
    },
    "dataTermino": {
     "@class": "sql-timestamp",
@@ -130,7 +157,7 @@
    },
    "dataTermino": {
     "@class": "sql-timestamp",
-    "$": "2022-03-14"
+    "$": "2022-03-15"
    },
    "partido": {
     "id": 45,
@@ -204,18 +231,18 @@
     {
      "dataInicio": {
       "@class": "sql-timestamp",
-      "$": "2006-01-31"
+      "$": "2006-02-21"
      },
      "status": "Em exercício",
      "dataTermino": {
       "@class": "sql-timestamp",
-      "$": "2006-03-30"
+      "$": "2006-03-31"
      }
     },
     {
      "dataInicio": {
       "@class": "sql-timestamp",
-      "$": "2006-03-30"
+      "$": "2006-03-31"
      },
      "status": "Término de exercício de suplência",
      "dataTermino": {
@@ -315,7 +342,7 @@
     {
      "dataInicio": {
       "@class": "sql-timestamp",
-      "$": "2023-02-01"
+      "$": "2019-02-01"
      },
      "status": "Em exercício",
      "dataTermino": {

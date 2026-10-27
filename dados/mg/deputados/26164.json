@@ -14,12 +14,39 @@
  "naturalidadeMunicipio": "Presidente Prudente",
  "naturalidadeUf": "SP",
  "dataNascimento": "12/10/1978",
+ "sitePessoal": "http://delegadasheila.com/",
  "codigoSituacao": 1,
  "partidoEleicao": "PL",
  "emails": [
   {
    "tipo": "1",
    "endereco": "dep.delegada.sheila"
+  }
+ ],
+ "redesSociais": [
+  {
+   "redeSocial": {
+    "id": 0,
+    "nome": "Facebook",
+    "url": "http://www.facebook.com"
+   },
+   "url": "https://www.facebook.com/delegadasheila/"
+  },
+  {
+   "redeSocial": {
+    "id": 19,
+    "nome": "Instagram",
+    "url": "http://instagram.com"
+   },
+   "url": "https://www.instagram.com/delegadasheila/"
+  },
+  {
+   "redeSocial": {
+    "id": 1,
+    "nome": "Twitter",
+    "url": "http://twitter.com"
+   },
+   "url": "https://twitter.com/delegadasheila"
   }
  ],
  "vidaProfissionalPolitica": "Mãe do José e dos trigêmeos Marcos, Moisés e André, delegada de Polícia Civil. Juiz-forana de coração, suas principais bandeiras são: a valorização das forças de segurança, a defesa das mulheres, o combate à pedofilia, a luta contra o trabalho escravo e o crescimento econômico da Zona da Mata.\r\n\r\nEm 2016, foi a vereadora mais votada da história de Juiz de Fora com quase 10 mil votos. É bacharel em Direito, formada pela Fundação Toledo Prudente, de Presidente Prudente (SP), e pós-graduada em Ciências Penais pela Universidade Federal de Juiz de Fora (UFJF). Foi inspetora da Polícia Civil do Estado do Rio de Janeiro durante seis anos. Depois disso, tornou-se delegada da Polícia Civil, exercendo a função em Ubá (Zona da Mata) e Juiz de Fora, onde foi titular do Núcleo de Ações Operacionais (NAOP), delegada de Trânsito, titular da Delegacia de Mulheres e a primeira mulher a se tornar titular da 1ª Delegacia Regional de Polícia Civil de Juiz de Fora.",

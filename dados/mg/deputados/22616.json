@@ -14,6 +14,7 @@
  "naturalidadeMunicipio": "João Monlevade",
  "naturalidadeUf": "MG",
  "dataNascimento": "02/12/1983",
+ "sitePessoal": "http://www.titotorres.com.br/",
  "atividadeProfissional": "Empresário e pecuarista",
  "codigoSituacao": 1,
  "partidoEleicao": "PSD",
@@ -21,6 +22,48 @@
   {
    "tipo": "1",
    "endereco": "dep.tito.torres"
+  }
+ ],
+ "redesSociais": [
+  {
+   "redeSocial": {
+    "id": 0,
+    "nome": "Facebook",
+    "url": "http://www.facebook.com"
+   },
+   "url": "https://www.facebook.com/deputadoTitoTorres/"
+  },
+  {
+   "redeSocial": {
+    "id": 19,
+    "nome": "Instagram",
+    "url": "http://instagram.com"
+   },
+   "url": "https://www.instagram.com/titotorresmg/"
+  },
+  {
+   "redeSocial": {
+    "id": 18,
+    "nome": "SoundCloud",
+    "url": "http://soundcloud.com"
+   },
+   "url": "https://soundcloud.com/tito-torres-24"
+  },
+  {
+   "redeSocial": {
+    "id": 1,
+    "nome": "Twitter",
+    "url": "http://twitter.com"
+   },
+   "url": "https://twitter.com/titotorresmg"
+  },
+  {
+   "redeSocial": {
+    "id": 3,
+    "nome": "Youtube",
+    "url": "http://www.youtube.com"
+   },
+   "url": "https://www.youtube.com/user/TitoTorre45240"
   }
  ],
  "vidaProfissionalPolitica": "Trabalhou no Tribunal de Contas e administrou a Rádio Cultura de sua cidade natal, João Monlevade. É filho do ex-deputado estadual por seis mandatos, Mauri Torres, e sempre esteve envolvido com o universo da política, acompanhando de perto a trajetória do pai.",

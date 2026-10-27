@@ -14,12 +14,31 @@
  "naturalidadeMunicipio": "Barbacena",
  "naturalidadeUf": "MG",
  "dataNascimento": "21/10/1992",
+ "sitePessoal": "https://www.doorgalandrada.com.br/",
  "codigoSituacao": 1,
  "partidoEleicao": "PATRIOTA",
  "emails": [
   {
    "tipo": "1",
    "endereco": "dep.doorgal.andrada"
+  }
+ ],
+ "redesSociais": [
+  {
+   "redeSocial": {
+    "id": 0,
+    "nome": "Facebook",
+    "url": "http://www.facebook.com"
+   },
+   "url": "https://www.facebook.com/doorgalandradamg/"
+  },
+  {
+   "redeSocial": {
+    "id": 19,
+    "nome": "Instagram",
+    "url": "http://instagram.com"
+   },
+   "url": "https://www.instagram.com/doorgalandradamg/"
   }
  ],
  "vidaProfissionalPolitica": "Foi vereador em Belo Horizonte, presidiu a Comissão de Legislação e Justiça (CLJ), tendo sido o parlamentar mais jovem da mais recente legislatura da Câmara Municipal da Capital. Seu mandato destacou-se pela defesa da independência do Poder Legislativo, pela fiscalização firme do Executivo e pela transparência. Entre suas bandeiras, estão o apoio à pessoa com autismo e seus familiares, a promoção do esporte e a defesa de maior eficiência do poder público e do municipalismo. Doorgal é também bacharel em Direito, atleta de triatlo e oficial da reserva do Exército Brasileiro.",
@@ -151,7 +170,7 @@
      "status": "Em exercício",
      "dataTermino": {
       "@class": "sql-timestamp",
-      "$": "2027-01-08"
+      "$": "2027-01-31"
      }
     }
    ]

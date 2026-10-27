@@ -14,6 +14,8 @@
  "naturalidadeMunicipio": "Rio de Janeiro",
  "naturalidadeUf": "RJ",
  "dataNascimento": "20/07/1970",
+ "emailPessoal": "henrique31@ig.com.br",
+ "sitePessoal": "http://www.deputadocarloshenrique.com.br/",
  "apresentarEmail": "G",
  "codigoSituacao": 1,
  "partidoEleicao": "REPUBLICANOS",
@@ -21,6 +23,40 @@
   {
    "tipo": "1",
    "endereco": "dep.carlos.henrique"
+  }
+ ],
+ "redesSociais": [
+  {
+   "redeSocial": {
+    "id": 0,
+    "nome": "Facebook",
+    "url": "http://www.facebook.com"
+   },
+   "url": "https://www.facebook.com/deputadocarloshenriqueoficial"
+  },
+  {
+   "redeSocial": {
+    "id": 19,
+    "nome": "Instagram",
+    "url": "http://instagram.com"
+   },
+   "url": "https://www.instagram.com/carloshenrique.mg/"
+  },
+  {
+   "redeSocial": {
+    "id": 23,
+    "nome": "TikTok",
+    "url": "www.tiktok.com"
+   },
+   "url": "https://www.tiktok.com/@carloshenrique.mg"
+  },
+  {
+   "redeSocial": {
+    "id": 1,
+    "nome": "Twitter",
+    "url": "http://twitter.com"
+   },
+   "url": "https://twitter.com/DeputadoCarlosH"
   }
  ],
  "vidaProfissionalPolitica": "Exerceu três mandatos consecutivos de vereador em Belo Horizonte, tendo sido eleito em 2000, 2004 e 2008. Ocupou a 1ª-Secretaria e a Corregedoria da Câmara e a Vice-Presidência da Comissão de Legislação e Justiça. Em abril de 2015, durante seu segundo mandato na Assembleia Legislativa, licenciou-se para assumir a Secretaria de Estado de Esportes. Suas principais regiões de atuação política concentram-se em Belo Horizonte e região metropolitana, Sul de Minas, Zona da Mata e no Vale do Jequitinhonha.",

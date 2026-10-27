@@ -27,6 +27,7 @@
  "naturalidadeMunicipio": "Teófilo Otoni",
  "naturalidadeUf": "MG",
  "dataNascimento": "31/08/1967",
+ "sitePessoal": "http://www.neilandopimenta.com.br/biografia.html",
  "atividadeProfissional": "Advogado",
  "codigoSituacao": 1,
  "partidoEleicao": "PSB",
@@ -34,6 +35,24 @@
   {
    "tipo": "1",
    "endereco": "dep.neilando.pimenta"
+  }
+ ],
+ "redesSociais": [
+  {
+   "redeSocial": {
+    "id": 0,
+    "nome": "Facebook",
+    "url": "http://www.facebook.com"
+   },
+   "url": "https://www.facebook.com/DeputadoNeilandoPimenta/"
+  },
+  {
+   "redeSocial": {
+    "id": 19,
+    "nome": "Instagram",
+    "url": "http://instagram.com"
+   },
+   "url": "https://www.instagram.com/deputadoneilando/"
   }
  ],
  "vidaProfissionalPolitica": "Doutorando em Ciências Jurídicas e Sociais. Foi tesoureiro da 29ª Subseção da Ordem dos Advogados do Brasil (OAB). Prestou serviços de consultoria jurídica a prefeituras e câmara municipais de diversas cidades dos vales do Mucuri e do Jequitinhonha. De 2001 a 2004, foi secretário municipal de Ação Social e Habitação de Teófilo Otoni. É fundador da Unipac de Teófilo Otoni, que oferece 30 cursos de graduação e 15 cursos de pós-graduação. As principais regiões de atuação política são Jequitinhonha/Mucuri e Rio Doce. Os municípios de maior votação são Teófilo Otoni, Padre Paraíso, Caraí, Ladainha, Poté, Frei Gaspar, Ipatinga, Ataleia, Joaíma, Maxacalis e Setubinha.",

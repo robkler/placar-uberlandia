@@ -22,6 +22,40 @@
    "endereco": "dep.mario.henrique.caixa"
   }
  ],
+ "redesSociais": [
+  {
+   "redeSocial": {
+    "id": 0,
+    "nome": "Facebook",
+    "url": "http://www.facebook.com"
+   },
+   "url": "https://www.facebook.com/mariocaixaoficial"
+  },
+  {
+   "redeSocial": {
+    "id": 19,
+    "nome": "Instagram",
+    "url": "http://instagram.com"
+   },
+   "url": "https://www.instagram.com/mariocaixaoficial/"
+  },
+  {
+   "redeSocial": {
+    "id": 1,
+    "nome": "Twitter",
+    "url": "http://twitter.com"
+   },
+   "url": "https://twitter.com/mariocaixa"
+  },
+  {
+   "redeSocial": {
+    "id": 3,
+    "nome": "Youtube",
+    "url": "http://www.youtube.com"
+   },
+   "url": "https://www.youtube.com/mariocaixaoficial"
+  }
+ ],
  "vidaProfissionalPolitica": "Mário Henrique Caixa, mais conhecido como 'O Caixa', como é chamado carinhosamente pela torcida atleticana, é radialista e jornalista formado no Centro Universitário de Belo Horizonte. Chegou à Itatiaia em 1993. Antes, teve passagens pelas rádios Três Pontas, Sentinela, do mesmo município, e Globo. Ele foi também narrador de futebol no canal de TV a cabo Sportv, simultaneamente ao seu trabalho na Rádio de Minas. \r\nMário participou efetivamente nas coberturas das Olimpíadas de 1996 (Atlanta, EUA), 2000 (Sydney, Austrália), 2004 (Grécia, Atenas), 2008 (Pequim, China), 2012 (Londres, Reino Unido), 2016 (Rio de Janeiro, Brasil) e 2024 (Paris, França); nos Jogos Pan-Americanos de 1999 (Winnipeg, Canadá), 2003 (Santo Domingo, República Dominicana) e 2007 (Rio de Janeiro); e em cinco Copas do Mundo (1998-França, 2002-Coréia/Japão, 2006- Alemanha, 2014-Brasil, 2022 Catar), além do Mundial de Clubes, em Marrocos. Nas Olimpíadas e nos Jogos Pan Americanos, chegou a narrar partidas de diversas modalidades. Em 2025, narrou pela primeira vez a Champions League em Munique, na Alemanha. \r\nSempre que há alguma equipe mineira na disputa de um título de relevância, independentemente do esporte, ele é escalado para a cobertura, devido à sua versatilidade. Seu dinamismo também é percebido nas vezes em que está no atuando dos noticiários esportivos da emissora, como o Rádio Esportes e a Turma do Bate Bola. \r\nPresente há 33 anos nas ondas do rádio, o Caixa também é presença real hoje na política. Foi assessor de gabinete na Secretaria de Esportes e Turismo na gestão João Pinto Ribeiro. E, em fevereiro de 2013, foi empossado, pela primeira vez, deputado estadual de Minas Gerais.",
  "atuacaoParlamentar": "O parlamentar, empossado deputado estadual de Minas Gerais, pela primeira vez, em fevereiro de 2013, é o primeiro representante legítimo de Três Pontas em mais de 50 anos na Assembleia. E, já no primeiro mês de mandato, tornou-se membro efetivo da Comissão de Esportes Lazer e Cultura e também vice-presidência da Comissão Extraordinária da Copa do Mundo, criada para discutir assuntos relacionados ao principal evento esportivo do mundo, realizado no Brasil em 2014.\r\nAinda em 2014, Caixa foi eleito o segundo deputado estadual mais votado do Estado, com 130.593 votos, com destaque para a votação expressiva na capital mineira, onde obteve 46.424 votos, 10.981 votos a mais do que o segundo parlamentar mais votado da cidade.\r\nEm 2015, Mário Henrique assumiu a vice-presidência da Comissão de Esportes da ALMG na qual segue atuando até o momento.\r\nEm abril daquele ano, o deputado assumiu também a Secretaria de Estado de Turismo de Minas Gerais, onde permaneceu até abril de 2016, devido a outros projetos pessoais e políticos. Na mesma época, Caixa se filiou ao Partido Verde (PV), ganhando ainda mais habilidade em sua atuação política.\r\nEm 2018, foi reeleito para seu terceiro mandato na ALMG, com 76.527 votos. Na 18ª Legislatura, integrou também, como membro efetivo, a Comissão de Participação Popular. \r\nEm 2019, Caixa foi honrado e eleito para o mandato de 2019 a agosto de 2022 o mais novo Conselheiro Eleito do Conselho Deliberativo do Clube Atlético Mineiro da chapa `Galo Forte e Unido´. Em agosto de 2025, foi reeleito e permanece no Conselho do time.\r\nEntre 2020 e 2021, tempos de pandemia mundial, o deputado mostrou-se ativo nas reuniões remotas e votou a favor de vários projetos para a melhoria da saúde no estado, indicando a maior parte das suas emendas parlamentares para a saúde pública. Ainda no final de 2021, o Projeto de Lei  3.056/21, de sua autoria, aprovado que tem como objetivo estabelecer direitos para os consumidores filiados às associações de socorro mútuo no Estado, considerando-os como associados que participam do grupo de rateio e utilizam os serviços por elas prestados. \r\nEm 2022, assumiu seu quarto mandato na Assembleia e, independentemente, de atuar na área esportiva, o parlamentar vem realizando um relevante trabalho, além do esporte, nas áreas da saúde, segurança, educação e mobilidade urbana. E espera continuar lutando em defesa de todos os mineiros.",
  "candidaturas": [

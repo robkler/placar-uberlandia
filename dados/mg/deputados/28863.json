@@ -23,6 +23,40 @@
    "endereco": "dep.chiara.biondini"
   }
  ],
+ "redesSociais": [
+  {
+   "redeSocial": {
+    "id": 0,
+    "nome": "Facebook",
+    "url": "http://www.facebook.com"
+   },
+   "url": "https://www.facebook.com/chiarabiondinit"
+  },
+  {
+   "redeSocial": {
+    "id": 19,
+    "nome": "Instagram",
+    "url": "http://instagram.com"
+   },
+   "url": "https://www.instagram.com/chiarabiondinit/"
+  },
+  {
+   "redeSocial": {
+    "id": 22,
+    "nome": "Telegram",
+    "url": "https://web.telegram.org"
+   },
+   "url": "https://web.telegram.org/k/#@erosechiarabiondini"
+  },
+  {
+   "redeSocial": {
+    "id": 21,
+    "nome": "WhatsApp",
+    "url": "https://www.whatsapp.com/"
+   },
+   "url": "https://api.whatsapp.com/send?phone=5531983878565"
+  }
+ ],
  "vidaProfissionalPolitica": "Estudante de Administração pela Unicamp, foi eleita pela primeira vez para deputada estadual na ALMG. É filha do atual deputado federal e ex-deputado estadual Eros Biondini, sua principal referência  ao estrear na carreira política. Ambos são ligados aos movimentos católicos. No seu mandato, pretende atuar em prol do estímulo ao empreendedorismo e geração de empregos, autonomia financeira e crescimento econômico, associando essa ação com a prevenção, recuperação e reinserção social dos jovens dependentes químicos, em sintonia com as comunidades terapêuticas. Atuará em defesa das pessoas com deficiência física e com síndrome de Down, autismo e doenças raras. Também buscará a consolidação de Belo Horizonte como um dos principais polos de startups do País, colaborando para a implementação de medidas que desburocratizem e fomentem parcerias do poder público com o setor privado. Pretende atuar por mais programas de apoio às comunidades em áreas de risco, que tragam mais dignidade e oportunidades aos mais vulneráveis por meio de auxílio psicológico e estrutural, cadastramento e documentação, para que essas pessoas tenham sua entrada facilitada no mercado de trabalho. Na Assembleia de Minas, defenderá bandeiras em defesa da vida e da família, contra o aborto, a pedofilia, as drogas e a violência contra mulher.",
  "candidaturas": [
   {

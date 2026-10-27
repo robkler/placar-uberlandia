@@ -14,7 +14,7 @@
  ],
  "dataCargoRepresentacaoPartidaria": {
   "@class": "sql-timestamp",
-  "$": "2026-02-02"
+  "$": "2026-03-24"
  },
  "sexo": "F",
  "situacao": "Em exercício",
@@ -34,6 +34,40 @@
   {
    "tipo": "1",
    "endereco": "dep.amanda.teixeira.dias"
+  }
+ ],
+ "redesSociais": [
+  {
+   "redeSocial": {
+    "id": 0,
+    "nome": "Facebook",
+    "url": "http://www.facebook.com"
+   },
+   "url": "https://www.facebook.com/amandateixeiradiasmg"
+  },
+  {
+   "redeSocial": {
+    "id": 19,
+    "nome": "Instagram",
+    "url": "http://instagram.com"
+   },
+   "url": "https://www.instagram.com/amandateixeiradias"
+  },
+  {
+   "redeSocial": {
+    "id": 24,
+    "nome": "Threads",
+    "url": "https://www.threads.net/"
+   },
+   "url": "https://www.threads.net/@amandateixeiradias"
+  },
+  {
+   "redeSocial": {
+    "id": 1,
+    "nome": "Twitter",
+    "url": "http://twitter.com"
+   },
+   "url": "https://www.x.com/ateixeiradias"
   }
  ],
  "vidaProfissionalPolitica": "Natural de Belo Horizonte (MG), Amanda Teixeira Dias é mãe e fundadora do projeto social Infância Digna, que atuou durante a pandemia de Covid-19 amparando crianças e adolescentes em situação de vulnerabilidade. Durante a gestão do ex-presidente da República Jair Bolsonaro, foi convidada pela ex-ministra da Mulher, da Família e dos Direitos Humanos, Damares Alves, para apresentar o projeto social ao governo federal, a fim de inspirar a criação de políticas públicas para mães e bebês em situação de vulnerabilidade social.\r\n\r\nÉ neta do ex-vice-prefeito de Belo Horizonte e ex-deputado estadual Álvaro Antônio e filha do deputado federal Marcelo Álvaro Antônio (PL-MG), parlamentar em sua terceira legislatura e ex-ministro do Turismo do Brasil. A deputada integra a base de apoio do governo Zema na Assembleia Legislativa de Minas Gerais.\r\n\r\nAtivista de direita e importante mobilizadora de manifestações políticas pró-liberdade de expressão e econômica em Minas Gerais e em todo o Brasil, Amanda faz parte do núcleo de apoio do ex-presidente Jair Messias Bolsonaro, no Estado de Minas Gerais.",

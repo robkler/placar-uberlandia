@@ -19,6 +19,8 @@
  "naturalidadeMunicipio": "Belo Horizonte",
  "naturalidadeUf": "MG",
  "dataNascimento": "17/07/1980",
+ "emailPessoal": "contato@vitoriojunior.com.br",
+ "sitePessoal": "https://vitoriojunior.com.br/",
  "apresentarEmail": "A",
  "codigoSituacao": 1,
  "partidoEleicao": "PP",
@@ -26,6 +28,48 @@
   {
    "tipo": "1",
    "endereco": "dep.vitorio.junior"
+  }
+ ],
+ "redesSociais": [
+  {
+   "redeSocial": {
+    "id": 0,
+    "nome": "Facebook",
+    "url": "http://www.facebook.com"
+   },
+   "url": "https://www.facebook.com/vitoriojuniormg"
+  },
+  {
+   "redeSocial": {
+    "id": 19,
+    "nome": "Instagram",
+    "url": "http://instagram.com"
+   },
+   "url": "https://www.instagram.com/vitoriojuniormg/"
+  },
+  {
+   "redeSocial": {
+    "id": 1,
+    "nome": "Twitter",
+    "url": "http://twitter.com"
+   },
+   "url": "https://twitter.com/VitorioJrMG"
+  },
+  {
+   "redeSocial": {
+    "id": 21,
+    "nome": "WhatsApp",
+    "url": "https://www.whatsapp.com/"
+   },
+   "url": "https://wa.me/5531996438859"
+  },
+  {
+   "redeSocial": {
+    "id": 3,
+    "nome": "Youtube",
+    "url": "http://www.youtube.com"
+   },
+   "url": "https://www.youtube.com/@vitoriojuniormg"
   }
  ],
  "vidaProfissionalPolitica": "Exerceu por dois mandatos o cargo de vice-prefeito de Ribeirão das Neves (Região Metropolitana de Belo Horizonte), eleito em 2016 e 2020. Antes, foi vereador do município, escolhido em 2012. Foi presidente do Conselho Municipal de Saúde, secretário de Esportes e secretário de Governo. Entre as bandeiras defendidas pelo deputado está a geração de emprego, para evitar que o município seja cidade dormitório. Também defende a criação de frentes de trabalho, a inclusão social, investimentos em saúde, especialmente da mulher e das crianças, e a ampliação de vagas em creches.",

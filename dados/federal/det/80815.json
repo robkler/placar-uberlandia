@@ -1,0 +1,41 @@
+{
+ "id": 80815,
+ "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/80815",
+ "nomeCivil": "LEONARDO SILVA PRATES",
+ "ultimoStatus": {
+  "id": 80815,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/80815",
+  "nome": "Leo Prates",
+  "siglaPartido": "REPUBLICANOS",
+  "uriPartido": null,
+  "siglaUf": "BA",
+  "idLegislatura": 57,
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/80815.jpg",
+  "email": null,
+  "data": "2026-10-25",
+  "nomeEleitoral": "Leo Prates",
+  "gabinete": {
+   "nome": null,
+   "predio": null,
+   "sala": null,
+   "andar": null,
+   "telefone": null,
+   "email": "dep.leoprates@camara.leg.br"
+  },
+  "situacao": "Exercício",
+  "condicaoEleitoral": "Titular",
+  "descricaoStatus": ""
+ },
+ "sexo": "M",
+ "urlWebsite": null,
+ "redeSocial": [
+  "https://twitter.com/LeonardoPrates4",
+  "https://www.facebook.com/leo.prates.7",
+  "https://www.instagram.com/leoprates"
+ ],
+ "dataNascimento": "1978-04-05",
+ "dataFalecimento": null,
+ "ufNascimento": "BA",
+ "municipioNascimento": "Salvador",
+ "escolaridade": "Pós-Graduação"
+}

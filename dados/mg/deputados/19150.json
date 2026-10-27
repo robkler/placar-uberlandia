@@ -27,12 +27,47 @@
  "naturalidadeMunicipio": "Belo Horizonte",
  "naturalidadeUf": "MG",
  "dataNascimento": "02/02/1980",
+ "sitePessoal": "https://www.anapaulasiqueira.com.br/",
  "codigoSituacao": 1,
  "partidoEleicao": "REDE",
  "emails": [
   {
    "tipo": "1",
    "endereco": "dep.ana.paula.siqueira"
+  }
+ ],
+ "redesSociais": [
+  {
+   "redeSocial": {
+    "id": 0,
+    "nome": "Facebook",
+    "url": "http://www.facebook.com"
+   },
+   "url": "https://www.facebook.com/anapaulasiqueiraoficial/"
+  },
+  {
+   "redeSocial": {
+    "id": 19,
+    "nome": "Instagram",
+    "url": "http://instagram.com"
+   },
+   "url": "https://www.instagram.com/anapaulasiqueiraoficial/"
+  },
+  {
+   "redeSocial": {
+    "id": 1,
+    "nome": "Twitter",
+    "url": "http://twitter.com"
+   },
+   "url": "https://twitter.com/dep_anapaula18"
+  },
+  {
+   "redeSocial": {
+    "id": 21,
+    "nome": "WhatsApp",
+    "url": "https://www.whatsapp.com/"
+   },
+   "url": "https://wa.me/553193594376"
   }
  ],
  "vidaProfissionalPolitica": "Ana Paula Siqueira é graduada em Serviço Social pela Pontifícia Universidade Católica de Minas Gerais (PUC-MG). É professora normalista pelo Instituto de Educação de Minas Gerais (IEMG). Deputada em segundo mandato, é negra e fez parte da primeira legislatura da Assembleia de Minas Gerais a eleger mulheres negras. É natural de Belo Horizonte, do Alto Vera Cruz, região periférica da Capital. Mãe de três filhos, pautou em seu primeiro ano de legislatura a implantação da licença-maternidade na Assembleia, como fortalecimento do processo de inclusão das mulheres na política. É nomeada pela Arquidiocese de Belo Horizonte como membro da Comissão Arquidiocesana de Justiça e Paz (CAJP). Foi secretária de Participação Popular da Prefeitura de Belo Horizonte, responsável pelo Orçamento Participativo. Foi coordenadora-geral da Associação Pré-UFMG, instituição responsável pela inserção de milhares de jovens de baixa renda em universidades públicas.",

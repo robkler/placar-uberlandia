@@ -27,12 +27,71 @@
  "naturalidadeMunicipio": "Carbonita",
  "naturalidadeUf": "MG",
  "dataNascimento": "3/7/1959",
+ "sitePessoal": "https://marquinholemos.com.br/",
  "codigoSituacao": 1,
  "partidoEleicao": "PT",
  "emails": [
   {
    "tipo": "1",
    "endereco": "dep.marquinho.lemos"
+  }
+ ],
+ "redesSociais": [
+  {
+   "redeSocial": {
+    "id": 0,
+    "nome": "Facebook",
+    "url": "http://www.facebook.com"
+   },
+   "url": "https://www.facebook.com/marquinholemosdeputado/"
+  },
+  {
+   "redeSocial": {
+    "id": 5,
+    "nome": "Flickr",
+    "url": "http://www.flickr.com"
+   },
+   "url": "https://flickr.com/photos/170058768@N08"
+  },
+  {
+   "redeSocial": {
+    "id": 19,
+    "nome": "Instagram",
+    "url": "http://instagram.com"
+   },
+   "url": "https://www.instagram.com/marquinhodeputado/"
+  },
+  {
+   "redeSocial": {
+    "id": 18,
+    "nome": "SoundCloud",
+    "url": "http://soundcloud.com"
+   },
+   "url": "https://on.soundcloud.com/2GmlsbZrgS3aTOAflI"
+  },
+  {
+   "redeSocial": {
+    "id": 24,
+    "nome": "Threads",
+    "url": "https://www.threads.net/"
+   },
+   "url": "https://www.threads.com/@marquinhodeputado"
+  },
+  {
+   "redeSocial": {
+    "id": 1,
+    "nome": "Twitter",
+    "url": "http://twitter.com"
+   },
+   "url": "https://x.com/DeputadoLemos"
+  },
+  {
+   "redeSocial": {
+    "id": 21,
+    "nome": "WhatsApp",
+    "url": "https://www.whatsapp.com/"
+   },
+   "url": "https://wa.me/5531995393802"
   }
  ],
  "vidaProfissionalPolitica": "Três vezes prefeito de Carbonita (Vale do Jequitinhonha), Marquinho Lemos tem como marca da sua trajetória o trabalho em favor dos municípios. Em sua juventude, morou em Belo Horizonte, onde participou ativamente de movimentos sociais e populares, que culminaram em sua filiação ao PT, em 1983. Em 1984, retornou à Carbonita e ajudou na criação do Sindicato dos Trabalhadores Rurais. Lutou junto às mães para a criação da primeira creche do município. Na área cultural, criou o grupo Semente do Vale e a rádio Comunitária. A experiência no trabalho junto aos movimentos sociais deu-lhe suporte para o exercício de seus mandatos como prefeito (1997-2000; 2001-2004; 2013-2016). Entre suas várias iniciativas, destaca-se a criação do Carboarte, festa que valoriza a cultura popular e que tornou-se referência na região. Liderou prefeitos no movimento pela inclusão do Vale do Jequitinhonha na Sudene; presidiu por cinco vezes a Associação Mineira dos Municípios do Alto Jequitinhonha (Amaje); participou da criação e foi presidente, por quatro vezes, do Consórcio de Saúde do Alto Jequitinhonha (Cisaje); coordenou o Programa Luz para Todos no Alto Jequitinhonha, Suaçuí e Região Central; coordenou a implantação do Território de Desenvolvimento do Vale do Jequitinhonha, por meio do qual foi incentivada a criação de cooperativas e associações de Apicultores em vários municípios e foi criado o polo de Fruticultura (Frutivale). Também participou da criação dos Comitês de Bacias Hidrográficas Jequitinhonha e Araçuaí. No PT, compôs, desde sua filiação, o Diretório Estadual e, hoje, é membro da Executiva Estadual.",

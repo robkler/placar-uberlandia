@@ -27,6 +27,8 @@
  "naturalidadeMunicipio": "Passos",
  "naturalidadeUf": "MG",
  "dataNascimento": "07/06/1981",
+ "emailPessoal": "cassio@cassiosoraes.com.br",
+ "sitePessoal": "http://www.cassiosoares.com.br/",
  "apresentarEmail": "G",
  "atividadeProfissional": "Economista",
  "codigoSituacao": 1,
@@ -35,6 +37,72 @@
   {
    "tipo": "1",
    "endereco": "dep.cassio.soares"
+  }
+ ],
+ "redesSociais": [
+  {
+   "redeSocial": {
+    "id": 0,
+    "nome": "Facebook",
+    "url": "http://www.facebook.com"
+   },
+   "url": "https://www.facebook.com/CassioSoaresOficial/"
+  },
+  {
+   "redeSocial": {
+    "id": 5,
+    "nome": "Flickr",
+    "url": "http://www.flickr.com"
+   },
+   "url": "https://www.flickr.com/photos/cassiosoares/albums"
+  },
+  {
+   "redeSocial": {
+    "id": 19,
+    "nome": "Instagram",
+    "url": "http://instagram.com"
+   },
+   "url": "https://www.instagram.com/cassiofsoares/"
+  },
+  {
+   "redeSocial": {
+    "id": 6,
+    "nome": "LinkedIn",
+    "url": "http://br.linkedin.com"
+   },
+   "url": "https://www.linkedin.com/authwall?trk=gf&trkInfo=AQEnyMw76fjeNgAAAYS-ZluQhxC3__jHpS3Q2zkBzn6qRTiTvBxrVYT4KifqhO7eNjAfw2--UibkEqvzdMAeiWPmCTHl0mQkrztTQQvcO2k0mDlAtPfuI-aSEpfpKmLw4z-Un6M=&original_refer"
+  },
+  {
+   "redeSocial": {
+    "id": 23,
+    "nome": "TikTok",
+    "url": "www.tiktok.com"
+   },
+   "url": "https://www.tiktok.com/@cassiosoaresoficial"
+  },
+  {
+   "redeSocial": {
+    "id": 1,
+    "nome": "Twitter",
+    "url": "http://twitter.com"
+   },
+   "url": "https://twitter.com/cassioafsoares"
+  },
+  {
+   "redeSocial": {
+    "id": 21,
+    "nome": "WhatsApp",
+    "url": "https://www.whatsapp.com/"
+   },
+   "url": "https://api.whatsapp.com/message/T2PLUXAND57VE1?autoload=1&app_absent=0"
+  },
+  {
+   "redeSocial": {
+    "id": 3,
+    "nome": "Youtube",
+    "url": "http://www.youtube.com"
+   },
+   "url": "https://www.youtube.com/user/cassioafsoares"
   }
  ],
  "vidaProfissionalPolitica": "Cassio Soares é natural de Passos, sudoeste de Minas Gerais, e é economista, formado pelo Centro Universitário Unifacef, de Franca (SP). Cassio também concluiu o Programa de Desenvolvimento de Gestores Públicos da Fundação Dom Cabral (2008). Iniciou na política como presidente do PFL Jovem e assessor parlamentar na Câmara Municipal de Passos. Entre 2007 e 2010, atuou como subsecretário de Estado da Defesa Social, na área de Inovação e Logística, e foi chefe de gabinete da mesma secretaria. Mais tarde, entre 2012 - 2014, Cassio se licenciou do Parlamento para atuar como secretário de Estado de Desenvolvimento Social (SEDESE).",

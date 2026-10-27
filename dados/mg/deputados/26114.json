@@ -23,6 +23,24 @@
    "endereco": "dep.raul.belem"
   }
  ],
+ "redesSociais": [
+  {
+   "redeSocial": {
+    "id": 0,
+    "nome": "Facebook",
+    "url": "http://www.facebook.com"
+   },
+   "url": "https://www.facebook.com/raulbelemoficial"
+  },
+  {
+   "redeSocial": {
+    "id": 19,
+    "nome": "Instagram",
+    "url": "http://instagram.com"
+   },
+   "url": "https://www.instagram.com/raulbelemoficial/"
+  }
+ ],
  "vidaProfissionalPolitica": "Ex-prefeito de Araguari (Triângulo), Raul José de Belém é filho do ex-deputado estadual, federal e constituinte Raul Décio de Belém Miguel, falecido em 2001. Empresário nas áreas de comunicação e agronegócio, cursou Administração de Empresas na Universidade Presidente Antônio Carlos (Unipac) de Araguari, sua cidade natal. Conquistou seu primeiro cargo eletivo em 2008, quando foi eleito vereador, também em Araguari. Em 2011, tornou-se assessor especial no gabinete da governadoria de Antonio Anastasia. Foi eleito prefeito de Araguari em 2012. Também ocupou a diretoria administrativa da Associação Nacional dos Municípios Sedes de Usinas Hidroelétricas (Amusuh) e compôs o conselho fiscal de Frente Mineira de Prefeitos.",
  "atuacaoParlamentar": "Assume, em 2023, seu segundo mandato consecutivo na Assembleia Legislativa de Minas Gerais (ALMG). Na 19ª Legislatura, foi líder do bloco governista Luiz Humberto Carneiro. Foi também membro efetivo da Comissão de Administração Pública e da Comissão de Participação Popular.",
  "candidaturas": [

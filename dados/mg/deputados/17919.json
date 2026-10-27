@@ -19,6 +19,7 @@
  "naturalidadeMunicipio": "Cristais",
  "naturalidadeUf": "MG",
  "dataNascimento": "11/08/1957",
+ "sitePessoal": "http://www.duartebechir.com.br/",
  "apresentarEmail": "G",
  "atividadeProfissional": "Servidor público federal do IBGE",
  "codigoSituacao": 1,
@@ -27,6 +28,40 @@
   {
    "tipo": "1",
    "endereco": "dep.duarte.bechir"
+  }
+ ],
+ "redesSociais": [
+  {
+   "redeSocial": {
+    "id": 0,
+    "nome": "Facebook",
+    "url": "http://www.facebook.com"
+   },
+   "url": "https://www.facebook.com/duarte.bechir"
+  },
+  {
+   "redeSocial": {
+    "id": 19,
+    "nome": "Instagram",
+    "url": "http://instagram.com"
+   },
+   "url": "https://www.instagram.com/duartebechir/"
+  },
+  {
+   "redeSocial": {
+    "id": 1,
+    "nome": "Twitter",
+    "url": "http://twitter.com"
+   },
+   "url": "https://twitter.com/DuarteBechir"
+  },
+  {
+   "redeSocial": {
+    "id": 3,
+    "nome": "Youtube",
+    "url": "http://www.youtube.com"
+   },
+   "url": "https://www.youtube.com/user/deputadoduarte"
   }
  ],
  "vidaProfissionalPolitica": "Bacharel em Direito desde 1990, Duarte Bechir assumiu seu primeiro cargo eletivo em 1993, como vereador em Campo Belo (Centro-Oeste). Foi também prefeito desta cidade entre 2001 e 2004. Como administrador municipal, ocupou ainda as presidências do Consórcio Intermunicipal de Saúde do Alto Rio Grande (Cismarg) e da Associação dos Municípios do Lago de Furnas (Alago), entre 2001 e 2002. Em 2004, foi presidente da Associação de Municípios do Alto Rio Grande (Amalg). Já no período de fevereiro a junho de 2008, foi diretor financeiro e administrativo da Companhia de Armazéns e Silos de Minas Gerais (Casemg). As principais regiões de atuação do parlamentar são Centro-Oeste, Sul de Minas e Central.",

@@ -27,6 +27,8 @@
  "naturalidadeMunicipio": "Patos de Minas",
  "naturalidadeUf": "MG",
  "dataNascimento": "27/04/1989",
+ "emailPessoal": "ludfalcaodeputada@gmail.com",
+ "sitePessoal": "http://www.ludfalcao.com.br/",
  "apresentarEmail": "A",
  "codigoSituacao": 1,
  "partidoEleicao": "PODE",
@@ -34,6 +36,64 @@
   {
    "tipo": "1",
    "endereco": "dep.lud.falcao"
+  }
+ ],
+ "redesSociais": [
+  {
+   "redeSocial": {
+    "id": 0,
+    "nome": "Facebook",
+    "url": "http://www.facebook.com"
+   },
+   "url": "https://www.facebook.com/ludfalcaomg/"
+  },
+  {
+   "redeSocial": {
+    "id": 5,
+    "nome": "Flickr",
+    "url": "http://www.flickr.com"
+   },
+   "url": "http://www.flickr.com/photos/ludfalcaomg"
+  },
+  {
+   "redeSocial": {
+    "id": 19,
+    "nome": "Instagram",
+    "url": "http://instagram.com"
+   },
+   "url": "https://www.instagram.com/ludfalcao/"
+  },
+  {
+   "redeSocial": {
+    "id": 6,
+    "nome": "LinkedIn",
+    "url": "http://br.linkedin.com"
+   },
+   "url": "http://www.linkedin.com/in/ludfalcaomg"
+  },
+  {
+   "redeSocial": {
+    "id": 23,
+    "nome": "TikTok",
+    "url": "www.tiktok.com"
+   },
+   "url": "https://www.tiktok.com/@ludfalcaomg"
+  },
+  {
+   "redeSocial": {
+    "id": 1,
+    "nome": "Twitter",
+    "url": "http://twitter.com"
+   },
+   "url": "https://twitter.com/ludfalcaomg"
+  },
+  {
+   "redeSocial": {
+    "id": 3,
+    "nome": "Youtube",
+    "url": "http://www.youtube.com"
+   },
+   "url": "https://www.youtube.com/@ludfalcaomg"
   }
  ],
  "vidaProfissionalPolitica": "Lud Falcão é advogada e empreendedora. É esposa do prefeito de Patos de Minas (Alto Paranaíba) e luta por saúde e educação de qualidade para a população, além de apoiar projetos com foco nas crianças, mulheres e idosos. Na Assembleia de Minas, quer garantir o debate de pautas sobre investimentos e apoio ao setor produtivo, simplificação tributária, fiscalização da máquina pública, formação de mais profissionais para apoiar crianças com deficiência, qualificação para o primeiro emprego, dentre outros temas. Quer, também, buscar a ampliação do atendimento a mulheres vítimas de diversas formas de violência.",

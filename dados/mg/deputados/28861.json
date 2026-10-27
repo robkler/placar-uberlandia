@@ -36,6 +36,16 @@
    "endereco": "dep.bim.da.ambulancia"
   }
  ],
+ "redesSociais": [
+  {
+   "redeSocial": {
+    "id": 19,
+    "nome": "Instagram",
+    "url": "http://instagram.com"
+   },
+   "url": "https://www.instagram.com/bimdaambulancia/"
+  }
+ ],
  "vidaProfissionalPolitica": "Casado com dona Elaine e pai de duas filhas, Manu e Mimi. Por três vezes consecutivas, foi vereador de Belo Horizonte. É morador da Região de Venda Nova. Administrador de empresas, piloto de helicóptero e avião, formado em primeiros socorros, é idealizador do Projeto Bim Resgate, que presta serviços em urgência e emergência pré-hospitalar e também resgate rodoviário voluntário. Atuante como coach motivacional, dando palestras e produzindo conteúdos para as redes sociais, estimulando características como autoestima e determinação. Defender mais investimentos na área da saúde, representar socorristas e bombeiros militares e atuar em demandas periféricas; de juventude de quebrada; de esportes radicais, como grau e mói; veículos modificados; carros rebaixados; e caminhões são bandeiras do parlamentar.",
  "atuacaoParlamentar": "Assume, em 2023, seu primeiro mandato na Assembleia Legislativa de Minas Gerais.",
  "candidaturas": [

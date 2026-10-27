@@ -35,6 +35,16 @@
    "endereco": "dep.joao.magalhaes"
   }
  ],
+ "redesSociais": [
+  {
+   "redeSocial": {
+    "id": 0,
+    "nome": "Facebook",
+    "url": "http://www.facebook.com"
+   },
+   "url": "https://www.facebook.com/deputadojoaomagalhaes"
+  }
+ ],
  "vidaProfissionalPolitica": "Cumpriu cinco mandatos consecutivos como deputado federal. No primeiro deles, assumiu como suplente, em 1996, e foi efetivado em janeiro de 1997. Na Câmara dos Deputados, foi presidente da Comissão Permanente de Finanças e Tributação, 1º-vice-presidente da Comissão de Finanças e Tributação, 1º-vice-presidente da Comissão Fiscalização Financeira e Controle e também 1º-vice-presidente da Comissão Externa de Subnutrição de Crianças Indígenas. Estudou Engenharia, sem concluir o curso, na Universidade Santos Dumont, em Governador Valadares. Em 2013, concluiu o curso superior de Processos Gerenciais/ Administração na Unopar.",
  "atuacaoParlamentar": "Assume, em 2023, seu terceiro mandato consecutivo na Assembleia Legislativa de Minas Gerais. Nas legislaturas anteriores, presidiu a Comissão de Administração Pública.",
  "candidaturas": [

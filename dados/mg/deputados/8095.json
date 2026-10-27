@@ -14,6 +14,7 @@
  "naturalidadeMunicipio": "Belo Horizonte",
  "naturalidadeUf": "MG",
  "dataNascimento": "18/04/1966",
+ "sitePessoal": "http://ionepinheiro.com.br/",
  "apresentarEmail": "G",
  "atividadeProfissional": "Empresária",
  "codigoSituacao": 1,
@@ -23,6 +24,24 @@
   {
    "tipo": "1",
    "endereco": "dep.ione.pinheiro"
+  }
+ ],
+ "redesSociais": [
+  {
+   "redeSocial": {
+    "id": 0,
+    "nome": "Facebook",
+    "url": "http://www.facebook.com"
+   },
+   "url": "https://www.facebook.com/ionepinheirooficial?ref=hl"
+  },
+  {
+   "redeSocial": {
+    "id": 19,
+    "nome": "Instagram",
+    "url": "http://instagram.com"
+   },
+   "url": "https://www.instagram.com/ionepinheirooficial/?hl=pt-br"
   }
  ],
  "vidaProfissionalPolitica": "Sua principal região de atuação política é a Central. Irmã do ex-presidente da ALMG Dinis Pinheiro, Ione Pinheiro foi chefe de gabinete durante o primeiro mandato do parlamentar, na 13ª Legislatura, a partir de 1995. Também ocupou cargo semelhante quando o outro irmão,  Toninho Pinheiro, se tornou prefeito do município mineiro de Ibirité.",

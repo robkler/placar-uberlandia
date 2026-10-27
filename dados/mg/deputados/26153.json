@@ -19,12 +19,31 @@
  "naturalidadeMunicipio": "Montes Claros",
  "naturalidadeUf": "MG",
  "dataNascimento": "17/08/1964",
+ "sitePessoal": "http://www.deputadaleninha.com.br/",
  "codigoSituacao": 1,
  "partidoEleicao": "PT",
  "emails": [
   {
    "tipo": "1",
    "endereco": "dep.leninha"
+  }
+ ],
+ "redesSociais": [
+  {
+   "redeSocial": {
+    "id": 0,
+    "nome": "Facebook",
+    "url": "http://www.facebook.com"
+   },
+   "url": "https://www.facebook.com/leninhamoc13/"
+  },
+  {
+   "redeSocial": {
+    "id": 19,
+    "nome": "Instagram",
+    "url": "http://instagram.com"
+   },
+   "url": "https://www.instagram.com/leninhamoc13/"
   }
  ],
  "vidaProfissionalPolitica": "É graduada em Ciências Biológicas e mestre em Desenvolvimento Social pela Universidade Estadual de Montes Claros (Unimontes). Foi professora nas redes estadual e municipal de ensino, sendo eleita diretora estadual do Sindicato Único dos Trabalhadores em Educação de Minas Gerais (Sind-UTE/MG) e presidente regional da Central Única dos Trabalhadores (CUT). Participou do Conselho Estadual de Desenvolvimento Agrário (Cedraf/MG) e do Conselho Municipal de Segurança Alimentar. Atualmente, trabalha nos movimentos sociais e pastorais, sendo coordenadora do Centro de Agricultura Alternativa do Norte de Minas, coordenadora das articulações do Semiárido Brasileiro e Mineiro, diretora-secretária da Cáritas Brasileira e membro do Conselho Arquidiocesano de Pastoral da Arquidiocese e da Santa Casa de Misericórdia de Montes Claros. Em 2016, Leninha foi candidata a prefeita de Montes Claros pelo PT, obtendo mais de 36 mil votos.",

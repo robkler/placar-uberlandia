@@ -15,6 +15,7 @@
  "naturalidadeMunicipio": "São Gonçalo do Pará",
  "naturalidadeUf": "MG",
  "dataNascimento": "03/04/1965",
+ "sitePessoal": "https://www.macaeevaristo.com/",
  "atividadeProfissional": "Professora",
  "codigoSituacao": 1,
  "partidoEleicao": "PT",
@@ -22,6 +23,40 @@
   {
    "tipo": "1",
    "endereco": "dep.macae.evaristo"
+  }
+ ],
+ "redesSociais": [
+  {
+   "redeSocial": {
+    "id": 0,
+    "nome": "Facebook",
+    "url": "http://www.facebook.com"
+   },
+   "url": "https://www.facebook.com/MacaeMariaEvaristo/"
+  },
+  {
+   "redeSocial": {
+    "id": 19,
+    "nome": "Instagram",
+    "url": "http://instagram.com"
+   },
+   "url": "https://www.instagram.com/macaeevaristo/"
+  },
+  {
+   "redeSocial": {
+    "id": 23,
+    "nome": "TikTok",
+    "url": "www.tiktok.com"
+   },
+   "url": "https://www.tiktok.com/@macaeevaristo"
+  },
+  {
+   "redeSocial": {
+    "id": 1,
+    "nome": "Twitter",
+    "url": "http://twitter.com"
+   },
+   "url": "https://twitter.com/macaeevaristo"
   }
  ],
  "vidaProfissionalPolitica": "Vereadora em seu primeiro mandato na Capital, foi eleita em 2022 para seu primeiro mandato na \r\n(ALMG. É professora desde os 19 anos, graduada em Serviço Social, mestre e doutoranda em educação. Foi a primeira mulher negra a ocupar os cargos de secretária municipal (2005 a 2012) em Belo Horizonte e estadual (2015 a 2018) de Educação. Em 2013 e 2014, foi titular da Secretaria de Educação Continuada, Alfabetização, Diversidade e Inclusão do Ministério da Educação (MEC). Coordenou programas como a implantação de Escolas Indígenas, a Escola Integral em Minas Gerais, a Escola Integrada em BH e as cotas para ingresso de estudantes de escolas públicas, negros e indígenas no ensino superior, quando esteve no MEC. Na ALMG, deve seguir defendendo a escola pública como espaço de pluralidade e convivência democrática, articulada com a assistência social, cultura e esporte, preservando-a contra ameaças de privatização e censura ao livre debate. Tem orgulho de sua ancestralidade e pretende seguir lutando contra o racismo estrutural e a favor de políticas públicas voltadas à diversidade e à inclusão das mulheres e das minorias.",

@@ -23,6 +23,32 @@
    "endereco": "dep.arnaldo.silva"
   }
  ],
+ "redesSociais": [
+  {
+   "redeSocial": {
+    "id": 0,
+    "nome": "Facebook",
+    "url": "http://www.facebook.com"
+   },
+   "url": "https://www.facebook.com/Arnaldo-Silva-J%C3%BAnior-108907578040742"
+  },
+  {
+   "redeSocial": {
+    "id": 19,
+    "nome": "Instagram",
+    "url": "http://instagram.com"
+   },
+   "url": "https://www.instagram.com/arnaldosilva.jr/"
+  },
+  {
+   "redeSocial": {
+    "id": 23,
+    "nome": "TikTok",
+    "url": "www.tiktok.com"
+   },
+   "url": "https://www.tiktok.com/@arnaldosilva.jr?_t=8rJPPOZNDz5&_r=1"
+  }
+ ],
  "vidaProfissionalPolitica": "Formou-se em Direito pela Universidade Federal de Uberlândia. É mestre e doutor em Direito Público pela PUC Minas. Também é pós-graduado em Direitos Fundamentais pela Universidade de Castilla-La Mancha (UCLM), em Toledo, na Espanha. Especialista, ainda, em Contratação Pública pelo Centro de Estudos de Direito Público e Regulação (Cedipre) da Faculdade de Direito Universidade de Coimbra, em Portugal.\r\n\n\nEm 2020, atuou como secretário Municipal de Gestão Estratégica em Uberlândia.",
  "atuacaoParlamentar": "Assume, em 2023, seu terceiro mandato na Assembleia Legislativa de Minas Gerais. Na 19ª Legislatura, ingressou no Legislativo mineiro em 2021, em função da abertura de vaga na Coligação Juntos para Reconstruir Minas, da qual foi primeiro suplente nas eleições de 2018, quando recebeu 47.711 votos. Atuou nas comissões de Minas e Energia, Extraordinária das Energias Renováveis e dos Recursos Hídricos e Extraordinária de Turismo e Gastronomia. Foi também deputado da 18ª Legislatura, entre 2015 e 2019.",
  "candidaturas": [

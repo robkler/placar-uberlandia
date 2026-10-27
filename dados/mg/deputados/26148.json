@@ -35,6 +35,48 @@
    "endereco": "dep.bruno.engler"
   }
  ],
+ "redesSociais": [
+  {
+   "redeSocial": {
+    "id": 0,
+    "nome": "Facebook",
+    "url": "http://www.facebook.com"
+   },
+   "url": "https://www.facebook.com/brunoenglerdm/"
+  },
+  {
+   "redeSocial": {
+    "id": 19,
+    "nome": "Instagram",
+    "url": "http://instagram.com"
+   },
+   "url": "https://www.instagram.com/brunoenglerdm/"
+  },
+  {
+   "redeSocial": {
+    "id": 23,
+    "nome": "TikTok",
+    "url": "www.tiktok.com"
+   },
+   "url": "https://www.tiktok.com/@brunoenglerr"
+  },
+  {
+   "redeSocial": {
+    "id": 1,
+    "nome": "Twitter",
+    "url": "http://twitter.com"
+   },
+   "url": "https://twitter.com/BrunoEnglerDM"
+  },
+  {
+   "redeSocial": {
+    "id": 3,
+    "nome": "Youtube",
+    "url": "http://www.youtube.com"
+   },
+   "url": "https://www.youtube.com/@brunoenglerdm"
+  }
+ ],
  "vidaProfissionalPolitica": "Bruno Engler é coordenador do Movimento Direita Minas, dedicado à retomada cultural e à promoção dos valores conservadores em Minas Gerais. A Direita Minas possui núcleos na região metropolitana de Belo Horizonte e em mais de 60 cidades do Estado. O deputado obteve 120.252 votos distribuídos em todo o Estado, sendo o terceiro mais votado para a 19ª legislatura. Em seu mandato na Assembleia, pretende priorizar a retomada cultural, por meio da defesa dos agentes de segurança, a militarização de escolas públicas com problemas de disciplina e baixo desempenho, lutar contra a ideologia de gênero, inversão de valores, doutrinação nas escolas e privilégios dos políticos.",
  "atuacaoParlamentar": "Assume, em 2023, seu segundo mandato na Assembleia Legislativa de Minas Gerais. Na 19ª Legislatura, foi vice-presidente da Comissão Extraordinária das Privatizações, além de ter atuado como membro das comissões de Constituição e Justiça e de Segurança Pública.",
  "candidaturas": [

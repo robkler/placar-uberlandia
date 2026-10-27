@@ -14,12 +14,39 @@
  "naturalidadeMunicipio": "Belo Horizonte",
  "naturalidadeUf": "MG",
  "dataNascimento": "23/11/1979",
+ "sitePessoal": "http://www.wendelmesquita.com.br/",
  "codigoSituacao": 1,
  "partidoEleicao": "SOLIDARIEDADE",
  "emails": [
   {
    "tipo": "1",
    "endereco": "dep.professorwendelmesquita"
+  }
+ ],
+ "redesSociais": [
+  {
+   "redeSocial": {
+    "id": 0,
+    "nome": "Facebook",
+    "url": "http://www.facebook.com"
+   },
+   "url": "https://www.facebook.com/WendelMesquitaMG/"
+  },
+  {
+   "redeSocial": {
+    "id": 19,
+    "nome": "Instagram",
+    "url": "http://instagram.com"
+   },
+   "url": "https://www.instagram.com/professorwendel/"
+  },
+  {
+   "redeSocial": {
+    "id": 1,
+    "nome": "Twitter",
+    "url": "http://twitter.com"
+   },
+   "url": "https://twitter.com/WendelProfessor"
   }
  ],
  "vidaProfissionalPolitica": "Foi vereador na Câmara Municipal de Belo Horizonte por dois mandatos consecutivos, onde ingressou em 2013. Professor, é formado em Comunicação Social e Artes Cênicas. No Parlamento municipal, desenvolveu os projetos Vereador no Bairro, para ouvir as pessoas em suas comunidades, e o Vereador na Escola, que tem a finalidade de discutir política e cidadania nas instituições de ensino. Antes de ingressar na política, criou e coordenou um cursinho pré-vestibular comunitário e idealizou o Projeto Brasil Melhor, que desenvolve atividades educativas e culturais para pessoas de baixa renda.",

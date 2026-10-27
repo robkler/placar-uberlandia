@@ -14,6 +14,7 @@
  "naturalidadeMunicipio": "Guaraciaba",
  "naturalidadeUf": "MG",
  "dataNascimento": "10/02/1981",
+ "sitePessoal": "https://lelecopimentel.com.br/",
  "apresentarEmail": "G",
  "codigoSituacao": 1,
  "partidoEleicao": "PT",
@@ -21,6 +22,56 @@
   {
    "tipo": "1",
    "endereco": "dep.leleco.pimentel"
+  }
+ ],
+ "redesSociais": [
+  {
+   "redeSocial": {
+    "id": 0,
+    "nome": "Facebook",
+    "url": "http://www.facebook.com"
+   },
+   "url": "https://www.facebook.com/deputadolelecopimentel"
+  },
+  {
+   "redeSocial": {
+    "id": 19,
+    "nome": "Instagram",
+    "url": "http://instagram.com"
+   },
+   "url": "https://www.instagram.com/dep_lelecopimentel/"
+  },
+  {
+   "redeSocial": {
+    "id": 22,
+    "nome": "Telegram",
+    "url": "https://web.telegram.org"
+   },
+   "url": "https://t.me/31986179582"
+  },
+  {
+   "redeSocial": {
+    "id": 23,
+    "nome": "TikTok",
+    "url": "www.tiktok.com"
+   },
+   "url": "https://www.tiktok.com/@dep.lelecopimentel"
+  },
+  {
+   "redeSocial": {
+    "id": 1,
+    "nome": "Twitter",
+    "url": "http://twitter.com"
+   },
+   "url": "https://twitter.com/lelecopimentel_"
+  },
+  {
+   "redeSocial": {
+    "id": 3,
+    "nome": "Youtube",
+    "url": "http://www.youtube.com"
+   },
+   "url": "https://www.youtube.com/@dep_lelecopimentel"
   }
  ],
  "vidaProfissionalPolitica": "Historiador, educador popular, cientista político e músico. Iniciou sua militância na Pastoral da Juventude e participa de diversas organizações políticas e sociais. É membro da Comissão para o Meio Ambiente da Província Eclesiástica de Mariana e do Fórum Permanente em Defesa da Bacia do Rio Doce. Compõe as coordenações da Escola de Fé e Política Dom Luciano, da União Nacional por Moradia Popular e da Rede Igrejas e Mineração. Trabalhou como Diretor de Habitação e Desenvolvimento Social na Prefeitura de Ouro Preto, atuou como conselheiro estadual de Desenvolvimento Regional e Políticas Urbanas e, ao mesmo tempo, como conselheiro nacional da Cidades. Colaborou também na Secretaria de Patrimônio da União, atuando na identificação e destinação de terrenos para a construção de moradias em diversos municípios de Minas Gerais e na elaboração de propostas em âmbito federal que resultaram no lançamento do Programa Minha Casa, Minha Vida. Defende pautas como organização comunitária, segurança alimentar, agricultura familiar e agroecologia, direitos humanos e direito à cidade.",

@@ -23,6 +23,32 @@
    "endereco": "dep.mauro.tramonte"
   }
  ],
+ "redesSociais": [
+  {
+   "redeSocial": {
+    "id": 0,
+    "nome": "Facebook",
+    "url": "http://www.facebook.com"
+   },
+   "url": "https://www.facebook.com/maurotramonteoficial/"
+  },
+  {
+   "redeSocial": {
+    "id": 19,
+    "nome": "Instagram",
+    "url": "http://instagram.com"
+   },
+   "url": "https://www.instagram.com/maurotramontereal/"
+  },
+  {
+   "redeSocial": {
+    "id": 1,
+    "nome": "Twitter",
+    "url": "http://twitter.com"
+   },
+   "url": "https://twitter.com/maurotramonte"
+  }
+ ],
  "vidaProfissionalPolitica": "Apresentador do programa Balanço Geral, da TV Record Minas desde 2008. Desde os 18 anos se destacava como jornalista em Poços de Caldas (Sul de Minas), sua cidade natal. Durante um período, trabalhou como funcionário público estadual, retomando a carreira jornalística em 1992, na Rádio Cultura AM. Em 1996, ingressou na televisão, atuando na TV Poços, filiada à Rede Minas. No mesmo ano, começou a fazer o programa Câmera Verdade, que se manteve no ar por 11 anos. Em seguida, ingressou na Rádio Difusora AM e, após, na Record Minas. Além de jornalista, é também bacharel em Direito.",
  "atuacaoParlamentar": "Assume, em 2023, seu segundo mandato na Assembleia Legislativa de Minas Gerais. Na 19ª Legislatura, integrou a Comissão de Cultura e a Comissão de Esporte, Lazer e Juventude.",
  "candidaturas": [

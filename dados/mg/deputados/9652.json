@@ -14,6 +14,7 @@
  "naturalidadeMunicipio": "Montes Claros",
  "naturalidadeUf": "MG",
  "dataNascimento": "25/07/1954",
+ "sitePessoal": "http://arlensantiago.com.br",
  "atividadeProfissional": "Médico e advogado",
  "codigoSituacao": 1,
  "partidoEleicao": "AVANTE",
@@ -21,6 +22,32 @@
   {
    "tipo": "1",
    "endereco": "dep.arlen.santiago"
+  }
+ ],
+ "redesSociais": [
+  {
+   "redeSocial": {
+    "id": 0,
+    "nome": "Facebook",
+    "url": "http://www.facebook.com"
+   },
+   "url": "https://www.facebook.com/arlensantiago.oficial"
+  },
+  {
+   "redeSocial": {
+    "id": 19,
+    "nome": "Instagram",
+    "url": "http://instagram.com"
+   },
+   "url": "https://www.instagram.com/arlensantiago.oficial/"
+  },
+  {
+   "redeSocial": {
+    "id": 21,
+    "nome": "WhatsApp",
+    "url": "https://www.whatsapp.com/"
+   },
+   "url": "https://api.whatsapp.com/send/?phone=5538998770111&text&type=phone_number&app_absent=0"
   }
  ],
  "vidaProfissionalPolitica": "Sua principal região de atuação política é o Norte de Minas. Foi vice-prefeito de Montes Claros (1996-1999). Presidiu a Associação dos Municípios da Área Mineira da Sudene (Amams) em dois mandatos: 1993-1994 e 1995-1996. Foi prefeito do município de Coração de Jesus, no Norte de Minas (1993-1995), tesoureiro da Executiva Estadual do PTB (1999) e presidente do Colegiado dos Secretários Municipais de Saúde de Minas Gerais (Cosems), em 1996 e 1997. Filiou-se ao Avante em 7 de março de 2022. Municípios de maior votação: São João da Ponte, Salinas, Montes Claros, Porteirinha, Várzea da Palma, São João do Paraíso, Januária, Coração de Jesus, Taoiobeiras, Montalvânia, Manga, Jequitaí, Francisco Sá e São João das Missões.",
@@ -60,7 +87,7 @@
   {
    "dataInicio": {
     "@class": "sql-timestamp",
-    "$": "1998-10-24"
+    "$": "1998-10-03"
    },
    "dataTermino": {
     "@class": "sql-timestamp",
@@ -136,7 +163,7 @@
    },
    "terminoLegislatura": {
     "@class": "sql-timestamp",
-    "$": "2003-03-16"
+    "$": "2003-01-31"
    },
    "tipoMandato": "Efetivo",
    "situacoes": [
@@ -168,7 +195,7 @@
     {
      "dataInicio": {
       "@class": "sql-timestamp",
-      "$": "2003-03-02"
+      "$": "2003-02-01"
      },
      "status": "Em exercício",
      "dataTermino": {
@@ -186,7 +213,7 @@
    },
    "terminoLegislatura": {
     "@class": "sql-timestamp",
-    "$": "2011-01-31"
+    "$": "2003-02-01"
    },
    "tipoMandato": "Efetivo",
    "situacoes": [
@@ -198,7 +225,7 @@
      "status": "Em exercício",
      "dataTermino": {
       "@class": "sql-timestamp",
-      "$": "2011-01-31"
+      "$": "2011-01-30"
      }
     }
    ]
@@ -218,7 +245,7 @@
     {
      "dataInicio": {
       "@class": "sql-timestamp",
-      "$": "2011-02-01"
+      "$": "2007-01-31"
      },
      "status": "Em exercício",
      "dataTermino": {
@@ -236,7 +263,7 @@
    },
    "terminoLegislatura": {
     "@class": "sql-timestamp",
-    "$": "2019-01-31"
+    "$": "2019-02-01"
    },
    "tipoMandato": "Efetivo",
    "situacoes": [
@@ -261,7 +288,7 @@
    },
    "terminoLegislatura": {
     "@class": "sql-timestamp",
-    "$": "2023-01-30"
+    "$": "2023-01-31"
    },
    "tipoMandato": "Efetivo",
    "situacoes": [
@@ -282,7 +309,7 @@
    "numeroLegislatura": 20,
    "inicioLegislatura": {
     "@class": "sql-timestamp",
-    "$": "2023-02-01"
+    "$": "2023-01-31"
    },
    "terminoLegislatura": {
     "@class": "sql-timestamp",

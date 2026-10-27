@@ -14,6 +14,7 @@
  "naturalidadeMunicipio": "Mariana",
  "naturalidadeUf": "MG",
  "dataNascimento": "9/3/1985",
+ "sitePessoal": "http://www.thiagocota.com.br/",
  "atividadeProfissional": "Advogado",
  "codigoSituacao": 1,
  "partidoEleicao": "PDT",
@@ -21,6 +22,24 @@
   {
    "tipo": "1",
    "endereco": "dep.thiago.cota"
+  }
+ ],
+ "redesSociais": [
+  {
+   "redeSocial": {
+    "id": 0,
+    "nome": "Facebook",
+    "url": "http://www.facebook.com"
+   },
+   "url": "https://www.facebook.com/deputadothiagocota"
+  },
+  {
+   "redeSocial": {
+    "id": 19,
+    "nome": "Instagram",
+    "url": "http://instagram.com"
+   },
+   "url": "https://www.instagram.com/thiagocotamg/"
   }
  ],
  "vidaProfissionalPolitica": "Graduado em Direito, tem MBA em Gestão de Negócios, MBA Executivo em Gestão Pública, pós graduado em Ciências Políticas. Em 2005, ingressou na assessoria da Associação Mineira de Municípios (AMM). Nascido em Mariana (Região Central), Thiago Cota, foi diretor técnico da Fundação Rural Mineira (Ruralminas), entre 2010 e 2014.",

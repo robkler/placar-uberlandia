@@ -27,6 +27,24 @@
    "endereco": "dep.betinho.pinto.coelho"
   }
  ],
+ "redesSociais": [
+  {
+   "redeSocial": {
+    "id": 0,
+    "nome": "Facebook",
+    "url": "http://www.facebook.com"
+   },
+   "url": "https://www.facebook.com/betinhopintocoelho/"
+  },
+  {
+   "redeSocial": {
+    "id": 19,
+    "nome": "Instagram",
+    "url": "http://instagram.com"
+   },
+   "url": "https://www.instagram.com/betinhopintocoelho/"
+  }
+ ],
  "vidaProfissionalPolitica": "Alberto Pinto Coelho Neto, natural de Belo Horizonte, formado em Administração, está em seu segundo mandato no Parlamento Mineiro, reeleito com 45.113 votos. O deputado também foi reeleito para o cargo de 3º Vice-Presidente da Mesa Diretora da Assembleia. \r\n\r\nO deputado Betinho Pinto Coelho é filho do ex-governador Alberto Pinto Coelho, que foi deputado estadual por 16 anos, duas vezes presidente da Assembleia Legislativa de Minas Gerais (ALMG) e governador de Minas Gerais, e da professora, escritora e ex-vice-reitora da Universidade Estadual de Minas Gerais (UEMG), Santuza Abras. \r\n\r\nBetinho é municipalista. Seu mandato se destaca pela defesa dos setores de energias renováveis, agronegócio, meio ambiente, educação, indústria, comércio e empreendedorismo. O deputado tem uma participação ativa nas atividades parlamentares com relevantes aprovações de projetos de lei para o Estado e municípios.",
  "atuacaoParlamentar": "Assume, em 2023, seu segundo mandato na Assembleia Legislativa de Minas Gerais. É o  3º-vice-presidente da ALMG eleito para o biênio 2023-2025. Na 19ª Legislatura, foi membro das comissões de Agropecuária e Agroindústria e Extraordinária das Energias Renováveis e dos Recursos Hídricos.",
  "candidaturas": [

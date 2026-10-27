@@ -25,6 +25,32 @@
    "endereco": "dep.ale.portela"
   }
  ],
+ "redesSociais": [
+  {
+   "redeSocial": {
+    "id": 0,
+    "nome": "Facebook",
+    "url": "http://www.facebook.com"
+   },
+   "url": "https://www.facebook.com/aleportelaoficial"
+  },
+  {
+   "redeSocial": {
+    "id": 19,
+    "nome": "Instagram",
+    "url": "http://instagram.com"
+   },
+   "url": "https://www.instagram.com/aleportelaoficial/"
+  },
+  {
+   "redeSocial": {
+    "id": 1,
+    "nome": "Twitter",
+    "url": "http://twitter.com"
+   },
+   "url": "https://twitter.com/aleportela"
+  }
+ ],
  "vidaProfissionalPolitica": "É deputada estadual em Minas Gerais, advogada e mestre em Direito Ambiental e Sustentabilidade, com MBA em Governança, Riscos e Compliance. Possui mais de 12 anos de experiência em políticas públicas, com atuação nas áreas de direitos humanos, desenvolvimento social e gestão pública. Eleita em 2022, tem sua atuação pautada na defesa da vida, no fortalecimento das famílias e na proteção da infância e da adolescência, além de trabalhar por avanços na educação, segurança e desenvolvimento social. No âmbito do Governo de Minas Gerais, exerceu o cargo de secretária de Estado de Desenvolvimento Social, onde coordenou importantes ações de fortalecimento da rede de proteção social. Destacam-se iniciativas voltadas à infância, ao fortalecimento dos Conselhos Tutelares e ao apoio às APAEs mineiras. Também esteve à frente da implementação de programas relevantes, como o Leite para a Primeira Infância, que garantiu segurança alimentar a milhares de crianças, e o Moradas Gerais, responsável por promover melhorias habitacionais para centenas de famílias em situação de vulnerabilidade social. Filha do deputado federal Lincoln Portela e da vereadora de Belo Horizonte Marilda Portela, Alê Portela dá continuidade a uma trajetória pública marcada pelo compromisso com valores, responsabilidade social e atuação voltada ao bem-estar da população mineira.",
  "atuacaoParlamentar": "Assume, em 2023, seu primeiro mandato na Assembleia Legislativa de Minas Gerais. Destaca-se pela autoria de leis e projetos estruturantes que impactam diretamente a vida dos mineiros. Entre as principais iniciativas, estão: Lei nº 25.204, de 2025 (Entrega Legal), que regulamenta a entrega voluntária para adoção, prevenindo o abandono de recém-nascidos e garantindo segurança jurídica ao processo; Lei nº 25.484, de 2025 (Creche Saudável), que assegura acompanhamento médico, nutricional e psicológico às crianças em creches públicas; Lei nº 25.296, de 2025, que institui o Plano Estadual de Educação Empreendedora, incentivando a formação de jovens mais preparados para o mercado de trabalho; Lei nº 24.839, de 2024, que cria a Política Estadual de Apoio e Incentivo às Cidades Inteligentes, promovendo inovação e melhoria na qualidade de vida da população. Além das leis já aprovadas, é autora de relevantes projetos em tramitação, como o PL 1084/2023, que regulamenta o Estatuto da Pessoa com Câncer no Estado; o PL 3142/2024, voltado à proteção de crianças e adolescentes no ambiente digital; o PL 1160/2023, que institui o Programa Estadual de Enfrentamento à Violência contra Crianças e Adolescentes; o PL 177/2023, de proteção à inocência infantil; o PL 2327/2024, de apoio a mães de vítimas de abuso; o PL 948/2023, que garante acompanhamento especializado a gestantes com TEA; e o PL 181/2023, que fortalece a liberdade religiosa.",
  "candidaturas": [
