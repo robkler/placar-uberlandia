@@ -176,23 +176,23 @@
    "numeroLegislatura": 20,
    "inicioLegislatura": {
     "@class": "sql-timestamp",
-    "$": "2023-02-01"
+    "$": "2023-01-31"
    },
    "terminoLegislatura": {
     "@class": "sql-timestamp",
-    "$": "2027-01-31"
+    "$": "2027-01-30"
    },
    "tipoMandato": "Efetiva",
    "situacoes": [
     {
      "dataInicio": {
       "@class": "sql-timestamp",
-      "$": "2023-02-01"
+      "$": "2023-01-31"
      },
      "status": "Em exercício",
      "dataTermino": {
       "@class": "sql-timestamp",
-      "$": "2027-01-31"
+      "$": "2027-01-30"
      }
     }
    ]

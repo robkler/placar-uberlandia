@@ -848,7 +848,7 @@
   "facets": {
    "ano": [
     {
-     "count": 1121,
+     "count": 1147,
      "label": "2026",
      "value": "2026"
     },
@@ -890,17 +890,17 @@
      "value": "EMEI"
     },
     {
-     "count": 1217,
+     "count": 1241,
      "label": "Indicação",
      "value": "IND"
     },
     {
-     "count": 397,
+     "count": 398,
      "label": "Moção",
      "value": "MOC"
     },
     {
-     "count": 29,
+     "count": 30,
      "label": "Pedido de Informação",
      "value": "PINFO"
     },
@@ -1198,12 +1198,12 @@
     },
     {
      "ano": "2026",
-     "count": 914,
+     "count": 938,
      "tipo": "IND"
     },
     {
      "ano": "2026",
-     "count": 32,
+     "count": 33,
      "tipo": "MOC"
     },
     {
@@ -1213,7 +1213,7 @@
     },
     {
      "ano": "2026",
-     "count": 6,
+     "count": 7,
      "tipo": "PINFO"
     },
     {
@@ -1246,7 +1246,7 @@
   "facets_todos": {
    "ano": [
     {
-     "count": 1121,
+     "count": 1147,
      "label": "2026",
      "value": "2026"
     },
@@ -1288,17 +1288,17 @@
      "value": "EMEI"
     },
     {
-     "count": 1217,
+     "count": 1241,
      "label": "Indicação",
      "value": "IND"
     },
     {
-     "count": 397,
+     "count": 398,
      "label": "Moção",
      "value": "MOC"
     },
     {
-     "count": 29,
+     "count": 30,
      "label": "Pedido de Informação",
      "value": "PINFO"
     },
@@ -1346,140 +1346,140 @@
   },
   "items": [
    {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272212",
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=273244",
     "ano": "2026",
-    "data_apresentacao": "16/10/2026",
+    "data_apresentacao": "27/10/2026",
     "emenda_impositiva": false,
-    "ementa": "Solicitando à Secretaria Municipal de Infraestrutura a realização de vias públicas - pavimentação asfáltica na Rua Costa Pereira, nas imediações do cruzamento com a Rua Marciano de Ávila, no bairro Bom Jesus, CEP 38400-625.",
-    "id": "272212",
+    "ementa": "Solicitando à Secretaria Municipal de Trânsito e Transportes a realização de travessia elevada / redutor de velocidade - instalação / manutenção na Avenida Serra do Espinhaço, altura do n° 274, no bairro São Jorge, CEP 38410-384.",
+    "id": "273244",
     "item_kind": "materia",
     "tipo": "Indicação",
-    "title": "IND 40037/2026",
+    "title": "IND 41025/2026",
     "ultima_votacao_kind": "",
     "ultima_votacao_resultado": ""
    },
    {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272209",
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=273239",
     "ano": "2026",
-    "data_apresentacao": "16/10/2026",
+    "data_apresentacao": "27/10/2026",
     "emenda_impositiva": false,
-    "ementa": "Solicitando à Secretaria Municipal de Infraestrutura a realização de tapa buraco na Praça Sérgio Pacheco, Prolongamento da rua João Pessoa paralela à Fernando Vilela, no bairro Centro, CEP 38400-184.",
-    "id": "272209",
+    "ementa": "Solicitação de informações e documentos sobre quantitativos, funções, atividades efetivamente desempenhadas e distribuição de trabalhadores terceirizados em serviços correlatos às atribuições do cargo de Agente de Apoio Operacional.",
+    "id": "273239",
     "item_kind": "materia",
-    "tipo": "Indicação",
-    "title": "IND 40034/2026",
+    "tipo": "Pedido de Informação",
+    "title": "PINFO 1271/2026",
     "ultima_votacao_kind": "",
     "ultima_votacao_resultado": ""
    },
    {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272206",
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=273236",
     "ano": "2026",
-    "data_apresentacao": "16/10/2026",
+    "data_apresentacao": "27/10/2026",
     "emenda_impositiva": false,
-    "ementa": "Solicitando à Secretaria Municipal de Infraestrutura a realização de tapa buraco na Avenida Lázara Alves Ferreira, Logo acima da Praça Dr Kazuaki Taziri, no bairro Santa Mônica, CEP 38408-092.",
-    "id": "272206",
+    "ementa": "Moção de Pesar pelo falecimento do Dr. Luiz Carlos de Arruda, advogado de excelência que, ao longo de sua trajetória profissional, conquistou respeito, admiração e reconhecimento no meio jurídico, deixando relevantes contribuições à sociedade, manifestando profundo sentimento de solidariedade aos familiares, amigos e a toda a comunidade enlutada.",
+    "id": "273236",
     "item_kind": "materia",
-    "tipo": "Indicação",
-    "title": "IND 40031/2026",
+    "tipo": "Moção",
+    "title": "MOC 1030/2026",
     "ultima_votacao_kind": "",
     "ultima_votacao_resultado": ""
    },
    {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272172",
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=273151",
     "ano": "2026",
-    "data_apresentacao": "16/10/2026",
+    "data_apresentacao": "27/10/2026",
     "emenda_impositiva": false,
-    "ementa": "Solicitando à Secretaria Municipal de Serviços Urbanos a realização de capina / limpeza - lotes / canteiro central na Avenida Eliseu Pereira de Oliveira, nº 130, Casa 01, no bairro Shopping Park, CEP 38425-334.",
-    "id": "272172",
+    "ementa": "Solicitando à Secretaria Municipal de Gestão Ambiental e Sustentabilidade a realização de árvores e galhos - poda / corte / destocamento / recolhimento na Avenida Antônio Francisco Lisboa, 362, no bairro Jardim Inconfidência, CEP 38411-254.",
+    "id": "273151",
     "item_kind": "materia",
     "tipo": "Indicação",
-    "title": "IND 40003/2026",
+    "title": "IND 40964/2026",
     "ultima_votacao_kind": "",
     "ultima_votacao_resultado": ""
    },
    {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272169",
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=273143",
     "ano": "2026",
-    "data_apresentacao": "16/10/2026",
+    "data_apresentacao": "27/10/2026",
     "emenda_impositiva": false,
-    "ementa": "Solicitando à Secretaria Municipal de Saúde a realização de ações de prevenção e controle de zoonoses na Avenida Eliseu Pereira de Oliveira, 130, casa 1, no bairro Shopping Park, CEP 38425-334.",
-    "id": "272169",
+    "ementa": "Solicitando à Secretaria Municipal de Gestão Ambiental e Sustentabilidade a realização de árvores e galhos - poda / corte / destocamento / recolhimento na RUA ABADIA, 69, no bairro Miraporanga, CEP 38439-700.",
+    "id": "273143",
     "item_kind": "materia",
     "tipo": "Indicação",
-    "title": "IND 40000/2026",
+    "title": "IND 40956/2026",
     "ultima_votacao_kind": "",
     "ultima_votacao_resultado": ""
    },
    {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272091",
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=273137",
     "ano": "2026",
-    "data_apresentacao": "16/10/2026",
+    "data_apresentacao": "27/10/2026",
     "emenda_impositiva": false,
-    "ementa": "Solicitando à Secretaria Municipal de Serviços Urbanos a realização de calçada / passeio - limpeza / capina / roçagem na Rua Jerônimo Beijo de Andrade, com a Rua Oswaldo Silvério da Silva, altura do nº. 30, no bairro São Jorge, CEP 38410-210.",
-    "id": "272091",
+    "ementa": "Solicitando à Secretaria Municipal de Serviços Urbanos a realização de efetuar retirada de entulhos na Rua Echadai, 145, no bairro Residencial Integração, CEP 38407-504.",
+    "id": "273137",
     "item_kind": "materia",
     "tipo": "Indicação",
-    "title": "IND 39931/2026",
+    "title": "IND 40950/2026",
     "ultima_votacao_kind": "",
     "ultima_votacao_resultado": ""
    },
    {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272066",
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=273116",
     "ano": "2026",
-    "data_apresentacao": "16/10/2026",
+    "data_apresentacao": "27/10/2026",
     "emenda_impositiva": false,
-    "ementa": "Solicitando ao FUTEL a realização de calçada para caminhada em poliesportivo na Rua Ipanema, entre o número 700 e o número 830, esquina com a Oscarina Cunha Chaves, no bairro Patrimônio, CEP 38411-038.",
-    "id": "272066",
+    "ementa": "Solicitando à Secretaria Municipal de Trânsito e Transportes a realização de sinalização - implantação / reforma de faixa de pedestre na Avenida José Paes de Almeida, esquina com Alfredo Tormim e em todas ao redor do cruzamento, no bairro Santa Mônica, CEP 38408-140.",
+    "id": "273116",
     "item_kind": "materia",
     "tipo": "Indicação",
-    "title": "IND 39906/2026",
+    "title": "IND 40929/2026",
     "ultima_votacao_kind": "",
     "ultima_votacao_resultado": ""
    },
    {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272031",
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=273104",
     "ano": "2026",
-    "data_apresentacao": "16/10/2026",
+    "data_apresentacao": "27/10/2026",
     "emenda_impositiva": false,
-    "ementa": "Solicitando ao DMAE a realização de tapa buraco após obra dmae EM VÁRIOS LOCAIS DO BAIRRO TUBALINA, CEP 38400-000.",
-    "id": "272031",
+    "ementa": "Solicitando à Secretaria Municipal de Trânsito e Transportes a realização de travessia elevada / redutor de velocidade - instalação / manutenção na Avenida José Paes de Almeida, esquina com Alfredo Tormim, no bairro Santa Mônica, CEP 38408-140.",
+    "id": "273104",
     "item_kind": "materia",
     "tipo": "Indicação",
-    "title": "IND 39871/2026",
+    "title": "IND 40919/2026",
     "ultima_votacao_kind": "",
     "ultima_votacao_resultado": ""
    },
    {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272027",
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272940",
     "ano": "2026",
-    "data_apresentacao": "16/10/2026",
+    "data_apresentacao": "27/10/2026",
     "emenda_impositiva": false,
-    "ementa": "Solicitando ao FUTEL a realização de poliesportivo - construção / manutenção / reforma / ampliação na Rua Sinai, Poliesportivo Jardim Canaa, no bairro Jardim Canaã, CEP 38412-424.",
-    "id": "272027",
+    "ementa": "Solicitando ao DMAE a realização de boca de lobo / bueiro - construção / manutenção / reforma / desentupimento na Rua Abelardo Penna, EM TODA EXTENSÃO DA RUA, no bairro Laranjeiras, CEP 38410-229.",
+    "id": "272940",
     "item_kind": "materia",
     "tipo": "Indicação",
-    "title": "IND 39867/2026",
+    "title": "IND 40755/2026",
     "ultima_votacao_kind": "",
     "ultima_votacao_resultado": ""
    },
    {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=271990",
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272923",
     "ano": "2026",
-    "data_apresentacao": "15/10/2026",
+    "data_apresentacao": "27/10/2026",
     "emenda_impositiva": false,
-    "ementa": "Solicitando à Secretaria Municipal de Infraestrutura a realização de canaleta - construção / manutenção / reforma na Rua Padre Nóbrega, nas proximidades do nº 707, no bairro Tubalina, CEP 38412-014.",
-    "id": "271990",
+    "ementa": "Solicitando à Secretaria Municipal de Gestão Ambiental e Sustentabilidade a realização de parque linear - revitalização / construção na Avenida Alípio Abrão, nº 600, Parque Municipal Santa Luzia, no bairro Santa Luzia, CEP 38408-758.",
+    "id": "272923",
     "item_kind": "materia",
     "tipo": "Indicação",
-    "title": "IND 39846/2026",
-    "ultima_votacao_kind": "votacao",
-    "ultima_votacao_resultado": "Aprovado"
+    "title": "IND 40738/2026",
+    "ultima_votacao_kind": "",
+    "ultima_votacao_resultado": ""
    }
   ],
   "ordem_dat_apresentacao": "desc",
   "page": 1,
   "page_size": 10,
-  "total": 5971
+  "total": 5997
  },
  "relatorias": {
   "facets": {

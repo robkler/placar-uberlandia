@@ -616,7 +616,7 @@
   "facets": {
    "ano": [
     {
-     "count": 1413,
+     "count": 1586,
      "label": "2026",
      "value": "2026"
     },
@@ -638,12 +638,12 @@
      "value": "EMEI"
     },
     {
-     "count": 1753,
+     "count": 1925,
      "label": "Indicação",
      "value": "IND"
     },
     {
-     "count": 67,
+     "count": 68,
      "label": "Moção",
      "value": "MOC"
     },
@@ -731,12 +731,12 @@
     },
     {
      "ano": "2026",
-     "count": 1346,
+     "count": 1518,
      "tipo": "IND"
     },
     {
      "ano": "2026",
-     "count": 18,
+     "count": 19,
      "tipo": "MOC"
     },
     {
@@ -774,7 +774,7 @@
   "facets_todos": {
    "ano": [
     {
-     "count": 1413,
+     "count": 1586,
      "label": "2026",
      "value": "2026"
     },
@@ -796,12 +796,12 @@
      "value": "EMEI"
     },
     {
-     "count": 1753,
+     "count": 1925,
      "label": "Indicação",
      "value": "IND"
     },
     {
-     "count": 67,
+     "count": 68,
      "label": "Moção",
      "value": "MOC"
     },
@@ -849,132 +849,132 @@
   },
   "items": [
    {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272200",
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=273299",
     "ano": "2026",
-    "data_apresentacao": "16/10/2026",
+    "data_apresentacao": "27/10/2026",
     "emenda_impositiva": false,
-    "ementa": "Solicitando à Secretaria Municipal de Infraestrutura a realização de tapa buraco na Rua Napoleão Luiz da Costa, Toda a extensão da rua, no bairro Aclimação, CEP 38406-040.",
-    "id": "272200",
+    "ementa": "Solicitando à Secretaria Municipal de Infraestrutura a realização de tapa buraco na Rua Aeronauta, Frente ao N°2360, no bairro Jardim Ipanema, CEP 38406-292.",
+    "id": "273299",
     "item_kind": "materia",
     "tipo": "Indicação",
-    "title": "IND 40025/2026",
+    "title": "IND 41080/2026",
     "ultima_votacao_kind": "",
     "ultima_votacao_resultado": ""
    },
    {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272193",
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=273298",
     "ano": "2026",
-    "data_apresentacao": "16/10/2026",
+    "data_apresentacao": "27/10/2026",
     "emenda_impositiva": false,
-    "ementa": "CONCEDE DIPLOMA DE HONRA AO MÉRITO À ACADEMIA MASTER FITNESS",
-    "id": "272193",
+    "ementa": "Solicitando à Secretaria Municipal de Infraestrutura a realização de tapa buraco na Rua Aeronauta, Frente ao N° 1526, no bairro Jardim Ipanema, CEP 38406-292.",
+    "id": "273298",
     "item_kind": "materia",
-    "tipo": "Projeto de Decreto Legislativo",
-    "title": "PDL 264/2026",
+    "tipo": "Indicação",
+    "title": "IND 41079/2026",
     "ultima_votacao_kind": "",
     "ultima_votacao_resultado": ""
    },
    {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272178",
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=273294",
     "ano": "2026",
-    "data_apresentacao": "16/10/2026",
+    "data_apresentacao": "27/10/2026",
     "emenda_impositiva": false,
-    "ementa": "Solicitando à Secretaria Municipal de Trânsito e Transportes a realização de travessia elevada / redutor de velocidade - instalação / manutenção na Avenida Fernando Vilela, 2755, no bairro Daniel Fonseca, CEP 38400-327.",
-    "id": "272178",
+    "ementa": "Solicitando à Secretaria Municipal de Serviços Urbanos a realização de recolhimento de móveis e objetos na Rua Pedro Zanatta, Em frente ao N°1689, no bairro Alto Umuarama, CEP 38405-272.",
+    "id": "273294",
     "item_kind": "materia",
     "tipo": "Indicação",
-    "title": "IND 40009/2026",
+    "title": "IND 41075/2026",
     "ultima_votacao_kind": "",
     "ultima_votacao_resultado": ""
    },
    {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272171",
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=273280",
     "ano": "2026",
-    "data_apresentacao": "16/10/2026",
+    "data_apresentacao": "27/10/2026",
     "emenda_impositiva": false,
-    "ementa": "Solicitando à Secretaria Municipal de Infraestrutura a realização de tapa buraco na Rua Carmo Gifoni, 413, no bairro Martins, CEP 38400-358.",
-    "id": "272171",
+    "ementa": "Solicitando à Secretaria Municipal de Trânsito e Transportes a realização de sinalização / implantação / manutenção de sinalização estatigráfica na Avenida Professor José Ignácio de Sousa, Em frente ao N° 3483, no bairro Umuarama, CEP 38405-330.",
+    "id": "273280",
     "item_kind": "materia",
     "tipo": "Indicação",
-    "title": "IND 40002/2026",
+    "title": "IND 41061/2026",
     "ultima_votacao_kind": "",
     "ultima_votacao_resultado": ""
    },
    {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272170",
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=273279",
     "ano": "2026",
-    "data_apresentacao": "16/10/2026",
+    "data_apresentacao": "27/10/2026",
     "emenda_impositiva": false,
-    "ementa": "Solicitando à Secretaria Municipal de Infraestrutura a realização de tapa buraco na Rua Acre, 2840, no bairro Custódio Pereira, CEP 38405-248.",
-    "id": "272170",
+    "ementa": "Solicitando à Secretaria Municipal de Trânsito e Transportes a realização de sinalização / implantação / manutenção de sinalização estatigráfica na Avenida Maranhão, Em frente ao N° 2161, no bairro Umuarama, CEP 38405-318.",
+    "id": "273279",
     "item_kind": "materia",
     "tipo": "Indicação",
-    "title": "IND 40001/2026",
+    "title": "IND 41060/2026",
     "ultima_votacao_kind": "",
     "ultima_votacao_resultado": ""
    },
    {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272168",
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=273277",
     "ano": "2026",
-    "data_apresentacao": "16/10/2026",
+    "data_apresentacao": "27/10/2026",
     "emenda_impositiva": false,
-    "ementa": "Solicitando à Secretaria Municipal de Serviços Urbanos a realização de recolhimento de móveis e objetos na Rua Manoel Gomes dos Santos, 526, no bairro Alto Umuarama, CEP 38405-270.",
-    "id": "272168",
+    "ementa": "Solicitando ao DMAE a realização de tapa buraco após obra dmae na Avenida Fernando Vilela, 731, no bairro Martins, CEP 38400-456.",
+    "id": "273277",
     "item_kind": "materia",
     "tipo": "Indicação",
-    "title": "IND 39999/2026",
+    "title": "IND 41058/2026",
     "ultima_votacao_kind": "",
     "ultima_votacao_resultado": ""
    },
    {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272166",
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=273274",
     "ano": "2026",
-    "data_apresentacao": "16/10/2026",
+    "data_apresentacao": "27/10/2026",
     "emenda_impositiva": false,
-    "ementa": "Solicitando à Secretaria Municipal de Infraestrutura a realização de tapa buraco na Rua Terezina Segadães, Em frente 153, no bairro Custódio Pereira, CEP 38405-212.",
-    "id": "272166",
+    "ementa": "Solicitando à Secretaria Municipal de Trânsito e Transportes a realização de sinalização - placa de pare / estacionamento / proibido estacionar na Avenida Fernando Vilela, 731, no bairro Martins, CEP 38400-456.",
+    "id": "273274",
     "item_kind": "materia",
     "tipo": "Indicação",
-    "title": "IND 39997/2026",
+    "title": "IND 41055/2026",
     "ultima_votacao_kind": "",
     "ultima_votacao_resultado": ""
    },
    {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272163",
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=273255",
     "ano": "2026",
-    "data_apresentacao": "16/10/2026",
+    "data_apresentacao": "27/10/2026",
     "emenda_impositiva": false,
-    "ementa": "Solicitando à Secretaria Municipal de Infraestrutura a realização de tapa buraco na Rua Terezina Segadães, 45, no bairro Custódio Pereira, CEP 38405-212.",
-    "id": "272163",
+    "ementa": "Solicitando à Secretaria Municipal de Trânsito e Transportes a realização de sinalização / implantação / manutenção de sinalização estatigráfica na Avenida Pará, N° de referência 1948, no bairro Umuarama, CEP 38405-320.",
+    "id": "273255",
     "item_kind": "materia",
     "tipo": "Indicação",
-    "title": "IND 39994/2026",
+    "title": "IND 41036/2026",
     "ultima_votacao_kind": "",
     "ultima_votacao_resultado": ""
    },
    {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272161",
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=273254",
     "ano": "2026",
-    "data_apresentacao": "16/10/2026",
+    "data_apresentacao": "27/10/2026",
     "emenda_impositiva": false,
-    "ementa": "Solicitando à Secretaria Municipal de Infraestrutura a realização de tapa buraco na Rua Ceará, 2155, no bairro Custódio Pereira, CEP 38405-240.",
-    "id": "272161",
+    "ementa": "Solicitando ao DMAE a realização de tapa buraco após obra dmae na Rua Dimas Moreira de Sá, Em frente ao N°2526, no bairro Custódio Pereira, CEP 38405-254.",
+    "id": "273254",
     "item_kind": "materia",
     "tipo": "Indicação",
-    "title": "IND 39992/2026",
+    "title": "IND 41035/2026",
     "ultima_votacao_kind": "",
     "ultima_votacao_resultado": ""
    },
    {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272158",
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=273253",
     "ano": "2026",
-    "data_apresentacao": "16/10/2026",
+    "data_apresentacao": "27/10/2026",
     "emenda_impositiva": false,
-    "ementa": "Solicitando à Secretaria Municipal de Serviços Urbanos a realização de calçada / passeio - limpeza / capina / roçagem na Rua Dimas Moreira de Sá, Ao lado do número  3073, no bairro Custódio Pereira, CEP 38405-254.",
-    "id": "272158",
+    "ementa": "Solicitando ao DMAE a realização de recolhimento de animais de pequeno porte na Rua José Rezende, 4211, no bairro Custódio Pereira, CEP 38405-238.",
+    "id": "273253",
     "item_kind": "materia",
     "tipo": "Indicação",
-    "title": "IND 39989/2026",
+    "title": "IND 41034/2026",
     "ultima_votacao_kind": "",
     "ultima_votacao_resultado": ""
    }
@@ -982,7 +982,7 @@
   "ordem_dat_apresentacao": "desc",
   "page": 1,
   "page_size": 10,
-  "total": 2797
+  "total": 2970
  },
  "relatorias": {
   "facets": {

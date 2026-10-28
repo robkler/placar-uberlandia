@@ -1045,7 +1045,7 @@
   "facets": {
    "ano": [
     {
-     "count": 436,
+     "count": 440,
      "label": "2026",
      "value": "2026"
     },
@@ -1102,7 +1102,7 @@
      "value": "EMEI"
     },
     {
-     "count": 527,
+     "count": 530,
      "label": "Indicação",
      "value": "IND"
     },
@@ -1142,7 +1142,7 @@
      "value": "PELO"
     },
     {
-     "count": 1681,
+     "count": 1682,
      "label": "Requerimento",
      "value": "REQ"
     }
@@ -1410,7 +1410,7 @@
     },
     {
      "ano": "2026",
-     "count": 291,
+     "count": 294,
      "tipo": "IND"
     },
     {
@@ -1445,7 +1445,7 @@
     },
     {
      "ano": "2026",
-     "count": 68,
+     "count": 69,
      "tipo": "REQ"
     }
    ]
@@ -1453,7 +1453,7 @@
   "facets_todos": {
    "ano": [
     {
-     "count": 436,
+     "count": 440,
      "label": "2026",
      "value": "2026"
     },
@@ -1510,7 +1510,7 @@
      "value": "EMEI"
     },
     {
-     "count": 527,
+     "count": 530,
      "label": "Indicação",
      "value": "IND"
     },
@@ -1550,7 +1550,7 @@
      "value": "PELO"
     },
     {
-     "count": 1681,
+     "count": 1682,
      "label": "Requerimento",
      "value": "REQ"
     }
@@ -1562,6 +1562,58 @@
    "tipo_desc": ""
   },
   "items": [
+   {
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=273278",
+    "ano": "2026",
+    "data_apresentacao": "27/10/2026",
+    "emenda_impositiva": false,
+    "ementa": "Solicitando à Secretaria Municipal de Gestão Ambiental e Sustentabilidade a realização de praça - construção / revitalização / manutenção na Praça Sérgio Pacheco, Teatro Arena (Redondo), no bairro Centro, CEP 38400-184.",
+    "id": "273278",
+    "item_kind": "materia",
+    "tipo": "Indicação",
+    "title": "IND 41059/2026",
+    "ultima_votacao_kind": "",
+    "ultima_votacao_resultado": ""
+   },
+   {
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=273232",
+    "ano": "2026",
+    "data_apresentacao": "27/10/2026",
+    "emenda_impositiva": false,
+    "ementa": "Apreciar o Parecer Contrário emitido pela Comissão de Legislação, Justiça e Redação no Projeto de Lei Ordinária nº 1352/2026, que institui a “SEMANA MUNICIPAL DE SAÚDE MENTAL DOS PROFISSIONAIS DE SAÚDE” no âmbito do município de Uberlândia e dá outras providências.",
+    "id": "273232",
+    "item_kind": "materia",
+    "tipo": "Requerimento",
+    "title": "REQ 21383/2026",
+    "ultima_votacao_kind": "",
+    "ultima_votacao_resultado": ""
+   },
+   {
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=273152",
+    "ano": "2026",
+    "data_apresentacao": "27/10/2026",
+    "emenda_impositiva": false,
+    "ementa": "Solicitando à Secretaria Municipal de Infraestrutura a realização de tapa buraco na Rua do Queixada, próximo ao número 205, no bairro Loteamento Residencial Pequis, CEP 38421-159.",
+    "id": "273152",
+    "item_kind": "materia",
+    "tipo": "Indicação",
+    "title": "IND 40965/2026",
+    "ultima_votacao_kind": "",
+    "ultima_votacao_resultado": ""
+   },
+   {
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=273139",
+    "ano": "2026",
+    "data_apresentacao": "27/10/2026",
+    "emenda_impositiva": false,
+    "ementa": "Solicitando à Secretaria Municipal de Gestão Ambiental e Sustentabilidade a realização de árvores - avaliação técnica na Avenida Getúlio Vargas, número 811, esquina com Rua Silva Jardim, no bairro Tabajaras, CEP 38400-283.",
+    "id": "273139",
+    "item_kind": "materia",
+    "tipo": "Indicação",
+    "title": "IND 40952/2026",
+    "ultima_votacao_kind": "",
+    "ultima_votacao_resultado": ""
+   },
    {
     "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272167",
     "ano": "2026",
@@ -1639,64 +1691,12 @@
     "title": "REQ 21336/2026",
     "ultima_votacao_kind": "votacao",
     "ultima_votacao_resultado": "Aprovado"
-   },
-   {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=270400",
-    "ano": "2026",
-    "data_apresentacao": "23/09/2026",
-    "emenda_impositiva": false,
-    "ementa": "Solicitando à Secretaria Municipal de Infraestrutura a realização de tapa buraco na Rua Neilton Cobo Victor, próximo ao número 591, no bairro Jardim Europa, CEP 38414-644.",
-    "id": "270400",
-    "item_kind": "materia",
-    "tipo": "Indicação",
-    "title": "IND 38396/2026",
-    "ultima_votacao_kind": "votacao",
-    "ultima_votacao_resultado": "Aprovado"
-   },
-   {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=270257",
-    "ano": "2026",
-    "data_apresentacao": "21/09/2026",
-    "emenda_impositiva": false,
-    "ementa": "Solicitando à Secretaria Municipal de Infraestrutura a realização de canaleta - construção / manutenção / reforma na Rua Tomazinho Rezende, próximo ao numero 1052, no bairro Daniel Fonseca, CEP 38400-326.",
-    "id": "270257",
-    "item_kind": "materia",
-    "tipo": "Indicação",
-    "title": "IND 38264/2026",
-    "ultima_votacao_kind": "votacao",
-    "ultima_votacao_resultado": "Aprovado"
-   },
-   {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=270256",
-    "ano": "2026",
-    "data_apresentacao": "21/09/2026",
-    "emenda_impositiva": false,
-    "ementa": "Solicitando à Secretaria Municipal de Trânsito e Transportes a realização de radar eletrônico - instalação / manutenção na Área Rural, próximo ao Condomínio Recanto Verde e Granja Planalto Rações, no bairro Área Rural de Uberlândia, CEP 38438-899.",
-    "id": "270256",
-    "item_kind": "materia",
-    "tipo": "Indicação",
-    "title": "IND 38263/2026",
-    "ultima_votacao_kind": "votacao",
-    "ultima_votacao_resultado": "Aprovado"
-   },
-   {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=269620",
-    "ano": "2026",
-    "data_apresentacao": "10/09/2026",
-    "emenda_impositiva": false,
-    "ementa": "Solicitando à Secretaria Municipal de Serviços Urbanos a realização de lixo - fiscalização descarte irregular de lixo em toda a cidade, CEP 38400-000.",
-    "id": "269620",
-    "item_kind": "materia",
-    "tipo": "Indicação",
-    "title": "IND 37720/2026",
-    "ultima_votacao_kind": "votacao",
-    "ultima_votacao_resultado": "Aprovado"
    }
   ],
   "ordem_dat_apresentacao": "desc",
   "page": 1,
   "page_size": 10,
-  "total": 2750
+  "total": 2754
  },
  "relatorias": {
   "facets": {

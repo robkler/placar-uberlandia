@@ -617,7 +617,7 @@
   "facets": {
    "ano": [
     {
-     "count": 1912,
+     "count": 1978,
      "label": "2026",
      "value": "2026"
     },
@@ -634,12 +634,12 @@
      "value": "EMEI"
     },
     {
-     "count": 2440,
+     "count": 2504,
      "label": "Indicação",
      "value": "IND"
     },
     {
-     "count": 25,
+     "count": 26,
      "label": "Moção",
      "value": "MOC"
     },
@@ -674,7 +674,7 @@
      "value": "PELO"
     },
     {
-     "count": 864,
+     "count": 865,
      "label": "Requerimento",
      "value": "REQ"
     }
@@ -722,12 +722,12 @@
     },
     {
      "ano": "2026",
-     "count": 1873,
+     "count": 1937,
      "tipo": "IND"
     },
     {
      "ano": "2026",
-     "count": 8,
+     "count": 9,
      "tipo": "MOC"
     },
     {
@@ -757,7 +757,7 @@
     },
     {
      "ano": "2026",
-     "count": 13,
+     "count": 14,
      "tipo": "REQ"
     }
    ]
@@ -765,7 +765,7 @@
   "facets_todos": {
    "ano": [
     {
-     "count": 1912,
+     "count": 1978,
      "label": "2026",
      "value": "2026"
     },
@@ -782,12 +782,12 @@
      "value": "EMEI"
     },
     {
-     "count": 2440,
+     "count": 2504,
      "label": "Indicação",
      "value": "IND"
     },
     {
-     "count": 25,
+     "count": 26,
      "label": "Moção",
      "value": "MOC"
     },
@@ -822,7 +822,7 @@
      "value": "PELO"
     },
     {
-     "count": 864,
+     "count": 865,
      "label": "Requerimento",
      "value": "REQ"
     }
@@ -835,140 +835,140 @@
   },
   "items": [
    {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272205",
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=273209",
     "ano": "2026",
-    "data_apresentacao": "16/10/2026",
+    "data_apresentacao": "27/10/2026",
     "emenda_impositiva": false,
-    "ementa": "Solicitando à Secretaria Municipal de Trânsito e Transportes a realização de sinalização - placa de pare / estacionamento / proibido estacionar na Rua do Sorgo, cruzamento com a Rua Gonçalves Dias, no bairro Minas Gerais, CEP 38402-088.",
-    "id": "272205",
-    "item_kind": "materia",
-    "tipo": "Indicação",
-    "title": "IND 40030/2026",
-    "ultima_votacao_kind": "",
-    "ultima_votacao_resultado": ""
-   },
-   {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272204",
-    "ano": "2026",
-    "data_apresentacao": "16/10/2026",
-    "emenda_impositiva": false,
-    "ementa": "Solicitando à Secretaria Municipal de Trânsito e Transportes a realização de sinalização / implantação / manutenção de sinalização estatigráfica na Rua do Sorgo, cruzamento com a Rua Gonçalves Dias (Rota do Transporte Coletivo - Linhas A252 e A234), no bairro Minas Gerais, CEP 38402-088.",
-    "id": "272204",
-    "item_kind": "materia",
-    "tipo": "Indicação",
-    "title": "IND 40029/2026",
-    "ultima_votacao_kind": "",
-    "ultima_votacao_resultado": ""
-   },
-   {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272025",
-    "ano": "2026",
-    "data_apresentacao": "16/10/2026",
-    "emenda_impositiva": false,
-    "ementa": "Solicitando à Secretaria Municipal de Gestão Ambiental e Sustentabilidade a realização de árvores e galhos - poda / corte / destocamento / recolhimento na Rua Ceará, 490 a 500, no bairro Marta Helena, CEP 38402-041.",
-    "id": "272025",
-    "item_kind": "materia",
-    "tipo": "Indicação",
-    "title": "IND 39865/2026",
-    "ultima_votacao_kind": "",
-    "ultima_votacao_resultado": ""
-   },
-   {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272002",
-    "ano": "2026",
-    "data_apresentacao": "15/10/2026",
-    "emenda_impositiva": false,
-    "ementa": "Liberação para uso do Plenário para entrega de Moções de Aplauso e Título de Cidadão Honorário no dia 29/10/2026.",
-    "id": "272002",
+    "ementa": "Cumprimentando-o cordialmente, venho por meio deste, no uso de minhas atribuições e em atenção a uma antiga e premente reivindicação das comunidades locais, solicitar a Vossa Excelência a realização de estudos técnicos e a execução de obras de calçamento, adequação de acessibilidade, contenção e intervenção estrutural na passagem/servidão de passagem situada no leito da antiga ferrovia desativada (desativada desde 2011), responsável por interligar os Bairros Minas Gerais, Marta Helena e regiões adjacentes.",
+    "id": "273209",
     "item_kind": "materia",
     "tipo": "Requerimento",
-    "title": "REQ 21363/2026",
-    "ultima_votacao_kind": "votacao",
-    "ultima_votacao_resultado": "Aprovado"
+    "title": "REQ 21371/2026",
+    "ultima_votacao_kind": "",
+    "ultima_votacao_resultado": ""
    },
    {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=271998",
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=273208",
     "ano": "2026",
-    "data_apresentacao": "15/10/2026",
+    "data_apresentacao": "27/10/2026",
     "emenda_impositiva": false,
-    "ementa": "Guilherme Augusto Braga de Oliveira pelo apoio incondicional e pela dedicação ao Uberlândia Esporte Clube.",
-    "id": "271998",
+    "ementa": "Jose Batista Geraldo Junior pelo apoio incondicional e pela dedicação ao Uberlândia Esporte Clube, fundamentais para fortalecer o vínculo entre o clube e sua torcida. Este reconhecimento celebra o relevante trabalho realizado nas redes sociais: divulgando informações com compromisso, demonstrando amor ao Verdão e alimentando a paixão pelo futebol da nossa cidade.",
+    "id": "273208",
     "item_kind": "materia",
     "tipo": "Moção",
-    "title": "MOC 1024/2026",
-    "ultima_votacao_kind": "votacao",
-    "ultima_votacao_resultado": "Aprovado"
+    "title": "MOC 1026/2026",
+    "ultima_votacao_kind": "",
+    "ultima_votacao_resultado": ""
    },
    {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=271997",
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=273170",
     "ano": "2026",
-    "data_apresentacao": "15/10/2026",
+    "data_apresentacao": "27/10/2026",
     "emenda_impositiva": false,
-    "ementa": "Vinicius Henrique Ribeiro Fonseca pelo apoio incondicional e pela dedicação ao Uberlândia Esporte Clube.",
-    "id": "271997",
-    "item_kind": "materia",
-    "tipo": "Moção",
-    "title": "MOC 1023/2026",
-    "ultima_votacao_kind": "votacao",
-    "ultima_votacao_resultado": "Aprovado"
-   },
-   {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=271996",
-    "ano": "2026",
-    "data_apresentacao": "15/10/2026",
-    "emenda_impositiva": false,
-    "ementa": "a Guilherme Augusto Amaral Borges pelo apoio incondicional e pela dedicação ao Uberlândia Esporte Clube.",
-    "id": "271996",
-    "item_kind": "materia",
-    "tipo": "Moção",
-    "title": "MOC 1022/2026",
-    "ultima_votacao_kind": "votacao",
-    "ultima_votacao_resultado": "Aprovado"
-   },
-   {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=271995",
-    "ano": "2026",
-    "data_apresentacao": "15/10/2026",
-    "emenda_impositiva": false,
-    "ementa": "Moção de APLAUSOS a Juan Gomes Ferreira pelo apoio incondicional e pela dedicação ao Uberlândia Esporte Clube",
-    "id": "271995",
-    "item_kind": "materia",
-    "tipo": "Moção",
-    "title": "MOC 1021/2026",
-    "ultima_votacao_kind": "votacao",
-    "ultima_votacao_resultado": "Aprovado"
-   },
-   {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=271991",
-    "ano": "2026",
-    "data_apresentacao": "15/10/2026",
-    "emenda_impositiva": false,
-    "ementa": "Solicitando à Secretaria Municipal de Infraestrutura a realização de vias públicas - nivelamento / recapeamento asfáltico na Rodovia Comunitária Neuza Rezende, (próximo à entrada da Capela dos Martins) e extensão dos serviços na Avenida Antônio Thomaz Ferreira, no bairro Distrito Industrial, CEP 38402-360.",
-    "id": "271991",
+    "ementa": "Solicitando à Secretaria Municipal de Trânsito e Transportes a realização de sinalização - implantação de vaga para carga e descarga na Avenida Estrêla do Sul, defronte aos n. 1059/1063, no bairro Martins, CEP 38400-339.",
+    "id": "273170",
     "item_kind": "materia",
     "tipo": "Indicação",
-    "title": "IND 39847/2026",
-    "ultima_votacao_kind": "votacao",
-    "ultima_votacao_resultado": "Aprovado"
+    "title": "IND 40983/2026",
+    "ultima_votacao_kind": "",
+    "ultima_votacao_resultado": ""
    },
    {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=271981",
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=273150",
     "ano": "2026",
-    "data_apresentacao": "15/10/2026",
+    "data_apresentacao": "27/10/2026",
     "emenda_impositiva": false,
-    "ementa": "Solicitando à Secretaria Municipal de Infraestrutura a realização de tapa buraco na Avenida Cesário Crosara, n° 925 - Atacadão, no bairro Presidente Roosevelt, CEP 38401-119.",
-    "id": "271981",
+    "ementa": "Solicitando à Secretaria Municipal de Infraestrutura a realização de vias públicas - nivelamento / recapeamento asfáltico na Rua Espírito Santo, próximo ao número 500 no cruzamento com Av. Afonso Pena e rente ao meio na Av. Afonso Pena, no bairro Brasil, CEP 38400-660.",
+    "id": "273150",
     "item_kind": "materia",
     "tipo": "Indicação",
-    "title": "IND 39837/2026",
-    "ultima_votacao_kind": "votacao",
-    "ultima_votacao_resultado": "Aprovado"
+    "title": "IND 40963/2026",
+    "ultima_votacao_kind": "",
+    "ultima_votacao_resultado": ""
+   },
+   {
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=273148",
+    "ano": "2026",
+    "data_apresentacao": "27/10/2026",
+    "emenda_impositiva": false,
+    "ementa": "Solicitando à Secretaria Municipal de Serviços Urbanos a realização de calçada / passeio - limpeza / capina / roçagem na Rua Mamede José Beicker, entre a Rua Gustavo José da Silva e a Rua Cláudio Ferreira Abreu, no bairro Aclimação, CEP 38406-049.",
+    "id": "273148",
+    "item_kind": "materia",
+    "tipo": "Indicação",
+    "title": "IND 40961/2026",
+    "ultima_votacao_kind": "",
+    "ultima_votacao_resultado": ""
+   },
+   {
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=273146",
+    "ano": "2026",
+    "data_apresentacao": "27/10/2026",
+    "emenda_impositiva": false,
+    "ementa": "Solicitando à Secretaria Municipal de Trânsito e Transportes a realização de vias públicas - prolongamento na Rua Mamede José Beicker, entre a Av. Sebastião Manoel Barbosa, Rua Gustavo José da Silva, no bairro Aclimação, CEP 38406-049.",
+    "id": "273146",
+    "item_kind": "materia",
+    "tipo": "Indicação",
+    "title": "IND 40959/2026",
+    "ultima_votacao_kind": "",
+    "ultima_votacao_resultado": ""
+   },
+   {
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=273117",
+    "ano": "2026",
+    "data_apresentacao": "27/10/2026",
+    "emenda_impositiva": false,
+    "ementa": "Solicitando à Secretaria Municipal de Infraestrutura a realização de tapa buraco na Rua Iguaçu, 207, no bairro Nossa Senhora das Graças, CEP 38402-024.",
+    "id": "273117",
+    "item_kind": "materia",
+    "tipo": "Indicação",
+    "title": "IND 40930/2026",
+    "ultima_votacao_kind": "",
+    "ultima_votacao_resultado": ""
+   },
+   {
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=273115",
+    "ano": "2026",
+    "data_apresentacao": "27/10/2026",
+    "emenda_impositiva": false,
+    "ementa": "Solicitando à Secretaria Municipal de Trânsito e Transportes a realização de ponto de ônibus - implantação / manutenção / mudança de local na Praça Sérgio Pacheco, no bairro Centro, CEP 38400-184.",
+    "id": "273115",
+    "item_kind": "materia",
+    "tipo": "Indicação",
+    "title": "IND 40928/2026",
+    "ultima_votacao_kind": "",
+    "ultima_votacao_resultado": ""
+   },
+   {
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=273111",
+    "ano": "2026",
+    "data_apresentacao": "27/10/2026",
+    "emenda_impositiva": false,
+    "ementa": "Solicitando à Secretaria Municipal de Trânsito e Transportes a realização de sinalização / implantação / manutenção de sinalização estatigráfica na Rua do Níquel, no bairro Dona Zulmira, CEP 38415-018.",
+    "id": "273111",
+    "item_kind": "materia",
+    "tipo": "Indicação",
+    "title": "IND 40926/2026",
+    "ultima_votacao_kind": "",
+    "ultima_votacao_resultado": ""
+   },
+   {
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=273107",
+    "ano": "2026",
+    "data_apresentacao": "27/10/2026",
+    "emenda_impositiva": false,
+    "ementa": "Solicitando à Secretaria Municipal de Infraestrutura a realização de vias públicas - nivelamento / recapeamento asfáltico na Rua do Níquel, em toda sua extensão, no bairro Dona Zulmira, CEP 38415-018.",
+    "id": "273107",
+    "item_kind": "materia",
+    "tipo": "Indicação",
+    "title": "IND 40922/2026",
+    "ultima_votacao_kind": "",
+    "ultima_votacao_resultado": ""
    }
   ],
   "ordem_dat_apresentacao": "desc",
   "page": 1,
   "page_size": 10,
-  "total": 3382
+  "total": 3448
  },
  "relatorias": {
   "facets": {

@@ -593,7 +593,7 @@
   "facets": {
    "ano": [
     {
-     "count": 827,
+     "count": 961,
      "label": "2026",
      "value": "2026"
     },
@@ -615,7 +615,7 @@
      "value": "EMEI"
     },
     {
-     "count": 632,
+     "count": 763,
      "label": "Indicação",
      "value": "IND"
     },
@@ -660,7 +660,7 @@
      "value": "PELO"
     },
     {
-     "count": 299,
+     "count": 302,
      "label": "Requerimento",
      "value": "REQ"
     },
@@ -728,7 +728,7 @@
     },
     {
      "ano": "2026",
-     "count": 605,
+     "count": 736,
      "tipo": "IND"
     },
     {
@@ -773,7 +773,7 @@
     },
     {
      "ano": "2026",
-     "count": 61,
+     "count": 64,
      "tipo": "REQ"
     },
     {
@@ -786,7 +786,7 @@
   "facets_todos": {
    "ano": [
     {
-     "count": 827,
+     "count": 961,
      "label": "2026",
      "value": "2026"
     },
@@ -808,7 +808,7 @@
      "value": "EMEI"
     },
     {
-     "count": 632,
+     "count": 763,
      "label": "Indicação",
      "value": "IND"
     },
@@ -853,7 +853,7 @@
      "value": "PELO"
     },
     {
-     "count": 299,
+     "count": 302,
      "label": "Requerimento",
      "value": "REQ"
     },
@@ -871,132 +871,132 @@
   },
   "items": [
    {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272165",
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=273232",
     "ano": "2026",
-    "data_apresentacao": "16/10/2026",
+    "data_apresentacao": "27/10/2026",
     "emenda_impositiva": false,
-    "ementa": "Solicitando à Secretaria Municipal de Serviços Urbanos a realização de iluminação pública - troca de lâmpada na Rua João Guimarães Naves, 1339, no bairro Tibery, CEP 38405-046.",
-    "id": "272165",
+    "ementa": "Apreciar o Parecer Contrário emitido pela Comissão de Legislação, Justiça e Redação no Projeto de Lei Ordinária nº 1352/2026, que institui a “SEMANA MUNICIPAL DE SAÚDE MENTAL DOS PROFISSIONAIS DE SAÚDE” no âmbito do município de Uberlândia e dá outras providências.",
+    "id": "273232",
     "item_kind": "materia",
-    "tipo": "Indicação",
-    "title": "IND 39996/2026",
+    "tipo": "Requerimento",
+    "title": "REQ 21383/2026",
     "ultima_votacao_kind": "",
     "ultima_votacao_resultado": ""
    },
    {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272164",
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=273222",
     "ano": "2026",
-    "data_apresentacao": "16/10/2026",
+    "data_apresentacao": "27/10/2026",
     "emenda_impositiva": false,
-    "ementa": "Solicitando à Secretaria Municipal de Trânsito e Transportes a realização de sinalização / implantação / manutenção de sinalização estatigráfica na Rua Albertino Rodrigues, esquina com a Rua Santa Catarina, no bairro Santa Rosa, CEP 38401-244.",
-    "id": "272164",
+    "ementa": "Sugere ao Poder Executivo a realização de estudo de viabilidade para concessão de incentivo fiscal no IPTU a doadores regulares de sangue no Município de Uberlândia.",
+    "id": "273222",
     "item_kind": "materia",
-    "tipo": "Indicação",
-    "title": "IND 39995/2026",
+    "tipo": "Requerimento",
+    "title": "REQ 21376/2026",
     "ultima_votacao_kind": "",
     "ultima_votacao_resultado": ""
    },
    {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272162",
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=273221",
     "ano": "2026",
-    "data_apresentacao": "16/10/2026",
+    "data_apresentacao": "27/10/2026",
     "emenda_impositiva": false,
-    "ementa": "Solicitando à Secretaria Municipal de Infraestrutura a realização de tapa buraco na Avenida Olímpica, Em frente a E.E Angelino Pavan, no bairro Santa Rosa, CEP 38401-260.",
-    "id": "272162",
+    "ementa": "Sugere ao Poder Executivo a criação de credencial específica ou outro mecanismo de acesso diferenciado às vagas de estacionamento rotativo (Zona Azul) para profissionais de saúde que atuam no Hospital Santa Catarina, no Município de Uberlândia.",
+    "id": "273221",
     "item_kind": "materia",
-    "tipo": "Indicação",
-    "title": "IND 39993/2026",
+    "tipo": "Requerimento",
+    "title": "REQ 21375/2026",
     "ultima_votacao_kind": "",
     "ultima_votacao_resultado": ""
    },
    {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272160",
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=273120",
     "ano": "2026",
-    "data_apresentacao": "16/10/2026",
+    "data_apresentacao": "27/10/2026",
     "emenda_impositiva": false,
-    "ementa": "Solicitando à Secretaria Municipal de Infraestrutura a realização de tapa buraco na Rua Santa Catarina, 2885, no bairro Santa Rosa, CEP 38401-262.",
-    "id": "272160",
+    "ementa": "Solicitando ao DMAE a realização de tapa buraco após obra dmae na Rua Maria Dias Diniz, Esquina com Rua Maria Aparecida da costa, no bairro Tubalina, CEP 38412-054.",
+    "id": "273120",
     "item_kind": "materia",
     "tipo": "Indicação",
-    "title": "IND 39991/2026",
+    "title": "IND 40933/2026",
     "ultima_votacao_kind": "",
     "ultima_votacao_resultado": ""
    },
    {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272157",
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=273119",
     "ano": "2026",
-    "data_apresentacao": "16/10/2026",
+    "data_apresentacao": "27/10/2026",
     "emenda_impositiva": false,
-    "ementa": "Solicitando à Secretaria Municipal de Infraestrutura a realização de tapa buraco na Avenida Olímpica, 973, no bairro Santa Rosa, CEP 38401-260.",
-    "id": "272157",
+    "ementa": "Solicitando à Secretaria Municipal de Infraestrutura a realização de tapa buraco na Avenida Maestro Vila Lobos, -, no bairro Tubalina, CEP 38412-028.",
+    "id": "273119",
     "item_kind": "materia",
     "tipo": "Indicação",
-    "title": "IND 39988/2026",
+    "title": "IND 40932/2026",
     "ultima_votacao_kind": "",
     "ultima_votacao_resultado": ""
    },
    {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272150",
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=273110",
     "ano": "2026",
-    "data_apresentacao": "16/10/2026",
+    "data_apresentacao": "27/10/2026",
     "emenda_impositiva": false,
-    "ementa": "Solicitando à Secretaria Municipal de Infraestrutura a realização de vias públicas - nivelamento / recapeamento asfáltico na Rua Albertino Rodrigues, 867, no bairro Santa Rosa, CEP 38401-244.",
-    "id": "272150",
+    "ementa": "Solicitando à Secretaria Municipal de Gestão Ambiental e Sustentabilidade a realização de árvores e galhos - poda / corte / destocamento / recolhimento na Rua Dolorita Elias do Nascimento, -, no bairro Residencial Viviane, CEP 38410-038.",
+    "id": "273110",
     "item_kind": "materia",
     "tipo": "Indicação",
-    "title": "IND 39981/2026",
+    "title": "IND 40925/2026",
     "ultima_votacao_kind": "",
     "ultima_votacao_resultado": ""
    },
    {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272149",
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=273106",
     "ano": "2026",
-    "data_apresentacao": "16/10/2026",
+    "data_apresentacao": "27/10/2026",
     "emenda_impositiva": false,
-    "ementa": "Solicitando à Secretaria Municipal de Gestão Ambiental e Sustentabilidade a realização de árvores e galhos - poda / corte / destocamento / recolhimento na Avenida Olímpica, Toda extensão da Avenida, no bairro Santa Rosa, CEP 38401-260.",
-    "id": "272149",
+    "ementa": "Solicitando à Secretaria Municipal de Infraestrutura a realização de tapa buraco na Rua Wilson Cunha, -, no bairro São Jorge, CEP 38410-196.",
+    "id": "273106",
     "item_kind": "materia",
     "tipo": "Indicação",
-    "title": "IND 39980/2026",
+    "title": "IND 40921/2026",
     "ultima_votacao_kind": "",
     "ultima_votacao_resultado": ""
    },
    {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272148",
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=273102",
     "ano": "2026",
-    "data_apresentacao": "16/10/2026",
+    "data_apresentacao": "27/10/2026",
     "emenda_impositiva": false,
-    "ementa": "Solicitando à Secretaria Municipal de Gestão Ambiental e Sustentabilidade a realização de árvores e galhos - poda / corte / destocamento / recolhimento na Avenida Olímpica, Toda extensão da Avenida, no bairro Santa Rosa, CEP 38401-260.",
-    "id": "272148",
+    "ementa": "Solicitando à Secretaria Municipal de Infraestrutura a realização de tapa buraco na Rua Wilson Cunha, Esquina com Antônio Bernardes da Costa, no bairro São Jorge, CEP 38410-196.",
+    "id": "273102",
     "item_kind": "materia",
     "tipo": "Indicação",
-    "title": "IND 39979/2026",
+    "title": "IND 40917/2026",
     "ultima_votacao_kind": "",
     "ultima_votacao_resultado": ""
    },
    {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272145",
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=273096",
     "ano": "2026",
-    "data_apresentacao": "16/10/2026",
+    "data_apresentacao": "27/10/2026",
     "emenda_impositiva": false,
-    "ementa": "Solicitando à Secretaria Municipal de Trânsito e Transportes a realização de sinalização / implantação / manutenção de sinalização estatigráfica na Rua Antenor Rangel, esquina com Av. Olímpica, no bairro Santa Rosa, CEP 38401-726.",
-    "id": "272145",
+    "ementa": "Solicitando à Secretaria Municipal de Gestão Ambiental e Sustentabilidade a realização de árvores e galhos - poda / corte / destocamento / recolhimento na Avenida Serra Bodoquena, -, no bairro São Jorge, CEP 38410-356.",
+    "id": "273096",
     "item_kind": "materia",
     "tipo": "Indicação",
-    "title": "IND 39976/2026",
+    "title": "IND 40911/2026",
     "ultima_votacao_kind": "",
     "ultima_votacao_resultado": ""
    },
    {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272143",
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=273093",
     "ano": "2026",
-    "data_apresentacao": "16/10/2026",
+    "data_apresentacao": "27/10/2026",
     "emenda_impositiva": false,
-    "ementa": "Solicitando à Secretaria Municipal de Trânsito e Transportes a realização de sinalização / implantação / manutenção de sinalização estatigráfica na Rua José Pedro Mendonça, esquina com Av. Olímpica, no bairro Santa Rosa, CEP 38401-724.",
-    "id": "272143",
+    "ementa": "Solicitando à Secretaria Municipal de Serviços Urbanos a realização de calçada / passeio - limpeza / capina / roçagem na Avenida Serra do Espinhaço, Toda extensão, no bairro São Jorge, CEP 38410-384.",
+    "id": "273093",
     "item_kind": "materia",
     "tipo": "Indicação",
-    "title": "IND 39974/2026",
+    "title": "IND 40908/2026",
     "ultima_votacao_kind": "",
     "ultima_votacao_resultado": ""
    }
@@ -1004,7 +1004,7 @@
   "ordem_dat_apresentacao": "desc",
   "page": 1,
   "page_size": 10,
-  "total": 1377
+  "total": 1511
  },
  "relatorias": {
   "facets": {

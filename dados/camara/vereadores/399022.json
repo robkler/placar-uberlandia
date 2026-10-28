@@ -1303,7 +1303,7 @@
   "facets": {
    "ano": [
     {
-     "count": 1504,
+     "count": 1526,
      "label": "2026",
      "value": "2026"
     },
@@ -1355,7 +1355,7 @@
      "value": "EMEI"
     },
     {
-     "count": 1872,
+     "count": 1890,
      "label": "Indicação",
      "value": "IND"
     },
@@ -1380,7 +1380,7 @@
      "value": "PLC"
     },
     {
-     "count": 391,
+     "count": 392,
      "label": "Projeto de Lei Ordinária",
      "value": "PL"
     },
@@ -1400,7 +1400,7 @@
      "value": "PELO"
     },
     {
-     "count": 10051,
+     "count": 10054,
      "label": "Requerimento",
      "value": "REQ"
     },
@@ -1723,7 +1723,7 @@
     },
     {
      "ano": "2026",
-     "count": 1274,
+     "count": 1292,
      "tipo": "IND"
     },
     {
@@ -1748,7 +1748,7 @@
     },
     {
      "ano": "2026",
-     "count": 62,
+     "count": 63,
      "tipo": "PL"
     },
     {
@@ -1768,7 +1768,7 @@
     },
     {
      "ano": "2026",
-     "count": 131,
+     "count": 134,
      "tipo": "REQ"
     },
     {
@@ -1781,7 +1781,7 @@
   "facets_todos": {
    "ano": [
     {
-     "count": 1504,
+     "count": 1526,
      "label": "2026",
      "value": "2026"
     },
@@ -1833,7 +1833,7 @@
      "value": "EMEI"
     },
     {
-     "count": 1872,
+     "count": 1890,
      "label": "Indicação",
      "value": "IND"
     },
@@ -1858,7 +1858,7 @@
      "value": "PLC"
     },
     {
-     "count": 391,
+     "count": 392,
      "label": "Projeto de Lei Ordinária",
      "value": "PL"
     },
@@ -1878,7 +1878,7 @@
      "value": "PELO"
     },
     {
-     "count": 10051,
+     "count": 10054,
      "label": "Requerimento",
      "value": "REQ"
     },
@@ -1896,140 +1896,140 @@
   },
   "items": [
    {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272195",
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=273234",
     "ano": "2026",
-    "data_apresentacao": "16/10/2026",
+    "data_apresentacao": "27/10/2026",
     "emenda_impositiva": false,
-    "ementa": "a realização de vistoria, identificação e notificação das empresas concessionárias e permissionárias responsáveis pela retirada e regularização de fios e cabos soltos, rompidos, em baixa altura, sem identificação ou abandonados em postes e vias públicas na Rua R. Betel  no  Bairro Jardim Canaã visando à prevenção de acidentes e à segurança da população.",
-    "id": "272195",
+    "ementa": "DISPÕE SOBRE O TOMBAMENTO DO IMÓVEL DOADO PELO MUNICÍPIO DE UBERLÂNDIA À LIGA UBERLANDENSE DE FUTEBOL — LUF E DÁ OUTRAS PROVIDÊNCIAS.",
+    "id": "273234",
     "item_kind": "materia",
-    "tipo": "Requerimento",
-    "title": "REQ 21367/2026",
+    "tipo": "Projeto de Lei Ordinária",
+    "title": "PL 1413/2026",
     "ultima_votacao_kind": "",
     "ultima_votacao_resultado": ""
    },
    {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272194",
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=273228",
     "ano": "2026",
-    "data_apresentacao": "16/10/2026",
+    "data_apresentacao": "27/10/2026",
     "emenda_impositiva": false,
-    "ementa": "Requer à Secretaria Municipal de Serviços Urbanos a realização de vistoria, identificação e notificação das empresas concessionárias e permissionárias responsáveis pela retirada e regularização de fios e cabos soltos, rompidos, em baixa altura, sem identificação ou abandonados em postes e vias públicas na Rua do  Jornalista  no   Bairro Planalto  visando à prevenção de acidentes e à segurança da população.",
-    "id": "272194",
+    "ementa": "Solicita à CEMIG a realização de poda preventiva e técnica de árvore em conflito com a rede elétrica, localizada na Avenida Professora Juvenília dos Santos, nº 187, Bairro Santa Mônica, Uberlândia/MG, CEP 38408-216, visando garantir a segurança da população e prevenir acidentes e interrupções no fornecimento de energia elétrica.",
+    "id": "273228",
     "item_kind": "materia",
     "tipo": "Requerimento",
-    "title": "REQ 21366/2026",
+    "title": "REQ 21382/2026",
     "ultima_votacao_kind": "",
     "ultima_votacao_resultado": ""
    },
    {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=271994",
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=273227",
     "ano": "2026",
-    "data_apresentacao": "15/10/2026",
+    "data_apresentacao": "27/10/2026",
     "emenda_impositiva": false,
-    "ementa": "Solicitando à Secretaria Municipal de Trânsito e Transportes a realização de estudo técnico para revisão da sinalização de trânsito e adequação das condições de parada de veículos em frente aos estabelecimentos comerciais localizados na Avenida José Andraus Gassani,",
-    "id": "271994",
+    "ementa": "a realização de vistoria, identificação e notificação das empresas concessionárias e permissionárias responsáveis pela retirada e regularização de fios e cabos soltos, rompidos, em baixa altura, sem identificação ou abandonados em postes e vias públicas na Av Jaime Ribeiro da luz nº  2286 no  Bairro Segismundo Pereira à prevenção de acidentes e à segurança da população.",
+    "id": "273227",
     "item_kind": "materia",
     "tipo": "Requerimento",
-    "title": "REQ 21362/2026",
-    "ultima_votacao_kind": "votacao",
-    "ultima_votacao_resultado": "Aprovado"
+    "title": "REQ 21381/2026",
+    "ultima_votacao_kind": "",
+    "ultima_votacao_resultado": ""
    },
    {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=271992",
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=273226",
     "ano": "2026",
-    "data_apresentacao": "15/10/2026",
+    "data_apresentacao": "27/10/2026",
     "emenda_impositiva": false,
-    "ementa": "Solicitando à Secretaria Municipal de Gestão Ambiental e Sustentabilidade a realização de árvores e galhos - poda / corte / destocamento / recolhimento na Rua Transição, no bairro Laranjeiras, CEP 38410-528.",
-    "id": "271992",
+    "ementa": "a realização de vistoria, identificação e notificação das empresas concessionárias e permissionárias responsáveis pela retirada e regularização de fios e cabos soltos, rompidos, em baixa altura, sem identificação ou abandonados em postes e vias públicas na Rua  Lídia, 448  no  Bairro Jardim Canaã visando à prevenção de acidentes e à segurança da população.",
+    "id": "273226",
     "item_kind": "materia",
-    "tipo": "Indicação",
-    "title": "IND 39848/2026",
-    "ultima_votacao_kind": "votacao",
-    "ultima_votacao_resultado": "Aprovado"
+    "tipo": "Requerimento",
+    "title": "REQ 21380/2026",
+    "ultima_votacao_kind": "",
+    "ultima_votacao_resultado": ""
    },
    {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=271940",
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=273133",
     "ano": "2026",
-    "data_apresentacao": "14/10/2026",
+    "data_apresentacao": "27/10/2026",
     "emenda_impositiva": false,
-    "ementa": "Solicitando à SECRETARIA MUNICIPAL DE DESENVOLVIMENTO SOCIAL a realização de programas sociais na Rua Natal, 1587, no bairro Bom Jesus, CEP 38400-640.",
-    "id": "271940",
+    "ementa": "Solicitando à Secretaria Municipal de Trânsito e Transportes a realização de sinalização - implantação / reforma de faixa de pedestre na Rua Duque de Caxias, 1390, no bairro Vigilato Pereira, CEP 38408-382.",
+    "id": "273133",
     "item_kind": "materia",
     "tipo": "Indicação",
-    "title": "IND 39803/2026",
-    "ultima_votacao_kind": "votacao",
-    "ultima_votacao_resultado": "Aprovado"
+    "title": "IND 40946/2026",
+    "ultima_votacao_kind": "",
+    "ultima_votacao_resultado": ""
    },
    {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=271877",
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=273131",
     "ano": "2026",
-    "data_apresentacao": "14/10/2026",
+    "data_apresentacao": "27/10/2026",
     "emenda_impositiva": false,
-    "ementa": "Solicitando à Secretaria Municipal de Infraestrutura a realização de tapa buraco na Rua Célio Pontes, 273, no bairro São Jorge, CEP 38410-050.",
-    "id": "271877",
+    "ementa": "Solicitando à Secretaria Municipal de Trânsito e Transportes a realização de travessia elevada / redutor de velocidade - instalação / manutenção na Rua Duque de Caxias, 1390, no bairro Vigilato Pereira, CEP 38408-382.",
+    "id": "273131",
     "item_kind": "materia",
     "tipo": "Indicação",
-    "title": "IND 39751/2026",
-    "ultima_votacao_kind": "votacao",
-    "ultima_votacao_resultado": "Aprovado"
+    "title": "IND 40944/2026",
+    "ultima_votacao_kind": "",
+    "ultima_votacao_resultado": ""
    },
    {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=271813",
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=273124",
     "ano": "2026",
-    "data_apresentacao": "14/10/2026",
+    "data_apresentacao": "27/10/2026",
     "emenda_impositiva": false,
-    "ementa": "Solicitando à SECRETARIA MUNICIPAL DE SERVIÇOS URBANOS a realização de canteiro central - limpeza / capina / roçagem na Avenida Doutor Jaime Ribeiro da Luz, por toda a extensão , no bairro Santa Mônica, CEP 38408-188.",
-    "id": "271813",
+    "ementa": "Solicitando à Secretaria Municipal de Desenvolvimento Social a realização de concessão de cesta social p / famíalias em vulnerabilidade na Rua Pico da Bandeira, no bairro São Jorge, CEP 38410-330.",
+    "id": "273124",
     "item_kind": "materia",
     "tipo": "Indicação",
-    "title": "IND 39687/2026",
-    "ultima_votacao_kind": "votacao",
-    "ultima_votacao_resultado": "Aprovado"
+    "title": "IND 40937/2026",
+    "ultima_votacao_kind": "",
+    "ultima_votacao_resultado": ""
    },
    {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=271812",
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=273122",
     "ano": "2026",
-    "data_apresentacao": "14/10/2026",
+    "data_apresentacao": "27/10/2026",
     "emenda_impositiva": false,
-    "ementa": "Solicitando à SECRETARIA MUNICIPAL DE AGRONEGÓCIO a realização de patrolamento de estradas vicinais - zona rural no bairro Miraporanga, Mgc 497 kilometro 13 entrada a direita da fazenda Babilônia chácara  Caiaponia, CEP 38439-700., CEP 38439-700.",
-    "id": "271812",
+    "ementa": "Solicitando à Secretaria Municipal de Desenvolvimento Social a realização de concessão de cesta social p / famíalias em vulnerabilidade na Rua Guaiaca, no bairro Morumbi, CEP 38407-279.",
+    "id": "273122",
     "item_kind": "materia",
     "tipo": "Indicação",
-    "title": "IND 39686/2026",
-    "ultima_votacao_kind": "votacao",
-    "ultima_votacao_resultado": "Aprovado"
+    "title": "IND 40935/2026",
+    "ultima_votacao_kind": "",
+    "ultima_votacao_resultado": ""
    },
    {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=271810",
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272990",
     "ano": "2026",
-    "data_apresentacao": "13/10/2026",
+    "data_apresentacao": "27/10/2026",
     "emenda_impositiva": false,
-    "ementa": "Solicitando à SECRETARIA MUNICIPAL DE TRÂNSITO E TRANSPORTES a realização de sinalização/ implantação/ manutenção de sinalização estatigráfica na Avenida dos Tito, no bairro Laranjeiras, CEP 38410-524.",
-    "id": "271810",
+    "ementa": "Solicitando à Secretaria Municipal de Gestão Ambiental e Sustentabilidade a realização de praça - limpeza / capina / roçagem na Rua Oswaldo Silvério da Silva, Praça Ernesto Ceccon, no bairro São Jorge, CEP 38410-202.",
+    "id": "272990",
     "item_kind": "materia",
     "tipo": "Indicação",
-    "title": "IND 39685/2026",
-    "ultima_votacao_kind": "votacao",
-    "ultima_votacao_resultado": "Aprovado"
+    "title": "IND 40805/2026",
+    "ultima_votacao_kind": "",
+    "ultima_votacao_resultado": ""
    },
    {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=271809",
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272956",
     "ano": "2026",
-    "data_apresentacao": "13/10/2026",
+    "data_apresentacao": "27/10/2026",
     "emenda_impositiva": false,
-    "ementa": "Solicitando à SECRETARIA MUNICIPAL DE INFRAESTRUTURA a realização de tapa buraco na Rua Geralda Francisca Borges, 301 e por toda a extensão da rua. , no bairro São Jorge, CEP 38410-178.",
-    "id": "271809",
+    "ementa": "Solicitando à Secretaria Municipal de Gestão Ambiental e Sustentabilidade a realização de praça - cobertura / construção / manutenção / reforma de quadra na Rua Oswaldo Silvério da Silva, Praça Ernesto Ceccon, no bairro São Jorge, CEP 38410-202.",
+    "id": "272956",
     "item_kind": "materia",
     "tipo": "Indicação",
-    "title": "IND 39684/2026",
-    "ultima_votacao_kind": "votacao",
-    "ultima_votacao_resultado": "Aprovado"
+    "title": "IND 40771/2026",
+    "ultima_votacao_kind": "",
+    "ultima_votacao_resultado": ""
    }
   ],
   "ordem_dat_apresentacao": "desc",
   "page": 1,
   "page_size": 10,
-  "total": 13191
+  "total": 13213
  },
  "relatorias": {
   "facets": {

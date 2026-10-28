@@ -653,7 +653,7 @@
   "facets": {
    "ano": [
     {
-     "count": 1353,
+     "count": 1426,
      "label": "2026",
      "value": "2026"
     },
@@ -675,7 +675,7 @@
      "value": "EMEI"
     },
     {
-     "count": 1968,
+     "count": 2041,
      "label": "Indicação",
      "value": "IND"
     },
@@ -758,7 +758,7 @@
     },
     {
      "ano": "2026",
-     "count": 1309,
+     "count": 1382,
      "tipo": "IND"
     },
     {
@@ -801,7 +801,7 @@
   "facets_todos": {
    "ano": [
     {
-     "count": 1353,
+     "count": 1426,
      "label": "2026",
      "value": "2026"
     },
@@ -823,7 +823,7 @@
      "value": "EMEI"
     },
     {
-     "count": 1968,
+     "count": 2041,
      "label": "Indicação",
      "value": "IND"
     },
@@ -871,132 +871,132 @@
   },
   "items": [
    {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272202",
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=273301",
     "ano": "2026",
-    "data_apresentacao": "16/10/2026",
+    "data_apresentacao": "27/10/2026",
     "emenda_impositiva": false,
-    "ementa": "Solicitando à Secretaria Municipal de Infraestrutura a realização de tapa buraco na Rua do Motorista, 1259, no bairro Jardim das Palmeiras, CEP 38412-286.",
-    "id": "272202",
+    "ementa": "Solicitando ao DMAE a realização de lixo - instalação / troca de caçamba na Alameda José Salvador Silva, 504, no bairro Jardim Holanda, CEP 38412-865.",
+    "id": "273301",
     "item_kind": "materia",
     "tipo": "Indicação",
-    "title": "IND 40027/2026",
+    "title": "IND 41082/2026",
     "ultima_votacao_kind": "",
     "ultima_votacao_resultado": ""
    },
    {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272201",
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=273163",
     "ano": "2026",
-    "data_apresentacao": "16/10/2026",
+    "data_apresentacao": "27/10/2026",
     "emenda_impositiva": false,
-    "ementa": "Solicitando à Secretaria Municipal de Gestão Ambiental e Sustentabilidade a realização de árvores e galhos - poda / corte / destocamento / recolhimento na Rua do Estivador, toda extensão de canteiro central, no bairro Jardim das Palmeiras, CEP 38412-344.",
-    "id": "272201",
+    "ementa": "Solicitando à Secretaria Municipal de Serviços Urbanos a realização de capina / limpeza - lotes / canteiro central na Rua do Estivador, toda extensão de canteiro central, no bairro Jardim das Palmeiras, CEP 38412-344.",
+    "id": "273163",
     "item_kind": "materia",
     "tipo": "Indicação",
-    "title": "IND 40026/2026",
+    "title": "IND 40976/2026",
     "ultima_votacao_kind": "",
     "ultima_votacao_resultado": ""
    },
    {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272199",
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=273162",
     "ano": "2026",
-    "data_apresentacao": "16/10/2026",
+    "data_apresentacao": "27/10/2026",
     "emenda_impositiva": false,
-    "ementa": "Solicitando à Secretaria Municipal de Trânsito e Transportes a realização de travessia elevada / redutor de velocidade - instalação / manutenção na Rua dos Pica Paus, 915, no bairro Nova Uberlândia, CEP 38412-641.",
-    "id": "272199",
+    "ementa": "Solicitando ao DMAE a realização de efetuar o nivelamento do asfalto ao redor de tampas de bueiro na Avenida Paulo Sergio Cintra Mirzeian, esquina com a rua Maria Abadia Matos, no bairro Jardim Canaã, CEP 38412-764.",
+    "id": "273162",
     "item_kind": "materia",
     "tipo": "Indicação",
-    "title": "IND 40024/2026",
+    "title": "IND 40975/2026",
     "ultima_votacao_kind": "",
     "ultima_votacao_resultado": ""
    },
    {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272191",
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=273161",
     "ano": "2026",
-    "data_apresentacao": "16/10/2026",
+    "data_apresentacao": "27/10/2026",
     "emenda_impositiva": false,
-    "ementa": "Solicitando à Secretaria Municipal de Serviços Urbanos a realização de calçada / passeio - limpeza / capina / roçagem na Rua da Enfermeira, 1055 a 1185, no bairro Jardim das Palmeiras, CEP 38412-298.",
-    "id": "272191",
+    "ementa": "Solicitando à Secretaria Municipal de Infraestrutura a realização de tapa buraco na Rua dos Ceamitas, 427, no bairro Panorama, CEP 38412-602.",
+    "id": "273161",
     "item_kind": "materia",
     "tipo": "Indicação",
-    "title": "IND 40021/2026",
+    "title": "IND 40974/2026",
     "ultima_votacao_kind": "",
     "ultima_votacao_resultado": ""
    },
    {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272187",
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=273160",
     "ano": "2026",
-    "data_apresentacao": "16/10/2026",
+    "data_apresentacao": "27/10/2026",
     "emenda_impositiva": false,
-    "ementa": "Solicitando à Secretaria Municipal de Infraestrutura a realização de tapa buraco na Rua Eufrates, 376, no bairro Jardim Canaã, CEP 38412-428.",
-    "id": "272187",
+    "ementa": "Solicitando ao DMAE a realização de tapa buraco após obra dmae na Rua do Garçon, 747, no bairro Jardim das Palmeiras, CEP 38412-294.",
+    "id": "273160",
     "item_kind": "materia",
     "tipo": "Indicação",
-    "title": "IND 40017/2026",
+    "title": "IND 40973/2026",
     "ultima_votacao_kind": "",
     "ultima_votacao_resultado": ""
    },
    {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272184",
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=273159",
     "ano": "2026",
-    "data_apresentacao": "16/10/2026",
+    "data_apresentacao": "27/10/2026",
     "emenda_impositiva": false,
-    "ementa": "Solicitando à Secretaria Municipal de Infraestrutura a realização de canaleta - construção / manutenção / reforma na Rua Rio Madeira, 401, esquina com a rua Rio Verde, no bairro Mansour, CEP 38414-478.",
-    "id": "272184",
+    "ementa": "Solicitando à Secretaria Municipal de Infraestrutura a realização de tapa buraco na Rua das Rosas, esquina com a rua Olimpio da Cunha, no bairro Panorama, CEP 38413-605.",
+    "id": "273159",
     "item_kind": "materia",
     "tipo": "Indicação",
-    "title": "IND 40014/2026",
+    "title": "IND 40972/2026",
     "ultima_votacao_kind": "",
     "ultima_votacao_resultado": ""
    },
    {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272095",
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=273158",
     "ano": "2026",
-    "data_apresentacao": "16/10/2026",
+    "data_apresentacao": "27/10/2026",
     "emenda_impositiva": false,
-    "ementa": "Solicitando à Secretaria Municipal de Infraestrutura a realização de tapa buraco na Avenida Jerusalém, 1410, no bairro Jardim Canaã, CEP 38412-392.",
-    "id": "272095",
+    "ementa": "Solicitando à Secretaria Municipal de Serviços Urbanos a realização de capina / limpeza - lotes / canteiro central na Rua das Rosas, esquina com a com a rua Secundino Olimpio da Cunha, no bairro Panorama, CEP 38413-605.",
+    "id": "273158",
     "item_kind": "materia",
     "tipo": "Indicação",
-    "title": "IND 39935/2026",
+    "title": "IND 40971/2026",
     "ultima_votacao_kind": "",
     "ultima_votacao_resultado": ""
    },
    {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272094",
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=273157",
     "ano": "2026",
-    "data_apresentacao": "16/10/2026",
+    "data_apresentacao": "27/10/2026",
     "emenda_impositiva": false,
-    "ementa": "Solicitando à Secretaria Municipal de Serviços Urbanos a realização de capina / limpeza - lotes / canteiro central na Avenida Jerusalém, toda extensão de canteiro central, no bairro Jardim Canaã, CEP 38412-392.",
-    "id": "272094",
+    "ementa": "Solicitando à Secretaria Municipal de Infraestrutura a realização de tapa buraco na Rua do Secundino Olympio da Cunha, toda extensão da rua, no bairro Panorama, CEP 38413-616.",
+    "id": "273157",
     "item_kind": "materia",
     "tipo": "Indicação",
-    "title": "IND 39934/2026",
+    "title": "IND 40970/2026",
     "ultima_votacao_kind": "",
     "ultima_votacao_resultado": ""
    },
    {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272093",
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=273156",
     "ano": "2026",
-    "data_apresentacao": "16/10/2026",
+    "data_apresentacao": "27/10/2026",
     "emenda_impositiva": false,
-    "ementa": "Solicitando à Secretaria Municipal de Trânsito e Transportes a realização de sinalização / implantação / manutenção de sinalização estatigráfica na Rua Trípoli, esquina com a rua Mileto, no bairro Jardim Canaã, CEP 38412-458.",
-    "id": "272093",
+    "ementa": "Solicitando à Secretaria Municipal de Serviços Urbanos a realização de capina / limpeza - lotes / canteiro central na Rua do Motorista, toda extensão de canteiro central, no bairro Jardim das Palmeiras, CEP 38412-286.",
+    "id": "273156",
     "item_kind": "materia",
     "tipo": "Indicação",
-    "title": "IND 39933/2026",
+    "title": "IND 40969/2026",
     "ultima_votacao_kind": "",
     "ultima_votacao_resultado": ""
    },
    {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272092",
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=273155",
     "ano": "2026",
-    "data_apresentacao": "16/10/2026",
+    "data_apresentacao": "27/10/2026",
     "emenda_impositiva": false,
-    "ementa": "Solicitando à Secretaria Municipal de Trânsito e Transportes a realização de sinalização / implantação / manutenção de sinalização estatigráfica na Rua Emaús, esquina com av Jerusalém, no bairro Jardim Canaã, CEP 38412-406.",
-    "id": "272092",
+    "ementa": "Solicitando à Secretaria Municipal de Infraestrutura a realização de tapa buraco na Rua do Motorista, 1049, no bairro Jardim das Palmeiras, CEP 38412-286.",
+    "id": "273155",
     "item_kind": "materia",
     "tipo": "Indicação",
-    "title": "IND 39932/2026",
+    "title": "IND 40968/2026",
     "ultima_votacao_kind": "",
     "ultima_votacao_resultado": ""
    }
@@ -1004,7 +1004,7 @@
   "ordem_dat_apresentacao": "desc",
   "page": 1,
   "page_size": 10,
-  "total": 3144
+  "total": 3217
  },
  "relatorias": {
   "facets": {

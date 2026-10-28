@@ -1208,7 +1208,7 @@
   "facets": {
    "ano": [
     {
-     "count": 391,
+     "count": 409,
      "label": "2026",
      "value": "2026"
     },
@@ -1250,7 +1250,7 @@
      "value": "EMEI"
     },
     {
-     "count": 305,
+     "count": 315,
      "label": "Indicação",
      "value": "IND"
     },
@@ -1260,7 +1260,7 @@
      "value": "MOC"
     },
     {
-     "count": 447,
+     "count": 448,
      "label": "Pedido de Informação",
      "value": "PINFO"
     },
@@ -1275,7 +1275,7 @@
      "value": "PLC"
     },
     {
-     "count": 108,
+     "count": 109,
      "label": "Projeto de Lei Ordinária",
      "value": "PL"
     },
@@ -1290,7 +1290,7 @@
      "value": "PELO"
     },
     {
-     "count": 1084,
+     "count": 1090,
      "label": "Requerimento",
      "value": "REQ"
     }
@@ -1518,7 +1518,7 @@
     },
     {
      "ano": "2026",
-     "count": 168,
+     "count": 178,
      "tipo": "IND"
     },
     {
@@ -1538,12 +1538,12 @@
     },
     {
      "ano": "2026",
-     "count": 56,
+     "count": 57,
      "tipo": "PINFO"
     },
     {
      "ano": "2026",
-     "count": 11,
+     "count": 12,
      "tipo": "PL"
     },
     {
@@ -1558,7 +1558,7 @@
     },
     {
      "ano": "2026",
-     "count": 98,
+     "count": 104,
      "tipo": "REQ"
     }
    ]
@@ -1566,7 +1566,7 @@
   "facets_todos": {
    "ano": [
     {
-     "count": 391,
+     "count": 409,
      "label": "2026",
      "value": "2026"
     },
@@ -1608,7 +1608,7 @@
      "value": "EMEI"
     },
     {
-     "count": 305,
+     "count": 315,
      "label": "Indicação",
      "value": "IND"
     },
@@ -1618,7 +1618,7 @@
      "value": "MOC"
     },
     {
-     "count": 447,
+     "count": 448,
      "label": "Pedido de Informação",
      "value": "PINFO"
     },
@@ -1633,7 +1633,7 @@
      "value": "PLC"
     },
     {
-     "count": 108,
+     "count": 109,
      "label": "Projeto de Lei Ordinária",
      "value": "PL"
     },
@@ -1648,7 +1648,7 @@
      "value": "PELO"
     },
     {
-     "count": 1084,
+     "count": 1090,
      "label": "Requerimento",
      "value": "REQ"
     }
@@ -1661,140 +1661,140 @@
   },
   "items": [
    {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=271939",
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=273238",
     "ano": "2026",
-    "data_apresentacao": "14/10/2026",
+    "data_apresentacao": "27/10/2026",
     "emenda_impositiva": false,
-    "ementa": "Solicita a liberação para uso do Plenário no dia 15 de outubro de 2026, a partir das 19:00, para entrega de homenagens à pessoas físicas e pessoas jurídicas do Dia do Professor, sendo todas elas pessoas da área da educação, com atuação de destaque em nosso município.",
-    "id": "271939",
-    "item_kind": "materia",
-    "tipo": "Requerimento",
-    "title": "REQ 21361/2026",
-    "ultima_votacao_kind": "votacao",
-    "ultima_votacao_resultado": "Aprovado"
-   },
-   {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=271938",
-    "ano": "2026",
-    "data_apresentacao": "14/10/2026",
-    "emenda_impositiva": false,
-    "ementa": "para que sejam prestados esclarecimentos acerca da elegibilidade dos estudantes do Conservatório Estadual de Música Cora Pavan Capparelli ao programa Tarifa Zero Estudante.",
-    "id": "271938",
+    "ementa": "Solicitação de informações sobre a suspensão das aulas de hidroginástica e as providências para a regularização do funcionamento da piscina do CEAI-1.",
+    "id": "273238",
     "item_kind": "materia",
     "tipo": "Pedido de Informação",
-    "title": "PINFO 1257/2026",
-    "ultima_votacao_kind": "votacao",
-    "ultima_votacao_resultado": "Aprovado"
+    "title": "PINFO 1270/2026",
+    "ultima_votacao_kind": "",
+    "ultima_votacao_resultado": ""
    },
    {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=271913",
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=273225",
     "ano": "2026",
-    "data_apresentacao": "14/10/2026",
+    "data_apresentacao": "27/10/2026",
     "emenda_impositiva": false,
-    "ementa": "Solicitando à Secretaria Municipal de Serviços Urbanos a realização de capina / limpeza - lotes / canteiro central na Rua das Magnólias, 1216, no bairro Cidade Jardim, CEP 38412-128.",
-    "id": "271913",
+    "ementa": "LIMPEZA, REVITALIZAÇÃO E REFORÇO DA SEGURANÇA NA REGIÃO DOS VIADUTOS DA AVENIDA RONDON PACHECO, na área sob o Elevado Aldorando Dias de Sousa.",
+    "id": "273225",
+    "item_kind": "materia",
+    "tipo": "Requerimento",
+    "title": "REQ 21379/2026",
+    "ultima_votacao_kind": "",
+    "ultima_votacao_resultado": ""
+   },
+   {
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=273224",
+    "ano": "2026",
+    "data_apresentacao": "27/10/2026",
+    "emenda_impositiva": false,
+    "ementa": "REVITALIZAÇÃO E LIMPEZA DE MARCO MONUMENTAL no viaduto da Avenida Rondon Pacheco, nas proximidades do Center Shopping",
+    "id": "273224",
+    "item_kind": "materia",
+    "tipo": "Requerimento",
+    "title": "REQ 21378/2026",
+    "ultima_votacao_kind": "",
+    "ultima_votacao_resultado": ""
+   },
+   {
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=273223",
+    "ano": "2026",
+    "data_apresentacao": "27/10/2026",
+    "emenda_impositiva": false,
+    "ementa": "solicitamos a manutenção dos ônibus de prefixos 8460, que atende à linha 328, e 8453, que atende à linha 335, integrantes do sistema de transporte público municipal, em razão das falhas recorrentes apresentadas pelos veículos, especialmente nos elevadores de acessibilidade.\n\nA situação compromete a segurança, a qualidade e a regularidade do serviço prestado à população, afetando diretamente os usuários com deficiência (PCDs) e as pessoas com mobilidade reduzida que dependem desses equipamentos para utilizar o transporte público com autonomia e dignidade.\n\nConsiderando a presença de diversos usuários PCDs na região atendida pelas referidas linhas, é fundamental garantir que os veículos estejam em plenas condições de funcionamento, com os dispositivos de acessibilidade devidamente operacionais.\n\nDessa forma, solicita-se ao setor competente que realize uma vistoria técnica e providencie a manutenção necessária nos ônibus mencionados, assegurando a eficiência do serviço, a acessibilidade e o direito de ir e vir de todos os cidadãos.",
+    "id": "273223",
+    "item_kind": "materia",
+    "tipo": "Requerimento",
+    "title": "REQ 21377/2026",
+    "ultima_votacao_kind": "",
+    "ultima_votacao_resultado": ""
+   },
+   {
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=273220",
+    "ano": "2026",
+    "data_apresentacao": "27/10/2026",
+    "emenda_impositiva": false,
+    "ementa": "Solicito a realização de obras de reconstrução e recuperação das calçadas de pedra macaquinho em toda a extensão da Praça Adolfo Fonseca, em Uberlândia/MG.\n\nO calçamento encontra-se em condições precárias, com pedras soltas, grandes buracos e irregularidades ao longo do passeio, comprometendo a segurança e a acessibilidade dos pedestres. A situação aumenta o risco de quedas e acidentes, especialmente para pessoas idosas, pessoas com deficiência e pessoas com mobilidade reduzida.\n\nDiante do exposto, solicito uma vistoria técnica e a execução das obras necessárias para a reconstrução e regularização de todo o calçamento, com a correta fixação das pedras e a eliminação dos buracos e desníveis, garantindo condições adequadas de circulação, segurança e acessibilidade à população.",
+    "id": "273220",
+    "item_kind": "materia",
+    "tipo": "Requerimento",
+    "title": "REQ 21374/2026",
+    "ultima_votacao_kind": "",
+    "ultima_votacao_resultado": ""
+   },
+   {
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=273219",
+    "ano": "2026",
+    "data_apresentacao": "27/10/2026",
+    "emenda_impositiva": false,
+    "ementa": "REGULARIZAÇÃO E SINALIZAÇÃO DE CAÇAMBAS DE ENTULHO",
+    "id": "273219",
+    "item_kind": "materia",
+    "tipo": "Requerimento",
+    "title": "REQ 21373/2026",
+    "ultima_votacao_kind": "",
+    "ultima_votacao_resultado": ""
+   },
+   {
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=273218",
+    "ano": "2026",
+    "data_apresentacao": "27/10/2026",
+    "emenda_impositiva": false,
+    "ementa": "INSTITUI A POLÍTICA MUNICIPAL DE PROMOÇÃO DA LIBERDADE RELIGIOSA E DE PREVENÇÃO E ENFRENTAMENTO À INTOLERÂNCIA RELIGIOSA NO MUNICÍPIO DE UBERLÂNDIA E DÁ OUTRAS PROVIDÊNCIAS.",
+    "id": "273218",
+    "item_kind": "materia",
+    "tipo": "Projeto de Lei Ordinária",
+    "title": "PL 1412/2026",
+    "ultima_votacao_kind": "",
+    "ultima_votacao_resultado": ""
+   },
+   {
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=273212",
+    "ano": "2026",
+    "data_apresentacao": "27/10/2026",
+    "emenda_impositiva": false,
+    "ementa": "Solicita providências quanto à segurança dos usuários da linha de transporte coletivo T131 – Terminal Central / Terminal Santa Luzia.",
+    "id": "273212",
+    "item_kind": "materia",
+    "tipo": "Requerimento",
+    "title": "REQ 21372/2026",
+    "ultima_votacao_kind": "",
+    "ultima_votacao_resultado": ""
+   },
+   {
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=273108",
+    "ano": "2026",
+    "data_apresentacao": "27/10/2026",
+    "emenda_impositiva": false,
+    "ementa": "Solicitando à Secretaria Municipal de Desenvolvimento Social a realização de ceai - implantação / ampliação / manutenção / reforma na Avenida Rondon Pacheco, no bairro Nossa Senhora Aparecida, CEP 38400-766.",
+    "id": "273108",
     "item_kind": "materia",
     "tipo": "Indicação",
-    "title": "IND 39787/2026",
-    "ultima_votacao_kind": "votacao",
-    "ultima_votacao_resultado": "Aprovado"
+    "title": "IND 40923/2026",
+    "ultima_votacao_kind": "",
+    "ultima_votacao_resultado": ""
    },
    {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=271764",
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272515",
     "ano": "2026",
-    "data_apresentacao": "13/10/2026",
+    "data_apresentacao": "27/10/2026",
     "emenda_impositiva": false,
-    "ementa": "Indica ao Poder Executivo Municipal a realização de estudos de viabilidade técnica e operacional para a criação e emissão da Carteira de Identificação Municipal da Pessoa com Fibromialgia (CIPFIBRO), nos formatos digital e impresso, no Município de Uberlândia/MG.",
-    "id": "271764",
+    "ementa": "Solicitando à Secretaria Municipal de Gestão Ambiental e Sustentabilidade a realização de praça - construção / revitalização / manutenção na Praça Tubal Vilela, no bairro Centro, CEP 38400-186.",
+    "id": "272515",
     "item_kind": "materia",
-    "tipo": "Requerimento",
-    "title": "REQ 21357/2026",
-    "ultima_votacao_kind": "votacao",
-    "ultima_votacao_resultado": "Aprovado"
-   },
-   {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=270399",
-    "ano": "2026",
-    "data_apresentacao": "23/09/2026",
-    "emenda_impositiva": false,
-    "ementa": "Solicitação de informações e acesso à documentação referente à determinação de supressão de árvores no Condomínio Terra Nova I.",
-    "id": "270399",
-    "item_kind": "materia",
-    "tipo": "Pedido de Informação",
-    "title": "PINFO 1235/2026",
-    "ultima_votacao_kind": "votacao",
-    "ultima_votacao_resultado": "Aprovado"
-   },
-   {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=270319",
-    "ano": "2026",
-    "data_apresentacao": "22/09/2026",
-    "emenda_impositiva": false,
-    "ementa": "informações sobre procedimentos adotados pela rede municipal de saúde para dispensação de medicamentos mediante receitas emitidas por médicos particulares",
-    "id": "270319",
-    "item_kind": "materia",
-    "tipo": "Pedido de Informação",
-    "title": "PINFO 1233/2026",
-    "ultima_votacao_kind": "votacao",
-    "ultima_votacao_resultado": "Aprovado"
-   },
-   {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=270087",
-    "ano": "2026",
-    "data_apresentacao": "17/09/2026",
-    "emenda_impositiva": false,
-    "ementa": "Melhorias no transporte público, fiscalização e sinalização.",
-    "id": "270087",
-    "item_kind": "materia",
-    "tipo": "Requerimento",
-    "title": "REQ 21321/2026",
-    "ultima_votacao_kind": "votacao",
-    "ultima_votacao_resultado": "Aprovado"
-   },
-   {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=270084",
-    "ano": "2026",
-    "data_apresentacao": "17/09/2026",
-    "emenda_impositiva": false,
-    "ementa": "Solicito informações e esclarecimentos acerca do empreendimento comercial em construção pela incorporadora Allinc, localizado na Avenida dos Pica-Paus, especialmente quanto aos aspectos ambientais e urbanísticos relacionados à implantação do empreendimento.",
-    "id": "270084",
-    "item_kind": "materia",
-    "tipo": "Pedido de Informação",
-    "title": "PINFO 1228/2026",
-    "ultima_votacao_kind": "votacao",
-    "ultima_votacao_resultado": "Aprovado"
-   },
-   {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=270077",
-    "ano": "2026",
-    "data_apresentacao": "17/09/2026",
-    "emenda_impositiva": false,
-    "ementa": "Solicitação de concessão de Passe Livre/Gratuidade no Transporte Público para Pessoa com Deficiência – PCD",
-    "id": "270077",
-    "item_kind": "materia",
-    "tipo": "Requerimento",
-    "title": "REQ 21320/2026",
-    "ultima_votacao_kind": "votacao",
-    "ultima_votacao_resultado": "Aprovado"
-   },
-   {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=270074",
-    "ano": "2026",
-    "data_apresentacao": "17/09/2026",
-    "emenda_impositiva": false,
-    "ementa": "solicitação para que sejam realizados estudos técnicos, de engenharia, mobilidade urbana, demanda, viabilidade econômica e financeira visando à implantação de um sistema de transporte público de passageiros sobre trilhos no Município de Uberlândia.",
-    "id": "270074",
-    "item_kind": "materia",
-    "tipo": "Requerimento",
-    "title": "REQ 21319/2026",
-    "ultima_votacao_kind": "votacao",
-    "ultima_votacao_resultado": "Aprovado"
+    "tipo": "Indicação",
+    "title": "IND 40330/2026",
+    "ultima_votacao_kind": "",
+    "ultima_votacao_resultado": ""
    }
   ],
   "ordem_dat_apresentacao": "desc",
   "page": 1,
   "page_size": 10,
-  "total": 2222
+  "total": 2240
  },
  "relatorias": {
   "facets": {

@@ -1135,7 +1135,7 @@
   "facets": {
    "ano": [
     {
-     "count": 465,
+     "count": 478,
      "label": "2026",
      "value": "2026"
     },
@@ -1192,7 +1192,7 @@
      "value": "EMEI"
     },
     {
-     "count": 614,
+     "count": 627,
      "label": "Indicação",
      "value": "IND"
     },
@@ -1550,7 +1550,7 @@
     },
     {
      "ano": "2026",
-     "count": 402,
+     "count": 415,
      "tipo": "IND"
     },
     {
@@ -1583,7 +1583,7 @@
   "facets_todos": {
    "ano": [
     {
-     "count": 465,
+     "count": 478,
      "label": "2026",
      "value": "2026"
     },
@@ -1640,7 +1640,7 @@
      "value": "EMEI"
     },
     {
-     "count": 614,
+     "count": 627,
      "label": "Indicação",
      "value": "IND"
     },
@@ -1698,140 +1698,140 @@
   },
   "items": [
    {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=271939",
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=273136",
     "ano": "2026",
-    "data_apresentacao": "14/10/2026",
+    "data_apresentacao": "27/10/2026",
     "emenda_impositiva": false,
-    "ementa": "Solicita a liberação para uso do Plenário no dia 15 de outubro de 2026, a partir das 19:00, para entrega de homenagens à pessoas físicas e pessoas jurídicas do Dia do Professor, sendo todas elas pessoas da área da educação, com atuação de destaque em nosso município.",
-    "id": "271939",
+    "ementa": "Solicitando à Secretaria Municipal de Serviços Urbanos a realização de construção de calçadas em áreas públicas ou particulares na Alameda José de Oliveira, 2180, no bairro Jardim Holanda, CEP 38414-880.",
+    "id": "273136",
     "item_kind": "materia",
-    "tipo": "Requerimento",
-    "title": "REQ 21361/2026",
-    "ultima_votacao_kind": "votacao",
-    "ultima_votacao_resultado": "Aprovado"
-   },
-   {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=271929",
-    "ano": "2026",
-    "data_apresentacao": "14/10/2026",
-    "emenda_impositiva": false,
-    "ementa": "DECLARA DE UTILIDADE PÚBLICA MUNICIPAL A ASSOCIAÇÃO CAMPEÕES DO FUTURO - ACAFU.",
-    "id": "271929",
-    "item_kind": "materia",
-    "tipo": "Projeto de Lei Ordinária",
-    "title": "PL 1405/2026",
+    "tipo": "Indicação",
+    "title": "IND 40949/2026",
     "ultima_votacao_kind": "",
     "ultima_votacao_resultado": ""
    },
    {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=271340",
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=273135",
     "ano": "2026",
-    "data_apresentacao": "07/10/2026",
+    "data_apresentacao": "27/10/2026",
     "emenda_impositiva": false,
-    "ementa": "Solicitamos a reserva do Plenário da Câmara Municipal de Uberlândia para a realização de entrega de homenagens, na seguinte data e horário:\n\n27 de outubro de 2026 (terça-feira), das 19h às 21h;",
-    "id": "271340",
-    "item_kind": "materia",
-    "tipo": "Requerimento",
-    "title": "REQ 21348/2026",
-    "ultima_votacao_kind": "votacao",
-    "ultima_votacao_resultado": "Aprovado"
-   },
-   {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=270578",
-    "ano": "2026",
-    "data_apresentacao": "28/09/2026",
-    "emenda_impositiva": false,
-    "ementa": "Solicitando à Secretaria Municipal de Trânsito e Transportes a realização de sinailzação - proibido estacionar na Avenida Raulino Cotta Pacheco, 893, no bairro Martins, CEP 38400-372.",
-    "id": "270578",
+    "ementa": "Solicitando à Secretaria Municipal de Serviços Urbanos a realização de iluminação pública - troca de lâmpada na Avenida Belo Horizonte, 1106 A, no bairro Osvaldo Rezende, CEP 38400-454.",
+    "id": "273135",
     "item_kind": "materia",
     "tipo": "Indicação",
-    "title": "IND 38557/2026",
-    "ultima_votacao_kind": "votacao",
-    "ultima_votacao_resultado": "Aprovado"
+    "title": "IND 40948/2026",
+    "ultima_votacao_kind": "",
+    "ultima_votacao_resultado": ""
    },
    {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=270517",
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=273134",
     "ano": "2026",
-    "data_apresentacao": "24/09/2026",
+    "data_apresentacao": "27/10/2026",
     "emenda_impositiva": false,
-    "ementa": "QUE FAÇA A LIMPEZA POR MEIO DE CAMINHÃO PIPA NO ENDEREÇO AVENIDA PAULO FIRMINO, 590, JARDIM DAS PALMEIRAS.\n\nO REQUERIMENTO SE FAZ NECESSÁRIO, POIS SEGUNDO RECLAMAÇÃO DOS MORADORES, A RUA ENCONTRA-SE SUJA, TOMADA POR TERRA, LAMA APÓS OBRA DA DMAE, E CARECE DOS SERVIÇOS DE LIMPEZA, HAJA VISTA QUE TODOS OS CIDADÃOS TÊM DIREITO A UM AMBIENTE LIMPO E SAUDÁVEL. MORADORES E COMERCIANTES FICARÃO SATISFEITOS AO SEREM ATENDIDOS, PRINCIPALMENTE PORQUE ESTÃO REVESTIDOS DA QUALIDADE DE CONTRIBUINTES E CONTAM COM A ATENÇÃO DO PODER PÚBLICO.",
-    "id": "270517",
-    "item_kind": "materia",
-    "tipo": "Requerimento",
-    "title": "REQ 21334/2026",
-    "ultima_votacao_kind": "votacao",
-    "ultima_votacao_resultado": "Aprovado"
-   },
-   {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=270513",
-    "ano": "2026",
-    "data_apresentacao": "24/09/2026",
-    "emenda_impositiva": false,
-    "ementa": "QUE FAÇA ESTUDO TÉCNICO DE VIABILIDADE PARA A DUPLICAÇÃO DA VIA NO ENDEREÇO ABAIXO DESCRITO: RODOVIA ESTADUAL MGC-497 KM16.",
-    "id": "270513",
-    "item_kind": "materia",
-    "tipo": "Requerimento",
-    "title": "REQ 21333/2026",
-    "ultima_votacao_kind": "votacao",
-    "ultima_votacao_resultado": "Aprovado"
-   },
-   {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=270487",
-    "ano": "2026",
-    "data_apresentacao": "24/09/2026",
-    "emenda_impositiva": false,
-    "ementa": "Solicitando à Secretaria Municipal de Trânsito e Transportes a realização de sinalização - placa de pare / estacionamento / proibido estacionar na Rua Ceará, Cruzamento Av. Comendador Alexandrino Garcia, no bairro Marta Helena, CEP 38405-240.",
-    "id": "270487",
+    "ementa": "Solicitando à Secretaria Municipal de Infraestrutura a realização de tapa buraco na Rua Lambari, 352, no bairro Osvaldo Rezende, CEP 38400-420.",
+    "id": "273134",
     "item_kind": "materia",
     "tipo": "Indicação",
-    "title": "IND 38472/2026",
-    "ultima_votacao_kind": "votacao",
-    "ultima_votacao_resultado": "Aprovado"
+    "title": "IND 40947/2026",
+    "ultima_votacao_kind": "",
+    "ultima_votacao_resultado": ""
    },
    {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=270485",
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=273132",
     "ano": "2026",
-    "data_apresentacao": "24/09/2026",
+    "data_apresentacao": "27/10/2026",
     "emenda_impositiva": false,
-    "ementa": "Solicitando à Secretaria Municipal de Trânsito e Transportes a realização de sinalização - instalação / manutenção de semáforo na Rua Maria Fernandes Morais, 70, no bairro Conjunto Alvorada, CEP 38407-090.",
-    "id": "270485",
+    "ementa": "Solicitando à Secretaria Municipal de Gestão Ambiental e Sustentabilidade a realização de árvores e galhos - poda / corte / destocamento / recolhimento na Praça Edgar de Paula, fundo com a Rua José Vargas de Jesus, 09, no bairro Luizote de Freitas, CEP 38414-288.",
+    "id": "273132",
     "item_kind": "materia",
     "tipo": "Indicação",
-    "title": "IND 38470/2026",
-    "ultima_votacao_kind": "votacao",
-    "ultima_votacao_resultado": "Aprovado"
+    "title": "IND 40945/2026",
+    "ultima_votacao_kind": "",
+    "ultima_votacao_resultado": ""
    },
    {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=270481",
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=273130",
     "ano": "2026",
-    "data_apresentacao": "24/09/2026",
+    "data_apresentacao": "27/10/2026",
     "emenda_impositiva": false,
-    "ementa": "Solicitando à Secretaria Municipal de Trânsito e Transportes a realização de travessia elevada / redutor de velocidade - instalação / manutenção na Rua Alfredo Júlio, 355, no bairro Osvaldo Rezende, CEP 38400-402.",
-    "id": "270481",
+    "ementa": "Solicitando à Secretaria Municipal de Infraestrutura a realização de vias públicas - nivelamento / recapeamento asfáltico na Rua Senhor dos Passos, Toda extensão, no bairro Tubalina, CEP 38412-075.",
+    "id": "273130",
     "item_kind": "materia",
     "tipo": "Indicação",
-    "title": "IND 38466/2026",
-    "ultima_votacao_kind": "votacao",
-    "ultima_votacao_resultado": "Aprovado"
+    "title": "IND 40943/2026",
+    "ultima_votacao_kind": "",
+    "ultima_votacao_resultado": ""
    },
    {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=270479",
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=273129",
     "ano": "2026",
-    "data_apresentacao": "24/09/2026",
+    "data_apresentacao": "27/10/2026",
     "emenda_impositiva": false,
-    "ementa": "Solicitando à Secretaria Municipal de Trânsito e Transportes a realização de travessia elevada / redutor de velocidade - instalação / manutenção na Rua Bueno Brandão, 1130, no bairro Osvaldo Rezende, CEP 38400-378.",
-    "id": "270479",
+    "ementa": "Solicitando ao DMAE a realização de tapa buraco após obra dmae na Rua Alfenas, com rua Bernardo Cupertino, no bairro Osvaldo Rezende, CEP 38400-422.",
+    "id": "273129",
     "item_kind": "materia",
     "tipo": "Indicação",
-    "title": "IND 38464/2026",
-    "ultima_votacao_kind": "votacao",
-    "ultima_votacao_resultado": "Aprovado"
+    "title": "IND 40942/2026",
+    "ultima_votacao_kind": "",
+    "ultima_votacao_resultado": ""
+   },
+   {
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=273128",
+    "ano": "2026",
+    "data_apresentacao": "27/10/2026",
+    "emenda_impositiva": false,
+    "ementa": "Solicitando à Secretaria Municipal de Infraestrutura a realização de tapa buraco na Rua Quintino Bocaiúva, 2296, no bairro Lagoinha, CEP 38408-533.",
+    "id": "273128",
+    "item_kind": "materia",
+    "tipo": "Indicação",
+    "title": "IND 40941/2026",
+    "ultima_votacao_kind": "",
+    "ultima_votacao_resultado": ""
+   },
+   {
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=273127",
+    "ano": "2026",
+    "data_apresentacao": "27/10/2026",
+    "emenda_impositiva": false,
+    "ementa": "Solicitando à Secretaria Municipal de Infraestrutura a realização de tapa buraco na Rua Alfenas, 343, no bairro Osvaldo Rezende, CEP 38400-422.",
+    "id": "273127",
+    "item_kind": "materia",
+    "tipo": "Indicação",
+    "title": "IND 40940/2026",
+    "ultima_votacao_kind": "",
+    "ultima_votacao_resultado": ""
+   },
+   {
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=273126",
+    "ano": "2026",
+    "data_apresentacao": "27/10/2026",
+    "emenda_impositiva": false,
+    "ementa": "Solicitando à Secretaria Municipal de Infraestrutura a realização de tapa buraco na Rua Bahia, 1292 e 2310, no bairro Marta Helena, CEP 38402-241.",
+    "id": "273126",
+    "item_kind": "materia",
+    "tipo": "Indicação",
+    "title": "IND 40939/2026",
+    "ultima_votacao_kind": "",
+    "ultima_votacao_resultado": ""
+   },
+   {
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=273125",
+    "ano": "2026",
+    "data_apresentacao": "27/10/2026",
+    "emenda_impositiva": false,
+    "ementa": "Solicitando à Secretaria Municipal de Infraestrutura a realização de tapa buraco na Rua João Ferreira Guerra, 41, no bairro Alto Umuarama, CEP 38405-366.",
+    "id": "273125",
+    "item_kind": "materia",
+    "tipo": "Indicação",
+    "title": "IND 40938/2026",
+    "ultima_votacao_kind": "",
+    "ultima_votacao_resultado": ""
    }
   ],
   "ordem_dat_apresentacao": "desc",
   "page": 1,
   "page_size": 10,
-  "total": 17068
+  "total": 17081
  },
  "relatorias": {
   "facets": {

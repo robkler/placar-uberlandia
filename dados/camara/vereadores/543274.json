@@ -896,7 +896,7 @@
   "facets": {
    "ano": [
     {
-     "count": 597,
+     "count": 614,
      "label": "2026",
      "value": "2026"
     },
@@ -938,12 +938,12 @@
      "value": "EMEI"
     },
     {
-     "count": 834,
+     "count": 848,
      "label": "Indicação",
      "value": "IND"
     },
     {
-     "count": 212,
+     "count": 214,
      "label": "Moção",
      "value": "MOC"
     },
@@ -953,7 +953,7 @@
      "value": "PINFO"
     },
     {
-     "count": 35,
+     "count": 36,
      "label": "Projeto de Decreto Legislativo",
      "value": "PDL"
     },
@@ -1196,17 +1196,17 @@
     },
     {
      "ano": "2026",
-     "count": 533,
+     "count": 547,
      "tipo": "IND"
     },
     {
      "ano": "2026",
-     "count": 29,
+     "count": 31,
      "tipo": "MOC"
     },
     {
      "ano": "2026",
-     "count": 9,
+     "count": 10,
      "tipo": "PDL"
     },
     {
@@ -1239,7 +1239,7 @@
   "facets_todos": {
    "ano": [
     {
-     "count": 597,
+     "count": 614,
      "label": "2026",
      "value": "2026"
     },
@@ -1281,12 +1281,12 @@
      "value": "EMEI"
     },
     {
-     "count": 834,
+     "count": 848,
      "label": "Indicação",
      "value": "IND"
     },
     {
-     "count": 212,
+     "count": 214,
      "label": "Moção",
      "value": "MOC"
     },
@@ -1296,7 +1296,7 @@
      "value": "PINFO"
     },
     {
-     "count": 35,
+     "count": 36,
      "label": "Projeto de Decreto Legislativo",
      "value": "PDL"
     },
@@ -1344,140 +1344,140 @@
   },
   "items": [
    {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272208",
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=273235",
     "ano": "2026",
-    "data_apresentacao": "16/10/2026",
+    "data_apresentacao": "27/10/2026",
     "emenda_impositiva": false,
-    "ementa": "Solicitando à Secretaria Municipal de Infraestrutura a realização de tapa buraco na Rua Tereza dos Santos, 95, no bairro Nossa Senhora Aparecida, CEP 38400-778.",
-    "id": "272208",
+    "ementa": "ao senhor EVANDRO DA SILVA NASCIMENTO, pela pagina UEC NOTÍCIAS",
+    "id": "273235",
     "item_kind": "materia",
-    "tipo": "Indicação",
-    "title": "IND 40033/2026",
+    "tipo": "Moção",
+    "title": "MOC 1029/2026",
     "ultima_votacao_kind": "",
     "ultima_votacao_resultado": ""
    },
    {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272192",
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=273233",
     "ano": "2026",
-    "data_apresentacao": "16/10/2026",
+    "data_apresentacao": "27/10/2026",
     "emenda_impositiva": false,
-    "ementa": "CONCEDE TÍTULO DE CIDADÃO HONORÁRIO AO SENHOR BERNARDO OLIVEIRA LAGE",
-    "id": "272192",
+    "ementa": "ao senhor RUBENS MIGUEL DA SILVA, pela pagina NAÇÃO MOGIANA",
+    "id": "273233",
+    "item_kind": "materia",
+    "tipo": "Moção",
+    "title": "MOC 1028/2026",
+    "ultima_votacao_kind": "",
+    "ultima_votacao_resultado": ""
+   },
+   {
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=273210",
+    "ano": "2026",
+    "data_apresentacao": "27/10/2026",
+    "emenda_impositiva": false,
+    "ementa": "CONCEDE TÍTULO DE CIDADÃO HONORÁRIO PARA WILLER FRANCISCO DA SILVA.",
+    "id": "273210",
     "item_kind": "materia",
     "tipo": "Projeto de Decreto Legislativo",
-    "title": "PDL 263/2026",
+    "title": "PDL 265/2026",
     "ultima_votacao_kind": "",
     "ultima_votacao_resultado": ""
    },
    {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272179",
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=273013",
     "ano": "2026",
-    "data_apresentacao": "16/10/2026",
+    "data_apresentacao": "27/10/2026",
     "emenda_impositiva": false,
-    "ementa": "CONCEDE TÍTULO DE CIDADÃO HONORÁRIO SENHOR ANDRÉ LUIZ SILVA DO NASCIMENTO",
-    "id": "272179",
+    "ementa": "Solicitando à Secretaria Municipal de Infraestrutura a realização de tapa buraco na Rua Cachoeira Dourada, 145, no bairro Granada, CEP 38410-540.",
+    "id": "273013",
     "item_kind": "materia",
-    "tipo": "Projeto de Decreto Legislativo",
-    "title": "PDL 262/2026",
+    "tipo": "Indicação",
+    "title": "IND 40828/2026",
     "ultima_votacao_kind": "",
     "ultima_votacao_resultado": ""
    },
    {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272126",
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=273012",
     "ano": "2026",
-    "data_apresentacao": "16/10/2026",
+    "data_apresentacao": "27/10/2026",
     "emenda_impositiva": false,
-    "ementa": "CONCEDE TÍTULO DE CIDADÃO HONORÁRIO AO SENHOR JOSÉ CAETANO DA SILVA JÚNIOR",
-    "id": "272126",
+    "ementa": "Solicitando ao FUTEL a realização de somente a parte esportiva e escolinhas na Rua Aurora Nogueira, 569, no bairro Laranjeiras, CEP 38410-224.",
+    "id": "273012",
     "item_kind": "materia",
-    "tipo": "Projeto de Decreto Legislativo",
-    "title": "PDL 261/2026",
+    "tipo": "Indicação",
+    "title": "IND 40827/2026",
     "ultima_votacao_kind": "",
     "ultima_votacao_resultado": ""
    },
    {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272002",
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=273010",
     "ano": "2026",
-    "data_apresentacao": "15/10/2026",
+    "data_apresentacao": "27/10/2026",
     "emenda_impositiva": false,
-    "ementa": "Liberação para uso do Plenário para entrega de Moções de Aplauso e Título de Cidadão Honorário no dia 29/10/2026.",
-    "id": "272002",
-    "item_kind": "materia",
-    "tipo": "Requerimento",
-    "title": "REQ 21363/2026",
-    "ultima_votacao_kind": "votacao",
-    "ultima_votacao_resultado": "Aprovado"
-   },
-   {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=271984",
-    "ano": "2026",
-    "data_apresentacao": "15/10/2026",
-    "emenda_impositiva": false,
-    "ementa": "Solicitando à Secretaria Municipal de Trânsito e Transportes a realização de sinalização - placa de identificação de rua na Avenida João Bernardes de Souza, Cruzamento Rua João Justino Fernandes, no bairro Presidente Roosevelt, CEP 38401-016.",
-    "id": "271984",
+    "ementa": "Solicitando à Secretaria Municipal de Infraestrutura a realização de tapa buraco na Rua Munhoz da Rocha, 192, no bairro Granada, CEP 38410-564.",
+    "id": "273010",
     "item_kind": "materia",
     "tipo": "Indicação",
-    "title": "IND 39840/2026",
-    "ultima_votacao_kind": "votacao",
-    "ultima_votacao_resultado": "Aprovado"
+    "title": "IND 40825/2026",
+    "ultima_votacao_kind": "",
+    "ultima_votacao_resultado": ""
    },
    {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=271939",
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=273009",
     "ano": "2026",
-    "data_apresentacao": "14/10/2026",
+    "data_apresentacao": "27/10/2026",
     "emenda_impositiva": false,
-    "ementa": "Solicita a liberação para uso do Plenário no dia 15 de outubro de 2026, a partir das 19:00, para entrega de homenagens à pessoas físicas e pessoas jurídicas do Dia do Professor, sendo todas elas pessoas da área da educação, com atuação de destaque em nosso município.",
-    "id": "271939",
-    "item_kind": "materia",
-    "tipo": "Requerimento",
-    "title": "REQ 21361/2026",
-    "ultima_votacao_kind": "votacao",
-    "ultima_votacao_resultado": "Aprovado"
-   },
-   {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=271732",
-    "ano": "2026",
-    "data_apresentacao": "13/10/2026",
-    "emenda_impositiva": false,
-    "ementa": "Solicitando à Secretaria Municipal de Trânsito e Transportes a realização de sinalização - implantação de vaga para carga e descarga na Rua Tereza dos Santos, 105- Inicio com a rua Itumbiara, próximo ao viaduto do Center Shopping, no bairro Nossa Senhora Aparecida, CEP 38400-778.",
-    "id": "271732",
+    "ementa": "Solicitando à Secretaria Municipal de Trânsito e Transportes a realização de sinalização / implantação / manutenção de sinalização estatigráfica na Rua Parceria, 20, no bairro Laranjeiras, CEP 38410-500.",
+    "id": "273009",
     "item_kind": "materia",
     "tipo": "Indicação",
-    "title": "IND 39628/2026",
-    "ultima_votacao_kind": "votacao",
-    "ultima_votacao_resultado": "Aprovado"
+    "title": "IND 40824/2026",
+    "ultima_votacao_kind": "",
+    "ultima_votacao_resultado": ""
    },
    {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=271723",
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=273008",
     "ano": "2026",
-    "data_apresentacao": "13/10/2026",
+    "data_apresentacao": "27/10/2026",
     "emenda_impositiva": false,
-    "ementa": "Solicitando à Secretaria Municipal de Gestão Ambiental e Sustentabilidade a realização de praça - parque infantil - instalação / manutenção na Rua das Cerejeiras, com a Avenida Brigadeiro Sampaio, no bairro Jaraguá, CEP 38413-096.",
-    "id": "271723",
+    "ementa": "Solicitando à Secretaria Municipal de Infraestrutura a realização de tapa buraco na Rua Chapada Diamantina, 45, no bairro São Jorge, CEP 38410-346.",
+    "id": "273008",
     "item_kind": "materia",
     "tipo": "Indicação",
-    "title": "IND 39619/2026",
-    "ultima_votacao_kind": "votacao",
-    "ultima_votacao_resultado": "Aprovado"
+    "title": "IND 40823/2026",
+    "ultima_votacao_kind": "",
+    "ultima_votacao_resultado": ""
    },
    {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=271720",
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=273005",
     "ano": "2026",
-    "data_apresentacao": "13/10/2026",
+    "data_apresentacao": "27/10/2026",
     "emenda_impositiva": false,
-    "ementa": "Solicitando à Secretaria Municipal de Gestão Ambiental e Sustentabilidade a realização de praça - limpeza / capina / roçagem na Rua das Cerejeiras, com a Avenida Brigadeiro Sampaio, no bairro Jaraguá, CEP 38413-096.",
-    "id": "271720",
+    "ementa": "Solicitando à Secretaria Municipal de Infraestrutura a realização de tapa buraco na Rua Serra Gradaus, 363, no bairro São Jorge, CEP 38410-390.",
+    "id": "273005",
     "item_kind": "materia",
     "tipo": "Indicação",
-    "title": "IND 39616/2026",
-    "ultima_votacao_kind": "votacao",
-    "ultima_votacao_resultado": "Aprovado"
+    "title": "IND 40820/2026",
+    "ultima_votacao_kind": "",
+    "ultima_votacao_resultado": ""
+   },
+   {
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=273002",
+    "ano": "2026",
+    "data_apresentacao": "27/10/2026",
+    "emenda_impositiva": false,
+    "ementa": "Solicitando à Secretaria Municipal de Infraestrutura a realização de tapa buraco na Rua Planalto Borborema, 895, no bairro São Jorge, CEP 38410-334.",
+    "id": "273002",
+    "item_kind": "materia",
+    "tipo": "Indicação",
+    "title": "IND 40817/2026",
+    "ultima_votacao_kind": "",
+    "ultima_votacao_resultado": ""
    }
   ],
   "ordem_dat_apresentacao": "desc",
   "page": 1,
   "page_size": 10,
-  "total": 4042
+  "total": 4059
  },
  "relatorias": {
   "facets": {

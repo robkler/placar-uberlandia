@@ -14,7 +14,7 @@
  ],
  "dataCargoRepresentacaoPartidaria": {
   "@class": "sql-timestamp",
-  "$": "2026-02-01"
+  "$": "2026-02-02"
  },
  "sexo": "M",
  "situacao": "Em exercício",

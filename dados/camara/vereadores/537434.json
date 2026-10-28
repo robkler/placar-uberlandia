@@ -943,7 +943,7 @@
   "facets": {
    "ano": [
     {
-     "count": 119,
+     "count": 123,
      "label": "2026",
      "value": "2026"
     },
@@ -985,7 +985,7 @@
      "value": "EMEI"
     },
     {
-     "count": 86,
+     "count": 89,
      "label": "Indicação",
      "value": "IND"
     },
@@ -995,7 +995,7 @@
      "value": "MOC"
     },
     {
-     "count": 5,
+     "count": 6,
      "label": "Pedido de Informação",
      "value": "PINFO"
     },
@@ -1253,7 +1253,7 @@
     },
     {
      "ano": "2026",
-     "count": 66,
+     "count": 69,
      "tipo": "IND"
     },
     {
@@ -1273,7 +1273,7 @@
     },
     {
      "ano": "2026",
-     "count": 1,
+     "count": 2,
      "tipo": "PINFO"
     },
     {
@@ -1311,7 +1311,7 @@
   "facets_todos": {
    "ano": [
     {
-     "count": 119,
+     "count": 123,
      "label": "2026",
      "value": "2026"
     },
@@ -1353,7 +1353,7 @@
      "value": "EMEI"
     },
     {
-     "count": 86,
+     "count": 89,
      "label": "Indicação",
      "value": "IND"
     },
@@ -1363,7 +1363,7 @@
      "value": "MOC"
     },
     {
-     "count": 5,
+     "count": 6,
      "label": "Pedido de Informação",
      "value": "PINFO"
     },
@@ -1415,6 +1415,58 @@
    "tipo_desc": ""
   },
   "items": [
+   {
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=273229",
+    "ano": "2026",
+    "data_apresentacao": "27/10/2026",
+    "emenda_impositiva": false,
+    "ementa": "Solicitação de informações ao DMAE, sobre interrupções e redução da pressão no fornecimento de água ao Lar Levi – Lar Evangélico Vida ao Idoso",
+    "id": "273229",
+    "item_kind": "materia",
+    "tipo": "Pedido de Informação",
+    "title": "PINFO 1266/2026",
+    "ultima_votacao_kind": "",
+    "ultima_votacao_resultado": ""
+   },
+   {
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272928",
+    "ano": "2026",
+    "data_apresentacao": "27/10/2026",
+    "emenda_impositiva": false,
+    "ementa": "Solicitando à Secretaria Municipal de Trânsito e Transportes a realização de sinalização - implantação de vaga para carga e descarga na Rua Nova Ponte, 804/814, no bairro Granada, CEP 38410-623.",
+    "id": "272928",
+    "item_kind": "materia",
+    "tipo": "Indicação",
+    "title": "IND 40743/2026",
+    "ultima_votacao_kind": "",
+    "ultima_votacao_resultado": ""
+   },
+   {
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272862",
+    "ano": "2026",
+    "data_apresentacao": "27/10/2026",
+    "emenda_impositiva": false,
+    "ementa": "Solicitando à Secretaria Municipal de Trânsito e Transportes a realização de implantar ou sinalizar quebra-molas - redutor de velocidade na Rua Sinai, 711, no bairro Jardim Canaã, CEP 38412-424.",
+    "id": "272862",
+    "item_kind": "materia",
+    "tipo": "Indicação",
+    "title": "IND 40677/2026",
+    "ultima_votacao_kind": "",
+    "ultima_votacao_resultado": ""
+   },
+   {
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272343",
+    "ano": "2026",
+    "data_apresentacao": "27/10/2026",
+    "emenda_impositiva": false,
+    "ementa": "Solicitando à Secretaria Municipal de Infraestrutura a realização de tapa buraco na Avenida Argemiro Evangelista Ferreira, 615, no bairro Shopping Park, CEP 38411-408.",
+    "id": "272343",
+    "item_kind": "materia",
+    "tipo": "Indicação",
+    "title": "IND 40158/2026",
+    "ultima_votacao_kind": "",
+    "ultima_votacao_resultado": ""
+   },
    {
     "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272196",
     "ano": "2026",
@@ -1492,64 +1544,12 @@
     "title": "PL 1391/2026",
     "ultima_votacao_kind": "",
     "ultima_votacao_resultado": ""
-   },
-   {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=269760",
-    "ano": "2026",
-    "data_apresentacao": "14/09/2026",
-    "emenda_impositiva": false,
-    "ementa": "ALTERA O ART. 4º DA LEI Nº 14.006, DE 2023, QUE “DISPÕE SOBRE O PROGRAMA MUNICIPAL DE INCENTIVO À CULTURA – PMIC, O FUNDO MUNICIPAL DE CULTURA – FMC E A COMISSÃO DE AVALIAÇÃO E SELEÇÃO – CAS”, PARA ESTABELECER DEFINIÇÕES DAS ÁREAS DE CULTURAS TRADICIONAIS E ARTES INTEGRADAS E VEDAR O FINANCIAMENTO DE PROJETOS DE CONTEÚDO PORNOGRÁFICO COM RECURSOS PÚBLICOS.",
-    "id": "269760",
-    "item_kind": "materia",
-    "tipo": "Projeto de Lei Ordinária",
-    "title": "PL 1364/2026",
-    "ultima_votacao_kind": "",
-    "ultima_votacao_resultado": ""
-   },
-   {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=269618",
-    "ano": "2026",
-    "data_apresentacao": "10/09/2026",
-    "emenda_impositiva": false,
-    "ementa": "Solicitando à Secretaria Municipal de Trânsito e Transportes a realização de travessia elevada / redutor de velocidade - instalação / manutenção na Avenida Victor Alves Pereira, Templo Religioso, no bairro Novo Mundo, CEP 38409-085.",
-    "id": "269618",
-    "item_kind": "materia",
-    "tipo": "Indicação",
-    "title": "IND 37718/2026",
-    "ultima_votacao_kind": "votacao",
-    "ultima_votacao_resultado": "Aprovado"
-   },
-   {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=269672",
-    "ano": "2026",
-    "data_apresentacao": "09/09/2026",
-    "emenda_impositiva": false,
-    "ementa": "ALTERA A LEI Nº 10.741, DE 06 DE ABRIL DE 2011, QUE \"INSTITUI O CÓDIGO MUNICIPAL DE POSTURAS DE UBERLÂNDIA E REVOGA A LEI Nº 4744, DE 05 DE JULHO DE 1988 E SUAS ALTERAÇÕES\"",
-    "id": "269672",
-    "item_kind": "materia",
-    "tipo": "Proposição de Lei",
-    "title": "PROP 523/2026",
-    "ultima_votacao_kind": "",
-    "ultima_votacao_resultado": ""
-   },
-   {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=268944",
-    "ano": "2026",
-    "data_apresentacao": "01/09/2026",
-    "emenda_impositiva": false,
-    "ementa": "Pedido de informação sobre faixa etária, conteúdo e distribuição da obra “Antologia Subsolo 2026” – PMIC À Secretaria Municipal de Cultura e Turismo de Uberlândia/MG Em relação as normas que regulamentam o Programa Municipal de Incentivo à Cultura – PMIC, solicito informações e documentos referentes à obra “Antologia Subsolo 2026 – 5ª edição anual”, organizada por Robisson Sete e Thiago Carvalho e publicada pela Editora Subsolo, considerando sua vinculação ao referido programa.",
-    "id": "268944",
-    "item_kind": "materia",
-    "tipo": "Pedido de Informação",
-    "title": "PINFO 1209/2026",
-    "ultima_votacao_kind": "votacao",
-    "ultima_votacao_resultado": "Aprovado"
    }
   ],
   "ordem_dat_apresentacao": "desc",
   "page": 1,
   "page_size": 10,
-  "total": 1350
+  "total": 1354
  },
  "relatorias": {
   "facets": {

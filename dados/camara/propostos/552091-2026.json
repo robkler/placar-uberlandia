@@ -3,7 +3,7 @@
  "codAutor": "552091",
  "ano": 2026,
  "total": 21,
- "coletadoEm": "2026-10-27T09:20",
+ "coletadoEm": "2026-10-28T09:15",
  "itens": [
   {
    "cod_materia": 271344,
@@ -303,6 +303,11 @@
    },
    "norma_derivada": null,
    "anexadoras": [
+    {
+     "identificacao": "Veto n° 14/2026",
+     "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=273114",
+     "is_veto": true
+    },
     {
      "identificacao": "Proposição de Lei n° 542/2026",
      "url": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=270465",

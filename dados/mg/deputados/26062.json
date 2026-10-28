@@ -136,7 +136,7 @@
    "numeroLegislatura": 19,
    "inicioLegislatura": {
     "@class": "sql-timestamp",
-    "$": "2019-02-01"
+    "$": "2023-02-23"
    },
    "terminoLegislatura": {
     "@class": "sql-timestamp",

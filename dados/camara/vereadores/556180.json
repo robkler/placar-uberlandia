@@ -653,7 +653,7 @@
   "facets": {
    "ano": [
     {
-     "count": 1686,
+     "count": 1781,
      "label": "2026",
      "value": "2026"
     },
@@ -675,7 +675,7 @@
      "value": "EMEI"
     },
     {
-     "count": 1843,
+     "count": 1938,
      "label": "Indicação",
      "value": "IND"
     },
@@ -778,7 +778,7 @@
     },
     {
      "ano": "2026",
-     "count": 1587,
+     "count": 1682,
      "tipo": "IND"
     },
     {
@@ -826,7 +826,7 @@
   "facets_todos": {
    "ano": [
     {
-     "count": 1686,
+     "count": 1781,
      "label": "2026",
      "value": "2026"
     },
@@ -848,7 +848,7 @@
      "value": "EMEI"
     },
     {
-     "count": 1843,
+     "count": 1938,
      "label": "Indicação",
      "value": "IND"
     },
@@ -901,140 +901,140 @@
   },
   "items": [
    {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=271837",
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272870",
     "ano": "2026",
-    "data_apresentacao": "14/10/2026",
+    "data_apresentacao": "27/10/2026",
     "emenda_impositiva": false,
-    "ementa": "Solicitando à Secretaria Municipal de Infraestrutura a realização de tapa buraco na Rua José Miguel Saramago, 461, no bairro Santa Mônica, CEP 38408-222.",
-    "id": "271837",
+    "ementa": "Solicitando à Secretaria Municipal de Infraestrutura a realização de tapa buraco na Rua Francisco José Custódio, esquina com a Avenida Segismundo Pereira, no bairro Segismundo Pereira, CEP 38408-282.",
+    "id": "272870",
     "item_kind": "materia",
     "tipo": "Indicação",
-    "title": "IND 39711/2026",
-    "ultima_votacao_kind": "votacao",
-    "ultima_votacao_resultado": "Aprovado"
+    "title": "IND 40685/2026",
+    "ultima_votacao_kind": "",
+    "ultima_votacao_resultado": ""
    },
    {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=271836",
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272869",
     "ano": "2026",
-    "data_apresentacao": "14/10/2026",
+    "data_apresentacao": "27/10/2026",
     "emenda_impositiva": false,
-    "ementa": "Solicitando à Secretaria Municipal de Gestão Ambiental e Sustentabilidade a realização de árvores e galhos - poda / corte / destocamento / recolhimento na Avenida Francisco Vieira da Motta, 195, no bairro Segismundo Pereira, CEP 38408-156.",
-    "id": "271836",
+    "ementa": "Solicitando à Secretaria Municipal de Infraestrutura a realização de tapa buraco na Rua Sebastiana Gonçalves, n° 131, no bairro Santa Luzia, CEP 38408-697.",
+    "id": "272869",
     "item_kind": "materia",
     "tipo": "Indicação",
-    "title": "IND 39710/2026",
-    "ultima_votacao_kind": "votacao",
-    "ultima_votacao_resultado": "Aprovado"
+    "title": "IND 40684/2026",
+    "ultima_votacao_kind": "",
+    "ultima_votacao_resultado": ""
    },
    {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=271835",
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272868",
     "ano": "2026",
-    "data_apresentacao": "14/10/2026",
+    "data_apresentacao": "27/10/2026",
     "emenda_impositiva": false,
-    "ementa": "Solicitando à Secretaria Municipal de Infraestrutura a realização de tapa buraco na Avenida Anselmo Alves dos Santos, 3288, no bairro Santa Mônica, CEP 38407-845.",
-    "id": "271835",
+    "ementa": "Solicitando à Secretaria Municipal de Infraestrutura a realização de tapa buraco na Rua Ramiro Alves Rabelo, n° 31, no bairro Santa Luzia, CEP 38408-738.",
+    "id": "272868",
     "item_kind": "materia",
     "tipo": "Indicação",
-    "title": "IND 39709/2026",
-    "ultima_votacao_kind": "votacao",
-    "ultima_votacao_resultado": "Aprovado"
+    "title": "IND 40683/2026",
+    "ultima_votacao_kind": "",
+    "ultima_votacao_resultado": ""
    },
    {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=271834",
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272867",
     "ano": "2026",
-    "data_apresentacao": "14/10/2026",
+    "data_apresentacao": "27/10/2026",
     "emenda_impositiva": false,
-    "ementa": "Solicitando à Secretaria Municipal de Infraestrutura a realização de tapa buraco na Avenida Anselmo Alves dos Santos, 1748, no bairro Grand Ville, CEP 38407-845.",
-    "id": "271834",
+    "ementa": "Solicitando à Secretaria Municipal de Infraestrutura a realização de tapa buraco na Rua Ramiro Alves Rabelo, n° 145, no bairro Santa Luzia, CEP 38408-738.",
+    "id": "272867",
     "item_kind": "materia",
     "tipo": "Indicação",
-    "title": "IND 39708/2026",
-    "ultima_votacao_kind": "votacao",
-    "ultima_votacao_resultado": "Aprovado"
+    "title": "IND 40682/2026",
+    "ultima_votacao_kind": "",
+    "ultima_votacao_resultado": ""
    },
    {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=271833",
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272866",
     "ano": "2026",
-    "data_apresentacao": "14/10/2026",
+    "data_apresentacao": "27/10/2026",
     "emenda_impositiva": false,
-    "ementa": "Solicitando à Secretaria Municipal de Infraestrutura a realização de tapa buraco na Avenida Belarmino Cotta Pacheco, 1219 esquina c/ R. Péricles Viêira da Mota, no bairro Santa Mônica, CEP 38408-168.",
-    "id": "271833",
+    "ementa": "Solicitando à Secretaria Municipal de Infraestrutura a realização de tapa buraco na Rua Jaime Tannus, n° 405, no bairro Santa Luzia, CEP 38408-700.",
+    "id": "272866",
     "item_kind": "materia",
     "tipo": "Indicação",
-    "title": "IND 39707/2026",
-    "ultima_votacao_kind": "votacao",
-    "ultima_votacao_resultado": "Aprovado"
+    "title": "IND 40681/2026",
+    "ultima_votacao_kind": "",
+    "ultima_votacao_resultado": ""
    },
    {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=271832",
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272865",
     "ano": "2026",
-    "data_apresentacao": "14/10/2026",
+    "data_apresentacao": "27/10/2026",
     "emenda_impositiva": false,
-    "ementa": "Solicitando à Secretaria Municipal de Gestão Ambiental e Sustentabilidade a realização de árvores e galhos - poda / corte / destocamento / recolhimento na Praça Américo Ferreira de Abreu, S/N, no bairro Santa Mônica, CEP 38408-166.",
-    "id": "271832",
+    "ementa": "Solicitando à Secretaria Municipal de Infraestrutura a realização de tapa buraco na Rua Barão de Ouro Preto, entre os números 735 e 756, no bairro Pampulha, CEP 38408-642.",
+    "id": "272865",
     "item_kind": "materia",
     "tipo": "Indicação",
-    "title": "IND 39706/2026",
-    "ultima_votacao_kind": "votacao",
-    "ultima_votacao_resultado": "Aprovado"
+    "title": "IND 40680/2026",
+    "ultima_votacao_kind": "",
+    "ultima_votacao_resultado": ""
    },
    {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=271831",
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272864",
     "ano": "2026",
-    "data_apresentacao": "14/10/2026",
+    "data_apresentacao": "27/10/2026",
     "emenda_impositiva": false,
-    "ementa": "Solicitando ao DMAE a realização de tapa buraco após obra dmae na Rua Ronan Manoel Pereira, 202, no bairro Segismundo Pereira, CEP 38408-274.",
-    "id": "271831",
+    "ementa": "Solicitando à Secretaria Municipal de Infraestrutura a realização de tapa buraco na Rua João Ramalho, entre os números 735 e 756, no bairro Pampulha, CEP 38408-668.",
+    "id": "272864",
     "item_kind": "materia",
     "tipo": "Indicação",
-    "title": "IND 39705/2026",
-    "ultima_votacao_kind": "votacao",
-    "ultima_votacao_resultado": "Aprovado"
+    "title": "IND 40679/2026",
+    "ultima_votacao_kind": "",
+    "ultima_votacao_resultado": ""
    },
    {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=271830",
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272863",
     "ano": "2026",
-    "data_apresentacao": "14/10/2026",
+    "data_apresentacao": "27/10/2026",
     "emenda_impositiva": false,
-    "ementa": "Solicitando à Secretaria Municipal de Infraestrutura a realização de tapa buraco na Avenida Cleone Cairo Gomes, 1065-1095, no bairro Segismundo Pereira, CEP 38408-342.",
-    "id": "271830",
+    "ementa": "Solicitando à Secretaria Municipal de Infraestrutura a realização de tapa buraco na Rua João Ramalho, n° 506, no bairro Pampulha, CEP 38408-668.",
+    "id": "272863",
     "item_kind": "materia",
     "tipo": "Indicação",
-    "title": "IND 39704/2026",
-    "ultima_votacao_kind": "votacao",
-    "ultima_votacao_resultado": "Aprovado"
+    "title": "IND 40678/2026",
+    "ultima_votacao_kind": "",
+    "ultima_votacao_resultado": ""
    },
    {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=271829",
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272861",
     "ano": "2026",
-    "data_apresentacao": "14/10/2026",
+    "data_apresentacao": "27/10/2026",
     "emenda_impositiva": false,
-    "ementa": "Solicitando à Secretaria Municipal de Infraestrutura a realização de tapa buraco na Avenida Anselmo Alves dos Santos, 3210, no bairro Santa Mônica, CEP 38407-845.",
-    "id": "271829",
+    "ementa": "Solicitando à Secretaria Municipal de Infraestrutura a realização de tapa buraco na Rua Joaquim Carlos Fonseca, 11, no bairro Segismundo Pereira, CEP 38408-310.",
+    "id": "272861",
     "item_kind": "materia",
     "tipo": "Indicação",
-    "title": "IND 39703/2026",
-    "ultima_votacao_kind": "votacao",
-    "ultima_votacao_resultado": "Aprovado"
+    "title": "IND 40676/2026",
+    "ultima_votacao_kind": "",
+    "ultima_votacao_resultado": ""
    },
    {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=271828",
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272860",
     "ano": "2026",
-    "data_apresentacao": "14/10/2026",
+    "data_apresentacao": "27/10/2026",
     "emenda_impositiva": false,
-    "ementa": "Solicitando à Secretaria Municipal de Infraestrutura a realização de tapa buraco na Avenida Anselmo Alves dos Santos, 3120, no bairro Santa Mônica, CEP 38407-845.",
-    "id": "271828",
+    "ementa": "Solicitando à Secretaria Municipal de Infraestrutura a realização de tapa buraco na Rua Paschoal Bruno, 446, no bairro Santa Luzia, CEP 38408-714.",
+    "id": "272860",
     "item_kind": "materia",
     "tipo": "Indicação",
-    "title": "IND 39702/2026",
-    "ultima_votacao_kind": "votacao",
-    "ultima_votacao_resultado": "Aprovado"
+    "title": "IND 40675/2026",
+    "ultima_votacao_kind": "",
+    "ultima_votacao_resultado": ""
    }
   ],
   "ordem_dat_apresentacao": "desc",
   "page": 1,
   "page_size": 10,
-  "total": 2242
+  "total": 2337
  },
  "relatorias": {
   "facets": {

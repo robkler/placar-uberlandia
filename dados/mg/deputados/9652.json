@@ -87,7 +87,7 @@
   {
    "dataInicio": {
     "@class": "sql-timestamp",
-    "$": "1998-10-03"
+    "$": "1998-12-31"
    },
    "dataTermino": {
     "@class": "sql-timestamp",
@@ -105,7 +105,7 @@
    },
    "dataTermino": {
     "@class": "sql-timestamp",
-    "$": "2026-04-02"
+    "$": "2026-03-31"
    },
    "partido": {
     "id": 71,
@@ -115,7 +115,7 @@
   {
    "dataInicio": {
     "@class": "sql-timestamp",
-    "$": "2026-04-03"
+    "$": "2026-01-31"
    },
    "dataTermino": {
     "@class": "sql-timestamp",
@@ -213,7 +213,7 @@
    },
    "terminoLegislatura": {
     "@class": "sql-timestamp",
-    "$": "2003-02-01"
+    "$": "2011-01-31"
    },
    "tipoMandato": "Efetivo",
    "situacoes": [
@@ -225,7 +225,7 @@
      "status": "Em exercício",
      "dataTermino": {
       "@class": "sql-timestamp",
-      "$": "2011-01-30"
+      "$": "2011-01-31"
      }
     }
    ]
@@ -245,7 +245,7 @@
     {
      "dataInicio": {
       "@class": "sql-timestamp",
-      "$": "2007-01-31"
+      "$": "2011-02-01"
      },
      "status": "Em exercício",
      "dataTermino": {
@@ -263,7 +263,7 @@
    },
    "terminoLegislatura": {
     "@class": "sql-timestamp",
-    "$": "2019-02-01"
+    "$": "2019-01-31"
    },
    "tipoMandato": "Efetivo",
    "situacoes": [
@@ -309,7 +309,7 @@
    "numeroLegislatura": 20,
    "inicioLegislatura": {
     "@class": "sql-timestamp",
-    "$": "2023-01-31"
+    "$": "2023-02-01"
    },
    "terminoLegislatura": {
     "@class": "sql-timestamp",

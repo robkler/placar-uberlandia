@@ -641,7 +641,7 @@
   "facets": {
    "ano": [
     {
-     "count": 522,
+     "count": 530,
      "label": "2026",
      "value": "2026"
     },
@@ -668,7 +668,7 @@
      "value": "EMEI"
     },
     {
-     "count": 567,
+     "count": 575,
      "label": "Indicação",
      "value": "IND"
     },
@@ -776,7 +776,7 @@
     },
     {
      "ano": "2026",
-     "count": 296,
+     "count": 304,
      "tipo": "IND"
     },
     {
@@ -819,7 +819,7 @@
   "facets_todos": {
    "ano": [
     {
-     "count": 522,
+     "count": 530,
      "label": "2026",
      "value": "2026"
     },
@@ -846,7 +846,7 @@
      "value": "EMEI"
     },
     {
-     "count": 567,
+     "count": 575,
      "label": "Indicação",
      "value": "IND"
     },
@@ -899,6 +899,110 @@
   },
   "items": [
    {
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=273251",
+    "ano": "2026",
+    "data_apresentacao": "27/10/2026",
+    "emenda_impositiva": false,
+    "ementa": "Solicitando à Secretaria Municipal de Serviços Urbanos a realização de capina / limpeza - lotes / canteiro central na Avenida do Óleo, Proximo a Rua Onix, no bairro Jardim Patrícia, CEP 38414-224.",
+    "id": "273251",
+    "item_kind": "materia",
+    "tipo": "Indicação",
+    "title": "IND 41032/2026",
+    "ultima_votacao_kind": "",
+    "ultima_votacao_resultado": ""
+   },
+   {
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=273169",
+    "ano": "2026",
+    "data_apresentacao": "27/10/2026",
+    "emenda_impositiva": false,
+    "ementa": "Solicitando à Secretaria Municipal de Gestão Ambiental e Sustentabilidade a realização de academia / equipamentos de ginástica ao ar livre - instalação / manutenção na Avenida Carnaval, Ao lado do CEAI número 415, no bairro Guarani, CEP 38415-396.",
+    "id": "273169",
+    "item_kind": "materia",
+    "tipo": "Indicação",
+    "title": "IND 40982/2026",
+    "ultima_votacao_kind": "",
+    "ultima_votacao_resultado": ""
+   },
+   {
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=273168",
+    "ano": "2026",
+    "data_apresentacao": "27/10/2026",
+    "emenda_impositiva": false,
+    "ementa": "Solicitando à Secretaria Municipal de Gestão Ambiental e Sustentabilidade a realização de praça - construção / revitalização / manutenção na Rua Orixás, Em frente ao número 301, no bairro Chácaras Tubalina e Quartel, CEP 38413-293.",
+    "id": "273168",
+    "item_kind": "materia",
+    "tipo": "Indicação",
+    "title": "IND 40981/2026",
+    "ultima_votacao_kind": "",
+    "ultima_votacao_resultado": ""
+   },
+   {
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272929",
+    "ano": "2026",
+    "data_apresentacao": "27/10/2026",
+    "emenda_impositiva": false,
+    "ementa": "Solicitando ao DMAE a realização de lixo - instalação / troca de caçamba na Rua Benjamin Constant, 2667, no bairro Nossa Senhora Aparecida, CEP 38400-678.",
+    "id": "272929",
+    "item_kind": "materia",
+    "tipo": "Indicação",
+    "title": "IND 40744/2026",
+    "ultima_votacao_kind": "",
+    "ultima_votacao_resultado": ""
+   },
+   {
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272912",
+    "ano": "2026",
+    "data_apresentacao": "27/10/2026",
+    "emenda_impositiva": false,
+    "ementa": "Solicitando à Secretaria Municipal de Serviços Urbanos a realização de construção de calçadas em áreas públicas ou particulares na Alameda Jardim Holanda, todo o canteiro sem passeio, no bairro Jardim Holanda, CEP 38412-330.",
+    "id": "272912",
+    "item_kind": "materia",
+    "tipo": "Indicação",
+    "title": "IND 40727/2026",
+    "ultima_votacao_kind": "",
+    "ultima_votacao_resultado": ""
+   },
+   {
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272594",
+    "ano": "2026",
+    "data_apresentacao": "27/10/2026",
+    "emenda_impositiva": false,
+    "ementa": "Solicitando ao DMAE a realização de tapa buraco após obra dmae na Rua do Alumínio, Nas proximidades do número 57., no bairro Dona Zulmira, CEP 38415-003.",
+    "id": "272594",
+    "item_kind": "materia",
+    "tipo": "Indicação",
+    "title": "IND 40409/2026",
+    "ultima_votacao_kind": "",
+    "ultima_votacao_resultado": ""
+   },
+   {
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272592",
+    "ano": "2026",
+    "data_apresentacao": "27/10/2026",
+    "emenda_impositiva": false,
+    "ementa": "Solicitando à Secretaria Municipal de Serviços Urbanos a realização de calçada / passeio - limpeza / capina / roçagem na Rua do Alumínio, Nas proximidades do número 48., no bairro Dona Zulmira, CEP 38415-003.",
+    "id": "272592",
+    "item_kind": "materia",
+    "tipo": "Indicação",
+    "title": "IND 40407/2026",
+    "ultima_votacao_kind": "",
+    "ultima_votacao_resultado": ""
+   },
+   {
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272395",
+    "ano": "2026",
+    "data_apresentacao": "27/10/2026",
+    "emenda_impositiva": false,
+    "ementa": "Solicitando à Secretaria Municipal de Trânsito e Transportes a realização de sinalização / implantação / manutenção de sinalização estatigráfica na Rua da Polca, 581, no bairro Guarani, CEP 38415-432.",
+    "id": "272395",
+    "item_kind": "materia",
+    "tipo": "Indicação",
+    "title": "IND 40210/2026",
+    "ultima_votacao_kind": "",
+    "ultima_votacao_resultado": ""
+   },
+   {
     "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272060",
     "ano": "2026",
     "data_apresentacao": "16/10/2026",
@@ -923,116 +1027,12 @@
     "title": "IND 39839/2026",
     "ultima_votacao_kind": "votacao",
     "ultima_votacao_resultado": "Aprovado"
-   },
-   {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=271982",
-    "ano": "2026",
-    "data_apresentacao": "15/10/2026",
-    "emenda_impositiva": false,
-    "ementa": "Solicitando à Secretaria Municipal de Infraestrutura a realização de tapa buraco na Avenida Juscelino Kubitscheck, Nas proximidades do número 991., no bairro Dona Zulmira, CEP 38415-057.",
-    "id": "271982",
-    "item_kind": "materia",
-    "tipo": "Indicação",
-    "title": "IND 39838/2026",
-    "ultima_votacao_kind": "votacao",
-    "ultima_votacao_resultado": "Aprovado"
-   },
-   {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=271980",
-    "ano": "2026",
-    "data_apresentacao": "15/10/2026",
-    "emenda_impositiva": false,
-    "ementa": "Solicitando à Secretaria Municipal de Infraestrutura a realização de tapa buraco na Avenida Cesário Crosara, em frente ao numero 1428, no bairro Presidente Roosevelt, CEP 38401-048.",
-    "id": "271980",
-    "item_kind": "materia",
-    "tipo": "Indicação",
-    "title": "IND 39836/2026",
-    "ultima_votacao_kind": "votacao",
-    "ultima_votacao_resultado": "Aprovado"
-   },
-   {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=271930",
-    "ano": "2026",
-    "data_apresentacao": "14/10/2026",
-    "emenda_impositiva": false,
-    "ementa": "Exmo. Sr. Presidente,\nDe acordo com o art. 233, da Resolução nº 031/02, REQUEREMOS a Vossa Excelência que seja encaminhado à SECRETARIA MUNICIPAL DE TRÂNSITO E TRANSPORTES – SETTRAN solicitação para Certidão de Disponibilidade, para fins de propositura de Projeto de Lei atribuindo nome à Rua P – Aparecida Divina da Mata de Oliveira, do Bairro Elisson Prieto (Assentamento Glória), tendo em vista a regularização fundiária daquela comunidade.",
-    "id": "271930",
-    "item_kind": "materia",
-    "tipo": "Requerimento",
-    "title": "REQ 21360/2026",
-    "ultima_votacao_kind": "votacao",
-    "ultima_votacao_resultado": "Aprovado"
-   },
-   {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=271589",
-    "ano": "2026",
-    "data_apresentacao": "09/10/2026",
-    "emenda_impositiva": false,
-    "ementa": "Solicitando à Secretaria Municipal de Serviços Urbanos a realização de calçada / passeio - limpeza / capina / roçagem na RUA LUNAR, Em frente ao número 30, no bairro Jardim Brasília, CEP 38401-836.",
-    "id": "271589",
-    "item_kind": "materia",
-    "tipo": "Indicação",
-    "title": "IND 39495/2026",
-    "ultima_votacao_kind": "votacao",
-    "ultima_votacao_resultado": "Aprovado"
-   },
-   {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=271516",
-    "ano": "2026",
-    "data_apresentacao": "08/10/2026",
-    "emenda_impositiva": false,
-    "ementa": "Solicitamos a reserva do Plenário da Câmara Municipal de Uberlândia para a realização de entrega de homenagens, no dia 20/10/2026 das 19h Às 21h.",
-    "id": "271516",
-    "item_kind": "materia",
-    "tipo": "Requerimento",
-    "title": "REQ 21353/2026",
-    "ultima_votacao_kind": "votacao",
-    "ultima_votacao_resultado": "Aprovado"
-   },
-   {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=271501",
-    "ano": "2026",
-    "data_apresentacao": "08/10/2026",
-    "emenda_impositiva": false,
-    "ementa": "Solicitando à Secretaria Municipal de Infraestrutura a realização de tapa buraco na Avenida Juscelino Kubitscheck, em frente ao numero 991, no bairro Dona Zulmira, CEP 38415-057.",
-    "id": "271501",
-    "item_kind": "materia",
-    "tipo": "Indicação",
-    "title": "IND 39415/2026",
-    "ultima_votacao_kind": "votacao",
-    "ultima_votacao_resultado": "Aprovado"
-   },
-   {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=271415",
-    "ano": "2026",
-    "data_apresentacao": "08/10/2026",
-    "emenda_impositiva": false,
-    "ementa": "Solicitando ao DMAE a realização de água e esgoto - construção / manutenção / reforma de rede na Rua Manganês, 136, no bairro Dona Zulmira, CEP 38415-048.",
-    "id": "271415",
-    "item_kind": "materia",
-    "tipo": "Indicação",
-    "title": "IND 39336/2026",
-    "ultima_votacao_kind": "votacao",
-    "ultima_votacao_resultado": "Aprovado"
-   },
-   {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=271407",
-    "ano": "2026",
-    "data_apresentacao": "08/10/2026",
-    "emenda_impositiva": false,
-    "ementa": "Solicitando ao DMAE a realização de tapa buraco após obra dmae na Rua Cobalto, No cruzamento com a rua Diabase., no bairro Dona Zulmira, CEP 38415-042.",
-    "id": "271407",
-    "item_kind": "materia",
-    "tipo": "Indicação",
-    "title": "IND 39328/2026",
-    "ultima_votacao_kind": "votacao",
-    "ultima_votacao_resultado": "Aprovado"
    }
   ],
   "ordem_dat_apresentacao": "desc",
   "page": 1,
   "page_size": 10,
-  "total": 1647
+  "total": 1655
  },
  "relatorias": {
   "facets": {

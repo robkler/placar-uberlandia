@@ -1236,7 +1236,7 @@
   "facets": {
    "ano": [
     {
-     "count": 223,
+     "count": 235,
      "label": "2026",
      "value": "2026"
     },
@@ -1298,7 +1298,7 @@
      "value": "EMEI"
     },
     {
-     "count": 264,
+     "count": 275,
      "label": "Indicação",
      "value": "IND"
     },
@@ -1308,7 +1308,7 @@
      "value": "MOC"
     },
     {
-     "count": 25,
+     "count": 26,
      "label": "Pedido de Informação",
      "value": "PINFO"
     },
@@ -1601,7 +1601,7 @@
     },
     {
      "ano": "2026",
-     "count": 177,
+     "count": 188,
      "tipo": "IND"
     },
     {
@@ -1616,7 +1616,7 @@
     },
     {
      "ano": "2026",
-     "count": 17,
+     "count": 18,
      "tipo": "PINFO"
     },
     {
@@ -1644,7 +1644,7 @@
   "facets_todos": {
    "ano": [
     {
-     "count": 223,
+     "count": 235,
      "label": "2026",
      "value": "2026"
     },
@@ -1706,7 +1706,7 @@
      "value": "EMEI"
     },
     {
-     "count": 264,
+     "count": 275,
      "label": "Indicação",
      "value": "IND"
     },
@@ -1716,7 +1716,7 @@
      "value": "MOC"
     },
     {
-     "count": 25,
+     "count": 26,
      "label": "Pedido de Informação",
      "value": "PINFO"
     },
@@ -1759,140 +1759,140 @@
   },
   "items": [
    {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=271977",
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=273230",
     "ano": "2026",
-    "data_apresentacao": "14/10/2026",
+    "data_apresentacao": "27/10/2026",
     "emenda_impositiva": false,
-    "ementa": "Solicito por meio deste respostas a essa Vereadora das informações acerca da demora no atendimento às gestantes no Pronto-Socorro do Hospital e Maternidade Municipal Doutor Odelmo Leão Carneiro.",
-    "id": "271977",
+    "ementa": "informações acerca das providências adotadas pelo Município de Uberlândia em razão da promulgação da Emenda Constitucional nº 140, de 16 de outubro de 2026 - regularização do vínculo funcional dos Agentes Comunitários de Saúde (ACS) e Agentes de Combate às Endemias (ACE) no Município de Uberlândia.",
+    "id": "273230",
     "item_kind": "materia",
     "tipo": "Pedido de Informação",
-    "title": "PINFO 1258/2026",
-    "ultima_votacao_kind": "votacao",
-    "ultima_votacao_resultado": "Aprovado"
-   },
-   {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=271650",
-    "ano": "2026",
-    "data_apresentacao": "09/10/2026",
-    "emenda_impositiva": false,
-    "ementa": "CONCEDE DIPLOMA DE HONRA AO MÉRITO AO SANTUÁRIO SÃO JUDAS TADEU",
-    "id": "271650",
-    "item_kind": "materia",
-    "tipo": "Projeto de Decreto Legislativo",
-    "title": "PDL 256/2026",
+    "title": "PINFO 1267/2026",
     "ultima_votacao_kind": "",
     "ultima_votacao_resultado": ""
    },
    {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=271516",
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272754",
     "ano": "2026",
-    "data_apresentacao": "08/10/2026",
+    "data_apresentacao": "27/10/2026",
     "emenda_impositiva": false,
-    "ementa": "Solicitamos a reserva do Plenário da Câmara Municipal de Uberlândia para a realização de entrega de homenagens, no dia 20/10/2026 das 19h Às 21h.",
-    "id": "271516",
-    "item_kind": "materia",
-    "tipo": "Requerimento",
-    "title": "REQ 21353/2026",
-    "ultima_votacao_kind": "votacao",
-    "ultima_votacao_resultado": "Aprovado"
-   },
-   {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=270544",
-    "ano": "2026",
-    "data_apresentacao": "25/09/2026",
-    "emenda_impositiva": false,
-    "ementa": "Solicitamos a reserva do Plenário da Câmara Municipal de Uberlândia para a realização de entrega de homenagens, nas seguintes datas e horários:\n\n20 de outubro de 2026 (terça-feira), das 19h às 21h;\n18 de novembro de 2026 (quarta-feira), das 19h às 21h.",
-    "id": "270544",
-    "item_kind": "materia",
-    "tipo": "Requerimento",
-    "title": "REQ 21336/2026",
-    "ultima_votacao_kind": "votacao",
-    "ultima_votacao_resultado": "Aprovado"
-   },
-   {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=270258",
-    "ano": "2026",
-    "data_apresentacao": "21/09/2026",
-    "emenda_impositiva": false,
-    "ementa": "SOLICITA INFORMAÇÕES AO PODER EXECUTIVO MUNICIPAL ACERCA DA VIGÊNCIA, RENOVAÇÃO E EXECUÇÃO DO CONTRATO FIRMADO COM A UNIMED, BEM COMO DOS REPASSES DOS VALORES DESCONTADOS DOS SERVIDORES MUNICIPAIS.",
-    "id": "270258",
-    "item_kind": "materia",
-    "tipo": "Pedido de Informação",
-    "title": "PINFO 1232/2026",
-    "ultima_votacao_kind": "votacao",
-    "ultima_votacao_resultado": "Aprovado"
-   },
-   {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=270191",
-    "ano": "2026",
-    "data_apresentacao": "18/09/2026",
-    "emenda_impositiva": false,
-    "ementa": "Solicitando ao DMAE a realização de tapa buraco após obra dmae na Avenida Coronel José Teófilo Carneiro, em frente ao número 140, no bairro São José, CEP 38401-344.",
-    "id": "270191",
+    "ementa": "Solicitando ao DMAE a realização de tapa buraco após obra dmae na Rua Moisés de Freitas, 186, no bairro Jardim Brasília, CEP 38401-332.",
+    "id": "272754",
     "item_kind": "materia",
     "tipo": "Indicação",
-    "title": "IND 38204/2026",
-    "ultima_votacao_kind": "votacao",
-    "ultima_votacao_resultado": "Aprovado"
+    "title": "IND 40569/2026",
+    "ultima_votacao_kind": "",
+    "ultima_votacao_resultado": ""
    },
    {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=270180",
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272751",
     "ano": "2026",
-    "data_apresentacao": "18/09/2026",
+    "data_apresentacao": "27/10/2026",
     "emenda_impositiva": false,
-    "ementa": "Pedido de Informação - Reajuste Salarial dos Profissionais da Saúde - SPDM e Missão Sal da Terra.",
-    "id": "270180",
-    "item_kind": "materia",
-    "tipo": "Pedido de Informação",
-    "title": "PINFO 1230/2026",
-    "ultima_votacao_kind": "votacao",
-    "ultima_votacao_resultado": "Aprovado"
-   },
-   {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=270130",
-    "ano": "2026",
-    "data_apresentacao": "17/09/2026",
-    "emenda_impositiva": false,
-    "ementa": "Solicitação de informações sobre a possibilidade e previsão de instalação de guichê de recepção na unidade de saúde denominada “Cantinho da Saúde”, localizada no Terminal Central de Uberlândia.",
-    "id": "270130",
-    "item_kind": "materia",
-    "tipo": "Pedido de Informação",
-    "title": "PINFO 1229/2026",
-    "ultima_votacao_kind": "votacao",
-    "ultima_votacao_resultado": "Aprovado"
-   },
-   {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=270129",
-    "ano": "2026",
-    "data_apresentacao": "17/09/2026",
-    "emenda_impositiva": false,
-    "ementa": "Solicitando à Secretaria Municipal de Trânsito e Transportes a realização de sinalização / implantação / manutenção de sinalização estatigráfica na Rua das Ipoméias, em toda sua extensão, no bairro Cidade Jardim, CEP 38412-180.",
-    "id": "270129",
+    "ementa": "Solicitando ao DMAE a realização de tapa buraco após obra dmae na Avenida Coronel José Teófilo Carneiro, 140, no bairro São José, CEP 38401-344.",
+    "id": "272751",
     "item_kind": "materia",
     "tipo": "Indicação",
-    "title": "IND 38152/2026",
-    "ultima_votacao_kind": "votacao",
-    "ultima_votacao_resultado": "Aprovado"
+    "title": "IND 40566/2026",
+    "ultima_votacao_kind": "",
+    "ultima_votacao_resultado": ""
    },
    {
-    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=270128",
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272677",
     "ano": "2026",
-    "data_apresentacao": "17/09/2026",
+    "data_apresentacao": "27/10/2026",
     "emenda_impositiva": false,
-    "ementa": "Solicitando à Secretaria Municipal de Trânsito e Transportes a realização de sinalização / implantação / manutenção de sinalização estatigráfica na Rua dos Alecrins, em toda sua extensão, no bairro Cidade Jardim, CEP 38412-192.",
-    "id": "270128",
+    "ementa": "Solicitando à Secretaria Municipal de Infraestrutura a realização de vias públicas - nivelamento / recapeamento asfáltico na Rua Antônia Saltão de Almeida, 250 e 277 em frente aos Condominíos e Prédios Franco Residence e Residencial Unic, no bairro Santa Mônica, CEP 38408-118.",
+    "id": "272677",
     "item_kind": "materia",
     "tipo": "Indicação",
-    "title": "IND 38151/2026",
-    "ultima_votacao_kind": "votacao",
-    "ultima_votacao_resultado": "Aprovado"
+    "title": "IND 40492/2026",
+    "ultima_votacao_kind": "",
+    "ultima_votacao_resultado": ""
+   },
+   {
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272618",
+    "ano": "2026",
+    "data_apresentacao": "27/10/2026",
+    "emenda_impositiva": false,
+    "ementa": "Solicitando à Secretaria Municipal de Trânsito e Transportes a realização de vias públicas - abertura / alargamento / acostamento na Avenida Segismundo Pereira, esquina com Rua Isaura Augusta Pereira, no bairro Santa Mônica, CEP 38408-170.",
+    "id": "272618",
+    "item_kind": "materia",
+    "tipo": "Indicação",
+    "title": "IND 40433/2026",
+    "ultima_votacao_kind": "",
+    "ultima_votacao_resultado": ""
+   },
+   {
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272617",
+    "ano": "2026",
+    "data_apresentacao": "27/10/2026",
+    "emenda_impositiva": false,
+    "ementa": "Solicitando à Secretaria Municipal de Saúde a realização de ubs / psf / uai / upa - implantação / manutenção / reforma na Rua Matheus Vaz, 465- Uai Luizote, no bairro Luizote de Freitas, CEP 38414-308.",
+    "id": "272617",
+    "item_kind": "materia",
+    "tipo": "Indicação",
+    "title": "IND 40432/2026",
+    "ultima_votacao_kind": "",
+    "ultima_votacao_resultado": ""
+   },
+   {
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272616",
+    "ano": "2026",
+    "data_apresentacao": "27/10/2026",
+    "emenda_impositiva": false,
+    "ementa": "Solicitando à Secretaria Municipal de Infraestrutura a realização de vias públicas - nivelamento / recapeamento asfáltico na Avenida João Naves de Ávila, 4920- Uai Planalto, no bairro Pampulha, CEP 38408-663.",
+    "id": "272616",
+    "item_kind": "materia",
+    "tipo": "Indicação",
+    "title": "IND 40431/2026",
+    "ultima_votacao_kind": "",
+    "ultima_votacao_resultado": ""
+   },
+   {
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272296",
+    "ano": "2026",
+    "data_apresentacao": "27/10/2026",
+    "emenda_impositiva": false,
+    "ementa": "Solicitando à Secretaria Municipal de Trânsito e Transportes a realização de construção ou reforma de rampas de acessibilidade na Rua do Engenheiro, 246 UAI PLANALTO, no bairro Planalto, CEP 38413-165.",
+    "id": "272296",
+    "item_kind": "materia",
+    "tipo": "Indicação",
+    "title": "IND 40111/2026",
+    "ultima_votacao_kind": "",
+    "ultima_votacao_resultado": ""
+   },
+   {
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272295",
+    "ano": "2026",
+    "data_apresentacao": "27/10/2026",
+    "emenda_impositiva": false,
+    "ementa": "Solicitando à Secretaria Municipal de Trânsito e Transportes a realização de sinalização / implantação / manutenção de sinalização estatigráfica na Rua do Engenheiro, 246 UBS Planalto, no bairro Planalto, CEP 38413-165.",
+    "id": "272295",
+    "item_kind": "materia",
+    "tipo": "Indicação",
+    "title": "IND 40110/2026",
+    "ultima_votacao_kind": "",
+    "ultima_votacao_resultado": ""
+   },
+   {
+    "@id": "https://e-processos.camarauberlandia.mg.gov.br/consultas/materia/materia_mostrar_proc?cod_materia=272294",
+    "ano": "2026",
+    "data_apresentacao": "27/10/2026",
+    "emenda_impositiva": false,
+    "ementa": "Solicitando à Secretaria Municipal de Serviços Urbanos a realização de varrição de vias públicas e praças na Avenida Alexi Abrahão, esquina com Rua Argemiro Costa, no bairro Nova Uberlândia, CEP 38412-622.",
+    "id": "272294",
+    "item_kind": "materia",
+    "tipo": "Indicação",
+    "title": "IND 40109/2026",
+    "ultima_votacao_kind": "",
+    "ultima_votacao_resultado": ""
    }
   ],
   "ordem_dat_apresentacao": "desc",
   "page": 1,
   "page_size": 10,
-  "total": 3401
+  "total": 3413
  },
  "relatorias": {
   "facets": {
